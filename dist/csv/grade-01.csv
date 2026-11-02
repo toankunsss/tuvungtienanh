@@ -1,0 +1,84 @@
+﻿grade,unit,unit_title,status,word,pos,ipa,meaning,example
+1,1,In the school playground,sourced,ball,n,/bɔːl/,quả bóng,This is a ball.
+1,1,In the school playground,sourced,bike,n,/baɪk/,xe đạp,This is a bike.
+1,1,In the school playground,sourced,book,n,/bʊk/,quyển sách,This is a book.
+1,1,In the school playground,sourced,school playground,n,/ˌskuːl ˈpleɪɡraʊnd/,sân chơi trường học,We are in the school playground.
+1,2,In the dining room,sourced,cake,n,/keɪk/,bánh ngọt,I have a cake.
+1,2,In the dining room,sourced,car,n,/kɑː(r)/,ô tô,I have a car.
+1,2,In the dining room,sourced,cat,n,/kæt/,con mèo,I have a cat.
+1,2,In the dining room,sourced,cup,n,/kʌp/,"cái cốc, cái tách",I have a cup.
+1,2,In the dining room,sourced,dining room,n,/ˈdaɪnɪŋ ruːm/,phòng ăn,This is the dining room.
+1,2,In the dining room,sourced,have,v,/hæv/,có,I have a cat.
+1,3,At the street market,sourced,apple,n,/ˈæpl/,quả táo,I have an apple.
+1,3,At the street market,sourced,bag,n,/bæɡ/,"cái túi, cái cặp",I have a bag.
+1,3,At the street market,sourced,can,n,/kæn/,cái lon,I have a can.
+1,3,At the street market,sourced,hat,n,/hæt/,cái mũ,I have a hat.
+1,3,At the street market,sourced,street market,n,/ˌstriːt ˈmɑːkɪt/,chợ đường phố,We are at the street market.
+1,4,In the bedroom,sourced,bedroom,n,/ˈbedruːm/,phòng ngủ,This is my bedroom.
+1,4,In the bedroom,sourced,desk,n,/desk/,cái bàn học,This is a desk.
+1,4,In the bedroom,sourced,dog,n,/dɒɡ/,con chó,The dog is near the door.
+1,4,In the bedroom,sourced,door,n,/dɔː(r)/,cửa ra vào,This is a door.
+1,4,In the bedroom,sourced,duck,n,/dʌk/,con vịt,This is a duck.
+1,4,In the bedroom,sourced,near,prep,/nɪə(r)/,"gần, ở gần",The duck is near the desk.
+1,5,At the fish and chip shop,sourced,chicken,n,/ˈtʃɪkɪn/,thịt gà,I like chicken.
+1,5,At the fish and chip shop,sourced,chips,n,/tʃɪps/,khoai tây chiên,I like chips.
+1,5,At the fish and chip shop,sourced,fish,n,/fɪʃ/,cá,I like fish.
+1,5,At the fish and chip shop,sourced,milk,n,/mɪlk/,sữa,I like milk.
+1,5,At the fish and chip shop,sourced,fish and chips,n,/ˌfɪʃ ən ˈtʃɪps/,cá và khoai tây chiên,I like fish and chips.
+1,5,At the fish and chip shop,sourced,shop,n,/ʃɒp/,cửa hàng,This is a fish and chip shop.
+1,5,At the fish and chip shop,sourced,like,v,/laɪk/,thích,I like milk.
+1,6,In the classroom,sourced,bell,n,/bel/,cái chuông,This is a red bell.
+1,6,In the classroom,sourced,pen,n,/pen/,bút mực,This is a pen.
+1,6,In the classroom,sourced,pencil,n,/ˈpensl/,bút chì,This is a pencil.
+1,6,In the classroom,sourced,red,adj,/red/,màu đỏ,The pen is red.
+1,6,In the classroom,sourced,board,n,/bɔːd/,cái bảng,Look at the board.
+1,6,In the classroom,sourced,classroom,n,/ˈklɑːsruːm/,lớp học,This is my classroom.
+1,6,In the classroom,sourced,drawing,n,/ˈdrɔːɪŋ/,"bức vẽ, tranh vẽ",This is my drawing.
+1,7,In the garden,sourced,garden,n,/ˈɡɑːdn/,khu vườn,There's a garden.
+1,7,In the garden,sourced,gate,n,/ɡeɪt/,cái cổng,There's a gate.
+1,7,In the garden,sourced,girl,n,/ɡɜːl/,"cô bé, bé gái",There's a girl.
+1,7,In the garden,sourced,goat,n,/ɡəʊt/,con dê,There's a goat.
+1,7,In the garden,sourced,there is,phr,/ðeər ɪz/,có (một cái gì đó ở đâu),There's a gate.
+1,8,In the park,sourced,hair,n,/heə(r)/,tóc,This is my hair.
+1,8,In the park,sourced,hand,n,/hænd/,bàn tay,This is my hand.
+1,8,In the park,sourced,head,n,/hed/,cái đầu,This is my head.
+1,8,In the park,sourced,horse,n,/hɔːs/,con ngựa,This is a horse.
+1,9,In the shop,sourced,clock,n,/klɒk/,đồng hồ (treo tường),This is a clock.
+1,9,In the shop,sourced,lock,n,/lɒk/,ổ khóa,This is a lock.
+1,9,In the shop,sourced,mop,n,/mɒp/,cây lau nhà,This is a mop.
+1,9,In the shop,sourced,pot,n,/pɒt/,cái nồi,This is my pot.
+1,9,In the shop,sourced,shop,n,/ʃɒp/,cửa hàng,We are in the shop.
+1,10,At the zoo,sourced,mango,n,/ˈmæŋɡəʊ/,quả xoài,This is a mango.
+1,10,At the zoo,sourced,monkey,n,/ˈmʌŋki/,con khỉ,I can see a monkey.
+1,10,At the zoo,sourced,mouse,n,/maʊs/,con chuột,I can see a mouse.
+1,10,At the zoo,sourced,zoo,n,/zuː/,vườn thú,We are at the zoo.
+1,11,At the bus stop,sourced,bus,n,/bʌs/,xe buýt,This is a bus.
+1,11,At the bus stop,sourced,run,v,/rʌn/,chạy,The boy is running.
+1,11,At the bus stop,sourced,sun,n,/sʌn/,mặt trời,This is the sun.
+1,11,At the bus stop,sourced,truck,n,/trʌk/,xe tải,This is a truck.
+1,11,At the bus stop,sourced,bus stop,n,/ˈbʌs stɒp/,trạm dừng xe buýt,We are at the bus stop.
+1,11,At the bus stop,sourced,boy,n,/bɔɪ/,"cậu bé, bé trai",The boy is running.
+1,11,At the bus stop,sourced,move,v,/muːv/,"chuyển động, di chuyển",The bus is moving.
+1,12,At the lake,sourced,lake,n,/leɪk/,cái hồ,This is a lake.
+1,12,At the lake,sourced,leaf,n,/liːf/,chiếc lá,The leaf is falling.
+1,12,At the lake,sourced,lemon,n,/ˈlemən/,quả chanh vàng,This is a lemon.
+1,12,At the lake,sourced,fall,v,/fɔːl/,rơi,The leaves are falling.
+1,13,In the school canteen,sourced,canteen,n,/kænˈtiːn/,"căng tin, nhà ăn",We are in the school canteen.
+1,13,In the school canteen,sourced,banana,n,/bəˈnɑːnə/,quả chuối,I like bananas.
+1,13,In the school canteen,sourced,noodles,n,/ˈnuːdlz/,"mì, bún, phở (sợi)",I like noodles.
+1,13,In the school canteen,sourced,nut,n,/nʌt/,"hạt (lạc, điều...)",I like nuts.
+1,14,In the toy shop,sourced,teddy bear,n,/ˈtedi beə(r)/,gấu bông,I have a teddy bear.
+1,14,In the toy shop,sourced,tiger,n,/ˈtaɪɡə(r)/,con hổ (đồ chơi),I can see a tiger.
+1,14,In the toy shop,sourced,top,n,/tɒp/,con quay,The top is spinning.
+1,14,In the toy shop,sourced,toy shop,n,/ˈtɔɪ ʃɒp/,cửa hàng đồ chơi,We are in the toy shop.
+1,15,At the football match,sourced,face,n,/feɪs/,khuôn mặt,Point to your face.
+1,15,At the football match,sourced,father,n,/ˈfɑːðə(r)/,"bố, cha",This is my father.
+1,15,At the football match,sourced,foot,n,/fʊt/,bàn chân,Point to your foot.
+1,15,At the football match,sourced,football,n,/ˈfʊtbɔːl/,bóng đá; quả bóng đá,I like football.
+1,15,At the football match,sourced,match,n,/mætʃ/,trận đấu,We watch a football match.
+1,15,At the football match,sourced,point,v,/pɔɪnt/,chỉ (vào),Point to your face.
+1,15,At the football match,sourced,watch,v,/wɒtʃ/,xem,We watch football.
+1,16,At home,sourced,home,n,/həʊm/,nhà,We are at home.
+1,16,At home,sourced,wash,v,/wɒʃ/,"rửa, giặt",Wendy is washing.
+1,16,At home,sourced,water,n,/ˈwɔːtə(r)/,nước,This is water.
+1,16,At home,sourced,window,n,/ˈwɪndəʊ/,cửa sổ,This is a window.

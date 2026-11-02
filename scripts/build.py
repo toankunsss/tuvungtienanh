@@ -14,7 +14,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DIST = ROOT / "dist"
-FIELDS = ["grade", "unit", "unit_title", "word", "pos", "ipa", "meaning", "example"]
+FIELDS = ["grade", "unit", "unit_title", "status", "word", "pos", "ipa", "meaning", "example"]
 
 
 def main() -> None:
@@ -30,10 +30,12 @@ def main() -> None:
             for w in u["words"]:
                 rows.append({
                     "grade": g["grade"], "unit": u["unit"], "unit_title": u["title"],
+                    "status": u["status"],
                     "word": w["word"], "pos": w["pos"], "ipa": w["ipa"],
                     "meaning": w["meaning"], "example": w.get("example", ""),
                 })
-            gstat["units"].append({"unit": u["unit"], "title": u["title"], "words": len(u["words"])})
+            gstat["units"].append({"unit": u["unit"], "title": u["title"],
+                                   "status": u["status"], "words": len(u["words"])})
             gstat["words"] += len(u["words"])
         stats["grades"].append(gstat)
         stats["total_words"] += gstat["words"]

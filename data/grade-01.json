@@ -8,6 +8,7 @@
       "unit": 1,
       "title": "In the school playground",
       "title_vi": "Ở sân chơi trường học",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://hoatieu.vn/giao-an-tieng-anh-1-global-success-245043",
@@ -48,6 +49,7 @@
       "unit": 2,
       "title": "In the dining room",
       "title_vi": "Trong phòng ăn",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-2-phonetics-and-vocabulary.jsp"
@@ -101,6 +103,7 @@
       "unit": 3,
       "title": "At the street market",
       "title_vi": "Ở chợ đường phố",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-3-phonetics-and-vocabulary.jsp"
@@ -147,6 +150,7 @@
       "unit": 4,
       "title": "In the bedroom",
       "title_vi": "Trong phòng ngủ",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-4-lesson-1-lop-1-kntt.jsp",
@@ -201,6 +205,7 @@
       "unit": 5,
       "title": "At the fish and chip shop",
       "title_vi": "Ở cửa hàng cá và khoai tây chiên",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-5-lesson-1-lop-1-kntt.jsp"
@@ -261,6 +266,7 @@
       "unit": 6,
       "title": "In the classroom",
       "title_vi": "Trong lớp học",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-6-phonetics-and-vocabulary.jsp",
@@ -322,6 +328,7 @@
       "unit": 7,
       "title": "In the garden",
       "title_vi": "Trong vườn",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-7-lesson-1-lop-1-kntt.jsp",
@@ -370,6 +377,7 @@
       "unit": 8,
       "title": "In the park",
       "title_vi": "Trong công viên",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-1/unit-8-lesson-1-lop-1-kntt.jsp"
       ],
@@ -408,6 +416,7 @@
       "unit": 9,
       "title": "In the shop",
       "title_vi": "Trong cửa hàng",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-in-the-shop.jsp",
         "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-phonetics-and-vocabulary.jsp",
@@ -455,6 +464,7 @@
       "unit": 10,
       "title": "At the zoo",
       "title_vi": "Ở vườn thú",
+      "status": "sourced",
       "sources": [
         "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-10-at-the-zoo-vocabulary-sentence-patterns-global-success-co-dap-an-99855",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-10-lesson-1-lop-1-kntt.jsp",
@@ -495,6 +505,7 @@
       "unit": 11,
       "title": "At the bus stop",
       "title_vi": "Ở trạm xe buýt",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-11-lesson-1-lop-1-kntt.jsp",
@@ -556,6 +567,7 @@
       "unit": 12,
       "title": "At the lake",
       "title_vi": "Ở bờ hồ",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-12-at-the-lake.jsp",
@@ -596,6 +608,7 @@
       "unit": 13,
       "title": "In the school canteen",
       "title_vi": "Ở căng tin trường học",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/giao-an-tieng-anh-1/unit-13-lesson-1-lop-1-kntt.jsp"
@@ -635,6 +648,7 @@
       "unit": 14,
       "title": "In the toy shop",
       "title_vi": "Ở cửa hàng đồ chơi",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-14-in-the-toy-shop.jsp",
@@ -675,6 +689,7 @@
       "unit": 15,
       "title": "At the football match",
       "title_vi": "Ở trận bóng đá",
+      "status": "sourced",
       "sources": [
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
         "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-15-at-the-football-match-vocabulary-sentence-patterns-global-success-co-dap-an-99906",
@@ -736,6 +751,7 @@
       "unit": 16,
       "title": "At home",
       "title_vi": "Ở nhà",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-1/unit-16-lesson-1-lop-1-kntt.jsp",
         "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html"

@@ -8,6 +8,7 @@
       "unit": 1,
       "title": "Hello",
       "title_vi": "Xin chào",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-1-hello.jsp",
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-1-hello.jsp",
@@ -76,6 +77,7 @@
       "unit": 2,
       "title": "Our names",
       "title_vi": "Tên của chúng mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-2-our-names.jsp",
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-2-our-names.jsp",
@@ -201,6 +203,7 @@
       "unit": 3,
       "title": "Our friends",
       "title_vi": "Bạn bè của chúng mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-3-our-friends.jsp",
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-3-our-friends.jsp",
@@ -262,6 +265,7 @@
       "unit": 4,
       "title": "Our bodies",
       "title_vi": "Cơ thể của chúng mình",
+      "status": "sourced",
       "sources": [
         "https://storage-vnportal.vnpt.vn/qnm-ubnd/6407/TAILIEUCUALAI/E3 Unit 4 lesson 1.pdf",
         "https://vietjack.com/tieng-anh-3-kn/unit-4-lesson-1-lop-3.jsp",
@@ -344,6 +348,7 @@
       "unit": 5,
       "title": "My hobbies",
       "title_vi": "Sở thích của mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-5-my-hobbies.jsp",
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-5-our-bobbies.jsp",
@@ -434,6 +439,7 @@
       "unit": 6,
       "title": "Our school",
       "title_vi": "Trường của chúng mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-6-our-school.jsp",
         "https://loigiaihay.com/tieng-anh-lop-3-unit-6-lesson-1-trang-44-global-success-a108080.html",
@@ -503,6 +509,7 @@
       "unit": 7,
       "title": "Classroom instructions",
       "title_vi": "Hiệu lệnh trong lớp học",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-7-lesson-1-lop-3.jsp",
         "https://loigiaihay.com/tieng-anh-lop-3-unit-7-lesson-2-trang-52-global-success-a108084.html",
@@ -600,6 +607,7 @@
       "unit": 8,
       "title": "My school things",
       "title_vi": "Đồ dùng học tập của mình",
+      "status": "sourced",
       "sources": [
         "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-8-my-school-things-global-success-co-dap-an-a130588.html",
         "https://vietjack.com/tieng-anh-3-kn/unit-8-my-school-things.jsp",
@@ -668,6 +676,7 @@
       "unit": 9,
       "title": "Colours",
       "title_vi": "Màu sắc",
+      "status": "sourced",
       "sources": [
         "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-9-ngu-phap-global-success-co-dap-an-a130591.html",
         "https://vietjack.com/tieng-anh-3-kn/unit-9-colours.jsp",
@@ -758,6 +767,7 @@
       "unit": 10,
       "title": "Break time activities",
       "title_vi": "Hoạt động giờ ra chơi",
+      "status": "sourced",
       "sources": [
         "https://loigiaihay.com/tieng-anh-lop-3-unit-10-lesson-1-trang-68-global-success-a108095.html",
         "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-10-ngu-phap-global-success-co-dap-an-a130593.html",
@@ -839,6 +849,7 @@
       "unit": 11,
       "title": "My family",
       "title_vi": "Gia đình của mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-11-lop-3.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-11-my-family.jsp",
@@ -942,6 +953,7 @@
       "unit": 12,
       "title": "Jobs",
       "title_vi": "Nghề nghiệp",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-12-jobs.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-12-jobs.jsp"
@@ -995,6 +1007,7 @@
       "unit": 13,
       "title": "My house",
       "title_vi": "Ngôi nhà của mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-1-lop-3.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-2-lop-3.jsp",
@@ -1085,6 +1098,7 @@
       "unit": 14,
       "title": "My bedroom",
       "title_vi": "Phòng ngủ của mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-1-lop-3.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-2-lop-3.jsp",
@@ -1188,6 +1202,7 @@
       "unit": 15,
       "title": "At the dining table",
       "title_vi": "Bên bàn ăn",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-1-lop-3.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-2-lop-3.jsp",
@@ -1304,6 +1319,7 @@
       "unit": 16,
       "title": "My pets",
       "title_vi": "Thú cưng của mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-16-my-pets.jsp",
         "https://vietjack.com/sbt-tieng-anh-3-kn/unit-16-my-pets.jsp",
@@ -1393,6 +1409,7 @@
       "unit": 17,
       "title": "Our toys",
       "title_vi": "Đồ chơi của chúng mình",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-17-our-toys.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-17-lesson-1-lop-3.jsp",
@@ -1482,6 +1499,7 @@
       "unit": 18,
       "title": "Playing and doing",
       "title_vi": "Chơi và làm",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-18-playing-and-doing.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-18-lesson-2-lop-3.jsp",
@@ -1564,6 +1582,7 @@
       "unit": 19,
       "title": "Outdoor activities",
       "title_vi": "Hoạt động ngoài trời",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-19-lop-3.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-19-lesson-2-lop-3.jsp",
@@ -1652,6 +1671,7 @@
       "unit": 20,
       "title": "At the zoo",
       "title_vi": "Ở vườn thú",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-3-kn/unit-20-at-the-zoo.jsp",
         "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-1-lop-3.jsp",

@@ -1,0 +1,1515 @@
+{
+  "grade": 5,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 5 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "All about me!",
+      "title_vi": "Tất cả về tôi",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-1-lop-5.jsp",
+        "https://hoatieu.vn/tu-vung-va-ngu-phap-tieng-anh-5-global-success-229807",
+        "https://thpt-hoangvanthu.ninhbinh.edu.vn/wp-content/uploads/2026/04/b61124bb-d441-4ab5-9363-b8fbfd7b29f6.pdf",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-3-unit-1-lop-5.jsp"
+      ],
+      "words": [
+        {
+          "word": "yourself",
+          "pos": "pron",
+          "ipa": "/jɔːˈself/",
+          "meaning": "bản thân bạn",
+          "example": "Can you tell me about yourself?"
+        },
+        {
+          "word": "city",
+          "pos": "n",
+          "ipa": "/ˈsɪti/",
+          "meaning": "thành phố",
+          "example": "I live in the city."
+        },
+        {
+          "word": "countryside",
+          "pos": "n",
+          "ipa": "/ˈkʌntrisaɪd/",
+          "meaning": "vùng nông thôn",
+          "example": "My grandparents live in the countryside."
+        },
+        {
+          "word": "class",
+          "pos": "n",
+          "ipa": "/klɑːs/",
+          "meaning": "lớp học",
+          "example": "I'm in class 5A."
+        },
+        {
+          "word": "favourite",
+          "pos": "adj",
+          "ipa": "/ˈfeɪvərɪt/",
+          "meaning": "yêu thích",
+          "example": "What's your favourite colour?"
+        },
+        {
+          "word": "pink",
+          "pos": "adj",
+          "ipa": "/pɪŋk/",
+          "meaning": "màu hồng"
+        },
+        {
+          "word": "green",
+          "pos": "adj",
+          "ipa": "/ɡriːn/",
+          "meaning": "màu xanh lá cây"
+        },
+        {
+          "word": "purple",
+          "pos": "adj",
+          "ipa": "/ˈpɜːpl/",
+          "meaning": "màu tím"
+        },
+        {
+          "word": "pasta",
+          "pos": "n",
+          "ipa": "/ˈpæstə/",
+          "meaning": "mì Ý"
+        },
+        {
+          "word": "noodles",
+          "pos": "n",
+          "ipa": "/ˈnuːdlz/",
+          "meaning": "mì, bún, phở (sợi)"
+        },
+        {
+          "word": "sandwich",
+          "pos": "n",
+          "ipa": "/ˈsænwɪtʃ/",
+          "meaning": "bánh mì kẹp"
+        },
+        {
+          "word": "table tennis",
+          "pos": "n",
+          "ipa": "/ˈteɪbl tenɪs/",
+          "meaning": "bóng bàn"
+        },
+        {
+          "word": "basketball",
+          "pos": "n",
+          "ipa": "/ˈbɑːskɪtbɔːl/",
+          "meaning": "bóng rổ"
+        },
+        {
+          "word": "baseball",
+          "pos": "n",
+          "ipa": "/ˈbeɪsbɔːl/",
+          "meaning": "bóng chày"
+        },
+        {
+          "word": "tennis",
+          "pos": "n",
+          "ipa": "/ˈtenɪs/",
+          "meaning": "quần vợt"
+        },
+        {
+          "word": "swimming",
+          "pos": "n",
+          "ipa": "/ˈswɪmɪŋ/",
+          "meaning": "bơi lội"
+        },
+        {
+          "word": "dolphin",
+          "pos": "n",
+          "ipa": "/ˈdɒlfɪn/",
+          "meaning": "cá heo",
+          "example": "My favourite animal is the dolphin."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Our homes",
+      "title_vi": "Nhà của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-2-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-2-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-2-lop-5.jsp"
+      ],
+      "words": [
+        {
+          "word": "house",
+          "pos": "n",
+          "ipa": "/haʊs/",
+          "meaning": "ngôi nhà",
+          "example": "Do you live in this house?"
+        },
+        {
+          "word": "flat",
+          "pos": "n",
+          "ipa": "/flæt/",
+          "meaning": "căn hộ",
+          "example": "I live in a flat."
+        },
+        {
+          "word": "building",
+          "pos": "n",
+          "ipa": "/ˈbɪldɪŋ/",
+          "meaning": "tòa nhà",
+          "example": "Do you live in that building?"
+        },
+        {
+          "word": "tower",
+          "pos": "n",
+          "ipa": "/ˈtaʊə/",
+          "meaning": "tòa tháp, tòa nhà cao tầng",
+          "example": "I live in Lotus Tower."
+        },
+        {
+          "word": "live",
+          "pos": "v",
+          "ipa": "/lɪv/",
+          "meaning": "sống, ở"
+        },
+        {
+          "word": "address",
+          "pos": "n",
+          "ipa": "/əˈdres/",
+          "meaning": "địa chỉ",
+          "example": "What's your address?"
+        },
+        {
+          "word": "street",
+          "pos": "n",
+          "ipa": "/striːt/",
+          "meaning": "đường phố",
+          "example": "It's 23 Le Thanh Tong Street."
+        },
+        {
+          "word": "road",
+          "pos": "n",
+          "ipa": "/rəʊd/",
+          "meaning": "con đường"
+        },
+        {
+          "word": "lane",
+          "pos": "n",
+          "ipa": "/leɪn/",
+          "meaning": "ngõ, hẻm"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "My foreign friends",
+      "title_vi": "Những người bạn nước ngoài của tôi",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-3-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-3-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/tong-hop-tu-vung-tieng-anh-lop-5.jsp",
+        "https://loigiaihay.com/giai-lesson-1-unit-3-tieng-anh-5-global-success-co-dap-an-a156783.html"
+      ],
+      "words": [
+        {
+          "word": "foreign",
+          "pos": "adj",
+          "ipa": "/ˈfɒrən/",
+          "meaning": "(thuộc) nước ngoài"
+        },
+        {
+          "word": "nationality",
+          "pos": "n",
+          "ipa": "/ˌnæʃəˈnæləti/",
+          "meaning": "quốc tịch",
+          "example": "What nationality is she?"
+        },
+        {
+          "word": "American",
+          "pos": "adj",
+          "ipa": "/əˈmerɪkən/",
+          "meaning": "(người) Mỹ",
+          "example": "She's American."
+        },
+        {
+          "word": "Australian",
+          "pos": "adj",
+          "ipa": "/ɒˈstreɪliən/",
+          "meaning": "(người) Úc"
+        },
+        {
+          "word": "British",
+          "pos": "adj",
+          "ipa": "/ˈbrɪtɪʃ/",
+          "meaning": "(người) Anh"
+        },
+        {
+          "word": "Japanese",
+          "pos": "adj",
+          "ipa": "/ˌdʒæpəˈniːz/",
+          "meaning": "(người) Nhật Bản"
+        },
+        {
+          "word": "Malaysian",
+          "pos": "adj",
+          "ipa": "/məˈleɪʒn/",
+          "meaning": "(người) Ma-lai-xi-a"
+        },
+        {
+          "word": "Singaporean",
+          "pos": "adj",
+          "ipa": "/ˌsɪŋəˈpɔːriən/",
+          "meaning": "(người) Xin-ga-po"
+        },
+        {
+          "word": "Thai",
+          "pos": "adj",
+          "ipa": "/taɪ/",
+          "meaning": "(người) Thái Lan"
+        },
+        {
+          "word": "active",
+          "pos": "adj",
+          "ipa": "/ˈæktɪv/",
+          "meaning": "năng động"
+        },
+        {
+          "word": "clever",
+          "pos": "adj",
+          "ipa": "/ˈklevə/",
+          "meaning": "thông minh, lanh lợi",
+          "example": "What's she like? She's clever."
+        },
+        {
+          "word": "friendly",
+          "pos": "adj",
+          "ipa": "/ˈfrendli/",
+          "meaning": "thân thiện"
+        },
+        {
+          "word": "helpful",
+          "pos": "adj",
+          "ipa": "/ˈhelpfl/",
+          "meaning": "hay giúp đỡ"
+        },
+        {
+          "word": "kind",
+          "pos": "adj",
+          "ipa": "/kaɪnd/",
+          "meaning": "tốt bụng"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Our free-time activities",
+      "title_vi": "Các hoạt động thời gian rảnh của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-4-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-4-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-4-lop-5.jsp"
+      ],
+      "words": [
+        {
+          "word": "free time",
+          "pos": "n",
+          "ipa": "/ˌfriː ˈtaɪm/",
+          "meaning": "thời gian rảnh",
+          "example": "What do you do in your free time?"
+        },
+        {
+          "word": "surf the Internet",
+          "pos": "phr",
+          "ipa": "/ˌsɜːf ði ˈɪntənet/",
+          "meaning": "lướt mạng"
+        },
+        {
+          "word": "water the flowers",
+          "pos": "phr",
+          "ipa": "/ˌwɔːtə ðə ˈflaʊəz/",
+          "meaning": "tưới hoa"
+        },
+        {
+          "word": "go for a walk",
+          "pos": "phr",
+          "ipa": "/ˌɡəʊ fər ə ˈwɔːk/",
+          "meaning": "đi dạo"
+        },
+        {
+          "word": "ride a bike",
+          "pos": "phr",
+          "ipa": "/ˌraɪd ə ˈbaɪk/",
+          "meaning": "đạp xe",
+          "example": "I often ride my bike."
+        },
+        {
+          "word": "always",
+          "pos": "adv",
+          "ipa": "/ˈɔːlweɪz/",
+          "meaning": "luôn luôn"
+        },
+        {
+          "word": "usually",
+          "pos": "adv",
+          "ipa": "/ˈjuːʒuəli/",
+          "meaning": "thường xuyên"
+        },
+        {
+          "word": "often",
+          "pos": "adv",
+          "ipa": "/ˈɒfn/",
+          "meaning": "thường"
+        },
+        {
+          "word": "sometimes",
+          "pos": "adv",
+          "ipa": "/ˈsʌmtaɪmz/",
+          "meaning": "thỉnh thoảng"
+        },
+        {
+          "word": "never",
+          "pos": "adv",
+          "ipa": "/ˈnevə/",
+          "meaning": "không bao giờ"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "My future job",
+      "title_vi": "Công việc tương lai của tôi",
+      "status": "sourced",
+      "sources": [
+        "https://zim.vn/bai-tap-bo-tro-tieng-anh-5-global-success",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-5d-speaking-lop-5.jsp",
+        "https://vietjack.com/tieng-anh-5-moi/trac-nghiem-unit-5-vocabulary-and-grammar.jsp",
+        "https://loigiaihay.com/unit-5-my-future-job-sbt-tieng-anh-5-global-success-a171130.html"
+      ],
+      "words": [
+        {
+          "word": "future",
+          "pos": "n",
+          "ipa": "/ˈfjuːtʃə/",
+          "meaning": "tương lai",
+          "example": "What would you like to be in the future?"
+        },
+        {
+          "word": "job",
+          "pos": "n",
+          "ipa": "/dʒɒb/",
+          "meaning": "công việc, nghề nghiệp"
+        },
+        {
+          "word": "firefighter",
+          "pos": "n",
+          "ipa": "/ˈfaɪəfaɪtə/",
+          "meaning": "lính cứu hỏa"
+        },
+        {
+          "word": "gardener",
+          "pos": "n",
+          "ipa": "/ˈɡɑːdnə/",
+          "meaning": "người làm vườn"
+        },
+        {
+          "word": "reporter",
+          "pos": "n",
+          "ipa": "/rɪˈpɔːtə/",
+          "meaning": "phóng viên",
+          "example": "I'd like to be a reporter."
+        },
+        {
+          "word": "writer",
+          "pos": "n",
+          "ipa": "/ˈraɪtə/",
+          "meaning": "nhà văn"
+        },
+        {
+          "word": "farmer",
+          "pos": "n",
+          "ipa": "/ˈfɑːmə/",
+          "meaning": "nông dân"
+        },
+        {
+          "word": "teacher",
+          "pos": "n",
+          "ipa": "/ˈtiːtʃə/",
+          "meaning": "giáo viên"
+        },
+        {
+          "word": "put out fires",
+          "pos": "phr",
+          "ipa": "/ˌpʊt aʊt ˈfaɪəz/",
+          "meaning": "dập lửa",
+          "example": "A firefighter puts out fires."
+        },
+        {
+          "word": "save people",
+          "pos": "phr",
+          "ipa": "/ˌseɪv ˈpiːpl/",
+          "meaning": "cứu người"
+        },
+        {
+          "word": "grow vegetables",
+          "pos": "phr",
+          "ipa": "/ˌɡrəʊ ˈvedʒtəblz/",
+          "meaning": "trồng rau"
+        },
+        {
+          "word": "write stories",
+          "pos": "phr",
+          "ipa": "/ˌraɪt ˈstɔːriz/",
+          "meaning": "viết truyện"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Our school rooms",
+      "title_vi": "Các phòng học ở trường của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-6-lop-5.jsp",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-6a-words-stress-and-vocabulary-lop-5.jsp",
+        "https://loigiaihay.com/giai-lesson-3-unit-6-tieng-anh-5-global-success-co-dap-an-a156931.html"
+      ],
+      "words": [
+        {
+          "word": "floor",
+          "pos": "n",
+          "ipa": "/flɔː/",
+          "meaning": "tầng",
+          "example": "The library is on the second floor."
+        },
+        {
+          "word": "ground floor",
+          "pos": "n",
+          "ipa": "/ˌɡraʊnd ˈflɔː/",
+          "meaning": "tầng trệt"
+        },
+        {
+          "word": "first floor",
+          "pos": "n",
+          "ipa": "/ˌfɜːst ˈflɔː/",
+          "meaning": "tầng một"
+        },
+        {
+          "word": "second floor",
+          "pos": "n",
+          "ipa": "/ˌsekənd ˈflɔː/",
+          "meaning": "tầng hai"
+        },
+        {
+          "word": "art room",
+          "pos": "n",
+          "ipa": "/ˈɑːt ruːm/",
+          "meaning": "phòng mỹ thuật"
+        },
+        {
+          "word": "computer room",
+          "pos": "n",
+          "ipa": "/kəmˈpjuːtə ruːm/",
+          "meaning": "phòng máy tính"
+        },
+        {
+          "word": "music room",
+          "pos": "n",
+          "ipa": "/ˈmjuːzɪk ruːm/",
+          "meaning": "phòng âm nhạc"
+        },
+        {
+          "word": "library",
+          "pos": "n",
+          "ipa": "/ˈlaɪbrəri/",
+          "meaning": "thư viện"
+        },
+        {
+          "word": "corridor",
+          "pos": "n",
+          "ipa": "/ˈkɒrɪdɔː/",
+          "meaning": "hành lang"
+        },
+        {
+          "word": "go along",
+          "pos": "phr v",
+          "ipa": "/ˌɡəʊ əˈlɒŋ/",
+          "meaning": "đi dọc theo",
+          "example": "Go along the corridor."
+        },
+        {
+          "word": "go past",
+          "pos": "phr v",
+          "ipa": "/ˌɡəʊ ˈpɑːst/",
+          "meaning": "đi qua, đi ngang qua",
+          "example": "Go past the computer room."
+        },
+        {
+          "word": "turn left",
+          "pos": "phr",
+          "ipa": "/ˌtɜːn ˈleft/",
+          "meaning": "rẽ trái"
+        },
+        {
+          "word": "turn right",
+          "pos": "phr",
+          "ipa": "/ˌtɜːn ˈraɪt/",
+          "meaning": "rẽ phải"
+        },
+        {
+          "word": "downstairs",
+          "pos": "adv",
+          "ipa": "/ˌdaʊnˈsteəz/",
+          "meaning": "ở tầng dưới, xuống tầng dưới"
+        },
+        {
+          "word": "upstairs",
+          "pos": "adv",
+          "ipa": "/ˌʌpˈsteəz/",
+          "meaning": "ở tầng trên, lên tầng trên"
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Our favourite school activities",
+      "title_vi": "Các hoạt động ở trường mà chúng ta yêu thích",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-7-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-7-lop-5.jsp",
+        "https://loigiaihay.com/giai-lesson-1-unit-7-tieng-anh-5-global-success-co-dap-an-a157119.html"
+      ],
+      "words": [
+        {
+          "word": "school activity",
+          "pos": "n",
+          "ipa": "/ˌskuːl ækˈtɪvəti/",
+          "meaning": "hoạt động ở trường"
+        },
+        {
+          "word": "do projects",
+          "pos": "phr",
+          "ipa": "/ˌduː ˈprɒdʒekts/",
+          "meaning": "làm dự án",
+          "example": "I like doing projects."
+        },
+        {
+          "word": "solve maths problems",
+          "pos": "phr",
+          "ipa": "/ˌsɒlv ˈmæθs ˌprɒbləmz/",
+          "meaning": "giải toán"
+        },
+        {
+          "word": "do puzzles",
+          "pos": "phr",
+          "ipa": "/ˌduː ˈpʌzlz/",
+          "meaning": "giải câu đố"
+        },
+        {
+          "word": "read books",
+          "pos": "phr",
+          "ipa": "/ˌriːd ˈbʊks/",
+          "meaning": "đọc sách"
+        },
+        {
+          "word": "useful",
+          "pos": "adj",
+          "ipa": "/ˈjuːsfl/",
+          "meaning": "hữu ích",
+          "example": "It's useful."
+        },
+        {
+          "word": "fun",
+          "pos": "adj",
+          "ipa": "/fʌn/",
+          "meaning": "vui"
+        },
+        {
+          "word": "interesting",
+          "pos": "adj",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "meaning": "thú vị"
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "In our classroom",
+      "title_vi": "Trong lớp học của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-8-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-3-unit-8-lop-5.jsp",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-8d-speaking-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/trac-nghiem-unit-8-vocabulary-and-grammar.jsp"
+      ],
+      "words": [
+        {
+          "word": "whose",
+          "pos": "pron",
+          "ipa": "/huːz/",
+          "meaning": "của ai",
+          "example": "Whose glue stick is this?"
+        },
+        {
+          "word": "glue stick",
+          "pos": "n",
+          "ipa": "/ˈɡluː stɪk/",
+          "meaning": "keo dán dạng thỏi"
+        },
+        {
+          "word": "school bag",
+          "pos": "n",
+          "ipa": "/ˈskuːl bæɡ/",
+          "meaning": "cặp sách"
+        },
+        {
+          "word": "crayon",
+          "pos": "n",
+          "ipa": "/ˈkreɪɒn/",
+          "meaning": "bút sáp màu"
+        },
+        {
+          "word": "pencil box",
+          "pos": "n",
+          "ipa": "/ˈpensl bɒks/",
+          "meaning": "hộp bút"
+        },
+        {
+          "word": "pencil",
+          "pos": "n",
+          "ipa": "/ˈpensl/",
+          "meaning": "bút chì"
+        },
+        {
+          "word": "eraser",
+          "pos": "n",
+          "ipa": "/ɪˈreɪzə/",
+          "meaning": "cục tẩy"
+        },
+        {
+          "word": "notebook",
+          "pos": "n",
+          "ipa": "/ˈnəʊtbʊk/",
+          "meaning": "vở, sổ ghi chép"
+        },
+        {
+          "word": "next to",
+          "pos": "prep",
+          "ipa": "/ˈnekst tə/",
+          "meaning": "bên cạnh",
+          "example": "The glue is next to the school bag."
+        },
+        {
+          "word": "beside",
+          "pos": "prep",
+          "ipa": "/bɪˈsaɪd/",
+          "meaning": "bên cạnh"
+        },
+        {
+          "word": "behind",
+          "pos": "prep",
+          "ipa": "/bɪˈhaɪnd/",
+          "meaning": "phía sau"
+        },
+        {
+          "word": "in front of",
+          "pos": "prep",
+          "ipa": "/ɪn ˈfrʌnt əv/",
+          "meaning": "phía trước"
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Our outdoor activities",
+      "title_vi": "Các hoạt động ngoài trời của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-9c-listening-lop-5.jsp",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-9a-words-stress-and-vocabulary-lop-5.jsp",
+        "https://vietjack.com/tieng-anh-5-moi/trac-nghiem-unit-9-vocabulary-and-grammar.jsp"
+      ],
+      "words": [
+        {
+          "word": "outdoor",
+          "pos": "adj",
+          "ipa": "/ˈaʊtdɔː/",
+          "meaning": "ngoài trời"
+        },
+        {
+          "word": "campsite",
+          "pos": "n",
+          "ipa": "/ˈkæmpsaɪt/",
+          "meaning": "khu cắm trại",
+          "example": "We were at the campsite."
+        },
+        {
+          "word": "sports centre",
+          "pos": "n",
+          "ipa": "/ˈspɔːts ˌsentə/",
+          "meaning": "trung tâm thể thao"
+        },
+        {
+          "word": "funfair",
+          "pos": "n",
+          "ipa": "/ˈfʌnfeə/",
+          "meaning": "khu vui chơi, hội chợ giải trí"
+        },
+        {
+          "word": "zoo",
+          "pos": "n",
+          "ipa": "/zuː/",
+          "meaning": "vườn thú"
+        },
+        {
+          "word": "park",
+          "pos": "n",
+          "ipa": "/pɑːk/",
+          "meaning": "công viên"
+        },
+        {
+          "word": "play basketball",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
+          "meaning": "chơi bóng rổ",
+          "example": "My brother played basketball at the sports centre."
+        },
+        {
+          "word": "last weekend",
+          "pos": "phr",
+          "ipa": "/ˌlɑːst ˌwiːkˈend/",
+          "meaning": "cuối tuần trước"
+        },
+        {
+          "word": "yesterday",
+          "pos": "adv",
+          "ipa": "/ˈjestədeɪ/",
+          "meaning": "hôm qua"
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Our school trip",
+      "title_vi": "Chuyến đi của trường chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-10-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-3-unit-10-lop-5.jsp",
+        "https://loigiaihay.com/giai-lesson-1-unit-10-tieng-anh-5-global-success-co-dap-an-a157239.html"
+      ],
+      "words": [
+        {
+          "word": "school trip",
+          "pos": "n",
+          "ipa": "/ˈskuːl trɪp/",
+          "meaning": "chuyến đi của trường"
+        },
+        {
+          "word": "visit",
+          "pos": "v",
+          "ipa": "/ˈvɪzɪt/",
+          "meaning": "thăm, tham quan",
+          "example": "We visited a farm near our school."
+        },
+        {
+          "word": "farm",
+          "pos": "n",
+          "ipa": "/fɑːm/",
+          "meaning": "trang trại"
+        },
+        {
+          "word": "Bai Dinh Pagoda",
+          "pos": "n",
+          "ipa": "/ˌbaɪ ˈdɪn pəˈɡəʊdə/",
+          "meaning": "chùa Bái Đính"
+        },
+        {
+          "word": "Ba Na Hills",
+          "pos": "n",
+          "ipa": "/ˌbɑː ˈnɑː ˈhɪlz/",
+          "meaning": "Bà Nà Hills"
+        },
+        {
+          "word": "Hoan Kiem Lake",
+          "pos": "n",
+          "ipa": "/ˌhwɑːn ˈkiːm ˈleɪk/",
+          "meaning": "hồ Hoàn Kiếm"
+        },
+        {
+          "word": "take photos",
+          "pos": "phr",
+          "ipa": "/ˌteɪk ˈfəʊtəʊz/",
+          "meaning": "chụp ảnh"
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "Family time",
+      "title_vi": "Thời gian bên gia đình",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-11-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-11-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "family",
+          "pos": "n",
+          "ipa": "/ˈfæməli/",
+          "meaning": "gia đình"
+        },
+        {
+          "word": "beach",
+          "pos": "n",
+          "ipa": "/biːtʃ/",
+          "meaning": "bãi biển"
+        },
+        {
+          "word": "buy souvenirs",
+          "pos": "phr",
+          "ipa": "/ˌbaɪ ˌsuːvəˈnɪəz/",
+          "meaning": "mua quà lưu niệm"
+        },
+        {
+          "word": "collect seashells",
+          "pos": "phr",
+          "ipa": "/kəˌlekt ˈsiːʃelz/",
+          "meaning": "nhặt vỏ sò"
+        },
+        {
+          "word": "walk on the beach",
+          "pos": "phr",
+          "ipa": "/ˌwɔːk ɒn ðə ˈbiːtʃ/",
+          "meaning": "đi dạo trên bãi biển"
+        },
+        {
+          "word": "build sandcastles",
+          "pos": "phr",
+          "ipa": "/ˌbɪld ˈsændkɑːslz/",
+          "meaning": "xây lâu đài cát"
+        },
+        {
+          "word": "swim in the sea",
+          "pos": "phr",
+          "ipa": "/ˌswɪm ɪn ðə ˈsiː/",
+          "meaning": "bơi ở biển"
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "Our Tet holiday",
+      "title_vi": "Kỳ nghỉ Tết của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-12-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-12-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "Tet",
+          "pos": "n",
+          "ipa": "/tet/",
+          "meaning": "Tết"
+        },
+        {
+          "word": "buy peach blossoms",
+          "pos": "phr",
+          "ipa": "/ˌbaɪ ˈpiːtʃ ˌblɒsəmz/",
+          "meaning": "mua cành đào"
+        },
+        {
+          "word": "make banh chung",
+          "pos": "phr",
+          "ipa": "/ˌmeɪk ˌbæn ˈtʃʊŋ/",
+          "meaning": "gói bánh chưng"
+        },
+        {
+          "word": "make spring rolls",
+          "pos": "phr",
+          "ipa": "/ˌmeɪk ˈsprɪŋ rəʊlz/",
+          "meaning": "làm nem (chả giò)"
+        },
+        {
+          "word": "New Year party",
+          "pos": "n",
+          "ipa": "/ˌnjuː jɪə ˈpɑːti/",
+          "meaning": "tiệc mừng năm mới"
+        },
+        {
+          "word": "fireworks show",
+          "pos": "n",
+          "ipa": "/ˈfaɪəwɜːks ʃəʊ/",
+          "meaning": "buổi trình diễn pháo hoa"
+        },
+        {
+          "word": "watch fireworks",
+          "pos": "phr",
+          "ipa": "/ˌwɒtʃ ˈfaɪəwɜːks/",
+          "meaning": "xem pháo hoa"
+        },
+        {
+          "word": "visit grandparents",
+          "pos": "phr",
+          "ipa": "/ˌvɪzɪt ˈɡrænpeərənts/",
+          "meaning": "thăm ông bà"
+        },
+        {
+          "word": "lucky money",
+          "pos": "n",
+          "ipa": "/ˈlʌki ˌmʌni/",
+          "meaning": "tiền lì xì"
+        },
+        {
+          "word": "decorate",
+          "pos": "v",
+          "ipa": "/ˈdekəreɪt/",
+          "meaning": "trang trí"
+        }
+      ]
+    },
+    {
+      "unit": 13,
+      "title": "Our special days",
+      "title_vi": "Những ngày đặc biệt của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-13-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-13e-reading-lop-5.jsp"
+      ],
+      "words": [
+        {
+          "word": "special day",
+          "pos": "n",
+          "ipa": "/ˌspeʃl ˈdeɪ/",
+          "meaning": "ngày đặc biệt"
+        },
+        {
+          "word": "Mid-Autumn Festival",
+          "pos": "n",
+          "ipa": "/ˌmɪd ˈɔːtəm ˈfestɪvl/",
+          "meaning": "Tết Trung thu"
+        },
+        {
+          "word": "Teachers' Day",
+          "pos": "n",
+          "ipa": "/ˈtiːtʃəz deɪ/",
+          "meaning": "Ngày Nhà giáo"
+        },
+        {
+          "word": "Children's Day",
+          "pos": "n",
+          "ipa": "/ˈtʃɪldrənz deɪ/",
+          "meaning": "Ngày Quốc tế Thiếu nhi"
+        },
+        {
+          "word": "apple juice",
+          "pos": "n",
+          "ipa": "/ˈæpl dʒuːs/",
+          "meaning": "nước ép táo"
+        },
+        {
+          "word": "milk tea",
+          "pos": "n",
+          "ipa": "/ˌmɪlk ˈtiː/",
+          "meaning": "trà sữa"
+        },
+        {
+          "word": "burger",
+          "pos": "n",
+          "ipa": "/ˈbɜːɡə/",
+          "meaning": "bánh mì kẹp thịt"
+        },
+        {
+          "word": "pizza",
+          "pos": "n",
+          "ipa": "/ˈpiːtsə/",
+          "meaning": "bánh pi-da"
+        }
+      ]
+    },
+    {
+      "unit": 14,
+      "title": "Staying healthy",
+      "title_vi": "Giữ gìn sức khỏe",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-14-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-3-unit-14-lop-5.jsp",
+        "https://loigiaihay.com/giai-lesson-1-unit-14-tieng-anh-5-global-success-co-dap-an-a159044.html"
+      ],
+      "words": [
+        {
+          "word": "healthy",
+          "pos": "adj",
+          "ipa": "/ˈhelθi/",
+          "meaning": "khỏe mạnh, tốt cho sức khỏe"
+        },
+        {
+          "word": "do morning exercise",
+          "pos": "phr",
+          "ipa": "/ˌduː ˌmɔːnɪŋ ˈeksəsaɪz/",
+          "meaning": "tập thể dục buổi sáng"
+        },
+        {
+          "word": "do yoga",
+          "pos": "phr",
+          "ipa": "/ˌduː ˈjəʊɡə/",
+          "meaning": "tập yoga"
+        },
+        {
+          "word": "play sports",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈspɔːts/",
+          "meaning": "chơi thể thao"
+        },
+        {
+          "word": "drink fresh juice",
+          "pos": "phr",
+          "ipa": "/ˌdrɪŋk ˌfreʃ ˈdʒuːs/",
+          "meaning": "uống nước ép tươi"
+        },
+        {
+          "word": "once a week",
+          "pos": "phr",
+          "ipa": "/ˌwʌns ə ˈwiːk/",
+          "meaning": "một lần một tuần"
+        },
+        {
+          "word": "twice a week",
+          "pos": "phr",
+          "ipa": "/ˌtwaɪs ə ˈwiːk/",
+          "meaning": "hai lần một tuần"
+        },
+        {
+          "word": "three times a week",
+          "pos": "phr",
+          "ipa": "/ˌθriː ˌtaɪmz ə ˈwiːk/",
+          "meaning": "ba lần một tuần",
+          "example": "I do yoga three times a week."
+        }
+      ]
+    },
+    {
+      "unit": 15,
+      "title": "Our health",
+      "title_vi": "Sức khỏe của chúng ta",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-15-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-3-unit-15-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "health",
+          "pos": "n",
+          "ipa": "/helθ/",
+          "meaning": "sức khỏe"
+        },
+        {
+          "word": "headache",
+          "pos": "n",
+          "ipa": "/ˈhedeɪk/",
+          "meaning": "đau đầu"
+        },
+        {
+          "word": "sore throat",
+          "pos": "n",
+          "ipa": "/ˌsɔː ˈθrəʊt/",
+          "meaning": "đau họng"
+        },
+        {
+          "word": "stomach ache",
+          "pos": "n",
+          "ipa": "/ˈstʌmək eɪk/",
+          "meaning": "đau bụng"
+        },
+        {
+          "word": "toothache",
+          "pos": "n",
+          "ipa": "/ˈtuːθeɪk/",
+          "meaning": "đau răng"
+        },
+        {
+          "word": "fever",
+          "pos": "n",
+          "ipa": "/ˈfiːvə/",
+          "meaning": "sốt"
+        },
+        {
+          "word": "drink warm water",
+          "pos": "phr",
+          "ipa": "/ˌdrɪŋk ˌwɔːm ˈwɔːtə/",
+          "meaning": "uống nước ấm"
+        },
+        {
+          "word": "go to the dentist",
+          "pos": "phr",
+          "ipa": "/ˌɡəʊ tə ðə ˈdentɪst/",
+          "meaning": "đi khám nha sĩ"
+        },
+        {
+          "word": "go to the doctor",
+          "pos": "phr",
+          "ipa": "/ˌɡəʊ tə ðə ˈdɒktə/",
+          "meaning": "đi khám bác sĩ"
+        },
+        {
+          "word": "have a rest",
+          "pos": "phr",
+          "ipa": "/ˌhæv ə ˈrest/",
+          "meaning": "nghỉ ngơi",
+          "example": "You should have a rest."
+        }
+      ]
+    },
+    {
+      "unit": 16,
+      "title": "Seasons and the weather",
+      "title_vi": "Các mùa và thời tiết",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-16-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-16-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "season",
+          "pos": "n",
+          "ipa": "/ˈsiːzn/",
+          "meaning": "mùa"
+        },
+        {
+          "word": "spring",
+          "pos": "n",
+          "ipa": "/sprɪŋ/",
+          "meaning": "mùa xuân"
+        },
+        {
+          "word": "summer",
+          "pos": "n",
+          "ipa": "/ˈsʌmə/",
+          "meaning": "mùa hè"
+        },
+        {
+          "word": "autumn",
+          "pos": "n",
+          "ipa": "/ˈɔːtəm/",
+          "meaning": "mùa thu"
+        },
+        {
+          "word": "winter",
+          "pos": "n",
+          "ipa": "/ˈwɪntə/",
+          "meaning": "mùa đông"
+        },
+        {
+          "word": "weather",
+          "pos": "n",
+          "ipa": "/ˈweðə/",
+          "meaning": "thời tiết",
+          "example": "What's the weather like in summer?"
+        },
+        {
+          "word": "weather forecast",
+          "pos": "n",
+          "ipa": "/ˈweðə ˌfɔːkɑːst/",
+          "meaning": "dự báo thời tiết"
+        },
+        {
+          "word": "hot",
+          "pos": "adj",
+          "ipa": "/hɒt/",
+          "meaning": "nóng"
+        },
+        {
+          "word": "warm",
+          "pos": "adj",
+          "ipa": "/wɔːm/",
+          "meaning": "ấm áp"
+        },
+        {
+          "word": "cool",
+          "pos": "adj",
+          "ipa": "/kuːl/",
+          "meaning": "mát mẻ"
+        },
+        {
+          "word": "cold",
+          "pos": "adj",
+          "ipa": "/kəʊld/",
+          "meaning": "lạnh"
+        },
+        {
+          "word": "dry",
+          "pos": "adj",
+          "ipa": "/draɪ/",
+          "meaning": "khô"
+        },
+        {
+          "word": "rainy",
+          "pos": "adj",
+          "ipa": "/ˈreɪni/",
+          "meaning": "có mưa"
+        }
+      ]
+    },
+    {
+      "unit": 17,
+      "title": "Stories for children",
+      "title_vi": "Những câu chuyện dành cho trẻ em",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-17-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-1-unit-17-lop-5.jsp",
+        "https://www.vietjack.com/tieng-anh-5-moi/lesson-2-unit-17-lop-5.jsp"
+      ],
+      "words": [
+        {
+          "word": "story",
+          "pos": "n",
+          "ipa": "/ˈstɔːri/",
+          "meaning": "câu chuyện"
+        },
+        {
+          "word": "ant",
+          "pos": "n",
+          "ipa": "/ænt/",
+          "meaning": "con kiến"
+        },
+        {
+          "word": "grasshopper",
+          "pos": "n",
+          "ipa": "/ˈɡrɑːshɒpə/",
+          "meaning": "con châu chấu"
+        },
+        {
+          "word": "crow",
+          "pos": "n",
+          "ipa": "/krəʊ/",
+          "meaning": "con quạ"
+        },
+        {
+          "word": "fox",
+          "pos": "n",
+          "ipa": "/fɒks/",
+          "meaning": "con cáo"
+        },
+        {
+          "word": "tortoise",
+          "pos": "n",
+          "ipa": "/ˈtɔːtəs/",
+          "meaning": "con rùa"
+        },
+        {
+          "word": "hare",
+          "pos": "n",
+          "ipa": "/heə/",
+          "meaning": "con thỏ rừng"
+        },
+        {
+          "word": "Snow White",
+          "pos": "n",
+          "ipa": "/ˌsnəʊ ˈwaɪt/",
+          "meaning": "nàng Bạch Tuyết"
+        },
+        {
+          "word": "cook well",
+          "pos": "phr",
+          "ipa": "/ˌkʊk ˈwel/",
+          "meaning": "nấu ăn ngon"
+        },
+        {
+          "word": "work hard",
+          "pos": "phr",
+          "ipa": "/ˌwɜːk ˈhɑːd/",
+          "meaning": "làm việc chăm chỉ"
+        }
+      ]
+    },
+    {
+      "unit": 18,
+      "title": "Means of transport",
+      "title_vi": "Phương tiện giao thông",
+      "status": "sourced",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tu-vung-unit-18-lop-5.jsp",
+        "https://www.vietjack.com/sbt-tieng-anh-5-kn/unit-18a-words-stress-and-vocabulary-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "means of transport",
+          "pos": "n",
+          "ipa": "/ˌmiːnz əv ˈtrænspɔːt/",
+          "meaning": "phương tiện giao thông"
+        },
+        {
+          "word": "by bicycle",
+          "pos": "phr",
+          "ipa": "/baɪ ˈbaɪsɪkl/",
+          "meaning": "bằng xe đạp"
+        },
+        {
+          "word": "by bus",
+          "pos": "phr",
+          "ipa": "/baɪ ˈbʌs/",
+          "meaning": "bằng xe buýt"
+        },
+        {
+          "word": "by taxi",
+          "pos": "phr",
+          "ipa": "/baɪ ˈtæksi/",
+          "meaning": "bằng taxi"
+        },
+        {
+          "word": "by train",
+          "pos": "phr",
+          "ipa": "/baɪ ˈtreɪn/",
+          "meaning": "bằng tàu hỏa"
+        },
+        {
+          "word": "by plane",
+          "pos": "phr",
+          "ipa": "/baɪ ˈpleɪn/",
+          "meaning": "bằng máy bay"
+        },
+        {
+          "word": "by motorbike",
+          "pos": "phr",
+          "ipa": "/baɪ ˈməʊtəbaɪk/",
+          "meaning": "bằng xe máy"
+        },
+        {
+          "word": "by boat",
+          "pos": "phr",
+          "ipa": "/baɪ ˈbəʊt/",
+          "meaning": "bằng thuyền"
+        }
+      ]
+    },
+    {
+      "unit": 19,
+      "title": "Places of interest",
+      "title_vi": "Những địa điểm tham quan",
+      "status": "unverified",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tong-hop-tu-vung-tieng-anh-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "place of interest",
+          "pos": "n",
+          "ipa": "/ˌpleɪs əv ˈɪntrəst/",
+          "meaning": "địa điểm tham quan"
+        },
+        {
+          "word": "museum",
+          "pos": "n",
+          "ipa": "/mjuˈziːəm/",
+          "meaning": "bảo tàng"
+        },
+        {
+          "word": "pagoda",
+          "pos": "n",
+          "ipa": "/pəˈɡəʊdə/",
+          "meaning": "ngôi chùa"
+        },
+        {
+          "word": "temple",
+          "pos": "n",
+          "ipa": "/ˈtempl/",
+          "meaning": "ngôi đền"
+        },
+        {
+          "word": "bridge",
+          "pos": "n",
+          "ipa": "/brɪdʒ/",
+          "meaning": "cây cầu"
+        },
+        {
+          "word": "market",
+          "pos": "n",
+          "ipa": "/ˈmɑːkɪt/",
+          "meaning": "chợ"
+        },
+        {
+          "word": "famous",
+          "pos": "adj",
+          "ipa": "/ˈfeɪməs/",
+          "meaning": "nổi tiếng"
+        },
+        {
+          "word": "beautiful",
+          "pos": "adj",
+          "ipa": "/ˈbjuːtɪfl/",
+          "meaning": "đẹp"
+        }
+      ]
+    },
+    {
+      "unit": 20,
+      "title": "Our summer holidays",
+      "title_vi": "Kỳ nghỉ hè của chúng ta",
+      "status": "unverified",
+      "sources": [
+        "https://www.vietjack.com/tieng-anh-5-moi/tong-hop-tu-vung-tieng-anh-lop-5.jsp",
+        "https://hoatieu.vn/de-cuong-on-thi-cuoi-ki-2-tieng-anh-5-global-success-230757"
+      ],
+      "words": [
+        {
+          "word": "summer holiday",
+          "pos": "n",
+          "ipa": "/ˌsʌmə ˈhɒlədeɪ/",
+          "meaning": "kỳ nghỉ hè"
+        },
+        {
+          "word": "beach",
+          "pos": "n",
+          "ipa": "/biːtʃ/",
+          "meaning": "bãi biển"
+        },
+        {
+          "word": "mountain",
+          "pos": "n",
+          "ipa": "/ˈmaʊntən/",
+          "meaning": "núi"
+        },
+        {
+          "word": "countryside",
+          "pos": "n",
+          "ipa": "/ˈkʌntrisaɪd/",
+          "meaning": "vùng nông thôn"
+        },
+        {
+          "word": "go camping",
+          "pos": "phr",
+          "ipa": "/ˌɡəʊ ˈkæmpɪŋ/",
+          "meaning": "đi cắm trại"
+        },
+        {
+          "word": "go swimming",
+          "pos": "phr",
+          "ipa": "/ˌɡəʊ ˈswɪmɪŋ/",
+          "meaning": "đi bơi"
+        },
+        {
+          "word": "take photos",
+          "pos": "phr",
+          "ipa": "/ˌteɪk ˈfəʊtəʊz/",
+          "meaning": "chụp ảnh"
+        }
+      ]
+    }
+  ]
+}

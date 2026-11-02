@@ -1,0 +1,194 @@
+﻿grade,unit,unit_title,status,word,pos,ipa,meaning,example
+4,1,My friends,sourced,friend,n,/frend/,"bạn, bạn bè",This is my friend Mary.
+4,1,My friends,sourced,America,n,/əˈmerɪkə/,nước Mỹ,I'm from America.
+4,1,My friends,sourced,Australia,n,/ɒˈstreɪliə/,nước Úc,She's from Australia.
+4,1,My friends,sourced,Japan,n,/dʒəˈpæn/,nước Nhật Bản,Mai is from Japan.
+4,1,My friends,sourced,Malaysia,n,/məˈleɪziə/,nước Ma-lai-xi-a,I'm from Malaysia.
+4,1,My friends,sourced,Thailand,n,/ˈtaɪlænd/,nước Thái Lan,He's from Thailand.
+4,1,My friends,sourced,Viet Nam,n,/ˌvjet ˈnæm/,Việt Nam,I'm from Viet Nam.
+4,1,My friends,sourced,Vietnamese,adj,/ˌvjetnəˈmiːz/,(người) Việt Nam,I'm Vietnamese.
+4,1,My friends,sourced,American,adj,/əˈmerɪkən/,(người) Mỹ,He's American.
+4,1,My friends,sourced,Australian,adj,/ɒˈstreɪliən/,(người) Úc,She's Australian.
+4,1,My friends,sourced,Japanese,adj,/ˌdʒæpəˈniːz/,(người) Nhật Bản,I'm Japanese.
+4,1,My friends,sourced,Malaysian,adj,/məˈleɪziən/,(người) Ma-lai-xi-a,She's Malaysian.
+4,1,My friends,sourced,where are you from?,phr,/ˌweər ɑː juː ˈfrɒm/,bạn đến từ đâu?,Where are you from? – I'm from Australia.
+4,1,My friends,sourced,what nationality are you?,phr,/ˌwɒt ˌnæʃəˈnæləti ɑː juː/,bạn là người nước nào?,What nationality are you? – I'm Vietnamese.
+4,2,Time and daily routines,sourced,time,n,/taɪm/,"thời gian, giờ",What time is it?
+4,2,Time and daily routines,sourced,o'clock,adv,/əˈklɒk/,(giờ) đúng,It's seven o'clock.
+4,2,Time and daily routines,sourced,fifteen,num,/ˌfɪfˈtiːn/,mười lăm,It's seven fifteen.
+4,2,Time and daily routines,sourced,thirty,num,/ˈθɜːti/,ba mươi,It's six thirty.
+4,2,Time and daily routines,sourced,what time is it?,phr,/ˌwɒt ˈtaɪm ɪz ɪt/,mấy giờ rồi?,What time is it? – It's ten thirty.
+4,2,Time and daily routines,sourced,get up,phr v,/ˌɡet ˈʌp/,thức dậy,I get up at six fifteen.
+4,2,Time and daily routines,sourced,have breakfast,phr,/ˌhæv ˈbrekfəst/,ăn sáng,I have breakfast at seven fifteen.
+4,2,Time and daily routines,sourced,go to bed,phr,/ˌɡəʊ tə ˈbed/,đi ngủ,I go to bed at nine thirty.
+4,2,Time and daily routines,sourced,what time do you ...?,phr,/ˌwɒt ˈtaɪm də juː/,bạn ... lúc mấy giờ?,What time do you go to bed?
+4,3,My week,sourced,week,n,/wiːk/,tuần,
+4,3,My week,sourced,Monday,n,/ˈmʌndeɪ/,thứ Hai,I go to school on Monday.
+4,3,My week,sourced,Tuesday,n,/ˈtjuːzdeɪ/,thứ Ba,
+4,3,My week,sourced,Wednesday,n,/ˈwenzdeɪ/,thứ Tư,
+4,3,My week,sourced,Thursday,n,/ˈθɜːzdeɪ/,thứ Năm,
+4,3,My week,sourced,Friday,n,/ˈfraɪdeɪ/,thứ Sáu,
+4,3,My week,sourced,Saturday,n,/ˈsætədeɪ/,thứ Bảy,
+4,3,My week,sourced,Sunday,n,/ˈsʌndeɪ/,Chủ nhật,I watch TV on Sundays.
+4,3,My week,sourced,weekend,n,/ˌwiːkˈend/,cuối tuần,I listen to music at the weekend.
+4,3,My week,sourced,go to school,phr,/ˌɡəʊ tə ˈskuːl/,đi học,I go to school from Monday to Friday.
+4,3,My week,sourced,study at school,phr,/ˌstʌdi ət ˈskuːl/,học ở trường,I study at school on Mondays.
+4,3,My week,sourced,do housework,phr,/ˌduː ˈhaʊswɜːk/,làm việc nhà,I do housework on Saturdays.
+4,3,My week,sourced,listen to music,phr,/ˌlɪsn tə ˈmjuːzɪk/,nghe nhạc,I listen to music on Sundays.
+4,3,My week,sourced,watch TV,phr,/ˌwɒtʃ ˌtiː ˈviː/,xem ti vi,I watch TV on Sundays.
+4,3,My week,sourced,what do you do on ...?,phr,/ˌwɒt də juː ˈduː ɒn/,bạn làm gì vào (thứ) ...?,What do you do on Saturdays?
+4,4,My birthday party,sourced,birthday,n,/ˈbɜːθdeɪ/,sinh nhật,When's your birthday?
+4,4,My birthday party,sourced,party,n,/ˈpɑːti/,bữa tiệc,Welcome to my birthday party.
+4,4,My birthday party,sourced,January,n,/ˈdʒænjuəri/,tháng Một,My birthday is in January.
+4,4,My birthday party,sourced,February,n,/ˈfebruəri/,tháng Hai,It's in February.
+4,4,My birthday party,sourced,March,n,/mɑːtʃ/,tháng Ba,
+4,4,My birthday party,sourced,April,n,/ˈeɪprəl/,tháng Tư,
+4,4,My birthday party,sourced,May,n,/meɪ/,tháng Năm,
+4,4,My birthday party,sourced,June,n,/dʒuːn/,tháng Sáu,
+4,4,My birthday party,sourced,July,n,/dʒuˈlaɪ/,tháng Bảy,
+4,4,My birthday party,sourced,August,n,/ˈɔːɡəst/,tháng Tám,
+4,4,My birthday party,sourced,September,n,/sepˈtembə(r)/,tháng Chín,
+4,4,My birthday party,sourced,October,n,/ɒkˈtəʊbə(r)/,tháng Mười,
+4,4,My birthday party,sourced,November,n,/nəʊˈvembə(r)/,tháng Mười một,
+4,4,My birthday party,sourced,December,n,/dɪˈsembə(r)/,tháng Mười hai,
+4,4,My birthday party,sourced,water,n,/ˈwɔːtə(r)/,nước,I want some water.
+4,4,My birthday party,sourced,lemonade,n,/ˌleməˈneɪd/,nước chanh,I want some lemonade.
+4,4,My birthday party,sourced,juice,n,/dʒuːs/,nước ép,I'd like some orange juice.
+4,4,My birthday party,sourced,grapes,n,/ɡreɪps/,quả nho,I want some grapes.
+4,4,My birthday party,sourced,chips,n,/tʃɪps/,khoai tây chiên,My favourite party food is chips.
+4,4,My birthday party,sourced,when's your birthday?,phr,/ˌwenz jɔː ˈbɜːθdeɪ/,sinh nhật của bạn vào khi nào?,When's your birthday? – It's in March.
+4,4,My birthday party,sourced,what do you want to drink?,phr,/ˌwɒt də juː ˈwɒnt tə ˈdrɪŋk/,bạn muốn uống gì?,What do you want to drink? – I want some water.
+4,5,Things we can do,sourced,can,modal v,/kæn/,có thể,I can swim.
+4,5,Things we can do,sourced,cook,v,/kʊk/,nấu ăn,My sister can cook.
+4,5,Things we can do,sourced,swim,v,/swɪm/,bơi,"Can you swim? – Yes, I can."
+4,5,Things we can do,sourced,sing,v,/sɪŋ/,hát,I can sing.
+4,5,Things we can do,sourced,draw,v,/drɔː/,vẽ,She can draw.
+4,5,Things we can do,sourced,play the piano,phr,/ˌpleɪ ðə piˈænəʊ/,chơi đàn pi-a-nô,Can you play the piano?
+4,5,Things we can do,sourced,play table tennis,phr,/ˌpleɪ ˈteɪbl tenɪs/,chơi bóng bàn,He can play table tennis.
+4,5,Things we can do,sourced,ride a bike,phr,/ˌraɪd ə ˈbaɪk/,đi xe đạp,I can ride a bike.
+4,5,Things we can do,sourced,can you ...?,phr,/ˈkæn juː/,bạn có thể ... không?,"Can you cook? – No, I can't."
+4,6,Our school facilities,sourced,school facilities,n,/ˈskuːl fəˈsɪlətiz/,cơ sở vật chất của trường,
+4,6,Our school facilities,sourced,city,n,/ˈsɪti/,thành phố,My school is in the city.
+4,6,Our school facilities,sourced,town,n,/taʊn/,thị trấn,It's in the town.
+4,6,Our school facilities,sourced,village,n,/ˈvɪlɪdʒ/,làng quê,It's in the village.
+4,6,Our school facilities,sourced,mountains,n,/ˈmaʊntənz/,vùng núi,My school is in the mountains.
+4,6,Our school facilities,sourced,building,n,/ˈbɪldɪŋ/,tòa nhà,There are two buildings.
+4,6,Our school facilities,sourced,computer room,n,/kəmˈpjuːtə ruːm/,phòng máy tính,There is a computer room.
+4,6,Our school facilities,sourced,garden,n,/ˈɡɑːdn/,khu vườn,There is a garden with many flowers.
+4,6,Our school facilities,sourced,where's your school?,phr,/ˌweəz jɔː ˈskuːl/,trường của bạn ở đâu?,Where's your school? – It's in the village.
+4,7,Our timetables,sourced,timetable,n,/ˈtaɪmteɪbl/,thời khóa biểu,Look at our timetable.
+4,7,Our timetables,sourced,subject,n,/ˈsʌbdʒɪkt/,môn học,What subjects do you have today?
+4,7,Our timetables,sourced,art,n,/ɑːt/,môn Mỹ thuật,I have art on Tuesdays.
+4,7,Our timetables,sourced,English,n,/ˈɪŋɡlɪʃ/,môn Tiếng Anh,I have English and Vietnamese.
+4,7,Our timetables,sourced,maths,n,/mæθs/,môn Toán,We have maths today.
+4,7,Our timetables,sourced,music,n,/ˈmjuːzɪk/,môn Âm nhạc,Do you have music on Thursdays?
+4,7,Our timetables,sourced,science,n,/ˈsaɪəns/,môn Khoa học,I have science today.
+4,7,Our timetables,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,môn Tiếng Việt,I have Vietnamese on Mondays.
+4,7,Our timetables,sourced,today,adv,/təˈdeɪ/,hôm nay,What subjects do you have today?
+4,7,Our timetables,sourced,what subjects do you have today?,phr,/ˌwɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/,hôm nay bạn có những môn học nào?,What subjects do you have today? – I have maths and English.
+4,8,My favourite subjects,sourced,favourite,adj,/ˈfeɪvərɪt/,yêu thích nhất,My favourite subject is art.
+4,8,My favourite subjects,sourced,subject,n,/ˈsʌbdʒɪkt/,môn học,What's your favourite subject?
+4,8,My favourite subjects,sourced,art,n,/ɑːt/,môn Mỹ thuật,I like art.
+4,8,My favourite subjects,sourced,IT,n,/ˌaɪ ˈtiː/,môn Tin học,My favourite subject is IT.
+4,8,My favourite subjects,sourced,PE,n,/ˌpiː ˈiː/,môn Giáo dục thể chất,I like PE.
+4,8,My favourite subjects,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,môn Tiếng Việt,My favourite subjects are Vietnamese and English.
+4,8,My favourite subjects,sourced,painter,n,/ˈpeɪntə(r)/,họa sĩ,I want to be a painter.
+4,8,My favourite subjects,sourced,because,conj,/bɪˈkɒz/,bởi vì,I like art because I want to be a painter.
+4,8,My favourite subjects,sourced,every day,phr,/ˌevri ˈdeɪ/,hằng ngày,I have Vietnamese every day.
+4,8,My favourite subjects,sourced,twice,adv,/twaɪs/,hai lần,I have IT twice a week.
+4,8,My favourite subjects,sourced,what's your favourite subject?,phr,/ˌwɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/,môn học yêu thích của bạn là gì?,What's your favourite subject? – It's maths.
+4,9,Our sports day,sourced,sports day,n,/ˈspɔːts deɪ/,ngày hội thể thao,Our sports day is in October.
+4,9,Our sports day,sourced,basketball,n,/ˈbɑːskɪtbɔːl/,bóng rổ,We play basketball on sports day.
+4,9,Our sports day,sourced,football,n,/ˈfʊtbɔːl/,bóng đá,They play football.
+4,9,Our sports day,sourced,roller skate,v,/ˈrəʊlə skeɪt/,trượt pa-tanh,She can roller skate.
+4,9,Our sports day,sourced,April,n,/ˈeɪprəl/,tháng Tư,Is your sports day in April?
+4,9,Our sports day,sourced,May,n,/meɪ/,tháng Năm,It's in May.
+4,9,Our sports day,sourced,June,n,/dʒuːn/,tháng Sáu,Is your sports day in June?
+4,9,Our sports day,sourced,September,n,/sepˈtembə(r)/,tháng Chín,
+4,9,Our sports day,sourced,October,n,/ɒkˈtəʊbə(r)/,tháng Mười,Our sports day is in October.
+4,9,Our sports day,sourced,November,n,/nəʊˈvembə(r)/,tháng Mười một,
+4,9,Our sports day,sourced,December,n,/dɪˈsembə(r)/,tháng Mười hai,
+4,9,Our sports day,sourced,when's your sports day?,phr,/ˌwenz jɔː ˈspɔːts deɪ/,ngày hội thể thao của bạn vào khi nào?,When's your sports day? – It's in November.
+4,10,Our summer holidays,unverified,summer holiday,n,/ˌsʌmə ˈhɒlədeɪ/,kỳ nghỉ hè,
+4,10,Our summer holidays,unverified,last summer,phr,/ˌlɑːst ˈsʌmə(r)/,mùa hè năm ngoái,Where were you last summer?
+4,10,Our summer holidays,unverified,beach,n,/biːtʃ/,bãi biển,I was at the beach.
+4,10,Our summer holidays,unverified,countryside,n,/ˈkʌntrisaɪd/,vùng nông thôn,I was in the countryside.
+4,10,Our summer holidays,unverified,campsite,n,/ˈkæmpsaɪt/,khu cắm trại,I was at a campsite.
+4,10,Our summer holidays,unverified,where were you ...?,phr,/ˈweə wɜː juː/,bạn đã ở đâu ...?,Where were you last summer?
+4,11,My home,unverified,home,n,/həʊm/,"nhà, tổ ấm",
+4,11,My home,unverified,live,v,/lɪv/,sống,I live in a big house.
+4,11,My home,unverified,street,n,/striːt/,đường phố,I live in Tran Phu Street.
+4,11,My home,unverified,road,n,/rəʊd/,con đường,It's on a quiet road.
+4,11,My home,unverified,busy,adj,/ˈbɪzi/,"đông đúc, nhộn nhịp",The street is busy.
+4,11,My home,unverified,quiet,adj,/ˈkwaɪət/,yên tĩnh,The road is quiet.
+4,11,My home,unverified,noisy,adj,/ˈnɔɪzi/,ồn ào,The street is noisy.
+4,11,My home,unverified,where do you live?,phr,/ˌweə də juː ˈlɪv/,bạn sống ở đâu?,Where do you live? – I live in Hai Ba Trung Street.
+4,12,Jobs,unverified,job,n,/dʒɒb/,"nghề nghiệp, công việc",
+4,12,Jobs,unverified,farmer,n,/ˈfɑːmə(r)/,nông dân,He's a farmer.
+4,12,Jobs,unverified,nurse,n,/nɜːs/,y tá,She's a nurse.
+4,12,Jobs,unverified,office worker,n,/ˈɒfɪs wɜːkə(r)/,nhân viên văn phòng,My mother is an office worker.
+4,12,Jobs,unverified,worker,n,/ˈwɜːkə(r)/,công nhân,He's a worker.
+4,12,Jobs,unverified,farm,n,/fɑːm/,trang trại,He works on a farm.
+4,12,Jobs,unverified,hospital,n,/ˈhɒspɪtl/,bệnh viện,She works in a hospital.
+4,12,Jobs,unverified,office,n,/ˈɒfɪs/,văn phòng,She works in an office.
+4,12,Jobs,unverified,factory,n,/ˈfæktri/,nhà máy,He works in a factory.
+4,12,Jobs,unverified,where does he work?,phr,/ˌweə dəz hi ˈwɜːk/,anh ấy làm việc ở đâu?,Where does he work? – He works in a factory.
+4,13,Appearance,unverified,appearance,n,/əˈpɪərəns/,ngoại hình,
+4,13,Appearance,unverified,tall,adj,/tɔːl/,cao,He's tall.
+4,13,Appearance,unverified,short,adj,/ʃɔːt/,thấp; ngắn,She has short hair.
+4,13,Appearance,unverified,slim,adj,/slɪm/,"mảnh khảnh, thon thả",She's slim.
+4,13,Appearance,unverified,big,adj,/bɪɡ/,"to, lớn",He's big.
+4,13,Appearance,unverified,long,adj,/lɒŋ/,dài,She has long hair.
+4,13,Appearance,unverified,hair,n,/heə(r)/,tóc,She has long hair.
+4,13,Appearance,unverified,what does he look like?,phr,/ˌwɒt dəz hi ˈlʊk laɪk/,anh ấy trông như thế nào?,What does he look like? – He's tall.
+4,14,Daily activities,unverified,morning,n,/ˈmɔːnɪŋ/,buổi sáng,What do you do in the morning?
+4,14,Daily activities,unverified,afternoon,n,/ˌɑːftəˈnuːn/,buổi chiều,I do my homework in the afternoon.
+4,14,Daily activities,unverified,evening,n,/ˈiːvnɪŋ/,buổi tối,I watch TV in the evening.
+4,14,Daily activities,unverified,wash the clothes,phr,/ˌwɒʃ ðə ˈkləʊðz/,giặt quần áo,My mother washes the clothes.
+4,14,Daily activities,unverified,wash the dishes,phr,/ˌwɒʃ ðə ˈdɪʃɪz/,rửa bát,I wash the dishes in the evening.
+4,14,Daily activities,unverified,cook dinner,phr,/ˌkʊk ˈdɪnə(r)/,nấu bữa tối,My father cooks dinner.
+4,14,Daily activities,unverified,do homework,phr,/ˌduː ˈhəʊmwɜːk/,làm bài tập về nhà,I do homework in the afternoon.
+4,15,My family's weekends,unverified,weekend,n,/ˌwiːkˈend/,cuối tuần,What does your father do at the weekend?
+4,15,My family's weekends,unverified,go shopping,phr,/ˌɡəʊ ˈʃɒpɪŋ/,đi mua sắm,My mother goes shopping.
+4,15,My family's weekends,unverified,go fishing,phr,/ˌɡəʊ ˈfɪʃɪŋ/,đi câu cá,My father goes fishing.
+4,15,My family's weekends,unverified,go swimming,phr,/ˌɡəʊ ˈswɪmɪŋ/,đi bơi,My brother goes swimming.
+4,15,My family's weekends,unverified,cinema,n,/ˈsɪnəmə/,rạp chiếu phim,She's at the cinema.
+4,15,My family's weekends,unverified,swimming pool,n,/ˈswɪmɪŋ puːl/,bể bơi,He's at the swimming pool.
+4,15,My family's weekends,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,trung tâm mua sắm,She's at the shopping centre.
+4,16,Weather,unverified,weather,n,/ˈweðə(r)/,thời tiết,What's the weather like today?
+4,16,Weather,unverified,sunny,adj,/ˈsʌni/,có nắng,It's sunny.
+4,16,Weather,unverified,rainy,adj,/ˈreɪni/,có mưa,It's rainy.
+4,16,Weather,unverified,windy,adj,/ˈwɪndi/,có gió,It's windy.
+4,16,Weather,unverified,cloudy,adj,/ˈklaʊdi/,có mây,It's cloudy.
+4,16,Weather,unverified,hot,adj,/hɒt/,nóng,It's hot.
+4,16,Weather,unverified,cold,adj,/kəʊld/,lạnh,It's cold.
+4,16,Weather,unverified,what's the weather like?,phr,/ˌwɒts ðə ˈweðə laɪk/,thời tiết thế nào?,What's the weather like? – It's sunny.
+4,17,In the city,unverified,city,n,/ˈsɪti/,thành phố,I live in the city.
+4,17,In the city,unverified,go straight,phr,/ˌɡəʊ ˈstreɪt/,đi thẳng,Go straight.
+4,17,In the city,unverified,turn left,phr,/ˌtɜːn ˈleft/,rẽ trái,Turn left.
+4,17,In the city,unverified,turn right,phr,/ˌtɜːn ˈraɪt/,rẽ phải,Turn right.
+4,17,In the city,unverified,next to,prep,/ˈnekst tə/,bên cạnh,It's next to the cinema.
+4,17,In the city,unverified,opposite,prep,/ˈɒpəzɪt/,đối diện,It's opposite the park.
+4,17,In the city,unverified,bookshop,n,/ˈbʊkʃɒp/,hiệu sách,Where's the bookshop?
+4,17,In the city,unverified,supermarket,n,/ˈsuːpəmɑːkɪt/,siêu thị,The supermarket is next to the bookshop.
+4,18,At the shopping centre,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,trung tâm mua sắm,Let's go to the shopping centre.
+4,18,At the shopping centre,unverified,floor,n,/flɔː(r)/,tầng,It's on the second floor.
+4,18,At the shopping centre,unverified,T-shirt,n,/ˈtiː ʃɜːt/,áo phông,How much is the T-shirt?
+4,18,At the shopping centre,unverified,jacket,n,/ˈdʒækɪt/,áo khoác,How much is the jacket?
+4,18,At the shopping centre,unverified,skirt,n,/skɜːt/,chân váy,I like this skirt.
+4,18,At the shopping centre,unverified,jeans,n,/dʒiːnz/,quần bò,How much are the jeans?
+4,18,At the shopping centre,unverified,how much is ...?,phr,/ˌhaʊ ˈmʌtʃ ɪz/,... giá bao nhiêu?,"How much is the T-shirt? – It's 90,000 dong."
+4,18,At the shopping centre,unverified,dong,n,/dɒŋ/,đồng (tiền Việt Nam),"It's 50,000 dong."
+4,19,The animal world,unverified,animal,n,/ˈænɪml/,"động vật, con vật",What animal is it?
+4,19,The animal world,unverified,giraffe,n,/dʒəˈrɑːf/,con hươu cao cổ,It's a giraffe.
+4,19,The animal world,unverified,crocodile,n,/ˈkrɒkədaɪl/,con cá sấu,It's a crocodile.
+4,19,The animal world,unverified,lion,n,/ˈlaɪən/,con sư tử,It's a lion.
+4,19,The animal world,unverified,zebra,n,/ˈzebrə/,con ngựa vằn,It's a zebra.
+4,19,The animal world,unverified,climb,v,/klaɪm/,"leo, trèo",Monkeys can climb.
+4,19,The animal world,unverified,swim,v,/swɪm/,bơi,Crocodiles can swim.
+4,20,At summer camp,unverified,summer camp,n,/ˈsʌmə kæmp/,trại hè,We're at summer camp.
+4,20,At summer camp,unverified,tent,n,/tent/,cái lều,They're putting up a tent.
+4,20,At summer camp,unverified,campfire,n,/ˈkæmpfaɪə(r)/,lửa trại,We're singing around the campfire.
+4,20,At summer camp,unverified,put up a tent,phr,/ˌpʊt ʌp ə ˈtent/,dựng lều,They're putting up a tent.
+4,20,At summer camp,unverified,play tug of war,phr,/ˌpleɪ ˌtʌɡ əv ˈwɔː(r)/,chơi kéo co,They're playing tug of war.
+4,20,At summer camp,unverified,what are they doing?,phr,/ˌwɒt ɑː ðeɪ ˈduːɪŋ/,họ đang làm gì?,What are they doing? – They're playing tug of war.

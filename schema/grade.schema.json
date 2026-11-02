@@ -12,11 +12,15 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["unit", "title", "title_vi", "sources", "words"],
+        "required": ["unit", "title", "title_vi", "status", "sources", "words"],
         "properties": {
           "unit": { "type": "integer", "minimum": 1 },
           "title": { "type": "string" },
           "title_vi": { "type": "string" },
+          "status": {
+            "enum": ["sourced", "unverified"],
+            "description": "sourced: word list confirmed by the listed sources; unverified: draft not yet checked against sources"
+          },
           "sources": { "type": "array", "items": { "type": "string" } },
           "words": {
             "type": "array",

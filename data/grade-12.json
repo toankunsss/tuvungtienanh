@@ -1,0 +1,935 @@
+{
+  "grade": 12,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 12 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Life stories we admire",
+      "title_vi": "Những câu chuyện cuộc đời chúng ta ngưỡng mộ",
+      "status": "sourced",
+      "sources": [
+        "https://vietjack.com/tieng-anh-12-moi/unit-1-tu-vung-lop-12-moi.jsp",
+        "https://yourhomework.net/vocabulary/lesson/000000264149-g",
+        "https://yourhomework.net/vocabulary/lesson/000001117007-k",
+        "https://quizlet.com/vn/918904669/unit-1-life-stories-we-admire-tieng-anh-12-global-success-flash-cards/",
+        "https://zim.vn/tu-vung-tieng-anh-12-unit-1-global-success",
+        "https://situ.edu.vn/loi-giai-sach-bai-tap-tieng-anh-lop-12-global-success/"
+      ],
+      "words": [
+        {
+          "word": "account",
+          "pos": "n",
+          "ipa": "/əˈkaʊnt/",
+          "meaning": "bản tường thuật, lời kể"
+        },
+        {
+          "word": "achievement",
+          "pos": "n",
+          "ipa": "/əˈtʃiːvmənt/",
+          "meaning": "thành tựu"
+        },
+        {
+          "word": "admire",
+          "pos": "v",
+          "ipa": "/ədˈmaɪə(r)/",
+          "meaning": "ngưỡng mộ",
+          "example": "We all admire her courage."
+        },
+        {
+          "word": "adopt",
+          "pos": "v",
+          "ipa": "/əˈdɒpt/",
+          "meaning": "nhận nuôi"
+        },
+        {
+          "word": "ambitious",
+          "pos": "adj",
+          "ipa": "/æmˈbɪʃəs/",
+          "meaning": "có hoài bão, tham vọng"
+        },
+        {
+          "word": "animated",
+          "pos": "adj",
+          "ipa": "/ˈænɪmeɪtɪd/",
+          "meaning": "(phim) hoạt hình"
+        },
+        {
+          "word": "army",
+          "pos": "n",
+          "ipa": "/ˈɑːmi/",
+          "meaning": "quân đội"
+        },
+        {
+          "word": "attack",
+          "pos": "n",
+          "ipa": "/əˈtæk/",
+          "meaning": "cuộc tấn công"
+        },
+        {
+          "word": "battle",
+          "pos": "n",
+          "ipa": "/ˈbætl/",
+          "meaning": "trận đánh"
+        },
+        {
+          "word": "biography",
+          "pos": "n",
+          "ipa": "/baɪˈɒɡrəfi/",
+          "meaning": "tiểu sử"
+        },
+        {
+          "word": "biological",
+          "pos": "adj",
+          "ipa": "/ˌbaɪəˈlɒdʒɪkl/",
+          "meaning": "(cha mẹ) ruột, thuộc về sinh học"
+        },
+        {
+          "word": "bond",
+          "pos": "n",
+          "ipa": "/bɒnd/",
+          "meaning": "mối gắn kết"
+        },
+        {
+          "word": "dedication",
+          "pos": "n",
+          "ipa": "/ˌdedɪˈkeɪʃn/",
+          "meaning": "sự cống hiến, tận tụy"
+        },
+        {
+          "word": "defeat",
+          "pos": "v",
+          "ipa": "/dɪˈfiːt/",
+          "meaning": "đánh bại"
+        },
+        {
+          "word": "determination",
+          "pos": "n",
+          "ipa": "/dɪˌtɜːmɪˈneɪʃn/",
+          "meaning": "sự quyết tâm"
+        },
+        {
+          "word": "devote",
+          "pos": "v",
+          "ipa": "/dɪˈvəʊt/",
+          "meaning": "cống hiến, hiến dâng"
+        },
+        {
+          "word": "diary",
+          "pos": "n",
+          "ipa": "/ˈdaɪəri/",
+          "meaning": "nhật ký"
+        },
+        {
+          "word": "distinguished",
+          "pos": "adj",
+          "ipa": "/dɪˈstɪŋɡwɪʃt/",
+          "meaning": "xuất sắc, lỗi lạc"
+        },
+        {
+          "word": "duty",
+          "pos": "n",
+          "ipa": "/ˈdjuːti/",
+          "meaning": "nhiệm vụ, bổn phận"
+        },
+        {
+          "word": "enemy",
+          "pos": "n",
+          "ipa": "/ˈenəmi/",
+          "meaning": "kẻ thù, quân địch"
+        },
+        {
+          "word": "field hospital",
+          "pos": "n",
+          "ipa": "/ˈfiːld hɒspɪtl/",
+          "meaning": "bệnh viện dã chiến"
+        },
+        {
+          "word": "figure",
+          "pos": "n",
+          "ipa": "/ˈfɪɡə(r)/",
+          "meaning": "nhân vật"
+        },
+        {
+          "word": "genius",
+          "pos": "n",
+          "ipa": "/ˈdʒiːniəs/",
+          "meaning": "thiên tài"
+        },
+        {
+          "word": "hero",
+          "pos": "n",
+          "ipa": "/ˈhɪərəʊ/",
+          "meaning": "anh hùng"
+        },
+        {
+          "word": "legend",
+          "pos": "n",
+          "ipa": "/ˈledʒənd/",
+          "meaning": "huyền thoại"
+        },
+        {
+          "word": "marriage",
+          "pos": "n",
+          "ipa": "/ˈmærɪdʒ/",
+          "meaning": "hôn nhân"
+        },
+        {
+          "word": "military",
+          "pos": "adj",
+          "ipa": "/ˈmɪlətri/",
+          "meaning": "thuộc về quân sự"
+        },
+        {
+          "word": "reputation",
+          "pos": "n",
+          "ipa": "/ˌrepjuˈteɪʃn/",
+          "meaning": "danh tiếng"
+        },
+        {
+          "word": "resistance war",
+          "pos": "n",
+          "ipa": "/rɪˈzɪstəns wɔː(r)/",
+          "meaning": "cuộc kháng chiến"
+        },
+        {
+          "word": "respectable",
+          "pos": "adj",
+          "ipa": "/rɪˈspektəbl/",
+          "meaning": "đáng kính"
+        },
+        {
+          "word": "surgeon",
+          "pos": "n",
+          "ipa": "/ˈsɜːdʒən/",
+          "meaning": "bác sĩ phẫu thuật"
+        },
+        {
+          "word": "talented",
+          "pos": "adj",
+          "ipa": "/ˈtæləntɪd/",
+          "meaning": "tài năng"
+        },
+        {
+          "word": "volunteer",
+          "pos": "v",
+          "ipa": "/ˌvɒlənˈtɪə(r)/",
+          "meaning": "tình nguyện"
+        },
+        {
+          "word": "waver",
+          "pos": "v",
+          "ipa": "/ˈweɪvə(r)/",
+          "meaning": "dao động, nao núng"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "A multicultural world",
+      "title_vi": "Một thế giới đa văn hóa",
+      "status": "sourced",
+      "sources": [
+        "https://vietjack.com/tieng-anh-12-moi/unit-2-tu-vung-lop-12-moi.jsp",
+        "https://vndoc.com/tu-vung-unit-2-lop-12-a-multicultural-world-320825",
+        "https://zim.vn/tu-vung-tieng-anh-12-unit-2-global-success",
+        "https://quizlet.com/vn/928132008/global-success-12-unit-2-a-multicultural-world-vocabulary-flash-cards/",
+        "https://quizlet.com/vn/919077028/unit-2-a-multiculttural-world-tieng-anh-12-global-success-flash-cards/"
+      ],
+      "words": [
+        {
+          "word": "appreciate",
+          "pos": "v",
+          "ipa": "/əˈpriːʃieɪt/",
+          "meaning": "trân trọng, đánh giá cao"
+        },
+        {
+          "word": "blend",
+          "pos": "v",
+          "ipa": "/blend/",
+          "meaning": "pha trộn, hòa trộn"
+        },
+        {
+          "word": "booth",
+          "pos": "n",
+          "ipa": "/buːð/",
+          "meaning": "gian hàng"
+        },
+        {
+          "word": "celebrate",
+          "pos": "v",
+          "ipa": "/ˈselɪbreɪt/",
+          "meaning": "kỷ niệm, tổ chức (lễ)"
+        },
+        {
+          "word": "costume",
+          "pos": "n",
+          "ipa": "/ˈkɒstjuːm/",
+          "meaning": "trang phục"
+        },
+        {
+          "word": "cross-cultural",
+          "pos": "adj",
+          "ipa": "/ˌkrɒs ˈkʌltʃərəl/",
+          "meaning": "giao thoa văn hóa, liên văn hóa"
+        },
+        {
+          "word": "cuisine",
+          "pos": "n",
+          "ipa": "/kwɪˈziːn/",
+          "meaning": "ẩm thực"
+        },
+        {
+          "word": "cultural",
+          "pos": "adj",
+          "ipa": "/ˈkʌltʃərəl/",
+          "meaning": "thuộc về văn hóa"
+        },
+        {
+          "word": "culture shock",
+          "pos": "n",
+          "ipa": "/ˈkʌltʃə ʃɒk/",
+          "meaning": "sốc văn hóa"
+        },
+        {
+          "word": "custom",
+          "pos": "n",
+          "ipa": "/ˈkʌstəm/",
+          "meaning": "phong tục"
+        },
+        {
+          "word": "discrimination",
+          "pos": "n",
+          "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+          "meaning": "sự phân biệt đối xử"
+        },
+        {
+          "word": "diverse",
+          "pos": "adj",
+          "ipa": "/daɪˈvɜːs/",
+          "meaning": "đa dạng"
+        },
+        {
+          "word": "diversity",
+          "pos": "n",
+          "ipa": "/daɪˈvɜːsəti/",
+          "meaning": "sự đa dạng"
+        },
+        {
+          "word": "festivity",
+          "pos": "n",
+          "ipa": "/feˈstɪvəti/",
+          "meaning": "lễ hội, hoạt động vui chơi ngày hội"
+        },
+        {
+          "word": "heritage",
+          "pos": "n",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "meaning": "di sản"
+        },
+        {
+          "word": "identity",
+          "pos": "n",
+          "ipa": "/aɪˈdentəti/",
+          "meaning": "bản sắc"
+        },
+        {
+          "word": "integration",
+          "pos": "n",
+          "ipa": "/ˌɪntɪˈɡreɪʃn/",
+          "meaning": "sự hội nhập"
+        },
+        {
+          "word": "keep up with",
+          "pos": "phr v",
+          "ipa": "/ˌkiːp ˈʌp wɪð/",
+          "meaning": "theo kịp"
+        },
+        {
+          "word": "lifestyle",
+          "pos": "n",
+          "ipa": "/ˈlaɪfstaɪl/",
+          "meaning": "lối sống"
+        },
+        {
+          "word": "migrate",
+          "pos": "v",
+          "ipa": "/maɪˈɡreɪt/",
+          "meaning": "di cư"
+        },
+        {
+          "word": "migration",
+          "pos": "n",
+          "ipa": "/maɪˈɡreɪʃn/",
+          "meaning": "sự di cư"
+        },
+        {
+          "word": "multicultural",
+          "pos": "adj",
+          "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+          "meaning": "đa văn hóa",
+          "example": "We live in a multicultural world."
+        },
+        {
+          "word": "multilingual",
+          "pos": "adj",
+          "ipa": "/ˌmʌltiˈlɪŋɡwəl/",
+          "meaning": "đa ngôn ngữ"
+        },
+        {
+          "word": "reflect",
+          "pos": "v",
+          "ipa": "/rɪˈflekt/",
+          "meaning": "phản ánh"
+        },
+        {
+          "word": "souvenir",
+          "pos": "n",
+          "ipa": "/ˌsuːvəˈnɪə(r)/",
+          "meaning": "quà lưu niệm"
+        },
+        {
+          "word": "specialty",
+          "pos": "n",
+          "ipa": "/ˈspeʃəlti/",
+          "meaning": "đặc sản"
+        },
+        {
+          "word": "spicy",
+          "pos": "adj",
+          "ipa": "/ˈspaɪsi/",
+          "meaning": "cay"
+        },
+        {
+          "word": "staple",
+          "pos": "n",
+          "ipa": "/ˈsteɪpl/",
+          "meaning": "lương thực chính, thực phẩm chủ yếu"
+        },
+        {
+          "word": "traditional",
+          "pos": "adj",
+          "ipa": "/trəˈdɪʃənl/",
+          "meaning": "truyền thống"
+        },
+        {
+          "word": "trend",
+          "pos": "n",
+          "ipa": "/trend/",
+          "meaning": "xu hướng"
+        },
+        {
+          "word": "world-famous",
+          "pos": "adj",
+          "ipa": "/ˌwɜːld ˈfeɪməs/",
+          "meaning": "nổi tiếng thế giới"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Green living",
+      "title_vi": "Lối sống xanh",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "green living",
+          "pos": "n",
+          "ipa": "/ˌɡriːn ˈlɪvɪŋ/",
+          "meaning": "lối sống xanh"
+        },
+        {
+          "word": "carbon footprint",
+          "pos": "n",
+          "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+          "meaning": "lượng khí thải các-bon"
+        },
+        {
+          "word": "compost",
+          "pos": "n",
+          "ipa": "/ˈkɒmpɒst/",
+          "meaning": "phân hữu cơ, phân trộn"
+        },
+        {
+          "word": "eco-friendly",
+          "pos": "adj",
+          "ipa": "/ˌiːkəʊ ˈfrendli/",
+          "meaning": "thân thiện với môi trường"
+        },
+        {
+          "word": "landfill",
+          "pos": "n",
+          "ipa": "/ˈlændfɪl/",
+          "meaning": "bãi chôn lấp rác"
+        },
+        {
+          "word": "litter",
+          "pos": "n",
+          "ipa": "/ˈlɪtə(r)/",
+          "meaning": "rác (vứt bừa bãi)"
+        },
+        {
+          "word": "recycle",
+          "pos": "v",
+          "ipa": "/ˌriːˈsaɪkl/",
+          "meaning": "tái chế"
+        },
+        {
+          "word": "reusable",
+          "pos": "adj",
+          "ipa": "/ˌriːˈjuːzəbl/",
+          "meaning": "có thể tái sử dụng"
+        },
+        {
+          "word": "single-use",
+          "pos": "adj",
+          "ipa": "/ˌsɪŋɡl ˈjuːs/",
+          "meaning": "dùng một lần"
+        },
+        {
+          "word": "sustainable",
+          "pos": "adj",
+          "ipa": "/səˈsteɪnəbl/",
+          "meaning": "bền vững"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Urbanisation",
+      "title_vi": "Đô thị hóa",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "urbanisation",
+          "pos": "n",
+          "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+          "meaning": "sự đô thị hóa"
+        },
+        {
+          "word": "urban",
+          "pos": "adj",
+          "ipa": "/ˈɜːbən/",
+          "meaning": "thuộc đô thị"
+        },
+        {
+          "word": "rural",
+          "pos": "adj",
+          "ipa": "/ˈrʊərəl/",
+          "meaning": "thuộc nông thôn"
+        },
+        {
+          "word": "agricultural",
+          "pos": "adj",
+          "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+          "meaning": "thuộc về nông nghiệp"
+        },
+        {
+          "word": "slum",
+          "pos": "n",
+          "ipa": "/slʌm/",
+          "meaning": "khu ổ chuột"
+        },
+        {
+          "word": "sanitation",
+          "pos": "n",
+          "ipa": "/ˌsænɪˈteɪʃn/",
+          "meaning": "hệ thống vệ sinh"
+        },
+        {
+          "word": "overcrowded",
+          "pos": "adj",
+          "ipa": "/ˌəʊvəˈkraʊdɪd/",
+          "meaning": "quá đông đúc"
+        },
+        {
+          "word": "infrastructure",
+          "pos": "n",
+          "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+          "meaning": "cơ sở hạ tầng"
+        },
+        {
+          "word": "migrate",
+          "pos": "v",
+          "ipa": "/maɪˈɡreɪt/",
+          "meaning": "di cư"
+        },
+        {
+          "word": "unemployment",
+          "pos": "n",
+          "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+          "meaning": "tình trạng thất nghiệp"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "The world of work",
+      "title_vi": "Thế giới việc làm",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "applicant",
+          "pos": "n",
+          "ipa": "/ˈæplɪkənt/",
+          "meaning": "người nộp đơn, ứng viên"
+        },
+        {
+          "word": "candidate",
+          "pos": "n",
+          "ipa": "/ˈkændɪdət/",
+          "meaning": "ứng viên"
+        },
+        {
+          "word": "colleague",
+          "pos": "n",
+          "ipa": "/ˈkɒliːɡ/",
+          "meaning": "đồng nghiệp"
+        },
+        {
+          "word": "CV",
+          "pos": "n",
+          "ipa": "/ˌsiː ˈviː/",
+          "meaning": "sơ yếu lý lịch"
+        },
+        {
+          "word": "employer",
+          "pos": "n",
+          "ipa": "/ɪmˈplɔɪə(r)/",
+          "meaning": "người sử dụng lao động"
+        },
+        {
+          "word": "employee",
+          "pos": "n",
+          "ipa": "/ɪmˈplɔɪiː/",
+          "meaning": "người lao động, nhân viên"
+        },
+        {
+          "word": "full-time",
+          "pos": "adj",
+          "ipa": "/ˌfʊl ˈtaɪm/",
+          "meaning": "toàn thời gian"
+        },
+        {
+          "word": "part-time",
+          "pos": "adj",
+          "ipa": "/ˌpɑːt ˈtaɪm/",
+          "meaning": "bán thời gian"
+        },
+        {
+          "word": "interview",
+          "pos": "n",
+          "ipa": "/ˈɪntəvjuː/",
+          "meaning": "cuộc phỏng vấn"
+        },
+        {
+          "word": "recruit",
+          "pos": "v",
+          "ipa": "/rɪˈkruːt/",
+          "meaning": "tuyển dụng"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Artificial intelligence",
+      "title_vi": "Trí tuệ nhân tạo",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "artificial intelligence",
+          "pos": "n",
+          "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+          "meaning": "trí tuệ nhân tạo"
+        },
+        {
+          "word": "algorithm",
+          "pos": "n",
+          "ipa": "/ˈælɡərɪðəm/",
+          "meaning": "thuật toán"
+        },
+        {
+          "word": "chatbot",
+          "pos": "n",
+          "ipa": "/ˈtʃætbɒt/",
+          "meaning": "chương trình trò chuyện tự động"
+        },
+        {
+          "word": "data",
+          "pos": "n",
+          "ipa": "/ˈdeɪtə/",
+          "meaning": "dữ liệu"
+        },
+        {
+          "word": "facial recognition",
+          "pos": "n",
+          "ipa": "/ˌfeɪʃl rekəɡˈnɪʃn/",
+          "meaning": "nhận diện khuôn mặt"
+        },
+        {
+          "word": "machine learning",
+          "pos": "n",
+          "ipa": "/məˈʃiːn lɜːnɪŋ/",
+          "meaning": "học máy"
+        },
+        {
+          "word": "robot",
+          "pos": "n",
+          "ipa": "/ˈrəʊbɒt/",
+          "meaning": "người máy"
+        },
+        {
+          "word": "virtual assistant",
+          "pos": "n",
+          "ipa": "/ˌvɜːtʃuəl əˈsɪstənt/",
+          "meaning": "trợ lý ảo"
+        },
+        {
+          "word": "automate",
+          "pos": "v",
+          "ipa": "/ˈɔːtəmeɪt/",
+          "meaning": "tự động hóa"
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "The world of mass media",
+      "title_vi": "Thế giới truyền thông đại chúng",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "mass media",
+          "pos": "n",
+          "ipa": "/ˌmæs ˈmiːdiə/",
+          "meaning": "phương tiện truyền thông đại chúng"
+        },
+        {
+          "word": "audience",
+          "pos": "n",
+          "ipa": "/ˈɔːdiəns/",
+          "meaning": "khán giả, độc giả"
+        },
+        {
+          "word": "broadcast",
+          "pos": "v",
+          "ipa": "/ˈbrɔːdkɑːst/",
+          "meaning": "phát sóng"
+        },
+        {
+          "word": "journalist",
+          "pos": "n",
+          "ipa": "/ˈdʒɜːnəlɪst/",
+          "meaning": "nhà báo"
+        },
+        {
+          "word": "fake news",
+          "pos": "n",
+          "ipa": "/ˌfeɪk ˈnjuːz/",
+          "meaning": "tin giả"
+        },
+        {
+          "word": "advertisement",
+          "pos": "n",
+          "ipa": "/ədˈvɜːtɪsmənt/",
+          "meaning": "quảng cáo"
+        },
+        {
+          "word": "podcast",
+          "pos": "n",
+          "ipa": "/ˈpɒdkɑːst/",
+          "meaning": "chương trình phát thanh trực tuyến"
+        },
+        {
+          "word": "publish",
+          "pos": "v",
+          "ipa": "/ˈpʌblɪʃ/",
+          "meaning": "xuất bản, đăng tải"
+        },
+        {
+          "word": "social media",
+          "pos": "n",
+          "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+          "meaning": "mạng xã hội"
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Wildlife conservation",
+      "title_vi": "Bảo tồn động vật hoang dã",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "wildlife",
+          "pos": "n",
+          "ipa": "/ˈwaɪldlaɪf/",
+          "meaning": "động vật hoang dã"
+        },
+        {
+          "word": "conservation",
+          "pos": "n",
+          "ipa": "/ˌkɒnsəˈveɪʃn/",
+          "meaning": "sự bảo tồn"
+        },
+        {
+          "word": "endangered",
+          "pos": "adj",
+          "ipa": "/ɪnˈdeɪndʒəd/",
+          "meaning": "có nguy cơ tuyệt chủng"
+        },
+        {
+          "word": "extinct",
+          "pos": "adj",
+          "ipa": "/ɪkˈstɪŋkt/",
+          "meaning": "tuyệt chủng"
+        },
+        {
+          "word": "habitat",
+          "pos": "n",
+          "ipa": "/ˈhæbɪtæt/",
+          "meaning": "môi trường sống"
+        },
+        {
+          "word": "poaching",
+          "pos": "n",
+          "ipa": "/ˈpəʊtʃɪŋ/",
+          "meaning": "sự săn trộm"
+        },
+        {
+          "word": "poacher",
+          "pos": "n",
+          "ipa": "/ˈpəʊtʃə(r)/",
+          "meaning": "kẻ săn trộm"
+        },
+        {
+          "word": "species",
+          "pos": "n",
+          "ipa": "/ˈspiːʃiːz/",
+          "meaning": "loài"
+        },
+        {
+          "word": "captivity",
+          "pos": "n",
+          "ipa": "/kæpˈtɪvəti/",
+          "meaning": "tình trạng bị nuôi nhốt"
+        },
+        {
+          "word": "illegal",
+          "pos": "adj",
+          "ipa": "/ɪˈliːɡl/",
+          "meaning": "bất hợp pháp"
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Career paths",
+      "title_vi": "Con đường sự nghiệp",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "career path",
+          "pos": "n",
+          "ipa": "/kəˈrɪə pɑːθ/",
+          "meaning": "con đường sự nghiệp"
+        },
+        {
+          "word": "career counsellor",
+          "pos": "n",
+          "ipa": "/kəˈrɪə kaʊnsələ(r)/",
+          "meaning": "người tư vấn hướng nghiệp"
+        },
+        {
+          "word": "aptitude",
+          "pos": "n",
+          "ipa": "/ˈæptɪtjuːd/",
+          "meaning": "năng khiếu, khả năng"
+        },
+        {
+          "word": "vocational",
+          "pos": "adj",
+          "ipa": "/vəʊˈkeɪʃənl/",
+          "meaning": "thuộc về hướng nghiệp, dạy nghề"
+        },
+        {
+          "word": "qualification",
+          "pos": "n",
+          "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "meaning": "bằng cấp, trình độ"
+        },
+        {
+          "word": "personality",
+          "pos": "n",
+          "ipa": "/ˌpɜːsəˈnæləti/",
+          "meaning": "tính cách"
+        },
+        {
+          "word": "apprenticeship",
+          "pos": "n",
+          "ipa": "/əˈprentɪʃɪp/",
+          "meaning": "thời gian học việc"
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Lifelong learning",
+      "title_vi": "Học tập suốt đời",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "lifelong learning",
+          "pos": "n",
+          "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+          "meaning": "học tập suốt đời"
+        },
+        {
+          "word": "self-motivated",
+          "pos": "adj",
+          "ipa": "/ˌself ˈməʊtɪveɪtɪd/",
+          "meaning": "tự tạo động lực"
+        },
+        {
+          "word": "self-directed",
+          "pos": "adj",
+          "ipa": "/ˌself dəˈrektɪd/",
+          "meaning": "tự định hướng"
+        },
+        {
+          "word": "acquire",
+          "pos": "v",
+          "ipa": "/əˈkwaɪə(r)/",
+          "meaning": "đạt được, tiếp thu"
+        },
+        {
+          "word": "knowledge",
+          "pos": "n",
+          "ipa": "/ˈnɒlɪdʒ/",
+          "meaning": "kiến thức"
+        },
+        {
+          "word": "online course",
+          "pos": "n",
+          "ipa": "/ˌɒnlaɪn ˈkɔːs/",
+          "meaning": "khóa học trực tuyến"
+        },
+        {
+          "word": "learner",
+          "pos": "n",
+          "ipa": "/ˈlɜːnə(r)/",
+          "meaning": "người học"
+        }
+      ]
+    }
+  ]
+}

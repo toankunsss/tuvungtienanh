@@ -1,0 +1,1097 @@
+{
+  "total_words": 2538,
+  "grades": [
+    {
+      "grade": 1,
+      "words": 83,
+      "units": [
+        {
+          "unit": 1,
+          "title": "In the school playground",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 2,
+          "title": "In the dining room",
+          "status": "sourced",
+          "words": 6
+        },
+        {
+          "unit": 3,
+          "title": "At the street market",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 4,
+          "title": "In the bedroom",
+          "status": "sourced",
+          "words": 6
+        },
+        {
+          "unit": 5,
+          "title": "At the fish and chip shop",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 6,
+          "title": "In the classroom",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 7,
+          "title": "In the garden",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 8,
+          "title": "In the park",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 9,
+          "title": "In the shop",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 10,
+          "title": "At the zoo",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 11,
+          "title": "At the bus stop",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 12,
+          "title": "At the lake",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 13,
+          "title": "In the school canteen",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 14,
+          "title": "In the toy shop",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 15,
+          "title": "At the football match",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 16,
+          "title": "At home",
+          "status": "sourced",
+          "words": 4
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "words": 66,
+      "units": [
+        {
+          "unit": 1,
+          "title": "At my birthday party",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 2,
+          "title": "In the backyard",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 3,
+          "title": "At the seaside",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 4,
+          "title": "In the countryside",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 5,
+          "title": "In the classroom",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 6,
+          "title": "On the farm",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 7,
+          "title": "In the kitchen",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 8,
+          "title": "In the village",
+          "status": "sourced",
+          "words": 3
+        },
+        {
+          "unit": 9,
+          "title": "In the grocery store",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 10,
+          "title": "At the zoo",
+          "status": "sourced",
+          "words": 3
+        },
+        {
+          "unit": 11,
+          "title": "In the playground",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 12,
+          "title": "At the café",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 13,
+          "title": "In the maths class",
+          "status": "sourced",
+          "words": 5
+        },
+        {
+          "unit": 14,
+          "title": "At home",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 15,
+          "title": "In the clothes shop",
+          "status": "sourced",
+          "words": 4
+        },
+        {
+          "unit": 16,
+          "title": "At the campsite",
+          "status": "sourced",
+          "words": 4
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "words": 214,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Hello",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 2,
+          "title": "Our names",
+          "status": "sourced",
+          "words": 17
+        },
+        {
+          "unit": 3,
+          "title": "Our friends",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 4,
+          "title": "Our bodies",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 5,
+          "title": "My hobbies",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 6,
+          "title": "Our school",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 7,
+          "title": "Classroom instructions",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 8,
+          "title": "My school things",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 9,
+          "title": "Colours",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 10,
+          "title": "Break time activities",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 11,
+          "title": "My family",
+          "status": "sourced",
+          "words": 13
+        },
+        {
+          "unit": 12,
+          "title": "Jobs",
+          "status": "sourced",
+          "words": 6
+        },
+        {
+          "unit": 13,
+          "title": "My house",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 14,
+          "title": "My bedroom",
+          "status": "sourced",
+          "words": 13
+        },
+        {
+          "unit": 15,
+          "title": "At the dining table",
+          "status": "sourced",
+          "words": 15
+        },
+        {
+          "unit": 16,
+          "title": "My pets",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 17,
+          "title": "Our toys",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 18,
+          "title": "Playing and doing",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 19,
+          "title": "Outdoor activities",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 20,
+          "title": "At the zoo",
+          "status": "sourced",
+          "words": 11
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "words": 193,
+      "units": [
+        {
+          "unit": 1,
+          "title": "My friends",
+          "status": "sourced",
+          "words": 14
+        },
+        {
+          "unit": 2,
+          "title": "Time and daily routines",
+          "status": "sourced",
+          "words": 9
+        },
+        {
+          "unit": 3,
+          "title": "My week",
+          "status": "sourced",
+          "words": 15
+        },
+        {
+          "unit": 4,
+          "title": "My birthday party",
+          "status": "sourced",
+          "words": 21
+        },
+        {
+          "unit": 5,
+          "title": "Things we can do",
+          "status": "sourced",
+          "words": 9
+        },
+        {
+          "unit": 6,
+          "title": "Our school facilities",
+          "status": "sourced",
+          "words": 9
+        },
+        {
+          "unit": 7,
+          "title": "Our timetables",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 8,
+          "title": "My favourite subjects",
+          "status": "sourced",
+          "words": 11
+        },
+        {
+          "unit": 9,
+          "title": "Our sports day",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 10,
+          "title": "Our summer holidays",
+          "status": "unverified",
+          "words": 6
+        },
+        {
+          "unit": 11,
+          "title": "My home",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 12,
+          "title": "Jobs",
+          "status": "unverified",
+          "words": 10
+        },
+        {
+          "unit": 13,
+          "title": "Appearance",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 14,
+          "title": "Daily activities",
+          "status": "unverified",
+          "words": 7
+        },
+        {
+          "unit": 15,
+          "title": "My family's weekends",
+          "status": "unverified",
+          "words": 7
+        },
+        {
+          "unit": 16,
+          "title": "Weather",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 17,
+          "title": "In the city",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 18,
+          "title": "At the shopping centre",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 19,
+          "title": "The animal world",
+          "status": "unverified",
+          "words": 7
+        },
+        {
+          "unit": 20,
+          "title": "At summer camp",
+          "status": "unverified",
+          "words": 6
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "words": 202,
+      "units": [
+        {
+          "unit": 1,
+          "title": "All about me!",
+          "status": "sourced",
+          "words": 17
+        },
+        {
+          "unit": 2,
+          "title": "Our homes",
+          "status": "sourced",
+          "words": 9
+        },
+        {
+          "unit": 3,
+          "title": "My foreign friends",
+          "status": "sourced",
+          "words": 14
+        },
+        {
+          "unit": 4,
+          "title": "Our free-time activities",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 5,
+          "title": "My future job",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 6,
+          "title": "Our school rooms",
+          "status": "sourced",
+          "words": 15
+        },
+        {
+          "unit": 7,
+          "title": "Our favourite school activities",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 8,
+          "title": "In our classroom",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 9,
+          "title": "Our outdoor activities",
+          "status": "sourced",
+          "words": 9
+        },
+        {
+          "unit": 10,
+          "title": "Our school trip",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 11,
+          "title": "Family time",
+          "status": "sourced",
+          "words": 7
+        },
+        {
+          "unit": 12,
+          "title": "Our Tet holiday",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 13,
+          "title": "Our special days",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 14,
+          "title": "Staying healthy",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 15,
+          "title": "Our health",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 16,
+          "title": "Seasons and the weather",
+          "status": "sourced",
+          "words": 13
+        },
+        {
+          "unit": 17,
+          "title": "Stories for children",
+          "status": "sourced",
+          "words": 10
+        },
+        {
+          "unit": 18,
+          "title": "Means of transport",
+          "status": "sourced",
+          "words": 8
+        },
+        {
+          "unit": 19,
+          "title": "Places of interest",
+          "status": "unverified",
+          "words": 8
+        },
+        {
+          "unit": 20,
+          "title": "Our summer holidays",
+          "status": "unverified",
+          "words": 7
+        }
+      ]
+    },
+    {
+      "grade": 6,
+      "words": 348,
+      "units": [
+        {
+          "unit": 1,
+          "title": "My new school",
+          "status": "unverified",
+          "words": 35
+        },
+        {
+          "unit": 2,
+          "title": "My house",
+          "status": "unverified",
+          "words": 31
+        },
+        {
+          "unit": 3,
+          "title": "My friends",
+          "status": "unverified",
+          "words": 31
+        },
+        {
+          "unit": 4,
+          "title": "My neighbourhood",
+          "status": "unverified",
+          "words": 33
+        },
+        {
+          "unit": 5,
+          "title": "Natural wonders of Viet Nam",
+          "status": "unverified",
+          "words": 28
+        },
+        {
+          "unit": 6,
+          "title": "Our Tet holiday",
+          "status": "unverified",
+          "words": 27
+        },
+        {
+          "unit": 7,
+          "title": "Television",
+          "status": "unverified",
+          "words": 28
+        },
+        {
+          "unit": 8,
+          "title": "Sports and games",
+          "status": "unverified",
+          "words": 31
+        },
+        {
+          "unit": 9,
+          "title": "Cities of the world",
+          "status": "unverified",
+          "words": 25
+        },
+        {
+          "unit": 10,
+          "title": "Our houses in the future",
+          "status": "unverified",
+          "words": 26
+        },
+        {
+          "unit": 11,
+          "title": "Our greener world",
+          "status": "unverified",
+          "words": 27
+        },
+        {
+          "unit": 12,
+          "title": "Robots",
+          "status": "unverified",
+          "words": 26
+        }
+      ]
+    },
+    {
+      "grade": 7,
+      "words": 230,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Hobbies",
+          "status": "unverified",
+          "words": 21
+        },
+        {
+          "unit": 2,
+          "title": "Healthy Living",
+          "status": "unverified",
+          "words": 22
+        },
+        {
+          "unit": 3,
+          "title": "Community Service",
+          "status": "unverified",
+          "words": 18
+        },
+        {
+          "unit": 4,
+          "title": "Music and Arts",
+          "status": "unverified",
+          "words": 20
+        },
+        {
+          "unit": 5,
+          "title": "Food and Drink",
+          "status": "unverified",
+          "words": 20
+        },
+        {
+          "unit": 6,
+          "title": "A Visit to a School",
+          "status": "unverified",
+          "words": 15
+        },
+        {
+          "unit": 7,
+          "title": "Traffic",
+          "status": "unverified",
+          "words": 19
+        },
+        {
+          "unit": 8,
+          "title": "Films",
+          "status": "unverified",
+          "words": 20
+        },
+        {
+          "unit": 9,
+          "title": "Festivals around the World",
+          "status": "unverified",
+          "words": 20
+        },
+        {
+          "unit": 10,
+          "title": "Energy Sources",
+          "status": "unverified",
+          "words": 21
+        },
+        {
+          "unit": 11,
+          "title": "Travelling in the Future",
+          "status": "unverified",
+          "words": 15
+        },
+        {
+          "unit": 12,
+          "title": "English-speaking Countries",
+          "status": "unverified",
+          "words": 19
+        }
+      ]
+    },
+    {
+      "grade": 8,
+      "words": 240,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Leisure Time",
+          "status": "unverified",
+          "words": 17
+        },
+        {
+          "unit": 2,
+          "title": "Life in the Countryside",
+          "status": "unverified",
+          "words": 20
+        },
+        {
+          "unit": 3,
+          "title": "Teenagers",
+          "status": "unverified",
+          "words": 21
+        },
+        {
+          "unit": 4,
+          "title": "Ethnic Groups of Viet Nam",
+          "status": "unverified",
+          "words": 19
+        },
+        {
+          "unit": 5,
+          "title": "Our Customs and Traditions",
+          "status": "unverified",
+          "words": 17
+        },
+        {
+          "unit": 6,
+          "title": "Lifestyles",
+          "status": "unverified",
+          "words": 16
+        },
+        {
+          "unit": 7,
+          "title": "Environmental Protection",
+          "status": "unverified",
+          "words": 23
+        },
+        {
+          "unit": 8,
+          "title": "Shopping",
+          "status": "unverified",
+          "words": 17
+        },
+        {
+          "unit": 9,
+          "title": "Natural Disasters",
+          "status": "unverified",
+          "words": 27
+        },
+        {
+          "unit": 10,
+          "title": "Communication in the Future",
+          "status": "unverified",
+          "words": 21
+        },
+        {
+          "unit": 11,
+          "title": "Science and Technology",
+          "status": "unverified",
+          "words": 18
+        },
+        {
+          "unit": 12,
+          "title": "Life on Other Planets",
+          "status": "unverified",
+          "words": 24
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "words": 302,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Local community",
+          "status": "sourced",
+          "words": 41
+        },
+        {
+          "unit": 2,
+          "title": "City life",
+          "status": "sourced",
+          "words": 22
+        },
+        {
+          "unit": 3,
+          "title": "Healthy living for teens",
+          "status": "sourced",
+          "words": 22
+        },
+        {
+          "unit": 4,
+          "title": "Remembering the past",
+          "status": "sourced",
+          "words": 29
+        },
+        {
+          "unit": 5,
+          "title": "Our experiences",
+          "status": "sourced",
+          "words": 25
+        },
+        {
+          "unit": 6,
+          "title": "Vietnamese lifestyle: then and now",
+          "status": "sourced",
+          "words": 16
+        },
+        {
+          "unit": 7,
+          "title": "Natural wonders of the world",
+          "status": "sourced",
+          "words": 21
+        },
+        {
+          "unit": 8,
+          "title": "Tourism",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 9,
+          "title": "World Englishes",
+          "status": "sourced",
+          "words": 30
+        },
+        {
+          "unit": 10,
+          "title": "Planet Earth",
+          "status": "sourced",
+          "words": 25
+        },
+        {
+          "unit": 11,
+          "title": "Electronic devices",
+          "status": "sourced",
+          "words": 35
+        },
+        {
+          "unit": 12,
+          "title": "Career choices",
+          "status": "sourced",
+          "words": 24
+        }
+      ]
+    },
+    {
+      "grade": 10,
+      "words": 222,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Family life",
+          "status": "sourced",
+          "words": 39
+        },
+        {
+          "unit": 2,
+          "title": "Humans and the environment",
+          "status": "sourced",
+          "words": 23
+        },
+        {
+          "unit": 3,
+          "title": "Music",
+          "status": "sourced",
+          "words": 14
+        },
+        {
+          "unit": 4,
+          "title": "For a better community",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 5,
+          "title": "Inventions",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 6,
+          "title": "Gender equality",
+          "status": "sourced",
+          "words": 22
+        },
+        {
+          "unit": 7,
+          "title": "Viet Nam and international organisations",
+          "status": "sourced",
+          "words": 30
+        },
+        {
+          "unit": 8,
+          "title": "New ways to learn",
+          "status": "sourced",
+          "words": 12
+        },
+        {
+          "unit": 9,
+          "title": "Protecting the environment",
+          "status": "sourced",
+          "words": 36
+        },
+        {
+          "unit": 10,
+          "title": "Ecotourism",
+          "status": "sourced",
+          "words": 22
+        }
+      ]
+    },
+    {
+      "grade": 11,
+      "words": 301,
+      "units": [
+        {
+          "unit": 1,
+          "title": "A long and healthy life",
+          "status": "sourced",
+          "words": 28
+        },
+        {
+          "unit": 2,
+          "title": "The generation gap",
+          "status": "sourced",
+          "words": 25
+        },
+        {
+          "unit": 3,
+          "title": "Cities of the future",
+          "status": "sourced",
+          "words": 26
+        },
+        {
+          "unit": 4,
+          "title": "ASEAN and Viet Nam",
+          "status": "sourced",
+          "words": 30
+        },
+        {
+          "unit": 5,
+          "title": "Global warming",
+          "status": "sourced",
+          "words": 27
+        },
+        {
+          "unit": 6,
+          "title": "Preserving our heritage",
+          "status": "sourced",
+          "words": 30
+        },
+        {
+          "unit": 7,
+          "title": "Education options for school-leavers",
+          "status": "sourced",
+          "words": 30
+        },
+        {
+          "unit": 8,
+          "title": "Becoming independent",
+          "status": "sourced",
+          "words": 32
+        },
+        {
+          "unit": 9,
+          "title": "Social issues",
+          "status": "sourced",
+          "words": 35
+        },
+        {
+          "unit": 10,
+          "title": "The ecosystem",
+          "status": "sourced",
+          "words": 38
+        }
+      ]
+    },
+    {
+      "grade": 12,
+      "words": 137,
+      "units": [
+        {
+          "unit": 1,
+          "title": "Life stories we admire",
+          "status": "sourced",
+          "words": 34
+        },
+        {
+          "unit": 2,
+          "title": "A multicultural world",
+          "status": "sourced",
+          "words": 31
+        },
+        {
+          "unit": 3,
+          "title": "Green living",
+          "status": "unverified",
+          "words": 10
+        },
+        {
+          "unit": 4,
+          "title": "Urbanisation",
+          "status": "unverified",
+          "words": 10
+        },
+        {
+          "unit": 5,
+          "title": "The world of work",
+          "status": "unverified",
+          "words": 10
+        },
+        {
+          "unit": 6,
+          "title": "Artificial intelligence",
+          "status": "unverified",
+          "words": 9
+        },
+        {
+          "unit": 7,
+          "title": "The world of mass media",
+          "status": "unverified",
+          "words": 9
+        },
+        {
+          "unit": 8,
+          "title": "Wildlife conservation",
+          "status": "unverified",
+          "words": 10
+        },
+        {
+          "unit": 9,
+          "title": "Career paths",
+          "status": "unverified",
+          "words": 7
+        },
+        {
+          "unit": 10,
+          "title": "Lifelong learning",
+          "status": "unverified",
+          "words": 7
+        }
+      ]
+    }
+  ]
+}

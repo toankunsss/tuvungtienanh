@@ -8,6 +8,7 @@
       "unit": 1,
       "title": "At my birthday party",
       "title_vi": "Ở bữa tiệc sinh nhật của tớ",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-1-lesson-1-lop-2-kntt.jsp",
         "https://loigiaihay.com/giai-unit-1-at-my-birthday-party-sach-bai-tap-tieng-anh-2-ket-noi-tri-thuc-a102556.html",
@@ -48,6 +49,7 @@
       "unit": 2,
       "title": "In the backyard",
       "title_vi": "Ở sân sau",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-2-lesson-1-lop-2-kntt.jsp",
         "https://vietjack.com/tieng-anh-2-kn/fun-time-1.jsp",
@@ -96,6 +98,7 @@
       "unit": 3,
       "title": "At the seaside",
       "title_vi": "Ở bờ biển",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-3-lesson-1-lop-2-kntt.jsp",
         "https://mytour.vn/vi/blog/bai-viet/100-tu-vung-tieng-anh-lop-2-theo-sach-giao-khoa-moi-nhat-2024.html",
@@ -143,6 +146,7 @@
       "unit": 4,
       "title": "In the countryside",
       "title_vi": "Ở nông thôn",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-4-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -182,6 +186,7 @@
       "unit": 5,
       "title": "In the classroom",
       "title_vi": "Trong lớp học",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-5-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -221,6 +226,7 @@
       "unit": 6,
       "title": "On the farm",
       "title_vi": "Ở nông trại",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-6-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -260,6 +266,7 @@
       "unit": 7,
       "title": "In the kitchen",
       "title_vi": "Trong nhà bếp",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-7-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/de-thi-kscl-dau-nam-lop-2-mon-tieng-anh-t31780"
@@ -299,6 +306,7 @@
       "unit": 8,
       "title": "In the village",
       "title_vi": "Ở ngôi làng",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-8-lesson-1-lop-2-kntt.jsp"
       ],
@@ -330,6 +338,7 @@
       "unit": 9,
       "title": "In the grocery store",
       "title_vi": "Ở cửa hàng tạp hóa",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-9-lesson-1-lop-2-kntt.jsp",
         "https://vietjack.com/giao-an-tieng-anh-2/unit-9-lesson-3-lop-2-kntt.jsp",
@@ -377,6 +386,7 @@
       "unit": 10,
       "title": "At the zoo",
       "title_vi": "Ở vườn thú",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-10-lesson-1-lop-2-kntt.jsp",
         "https://vietjack.com/giao-an-tieng-anh-2/unit-10-lesson-2-lop-2-kntt.jsp",
@@ -410,6 +420,7 @@
       "unit": 11,
       "title": "In the playground",
       "title_vi": "Ở sân chơi",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-11-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -449,6 +460,7 @@
       "unit": 12,
       "title": "At the café",
       "title_vi": "Ở quán cà phê",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-12-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -488,6 +500,7 @@
       "unit": 13,
       "title": "In the maths class",
       "title_vi": "Trong giờ học toán",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-13-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -534,6 +547,7 @@
       "unit": 14,
       "title": "At home",
       "title_vi": "Ở nhà",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-14-lesson-1-lop-2-kntt.jsp",
         "https://2048.vn/tieng-anh-lop-2-global-success-c560"
@@ -573,6 +587,7 @@
       "unit": 15,
       "title": "In the clothes shop",
       "title_vi": "Ở cửa hàng quần áo",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-15-lesson-1-lop-2-kntt.jsp",
         "https://www.vietjack.com/tieng-anh-2-kn/trac-nghiem-unit-15-vocabulary-and-sentence-patterns.jsp",
@@ -613,6 +628,7 @@
       "unit": 16,
       "title": "At the campsite",
       "title_vi": "Ở khu cắm trại",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/giao-an-tieng-anh-2/unit-16-lesson-1-lop-2-kntt.jsp",
         "https://www.vietjack.com/tieng-anh-2-kn/trac-nghiem-unit-16-at-the-campsite.jsp",

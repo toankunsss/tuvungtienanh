@@ -1,0 +1,1562 @@
+{
+  "grade": 8,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 8 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Leisure Time",
+      "title_vi": "Thời gian rảnh rỗi",
+      "status": "unverified",
+      "sources": [
+        "https://vietjack.com/tieng-anh-8-moi/tu-vung-unit-1-lop-8.jsp",
+        "https://prepedu.com/vi/blog/tieng-anh-8-unit-1",
+        "https://mytour.vn/vi/blog/bai-viet/english-vocabulary-8-unit-1-leisure-time-global-success.html",
+        "https://langgo.edu.vn/tieng-anh-lop-8-unit-1-leisure-time"
+      ],
+      "words": [
+        {
+          "word": "adore",
+          "pos": "v",
+          "ipa": "/əˈdɔː(r)/",
+          "meaning": "yêu thích, mê thích"
+        },
+        {
+          "word": "be into",
+          "pos": "phr",
+          "ipa": "/bi ˈɪntə/",
+          "meaning": "thích, say mê"
+        },
+        {
+          "word": "be keen on",
+          "pos": "phr",
+          "ipa": "/bi ˈkiːn ɒn/",
+          "meaning": "say mê, ham thích"
+        },
+        {
+          "word": "community centre",
+          "pos": "n",
+          "ipa": "/kəˈmjuːnəti ˌsentə(r)/",
+          "meaning": "trung tâm văn hóa cộng đồng"
+        },
+        {
+          "word": "craft kit",
+          "pos": "n",
+          "ipa": "/ˈkrɑːft kɪt/",
+          "meaning": "bộ dụng cụ làm thủ công"
+        },
+        {
+          "word": "detest",
+          "pos": "v",
+          "ipa": "/dɪˈtest/",
+          "meaning": "ghét cay ghét đắng"
+        },
+        {
+          "word": "DIY",
+          "pos": "n",
+          "ipa": "/ˌdiː aɪ ˈwaɪ/",
+          "meaning": "đồ tự làm, việc tự làm (do it yourself)"
+        },
+        {
+          "word": "do puzzles",
+          "pos": "phr",
+          "ipa": "/duː ˈpʌzlz/",
+          "meaning": "chơi giải đố"
+        },
+        {
+          "word": "fancy",
+          "pos": "v",
+          "ipa": "/ˈfænsi/",
+          "meaning": "thích, muốn"
+        },
+        {
+          "word": "hang out",
+          "pos": "phr v",
+          "ipa": "/hæŋ ˈaʊt/",
+          "meaning": "đi chơi (với bạn bè)"
+        },
+        {
+          "word": "leisure",
+          "pos": "n",
+          "ipa": "/ˈleʒə(r)/",
+          "meaning": "sự thư giãn, thời gian rảnh"
+        },
+        {
+          "word": "leisure activity",
+          "pos": "n",
+          "ipa": "/ˈleʒər ækˌtɪvəti/",
+          "meaning": "hoạt động giải trí lúc rảnh rỗi"
+        },
+        {
+          "word": "message",
+          "pos": "v",
+          "ipa": "/ˈmesɪdʒ/",
+          "meaning": "nhắn tin"
+        },
+        {
+          "word": "mind",
+          "pos": "v",
+          "ipa": "/maɪnd/",
+          "meaning": "phiền, ngại"
+        },
+        {
+          "word": "prefer",
+          "pos": "v",
+          "ipa": "/prɪˈfɜː(r)/",
+          "meaning": "thích hơn"
+        },
+        {
+          "word": "socialise",
+          "pos": "v",
+          "ipa": "/ˈsəʊʃəlaɪz/",
+          "meaning": "giao lưu, hòa nhập"
+        },
+        {
+          "word": "surf the net",
+          "pos": "phr",
+          "ipa": "/sɜːf ðə ˈnet/",
+          "meaning": "lướt mạng"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Life in the Countryside",
+      "title_vi": "Cuộc sống ở nông thôn",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "buffalo-drawn cart",
+          "pos": "n",
+          "ipa": "/ˈbʌfələʊ drɔːn kɑːt/",
+          "meaning": "xe trâu kéo"
+        },
+        {
+          "word": "cattle",
+          "pos": "n",
+          "ipa": "/ˈkætl/",
+          "meaning": "gia súc"
+        },
+        {
+          "word": "combine harvester",
+          "pos": "n",
+          "ipa": "/ˌkɒmbaɪn ˈhɑːvɪstə(r)/",
+          "meaning": "máy gặt đập liên hợp"
+        },
+        {
+          "word": "countryside",
+          "pos": "n",
+          "ipa": "/ˈkʌntrisaɪd/",
+          "meaning": "vùng nông thôn"
+        },
+        {
+          "word": "crop",
+          "pos": "n",
+          "ipa": "/krɒp/",
+          "meaning": "cây trồng, vụ mùa"
+        },
+        {
+          "word": "dry",
+          "pos": "v",
+          "ipa": "/draɪ/",
+          "meaning": "phơi khô",
+          "example": "Farmers dry the rice in the sun."
+        },
+        {
+          "word": "harvest",
+          "pos": "v",
+          "ipa": "/ˈhɑːvɪst/",
+          "meaning": "thu hoạch"
+        },
+        {
+          "word": "harvest time",
+          "pos": "n",
+          "ipa": "/ˈhɑːvɪst taɪm/",
+          "meaning": "mùa gặt, mùa thu hoạch"
+        },
+        {
+          "word": "herd",
+          "pos": "v",
+          "ipa": "/hɜːd/",
+          "meaning": "chăn (gia súc)"
+        },
+        {
+          "word": "hospitable",
+          "pos": "adj",
+          "ipa": "/hɒˈspɪtəbl/",
+          "meaning": "hiếu khách"
+        },
+        {
+          "word": "load",
+          "pos": "v",
+          "ipa": "/ləʊd/",
+          "meaning": "chất (hàng) lên"
+        },
+        {
+          "word": "orchard",
+          "pos": "n",
+          "ipa": "/ˈɔːtʃəd/",
+          "meaning": "vườn cây ăn quả"
+        },
+        {
+          "word": "paddy field",
+          "pos": "n",
+          "ipa": "/ˈpædi fiːld/",
+          "meaning": "cánh đồng lúa"
+        },
+        {
+          "word": "peaceful",
+          "pos": "adj",
+          "ipa": "/ˈpiːsfl/",
+          "meaning": "yên bình"
+        },
+        {
+          "word": "picturesque",
+          "pos": "adj",
+          "ipa": "/ˌpɪktʃəˈresk/",
+          "meaning": "đẹp như tranh"
+        },
+        {
+          "word": "plough",
+          "pos": "v",
+          "ipa": "/plaʊ/",
+          "meaning": "cày (ruộng)"
+        },
+        {
+          "word": "rural",
+          "pos": "adj",
+          "ipa": "/ˈrʊərəl/",
+          "meaning": "(thuộc) nông thôn"
+        },
+        {
+          "word": "unload",
+          "pos": "v",
+          "ipa": "/ʌnˈləʊd/",
+          "meaning": "dỡ (hàng) xuống"
+        },
+        {
+          "word": "vast",
+          "pos": "adj",
+          "ipa": "/vɑːst/",
+          "meaning": "rộng lớn, bát ngát"
+        },
+        {
+          "word": "villager",
+          "pos": "n",
+          "ipa": "/ˈvɪlɪdʒə(r)/",
+          "meaning": "dân làng"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Teenagers",
+      "title_vi": "Thanh thiếu niên",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "account",
+          "pos": "n",
+          "ipa": "/əˈkaʊnt/",
+          "meaning": "tài khoản"
+        },
+        {
+          "word": "browse",
+          "pos": "v",
+          "ipa": "/braʊz/",
+          "meaning": "lướt, duyệt (web)"
+        },
+        {
+          "word": "bully",
+          "pos": "v",
+          "ipa": "/ˈbʊli/",
+          "meaning": "bắt nạt"
+        },
+        {
+          "word": "check notifications",
+          "pos": "phr",
+          "ipa": "/tʃek ˌnəʊtɪfɪˈkeɪʃnz/",
+          "meaning": "kiểm tra thông báo"
+        },
+        {
+          "word": "club",
+          "pos": "n",
+          "ipa": "/klʌb/",
+          "meaning": "câu lạc bộ"
+        },
+        {
+          "word": "compete",
+          "pos": "v",
+          "ipa": "/kəmˈpiːt/",
+          "meaning": "thi đấu, cạnh tranh"
+        },
+        {
+          "word": "competition",
+          "pos": "n",
+          "ipa": "/ˌkɒmpəˈtɪʃn/",
+          "meaning": "cuộc thi"
+        },
+        {
+          "word": "concentrate",
+          "pos": "v",
+          "ipa": "/ˈkɒnsntreɪt/",
+          "meaning": "tập trung"
+        },
+        {
+          "word": "connect",
+          "pos": "v",
+          "ipa": "/kəˈnekt/",
+          "meaning": "kết nối"
+        },
+        {
+          "word": "expectation",
+          "pos": "n",
+          "ipa": "/ˌekspekˈteɪʃn/",
+          "meaning": "sự kì vọng"
+        },
+        {
+          "word": "focus",
+          "pos": "v",
+          "ipa": "/ˈfəʊkəs/",
+          "meaning": "tập trung"
+        },
+        {
+          "word": "forum",
+          "pos": "n",
+          "ipa": "/ˈfɔːrəm/",
+          "meaning": "diễn đàn"
+        },
+        {
+          "word": "log on",
+          "pos": "phr v",
+          "ipa": "/lɒɡ ˈɒn/",
+          "meaning": "đăng nhập"
+        },
+        {
+          "word": "member",
+          "pos": "n",
+          "ipa": "/ˈmembə(r)/",
+          "meaning": "thành viên"
+        },
+        {
+          "word": "notification",
+          "pos": "n",
+          "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/",
+          "meaning": "thông báo"
+        },
+        {
+          "word": "peer pressure",
+          "pos": "n",
+          "ipa": "/ˈpɪə ˌpreʃə(r)/",
+          "meaning": "áp lực từ bạn bè đồng trang lứa"
+        },
+        {
+          "word": "pressure",
+          "pos": "n",
+          "ipa": "/ˈpreʃə(r)/",
+          "meaning": "áp lực"
+        },
+        {
+          "word": "schoolwork",
+          "pos": "n",
+          "ipa": "/ˈskuːlwɜːk/",
+          "meaning": "bài vở ở trường"
+        },
+        {
+          "word": "social media",
+          "pos": "n",
+          "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+          "meaning": "mạng xã hội"
+        },
+        {
+          "word": "stress",
+          "pos": "n",
+          "ipa": "/stres/",
+          "meaning": "căng thẳng"
+        },
+        {
+          "word": "upload",
+          "pos": "v",
+          "ipa": "/ˌʌpˈləʊd/",
+          "meaning": "tải lên"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Ethnic Groups of Viet Nam",
+      "title_vi": "Các dân tộc của Việt Nam",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "communal house",
+          "pos": "n",
+          "ipa": "/kəˌmjuːnl ˈhaʊs/",
+          "meaning": "nhà rông, đình làng"
+        },
+        {
+          "word": "costume",
+          "pos": "n",
+          "ipa": "/ˈkɒstjuːm/",
+          "meaning": "trang phục"
+        },
+        {
+          "word": "ethnic",
+          "pos": "adj",
+          "ipa": "/ˈeθnɪk/",
+          "meaning": "(thuộc) dân tộc"
+        },
+        {
+          "word": "ethnic group",
+          "pos": "n",
+          "ipa": "/ˈeθnɪk ɡruːp/",
+          "meaning": "dân tộc, nhóm dân tộc"
+        },
+        {
+          "word": "five-colour sticky rice",
+          "pos": "n",
+          "ipa": "/ˌfaɪv ˈkʌlə ˌstɪki ˈraɪs/",
+          "meaning": "xôi ngũ sắc"
+        },
+        {
+          "word": "folk dance",
+          "pos": "n",
+          "ipa": "/ˈfəʊk dɑːns/",
+          "meaning": "điệu múa dân gian"
+        },
+        {
+          "word": "gong",
+          "pos": "n",
+          "ipa": "/ɡɒŋ/",
+          "meaning": "cái cồng, chiêng"
+        },
+        {
+          "word": "heritage",
+          "pos": "n",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "meaning": "di sản"
+        },
+        {
+          "word": "highland",
+          "pos": "n",
+          "ipa": "/ˈhaɪlənd/",
+          "meaning": "vùng cao nguyên"
+        },
+        {
+          "word": "livestock",
+          "pos": "n",
+          "ipa": "/ˈlaɪvstɒk/",
+          "meaning": "gia súc, vật nuôi"
+        },
+        {
+          "word": "minority",
+          "pos": "n",
+          "ipa": "/maɪˈnɒrəti/",
+          "meaning": "dân tộc thiểu số, nhóm thiểu số"
+        },
+        {
+          "word": "musical instrument",
+          "pos": "n",
+          "ipa": "/ˌmjuːzɪkl ˈɪnstrəmənt/",
+          "meaning": "nhạc cụ"
+        },
+        {
+          "word": "open-air market",
+          "pos": "n",
+          "ipa": "/ˌəʊpən ˈeə ˌmɑːkɪt/",
+          "meaning": "chợ phiên, chợ ngoài trời"
+        },
+        {
+          "word": "overlook",
+          "pos": "v",
+          "ipa": "/ˌəʊvəˈlʊk/",
+          "meaning": "nhìn ra, trông ra"
+        },
+        {
+          "word": "raise",
+          "pos": "v",
+          "ipa": "/reɪz/",
+          "meaning": "nuôi (gia súc)"
+        },
+        {
+          "word": "stilt house",
+          "pos": "n",
+          "ipa": "/ˈstɪlt haʊs/",
+          "meaning": "nhà sàn"
+        },
+        {
+          "word": "terraced field",
+          "pos": "n",
+          "ipa": "/ˌterəst ˈfiːld/",
+          "meaning": "ruộng bậc thang"
+        },
+        {
+          "word": "unique",
+          "pos": "adj",
+          "ipa": "/juˈniːk/",
+          "meaning": "độc đáo, duy nhất"
+        },
+        {
+          "word": "weave",
+          "pos": "v",
+          "ipa": "/wiːv/",
+          "meaning": "dệt"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Our Customs and Traditions",
+      "title_vi": "Phong tục và truyền thống của chúng ta",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "ancestor",
+          "pos": "n",
+          "ipa": "/ˈænsestə(r)/",
+          "meaning": "tổ tiên"
+        },
+        {
+          "word": "celebrate",
+          "pos": "v",
+          "ipa": "/ˈselɪbreɪt/",
+          "meaning": "tổ chức (lễ), ăn mừng"
+        },
+        {
+          "word": "chopsticks",
+          "pos": "n",
+          "ipa": "/ˈtʃɒpstɪks/",
+          "meaning": "đôi đũa"
+        },
+        {
+          "word": "custom",
+          "pos": "n",
+          "ipa": "/ˈkʌstəm/",
+          "meaning": "phong tục"
+        },
+        {
+          "word": "family reunion",
+          "pos": "n",
+          "ipa": "/ˌfæməli riːˈjuːniən/",
+          "meaning": "sự đoàn tụ gia đình"
+        },
+        {
+          "word": "gather",
+          "pos": "v",
+          "ipa": "/ˈɡæðə(r)/",
+          "meaning": "tụ họp"
+        },
+        {
+          "word": "lion dance",
+          "pos": "n",
+          "ipa": "/ˈlaɪən dɑːns/",
+          "meaning": "múa lân"
+        },
+        {
+          "word": "lucky money",
+          "pos": "n",
+          "ipa": "/ˌlʌki ˈmʌni/",
+          "meaning": "tiền lì xì"
+        },
+        {
+          "word": "offering",
+          "pos": "n",
+          "ipa": "/ˈɒfərɪŋ/",
+          "meaning": "lễ vật, đồ cúng"
+        },
+        {
+          "word": "pray",
+          "pos": "v",
+          "ipa": "/preɪ/",
+          "meaning": "cầu nguyện"
+        },
+        {
+          "word": "procession",
+          "pos": "n",
+          "ipa": "/prəˈseʃn/",
+          "meaning": "đám rước"
+        },
+        {
+          "word": "respect",
+          "pos": "n",
+          "ipa": "/rɪˈspekt/",
+          "meaning": "sự tôn trọng, kính trọng"
+        },
+        {
+          "word": "table manners",
+          "pos": "n",
+          "ipa": "/ˈteɪbl ˌmænəz/",
+          "meaning": "phép lịch sự khi ăn uống"
+        },
+        {
+          "word": "take part in",
+          "pos": "phr v",
+          "ipa": "/teɪk ˈpɑːt ɪn/",
+          "meaning": "tham gia"
+        },
+        {
+          "word": "tradition",
+          "pos": "n",
+          "ipa": "/trəˈdɪʃn/",
+          "meaning": "truyền thống"
+        },
+        {
+          "word": "traditional",
+          "pos": "adj",
+          "ipa": "/trəˈdɪʃənl/",
+          "meaning": "(thuộc) truyền thống"
+        },
+        {
+          "word": "worship",
+          "pos": "v",
+          "ipa": "/ˈwɜːʃɪp/",
+          "meaning": "thờ cúng"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Lifestyles",
+      "title_vi": "Lối sống",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "cultural",
+          "pos": "adj",
+          "ipa": "/ˈkʌltʃərəl/",
+          "meaning": "(thuộc) văn hóa"
+        },
+        {
+          "word": "dog sled",
+          "pos": "n",
+          "ipa": "/ˈdɒɡ sled/",
+          "meaning": "xe trượt tuyết do chó kéo"
+        },
+        {
+          "word": "face-to-face",
+          "pos": "adj",
+          "ipa": "/ˌfeɪs tə ˈfeɪs/",
+          "meaning": "trực tiếp, mặt đối mặt"
+        },
+        {
+          "word": "greet",
+          "pos": "v",
+          "ipa": "/ɡriːt/",
+          "meaning": "chào hỏi"
+        },
+        {
+          "word": "greeting",
+          "pos": "n",
+          "ipa": "/ˈɡriːtɪŋ/",
+          "meaning": "lời chào, cách chào"
+        },
+        {
+          "word": "habit",
+          "pos": "n",
+          "ipa": "/ˈhæbɪt/",
+          "meaning": "thói quen"
+        },
+        {
+          "word": "hunt",
+          "pos": "v",
+          "ipa": "/hʌnt/",
+          "meaning": "săn bắt"
+        },
+        {
+          "word": "igloo",
+          "pos": "n",
+          "ipa": "/ˈɪɡluː/",
+          "meaning": "lều tuyết"
+        },
+        {
+          "word": "lifestyle",
+          "pos": "n",
+          "ipa": "/ˈlaɪfstaɪl/",
+          "meaning": "lối sống"
+        },
+        {
+          "word": "local",
+          "pos": "adj",
+          "ipa": "/ˈləʊkl/",
+          "meaning": "(thuộc) địa phương"
+        },
+        {
+          "word": "maintain",
+          "pos": "v",
+          "ipa": "/meɪnˈteɪn/",
+          "meaning": "duy trì"
+        },
+        {
+          "word": "online learning",
+          "pos": "n",
+          "ipa": "/ˌɒnlaɪn ˈlɜːnɪŋ/",
+          "meaning": "việc học trực tuyến"
+        },
+        {
+          "word": "preserve",
+          "pos": "v",
+          "ipa": "/prɪˈzɜːv/",
+          "meaning": "bảo tồn, gìn giữ"
+        },
+        {
+          "word": "remote",
+          "pos": "adj",
+          "ipa": "/rɪˈməʊt/",
+          "meaning": "hẻo lánh, xa xôi"
+        },
+        {
+          "word": "tribe",
+          "pos": "n",
+          "ipa": "/traɪb/",
+          "meaning": "bộ lạc"
+        },
+        {
+          "word": "unhealthy",
+          "pos": "adj",
+          "ipa": "/ʌnˈhelθi/",
+          "meaning": "không lành mạnh"
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Environmental Protection",
+      "title_vi": "Bảo vệ môi trường",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "absorb",
+          "pos": "v",
+          "ipa": "/əbˈzɔːb/",
+          "meaning": "hấp thụ"
+        },
+        {
+          "word": "air pollution",
+          "pos": "n",
+          "ipa": "/ˈeə pəˌluːʃn/",
+          "meaning": "ô nhiễm không khí"
+        },
+        {
+          "word": "carbon dioxide",
+          "pos": "n",
+          "ipa": "/ˌkɑːbən daɪˈɒksaɪd/",
+          "meaning": "khí CO2"
+        },
+        {
+          "word": "carbon footprint",
+          "pos": "n",
+          "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+          "meaning": "lượng khí thải carbon (dấu chân carbon)"
+        },
+        {
+          "word": "damage",
+          "pos": "v",
+          "ipa": "/ˈdæmɪdʒ/",
+          "meaning": "gây hại, làm hư hại"
+        },
+        {
+          "word": "endangered species",
+          "pos": "n",
+          "ipa": "/ɪnˌdeɪndʒəd ˈspiːʃiːz/",
+          "meaning": "loài có nguy cơ tuyệt chủng"
+        },
+        {
+          "word": "environment",
+          "pos": "n",
+          "ipa": "/ɪnˈvaɪrənmənt/",
+          "meaning": "môi trường"
+        },
+        {
+          "word": "environmental",
+          "pos": "adj",
+          "ipa": "/ɪnˌvaɪrənˈmentl/",
+          "meaning": "(thuộc) môi trường"
+        },
+        {
+          "word": "extinct",
+          "pos": "adj",
+          "ipa": "/ɪkˈstɪŋkt/",
+          "meaning": "tuyệt chủng"
+        },
+        {
+          "word": "global warming",
+          "pos": "n",
+          "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+          "meaning": "sự nóng lên toàn cầu"
+        },
+        {
+          "word": "habitat",
+          "pos": "n",
+          "ipa": "/ˈhæbɪtæt/",
+          "meaning": "môi trường sống"
+        },
+        {
+          "word": "harmful",
+          "pos": "adj",
+          "ipa": "/ˈhɑːmfl/",
+          "meaning": "có hại"
+        },
+        {
+          "word": "natural resource",
+          "pos": "n",
+          "ipa": "/ˌnætʃrəl rɪˈzɔːs/",
+          "meaning": "tài nguyên thiên nhiên"
+        },
+        {
+          "word": "ozone layer",
+          "pos": "n",
+          "ipa": "/ˈəʊzəʊn ˌleɪə(r)/",
+          "meaning": "tầng ô-dôn"
+        },
+        {
+          "word": "pollution",
+          "pos": "n",
+          "ipa": "/pəˈluːʃn/",
+          "meaning": "sự ô nhiễm"
+        },
+        {
+          "word": "protect",
+          "pos": "v",
+          "ipa": "/prəˈtekt/",
+          "meaning": "bảo vệ"
+        },
+        {
+          "word": "protection",
+          "pos": "n",
+          "ipa": "/prəˈtekʃn/",
+          "meaning": "sự bảo vệ"
+        },
+        {
+          "word": "release",
+          "pos": "v",
+          "ipa": "/rɪˈliːs/",
+          "meaning": "thải ra, giải phóng"
+        },
+        {
+          "word": "reusable",
+          "pos": "adj",
+          "ipa": "/ˌriːˈjuːzəbl/",
+          "meaning": "có thể tái sử dụng"
+        },
+        {
+          "word": "single-use",
+          "pos": "adj",
+          "ipa": "/ˌsɪŋɡl ˈjuːs/",
+          "meaning": "dùng một lần"
+        },
+        {
+          "word": "species",
+          "pos": "n",
+          "ipa": "/ˈspiːʃiːz/",
+          "meaning": "loài"
+        },
+        {
+          "word": "threaten",
+          "pos": "v",
+          "ipa": "/ˈθretn/",
+          "meaning": "đe dọa"
+        },
+        {
+          "word": "wildlife",
+          "pos": "n",
+          "ipa": "/ˈwaɪldlaɪf/",
+          "meaning": "động vật hoang dã"
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Shopping",
+      "title_vi": "Mua sắm",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "bargain",
+          "pos": "v",
+          "ipa": "/ˈbɑːɡən/",
+          "meaning": "mặc cả"
+        },
+        {
+          "word": "browse",
+          "pos": "v",
+          "ipa": "/braʊz/",
+          "meaning": "xem lướt (hàng hóa)"
+        },
+        {
+          "word": "convenience store",
+          "pos": "n",
+          "ipa": "/kənˈviːniəns stɔː(r)/",
+          "meaning": "cửa hàng tiện lợi"
+        },
+        {
+          "word": "customer",
+          "pos": "n",
+          "ipa": "/ˈkʌstəmə(r)/",
+          "meaning": "khách hàng"
+        },
+        {
+          "word": "discount",
+          "pos": "n",
+          "ipa": "/ˈdɪskaʊnt/",
+          "meaning": "sự giảm giá"
+        },
+        {
+          "word": "discount shop",
+          "pos": "n",
+          "ipa": "/ˈdɪskaʊnt ʃɒp/",
+          "meaning": "cửa hàng giảm giá"
+        },
+        {
+          "word": "farmers' market",
+          "pos": "n",
+          "ipa": "/ˈfɑːməz ˌmɑːkɪt/",
+          "meaning": "chợ nông sản"
+        },
+        {
+          "word": "goods",
+          "pos": "n",
+          "ipa": "/ɡʊdz/",
+          "meaning": "hàng hóa"
+        },
+        {
+          "word": "home-made",
+          "pos": "adj",
+          "ipa": "/ˌhəʊm ˈmeɪd/",
+          "meaning": "tự làm ở nhà"
+        },
+        {
+          "word": "offer",
+          "pos": "n",
+          "ipa": "/ˈɒfə(r)/",
+          "meaning": "ưu đãi, khuyến mãi"
+        },
+        {
+          "word": "online shopping",
+          "pos": "n",
+          "ipa": "/ˌɒnlaɪn ˈʃɒpɪŋ/",
+          "meaning": "mua sắm trực tuyến"
+        },
+        {
+          "word": "open-air market",
+          "pos": "n",
+          "ipa": "/ˌəʊpən ˈeə ˌmɑːkɪt/",
+          "meaning": "chợ ngoài trời"
+        },
+        {
+          "word": "price tag",
+          "pos": "n",
+          "ipa": "/ˈpraɪs tæɡ/",
+          "meaning": "nhãn giá"
+        },
+        {
+          "word": "product",
+          "pos": "n",
+          "ipa": "/ˈprɒdʌkt/",
+          "meaning": "sản phẩm"
+        },
+        {
+          "word": "shopaholic",
+          "pos": "n",
+          "ipa": "/ˌʃɒpəˈhɒlɪk/",
+          "meaning": "người nghiện mua sắm"
+        },
+        {
+          "word": "shopping centre",
+          "pos": "n",
+          "ipa": "/ˈʃɒpɪŋ ˌsentə(r)/",
+          "meaning": "trung tâm mua sắm"
+        },
+        {
+          "word": "speciality shop",
+          "pos": "n",
+          "ipa": "/speʃiˈæləti ʃɒp/",
+          "meaning": "cửa hàng chuyên dụng"
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Natural Disasters",
+      "title_vi": "Thảm họa thiên nhiên",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "bury",
+          "pos": "v",
+          "ipa": "/ˈberi/",
+          "meaning": "chôn vùi"
+        },
+        {
+          "word": "collapse",
+          "pos": "v",
+          "ipa": "/kəˈlæps/",
+          "meaning": "sụp đổ"
+        },
+        {
+          "word": "damage",
+          "pos": "n",
+          "ipa": "/ˈdæmɪdʒ/",
+          "meaning": "thiệt hại"
+        },
+        {
+          "word": "destroy",
+          "pos": "v",
+          "ipa": "/dɪˈstrɔɪ/",
+          "meaning": "phá hủy"
+        },
+        {
+          "word": "disaster",
+          "pos": "n",
+          "ipa": "/dɪˈzɑːstə(r)/",
+          "meaning": "thảm họa"
+        },
+        {
+          "word": "drought",
+          "pos": "n",
+          "ipa": "/draʊt/",
+          "meaning": "hạn hán"
+        },
+        {
+          "word": "earthquake",
+          "pos": "n",
+          "ipa": "/ˈɜːθkweɪk/",
+          "meaning": "động đất"
+        },
+        {
+          "word": "emergency",
+          "pos": "n",
+          "ipa": "/ɪˈmɜːdʒənsi/",
+          "meaning": "tình trạng khẩn cấp"
+        },
+        {
+          "word": "erupt",
+          "pos": "v",
+          "ipa": "/ɪˈrʌpt/",
+          "meaning": "phun trào"
+        },
+        {
+          "word": "eruption",
+          "pos": "n",
+          "ipa": "/ɪˈrʌpʃn/",
+          "meaning": "sự phun trào"
+        },
+        {
+          "word": "evacuate",
+          "pos": "v",
+          "ipa": "/ɪˈvækjueɪt/",
+          "meaning": "sơ tán"
+        },
+        {
+          "word": "flood",
+          "pos": "n",
+          "ipa": "/flʌd/",
+          "meaning": "lũ lụt"
+        },
+        {
+          "word": "forest fire",
+          "pos": "n",
+          "ipa": "/ˈfɒrɪst ˌfaɪə(r)/",
+          "meaning": "cháy rừng"
+        },
+        {
+          "word": "injure",
+          "pos": "v",
+          "ipa": "/ˈɪndʒə(r)/",
+          "meaning": "làm bị thương"
+        },
+        {
+          "word": "landslide",
+          "pos": "n",
+          "ipa": "/ˈlændslaɪd/",
+          "meaning": "sạt lở đất"
+        },
+        {
+          "word": "property",
+          "pos": "n",
+          "ipa": "/ˈprɒpəti/",
+          "meaning": "tài sản"
+        },
+        {
+          "word": "rescue",
+          "pos": "v",
+          "ipa": "/ˈreskjuː/",
+          "meaning": "cứu hộ, giải cứu"
+        },
+        {
+          "word": "rescue worker",
+          "pos": "n",
+          "ipa": "/ˈreskjuː ˌwɜːkə(r)/",
+          "meaning": "nhân viên cứu hộ"
+        },
+        {
+          "word": "shake",
+          "pos": "v",
+          "ipa": "/ʃeɪk/",
+          "meaning": "rung, lắc"
+        },
+        {
+          "word": "shelter",
+          "pos": "n",
+          "ipa": "/ˈʃeltə(r)/",
+          "meaning": "nơi trú ẩn"
+        },
+        {
+          "word": "storm",
+          "pos": "n",
+          "ipa": "/stɔːm/",
+          "meaning": "cơn bão"
+        },
+        {
+          "word": "tornado",
+          "pos": "n",
+          "ipa": "/tɔːˈneɪdəʊ/",
+          "meaning": "lốc xoáy"
+        },
+        {
+          "word": "trapped",
+          "pos": "adj",
+          "ipa": "/træpt/",
+          "meaning": "bị mắc kẹt"
+        },
+        {
+          "word": "tsunami",
+          "pos": "n",
+          "ipa": "/tsuːˈnɑːmi/",
+          "meaning": "sóng thần"
+        },
+        {
+          "word": "victim",
+          "pos": "n",
+          "ipa": "/ˈvɪktɪm/",
+          "meaning": "nạn nhân"
+        },
+        {
+          "word": "volcano",
+          "pos": "n",
+          "ipa": "/vɒlˈkeɪnəʊ/",
+          "meaning": "núi lửa"
+        },
+        {
+          "word": "warning",
+          "pos": "n",
+          "ipa": "/ˈwɔːnɪŋ/",
+          "meaning": "sự cảnh báo"
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Communication in the Future",
+      "title_vi": "Giao tiếp trong tương lai",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "communicate",
+          "pos": "v",
+          "ipa": "/kəˈmjuːnɪkeɪt/",
+          "meaning": "giao tiếp"
+        },
+        {
+          "word": "communication",
+          "pos": "n",
+          "ipa": "/kəˌmjuːnɪˈkeɪʃn/",
+          "meaning": "sự giao tiếp"
+        },
+        {
+          "word": "contact",
+          "pos": "v",
+          "ipa": "/ˈkɒntækt/",
+          "meaning": "liên lạc"
+        },
+        {
+          "word": "device",
+          "pos": "n",
+          "ipa": "/dɪˈvaɪs/",
+          "meaning": "thiết bị"
+        },
+        {
+          "word": "emoji",
+          "pos": "n",
+          "ipa": "/ɪˈməʊdʒi/",
+          "meaning": "biểu tượng cảm xúc"
+        },
+        {
+          "word": "face-to-face",
+          "pos": "adj",
+          "ipa": "/ˌfeɪs tə ˈfeɪs/",
+          "meaning": "trực tiếp, mặt đối mặt"
+        },
+        {
+          "word": "hologram",
+          "pos": "n",
+          "ipa": "/ˈhɒləɡræm/",
+          "meaning": "ảnh ba chiều"
+        },
+        {
+          "word": "holography",
+          "pos": "n",
+          "ipa": "/hɒˈlɒɡrəfi/",
+          "meaning": "kĩ thuật chụp ảnh ba chiều"
+        },
+        {
+          "word": "instantly",
+          "pos": "adv",
+          "ipa": "/ˈɪnstəntli/",
+          "meaning": "ngay lập tức"
+        },
+        {
+          "word": "interact",
+          "pos": "v",
+          "ipa": "/ˌɪntərˈækt/",
+          "meaning": "tương tác"
+        },
+        {
+          "word": "landline",
+          "pos": "n",
+          "ipa": "/ˈlændlaɪn/",
+          "meaning": "điện thoại cố định"
+        },
+        {
+          "word": "language barrier",
+          "pos": "n",
+          "ipa": "/ˈlæŋɡwɪdʒ ˌbæriə(r)/",
+          "meaning": "rào cản ngôn ngữ"
+        },
+        {
+          "word": "receive",
+          "pos": "v",
+          "ipa": "/rɪˈsiːv/",
+          "meaning": "nhận"
+        },
+        {
+          "word": "signal",
+          "pos": "n",
+          "ipa": "/ˈsɪɡnəl/",
+          "meaning": "tín hiệu"
+        },
+        {
+          "word": "smartphone",
+          "pos": "n",
+          "ipa": "/ˈsmɑːtfəʊn/",
+          "meaning": "điện thoại thông minh"
+        },
+        {
+          "word": "social media",
+          "pos": "n",
+          "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+          "meaning": "mạng xã hội"
+        },
+        {
+          "word": "telepathy",
+          "pos": "n",
+          "ipa": "/təˈlepəθi/",
+          "meaning": "thần giao cách cảm"
+        },
+        {
+          "word": "translation machine",
+          "pos": "n",
+          "ipa": "/trænsˈleɪʃn məˌʃiːn/",
+          "meaning": "máy phiên dịch"
+        },
+        {
+          "word": "video conference",
+          "pos": "n",
+          "ipa": "/ˈvɪdiəʊ ˌkɒnfərəns/",
+          "meaning": "hội nghị trực tuyến qua video"
+        },
+        {
+          "word": "voice message",
+          "pos": "n",
+          "ipa": "/ˈvɔɪs ˌmesɪdʒ/",
+          "meaning": "tin nhắn thoại"
+        },
+        {
+          "word": "webcam",
+          "pos": "n",
+          "ipa": "/ˈwebkæm/",
+          "meaning": "camera máy tính"
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "Science and Technology",
+      "title_vi": "Khoa học và công nghệ",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "artificial intelligence",
+          "pos": "n",
+          "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+          "meaning": "trí tuệ nhân tạo"
+        },
+        {
+          "word": "attendance",
+          "pos": "n",
+          "ipa": "/əˈtendəns/",
+          "meaning": "sự điểm danh, sự có mặt"
+        },
+        {
+          "word": "contribute",
+          "pos": "v",
+          "ipa": "/kənˈtrɪbjuːt/",
+          "meaning": "đóng góp"
+        },
+        {
+          "word": "develop",
+          "pos": "v",
+          "ipa": "/dɪˈveləp/",
+          "meaning": "phát triển"
+        },
+        {
+          "word": "development",
+          "pos": "n",
+          "ipa": "/dɪˈveləpmənt/",
+          "meaning": "sự phát triển"
+        },
+        {
+          "word": "discover",
+          "pos": "v",
+          "ipa": "/dɪˈskʌvə(r)/",
+          "meaning": "khám phá, phát hiện"
+        },
+        {
+          "word": "discovery",
+          "pos": "n",
+          "ipa": "/dɪˈskʌvəri/",
+          "meaning": "sự khám phá, phát hiện"
+        },
+        {
+          "word": "examine",
+          "pos": "v",
+          "ipa": "/ɪɡˈzæmɪn/",
+          "meaning": "kiểm tra, xem xét"
+        },
+        {
+          "word": "experiment",
+          "pos": "n",
+          "ipa": "/ɪkˈsperɪmənt/",
+          "meaning": "thí nghiệm"
+        },
+        {
+          "word": "eye-tracking",
+          "pos": "n",
+          "ipa": "/ˈaɪ ˌtrækɪŋ/",
+          "meaning": "công nghệ theo dõi chuyển động mắt"
+        },
+        {
+          "word": "facial recognition",
+          "pos": "n",
+          "ipa": "/ˌfeɪʃl ˌrekəɡˈnɪʃn/",
+          "meaning": "nhận diện khuôn mặt"
+        },
+        {
+          "word": "fingerprint scanner",
+          "pos": "n",
+          "ipa": "/ˈfɪŋɡəprɪnt ˌskænə(r)/",
+          "meaning": "máy quét vân tay"
+        },
+        {
+          "word": "invent",
+          "pos": "v",
+          "ipa": "/ɪnˈvent/",
+          "meaning": "phát minh"
+        },
+        {
+          "word": "invention",
+          "pos": "n",
+          "ipa": "/ɪnˈvenʃn/",
+          "meaning": "sự phát minh, phát minh"
+        },
+        {
+          "word": "inventor",
+          "pos": "n",
+          "ipa": "/ɪnˈventə(r)/",
+          "meaning": "nhà phát minh"
+        },
+        {
+          "word": "robot",
+          "pos": "n",
+          "ipa": "/ˈrəʊbɒt/",
+          "meaning": "người máy"
+        },
+        {
+          "word": "scientist",
+          "pos": "n",
+          "ipa": "/ˈsaɪəntɪst/",
+          "meaning": "nhà khoa học"
+        },
+        {
+          "word": "technology",
+          "pos": "n",
+          "ipa": "/tekˈnɒlədʒi/",
+          "meaning": "công nghệ"
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "Life on Other Planets",
+      "title_vi": "Sự sống trên các hành tinh khác",
+      "status": "unverified",
+      "sources": [],
+      "words": [
+        {
+          "word": "adapt",
+          "pos": "v",
+          "ipa": "/əˈdæpt/",
+          "meaning": "thích nghi"
+        },
+        {
+          "word": "alien",
+          "pos": "n",
+          "ipa": "/ˈeɪliən/",
+          "meaning": "người ngoài hành tinh"
+        },
+        {
+          "word": "astronaut",
+          "pos": "n",
+          "ipa": "/ˈæstrənɔːt/",
+          "meaning": "nhà du hành vũ trụ"
+        },
+        {
+          "word": "atmosphere",
+          "pos": "n",
+          "ipa": "/ˈætməsfɪə(r)/",
+          "meaning": "khí quyển"
+        },
+        {
+          "word": "crater",
+          "pos": "n",
+          "ipa": "/ˈkreɪtə(r)/",
+          "meaning": "miệng núi lửa, hố (trên bề mặt hành tinh)"
+        },
+        {
+          "word": "creature",
+          "pos": "n",
+          "ipa": "/ˈkriːtʃə(r)/",
+          "meaning": "sinh vật"
+        },
+        {
+          "word": "evidence",
+          "pos": "n",
+          "ipa": "/ˈevɪdəns/",
+          "meaning": "bằng chứng"
+        },
+        {
+          "word": "exist",
+          "pos": "v",
+          "ipa": "/ɪɡˈzɪst/",
+          "meaning": "tồn tại"
+        },
+        {
+          "word": "galaxy",
+          "pos": "n",
+          "ipa": "/ˈɡæləksi/",
+          "meaning": "thiên hà"
+        },
+        {
+          "word": "gravity",
+          "pos": "n",
+          "ipa": "/ˈɡrævəti/",
+          "meaning": "trọng lực"
+        },
+        {
+          "word": "habitable",
+          "pos": "adj",
+          "ipa": "/ˈhæbɪtəbl/",
+          "meaning": "có thể sinh sống được"
+        },
+        {
+          "word": "liquid",
+          "pos": "n",
+          "ipa": "/ˈlɪkwɪd/",
+          "meaning": "chất lỏng"
+        },
+        {
+          "word": "Mars",
+          "pos": "n",
+          "ipa": "/mɑːz/",
+          "meaning": "Sao Hỏa"
+        },
+        {
+          "word": "Mercury",
+          "pos": "n",
+          "ipa": "/ˈmɜːkjəri/",
+          "meaning": "Sao Thủy"
+        },
+        {
+          "word": "outer space",
+          "pos": "n",
+          "ipa": "/ˌaʊtə ˈspeɪs/",
+          "meaning": "ngoài vũ trụ"
+        },
+        {
+          "word": "oxygen",
+          "pos": "n",
+          "ipa": "/ˈɒksɪdʒən/",
+          "meaning": "khí ô-xy"
+        },
+        {
+          "word": "planet",
+          "pos": "n",
+          "ipa": "/ˈplænɪt/",
+          "meaning": "hành tinh"
+        },
+        {
+          "word": "solar system",
+          "pos": "n",
+          "ipa": "/ˈsəʊlə ˌsɪstəm/",
+          "meaning": "hệ Mặt Trời"
+        },
+        {
+          "word": "spaceship",
+          "pos": "n",
+          "ipa": "/ˈspeɪsʃɪp/",
+          "meaning": "tàu vũ trụ"
+        },
+        {
+          "word": "surface",
+          "pos": "n",
+          "ipa": "/ˈsɜːfɪs/",
+          "meaning": "bề mặt"
+        },
+        {
+          "word": "telescope",
+          "pos": "n",
+          "ipa": "/ˈtelɪskəʊp/",
+          "meaning": "kính thiên văn"
+        },
+        {
+          "word": "UFO",
+          "pos": "n",
+          "ipa": "/ˌjuː ef ˈəʊ/",
+          "meaning": "vật thể bay không xác định"
+        },
+        {
+          "word": "Venus",
+          "pos": "n",
+          "ipa": "/ˈviːnəs/",
+          "meaning": "Sao Kim"
+        },
+        {
+          "word": "weightless",
+          "pos": "adj",
+          "ipa": "/ˈweɪtləs/",
+          "meaning": "không trọng lượng"
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@
       "unit": 1,
       "title": "Local community",
       "title_vi": "Cộng đồng địa phương",
+      "status": "sourced",
       "sources": [
         "https://quizlet.com/vn/927623484/unit-1-local-community-tieng-anh-9-global-success-flash-cards/",
         "https://zim.vn/tu-vung-tieng-anh-9-unit-1-global-success",
@@ -275,6 +276,7 @@
       "unit": 2,
       "title": "City life",
       "title_vi": "Cuộc sống thành phố",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-2-lop-9.jsp",
         "https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/tieng-anh/global-success-9-unit-2-city-life-vocabulary-grammar-exercises/151754492",
@@ -423,6 +425,7 @@
       "unit": 3,
       "title": "Healthy living for teens",
       "title_vi": "Sống khỏe cho thanh thiếu niên",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-3-lop-9.jsp",
         "https://download.vn/unit-3-lop-9-tu-vung-53986",
@@ -570,6 +573,7 @@
       "unit": 4,
       "title": "Remembering the past",
       "title_vi": "Nhớ về quá khứ",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-4-lop-9.jsp",
         "https://download.vn/unit-4-lop-9-tu-vung-54479",
@@ -760,6 +764,7 @@
       "unit": 5,
       "title": "Our experiences",
       "title_vi": "Những trải nghiệm của chúng ta",
+      "status": "sourced",
       "sources": [
         "https://vndoc.com/tu-vung-unit-5-lop-9-global-success-322452",
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-5-lop-9.jsp",
@@ -925,6 +930,7 @@
       "unit": 6,
       "title": "Vietnamese lifestyle: then and now",
       "title_vi": "Lối sống của người Việt: xưa và nay",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-6-lop-9.jsp",
         "https://vietjack.me/tieng-anh-9-unit-6-vietnamses-lifestyle-then-and-now-global-success-224971.html",
@@ -1036,6 +1042,7 @@
       "unit": 7,
       "title": "Natural wonders of the world",
       "title_vi": "Các kỳ quan thiên nhiên của thế giới",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-7-lop-9.jsp",
         "https://zim.vn/tu-vung-tieng-anh-9-unit-7-global-success",
@@ -1178,6 +1185,7 @@
       "unit": 8,
       "title": "Tourism",
       "title_vi": "Du lịch",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-8-lop-9.jsp",
         "https://haylamdo.com/tieng-anh-9-moi/tu-vung-unit-8-lop-9.jsp",
@@ -1265,6 +1273,7 @@
       "unit": 9,
       "title": "World Englishes",
       "title_vi": "Các biến thể tiếng Anh trên thế giới",
+      "status": "sourced",
       "sources": [
         "https://zim.vn/tu-vung-tieng-anh-9-unit-9-global-success",
         "https://langgo.edu.vn/tu-vung-unit-9-lop-9-global-success-world-englishes",
@@ -1461,6 +1470,7 @@
       "unit": 10,
       "title": "Planet Earth",
       "title_vi": "Hành tinh Trái Đất",
+      "status": "sourced",
       "sources": [
         "https://vndoc.com/tu-vung-unit-10-lop-9-global-success-327586",
         "https://download.vn/unit-10-lop-9-tu-vung-58833",
@@ -1626,6 +1636,7 @@
       "unit": 11,
       "title": "Electronic devices",
       "title_vi": "Thiết bị điện tử",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-11-lop-9.jsp",
         "https://vndoc.com/tu-vung-unit-11-lop-9-global-success-339393",
@@ -1851,6 +1862,7 @@
       "unit": 12,
       "title": "Career choices",
       "title_vi": "Lựa chọn nghề nghiệp",
+      "status": "sourced",
       "sources": [
         "https://langgo.edu.vn/tu-vung-unit-12-lop-9-global-success-career-choices",
         "https://download.vn/unit-12-lop-9-tu-vung-58933",

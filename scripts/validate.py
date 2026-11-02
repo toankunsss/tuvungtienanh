@@ -56,9 +56,13 @@ def check_grade(grade: int) -> list[str]:
         tag = f"unit {u.get('unit', '?')}"
         if u.get("unit") != i:
             err(f"{tag}: unit number should be {i}")
-        for key in ("title", "title_vi", "words", "sources"):
+        for key in ("title", "title_vi", "status", "words", "sources"):
             if key not in u:
                 err(f"{tag}: missing '{key}'")
+        if u.get("status") not in ("sourced", "unverified"):
+            err(f"{tag}: status must be 'sourced' or 'unverified'")
+        if u.get("status") == "sourced" and not u.get("sources"):
+            err(f"{tag}: status 'sourced' but no sources")
         if not isinstance(u.get("sources", []), list):
             err(f"{tag}: 'sources' must be a list")
         words = u.get("words", [])

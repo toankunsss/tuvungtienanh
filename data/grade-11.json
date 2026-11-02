@@ -8,6 +8,7 @@
       "unit": 1,
       "title": "A long and healthy life",
       "title_vi": "Cuộc sống lâu dài và khỏe mạnh",
+      "status": "sourced",
       "sources": [
         "https://hoatieu.vn/tu-vung-tieng-anh-11-global-success-222494",
         "https://langgo.edu.vn/storage/uploads/2026/04/06/tong-hop-tu-vung-tieng-anh-lop-11-global-success.pdf",
@@ -196,6 +197,7 @@
       "unit": 2,
       "title": "The generation gap",
       "title_vi": "Khoảng cách thế hệ",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-11-moi/unit-2-tu-vung-lop-11-moi.jsp",
         "https://loigiaihay.com/tieng-anh-11-unit-2-tu-vung-a142891.html",
@@ -362,6 +364,7 @@
       "unit": 3,
       "title": "Cities of the future",
       "title_vi": "Thành phố trong tương lai",
+      "status": "sourced",
       "sources": [
         "https://loigiaihay.com/tieng-anh-11-unit-3-tu-vung-a143039.html",
         "https://vndoc.com/tu-vung-unit-3-lop-11-cities-of-the-future-300124",
@@ -534,6 +537,7 @@
       "unit": 4,
       "title": "ASEAN and Viet Nam",
       "title_vi": "ASEAN và Việt Nam",
+      "status": "sourced",
       "sources": [
         "https://langgo.edu.vn/tu-vung-unit-4-lop-11-global-success-asean-and-viet-nam",
         "https://tkbooks.vn/tu-vung-unit-4-lop-11-global-success-asean-and-viet-nam/",
@@ -729,6 +733,7 @@
       "unit": 5,
       "title": "Global warming",
       "title_vi": "Sự nóng lên toàn cầu",
+      "status": "sourced",
       "sources": [
         "https://zim.vn/tu-vung-tieng-anh-11-unit-5-global-warming",
         "https://loigiaihay.com/vocabulary-unit-5-global-warming-sbt-tieng-anh-11-global-success-a149411.html",
@@ -905,6 +910,7 @@
       "unit": 6,
       "title": "Preserving our heritage",
       "title_vi": "Bảo tồn di sản của chúng ta",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-11-moi/unit-6-tu-vung-lop-11-moi.jsp",
         "https://download.vn/unit-6-lop-11-tu-vung-56942",
@@ -1100,6 +1106,7 @@
       "unit": 7,
       "title": "Education options for school-leavers",
       "title_vi": "Các lựa chọn học tập cho học sinh tốt nghiệp phổ thông",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-11-moi/unit-7-tu-vung-lop-11-moi.jsp",
         "https://vndoc.com/tu-vung-unit-7-lop-11-education-options-for-school-leavers-304238",
@@ -1294,6 +1301,7 @@
       "unit": 8,
       "title": "Becoming independent",
       "title_vi": "Trở nên độc lập",
+      "status": "sourced",
       "sources": [
         "https://vietjack.com/tieng-anh-11-moi/unit-8-tu-vung-lop-11-moi.jsp",
         "https://vietjack.me/tu-vung-tieng-anh-11-unit-8-global-success-becoming-independent-159888.html",
@@ -1501,6 +1509,7 @@
       "unit": 9,
       "title": "Social issues",
       "title_vi": "Các vấn đề xã hội",
+      "status": "sourced",
       "sources": [
         "https://langgo.edu.vn/tu-vung-unit-9-lop-11-global-success-social-issues",
         "https://vndoc.com/tu-vung-unit-9-lop-11-social-issues-315734",
@@ -1727,6 +1736,7 @@
       "unit": 10,
       "title": "The ecosystem",
       "title_vi": "Hệ sinh thái",
+      "status": "sourced",
       "sources": [
         "https://langgo.edu.vn/tu-vung-unit-10-lop-11-global-success-the-ecosystem",
         "https://www.vietjack.com/tieng-anh-11-moi/unit-10-tu-vung-lop-11-moi.jsp",
