@@ -1,0 +1,2011 @@
+{
+  "grade": 9,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 9 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Local community",
+      "title_vi": "Cộng đồng địa phương",
+      "sources": [
+        "https://quizlet.com/vn/927623484/unit-1-local-community-tieng-anh-9-global-success-flash-cards/",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-1-global-success",
+        "https://langgo.edu.vn/tu-vung-unit-1-lop-9-global-success-local-community",
+        "https://vndoc.com/tu-vung-unit-1-lop-9-global-success-319266",
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-1-lop-9.jsp",
+        "https://hoatieu.vn/tu-vung-tieng-anh-9-global-success-225603",
+        "https://prepedu.com/vi/blog/tu-vung-tieng-anh-lop-9"
+      ],
+      "words": [
+        {
+          "word": "artisan",
+          "pos": "n",
+          "ipa": "/ˌɑːtɪˈzæn/",
+          "meaning": "thợ thủ công, nghệ nhân",
+          "example": "The artisan made this vase by hand."
+        },
+        {
+          "word": "attraction",
+          "pos": "n",
+          "ipa": "/əˈtrækʃn/",
+          "meaning": "điểm thu hút, nơi hấp dẫn"
+        },
+        {
+          "word": "cast",
+          "pos": "v",
+          "ipa": "/kɑːst/",
+          "meaning": "đúc (kim loại)",
+          "example": "They cast bronze drums in this village."
+        },
+        {
+          "word": "come back",
+          "pos": "phr v",
+          "ipa": "/kʌm ˈbæk/",
+          "meaning": "quay lại, trở lại"
+        },
+        {
+          "word": "community",
+          "pos": "n",
+          "ipa": "/kəˈmjuːnəti/",
+          "meaning": "cộng đồng"
+        },
+        {
+          "word": "community helper",
+          "pos": "n",
+          "ipa": "/kəˈmjuːnəti ˈhelpə(r)/",
+          "meaning": "người phục vụ cộng đồng",
+          "example": "Firefighters are community helpers."
+        },
+        {
+          "word": "craft",
+          "pos": "n",
+          "ipa": "/krɑːft/",
+          "meaning": "nghề thủ công"
+        },
+        {
+          "word": "craft village",
+          "pos": "n",
+          "ipa": "/ˈkrɑːft ˌvɪlɪdʒ/",
+          "meaning": "làng nghề",
+          "example": "Bat Trang is a famous craft village."
+        },
+        {
+          "word": "craftsman",
+          "pos": "n",
+          "ipa": "/ˈkrɑːftsmən/",
+          "meaning": "thợ thủ công"
+        },
+        {
+          "word": "cut down on",
+          "pos": "phr v",
+          "ipa": "/kʌt ˈdaʊn ɒn/",
+          "meaning": "cắt giảm, giảm bớt",
+          "example": "We should cut down on plastic bags."
+        },
+        {
+          "word": "delivery person",
+          "pos": "n",
+          "ipa": "/dɪˈlɪvəri ˌpɜːsn/",
+          "meaning": "người giao hàng"
+        },
+        {
+          "word": "electrician",
+          "pos": "n",
+          "ipa": "/ɪˌlekˈtrɪʃn/",
+          "meaning": "thợ điện"
+        },
+        {
+          "word": "facility",
+          "pos": "n",
+          "ipa": "/fəˈsɪləti/",
+          "meaning": "cơ sở vật chất, tiện ích"
+        },
+        {
+          "word": "firefighter",
+          "pos": "n",
+          "ipa": "/ˈfaɪəfaɪtə(r)/",
+          "meaning": "lính cứu hỏa"
+        },
+        {
+          "word": "fragrance",
+          "pos": "n",
+          "ipa": "/ˈfreɪɡrəns/",
+          "meaning": "hương thơm"
+        },
+        {
+          "word": "function",
+          "pos": "n",
+          "ipa": "/ˈfʌŋkʃn/",
+          "meaning": "chức năng"
+        },
+        {
+          "word": "garbage collector",
+          "pos": "n",
+          "ipa": "/ˈɡɑːbɪdʒ kəˌlektə(r)/",
+          "meaning": "người thu gom rác"
+        },
+        {
+          "word": "get on with",
+          "pos": "phr v",
+          "ipa": "/ɡet ˈɒn wɪð/",
+          "meaning": "có quan hệ tốt với, hòa thuận với"
+        },
+        {
+          "word": "hand down",
+          "pos": "phr v",
+          "ipa": "/hænd ˈdaʊn/",
+          "meaning": "truyền lại (cho thế hệ sau)"
+        },
+        {
+          "word": "handicraft",
+          "pos": "n",
+          "ipa": "/ˈhændikrɑːft/",
+          "meaning": "đồ thủ công, sản phẩm thủ công"
+        },
+        {
+          "word": "hard-working",
+          "pos": "adj",
+          "ipa": "/ˌhɑːd ˈwɜːkɪŋ/",
+          "meaning": "chăm chỉ, cần cù"
+        },
+        {
+          "word": "lacquerware",
+          "pos": "n",
+          "ipa": "/ˈlækəweə(r)/",
+          "meaning": "đồ sơn mài"
+        },
+        {
+          "word": "local",
+          "pos": "adj",
+          "ipa": "/ˈləʊkl/",
+          "meaning": "(thuộc) địa phương"
+        },
+        {
+          "word": "look around",
+          "pos": "phr v",
+          "ipa": "/lʊk əˈraʊnd/",
+          "meaning": "nhìn quanh, đi xem xung quanh"
+        },
+        {
+          "word": "neighbour",
+          "pos": "n",
+          "ipa": "/ˈneɪbə(r)/",
+          "meaning": "hàng xóm"
+        },
+        {
+          "word": "original",
+          "pos": "adj",
+          "ipa": "/əˈrɪdʒənl/",
+          "meaning": "nguyên bản, độc đáo"
+        },
+        {
+          "word": "pass down",
+          "pos": "phr v",
+          "ipa": "/pɑːs ˈdaʊn/",
+          "meaning": "truyền lại (từ đời này sang đời khác)"
+        },
+        {
+          "word": "pottery",
+          "pos": "n",
+          "ipa": "/ˈpɒtəri/",
+          "meaning": "đồ gốm; nghề làm gốm"
+        },
+        {
+          "word": "preserve",
+          "pos": "v",
+          "ipa": "/prɪˈzɜːv/",
+          "meaning": "bảo tồn, gìn giữ"
+        },
+        {
+          "word": "remind somebody of",
+          "pos": "phr",
+          "ipa": "/rɪˈmaɪnd ˈsʌmbədi əv/",
+          "meaning": "gợi cho ai nhớ đến"
+        },
+        {
+          "word": "responsible",
+          "pos": "adj",
+          "ipa": "/rɪˈspɒnsəbl/",
+          "meaning": "có trách nhiệm"
+        },
+        {
+          "word": "run out of",
+          "pos": "phr v",
+          "ipa": "/rʌn ˈaʊt əv/",
+          "meaning": "hết, cạn kiệt"
+        },
+        {
+          "word": "sculpture",
+          "pos": "n",
+          "ipa": "/ˈskʌlptʃə(r)/",
+          "meaning": "tác phẩm điêu khắc, bức tượng"
+        },
+        {
+          "word": "speciality",
+          "pos": "n",
+          "ipa": "/ˌspeʃiˈæləti/",
+          "meaning": "đặc sản"
+        },
+        {
+          "word": "suburb",
+          "pos": "n",
+          "ipa": "/ˈsʌbɜːb/",
+          "meaning": "vùng ngoại ô"
+        },
+        {
+          "word": "take care of",
+          "pos": "phr v",
+          "ipa": "/teɪk ˈkeər əv/",
+          "meaning": "chăm sóc, trông nom"
+        },
+        {
+          "word": "team-building",
+          "pos": "n",
+          "ipa": "/ˈtiːm ˌbɪldɪŋ/",
+          "meaning": "hoạt động gắn kết tập thể"
+        },
+        {
+          "word": "tourist attraction",
+          "pos": "n",
+          "ipa": "/ˈtʊərɪst əˌtrækʃn/",
+          "meaning": "điểm du lịch"
+        },
+        {
+          "word": "turn up",
+          "pos": "phr v",
+          "ipa": "/tɜːn ˈʌp/",
+          "meaning": "xuất hiện, có mặt"
+        },
+        {
+          "word": "weave",
+          "pos": "v",
+          "ipa": "/wiːv/",
+          "meaning": "dệt, đan"
+        },
+        {
+          "word": "workshop",
+          "pos": "n",
+          "ipa": "/ˈwɜːkʃɒp/",
+          "meaning": "xưởng (thủ công)"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "City life",
+      "title_vi": "Cuộc sống thành phố",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-2-lop-9.jsp",
+        "https://www.studocu.vn/vn/document/dai-hoc-kinh-te-quoc-dan/tieng-anh/global-success-9-unit-2-city-life-vocabulary-grammar-exercises/151754492",
+        "https://yourhomework.net/vocabulary/lesson/000000269133-g",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-2-global-success",
+        "https://hoatieu.vn/tu-vung-tieng-anh-9-global-success-225603"
+      ],
+      "words": [
+        {
+          "word": "bustling",
+          "pos": "adj",
+          "ipa": "/ˈbʌslɪŋ/",
+          "meaning": "hối hả, nhộn nhịp, náo nhiệt",
+          "example": "Ho Chi Minh City is a bustling city."
+        },
+        {
+          "word": "carry out",
+          "pos": "phr v",
+          "ipa": "/ˌkæri ˈaʊt/",
+          "meaning": "tiến hành, thực hiện"
+        },
+        {
+          "word": "come down with",
+          "pos": "phr v",
+          "ipa": "/kʌm ˈdaʊn wɪð/",
+          "meaning": "bị, mắc (bệnh nhẹ)",
+          "example": "She came down with flu."
+        },
+        {
+          "word": "concrete jungle",
+          "pos": "n",
+          "ipa": "/ˌkɒŋkriːt ˈdʒʌŋɡl/",
+          "meaning": "rừng bê tông"
+        },
+        {
+          "word": "congested",
+          "pos": "adj",
+          "ipa": "/kənˈdʒestɪd/",
+          "meaning": "tắc nghẽn, đông nghẹt"
+        },
+        {
+          "word": "construction site",
+          "pos": "n",
+          "ipa": "/kənˈstrʌkʃn saɪt/",
+          "meaning": "công trường xây dựng"
+        },
+        {
+          "word": "downtown",
+          "pos": "n",
+          "ipa": "/ˌdaʊnˈtaʊn/",
+          "meaning": "khu trung tâm thành phố"
+        },
+        {
+          "word": "fabulous",
+          "pos": "adj",
+          "ipa": "/ˈfæbjələs/",
+          "meaning": "tuyệt vời"
+        },
+        {
+          "word": "get around",
+          "pos": "phr v",
+          "ipa": "/ɡet əˈraʊnd/",
+          "meaning": "đi lại, di chuyển"
+        },
+        {
+          "word": "hang out with",
+          "pos": "phr v",
+          "ipa": "/hæŋ ˈaʊt wɪð/",
+          "meaning": "đi chơi với"
+        },
+        {
+          "word": "hygiene",
+          "pos": "n",
+          "ipa": "/ˈhaɪdʒiːn/",
+          "meaning": "vệ sinh"
+        },
+        {
+          "word": "itchy",
+          "pos": "adj",
+          "ipa": "/ˈɪtʃi/",
+          "meaning": "ngứa"
+        },
+        {
+          "word": "leftover",
+          "pos": "n",
+          "ipa": "/ˈleftəʊvə(r)/",
+          "meaning": "thức ăn thừa"
+        },
+        {
+          "word": "metro",
+          "pos": "n",
+          "ipa": "/ˈmetrəʊ/",
+          "meaning": "tàu điện ngầm"
+        },
+        {
+          "word": "pricey",
+          "pos": "adj",
+          "ipa": "/ˈpraɪsi/",
+          "meaning": "đắt đỏ"
+        },
+        {
+          "word": "process",
+          "pos": "n",
+          "ipa": "/ˈprəʊses/",
+          "meaning": "quá trình, quy trình"
+        },
+        {
+          "word": "public amenities",
+          "pos": "n",
+          "ipa": "/ˌpʌblɪk əˈmiːnətiz/",
+          "meaning": "tiện ích công cộng"
+        },
+        {
+          "word": "reliable",
+          "pos": "adj",
+          "ipa": "/rɪˈlaɪəbl/",
+          "meaning": "đáng tin cậy"
+        },
+        {
+          "word": "rush hour",
+          "pos": "n",
+          "ipa": "/ˈrʌʃ aʊə(r)/",
+          "meaning": "giờ cao điểm"
+        },
+        {
+          "word": "sky train",
+          "pos": "n",
+          "ipa": "/ˈskaɪ treɪn/",
+          "meaning": "tàu điện trên cao"
+        },
+        {
+          "word": "tram",
+          "pos": "n",
+          "ipa": "/træm/",
+          "meaning": "xe điện"
+        },
+        {
+          "word": "underground",
+          "pos": "n",
+          "ipa": "/ˈʌndəɡraʊnd/",
+          "meaning": "tàu điện ngầm"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Healthy living for teens",
+      "title_vi": "Sống khỏe cho thanh thiếu niên",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-3-lop-9.jsp",
+        "https://download.vn/unit-3-lop-9-tu-vung-53986",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-3-global-success",
+        "https://www.studocu.vn/vn/document/truong-trung-hoc-co-so-chu-van-an-tay-ho/de-thi-vao-10-tieng-anh/unit-3-healthy-living-for-teens-grade-9-global-success-study-guide/144136732"
+      ],
+      "words": [
+        {
+          "word": "accomplish",
+          "pos": "v",
+          "ipa": "/əˈkʌmplɪʃ/",
+          "meaning": "hoàn thành, đạt được"
+        },
+        {
+          "word": "additional",
+          "pos": "adj",
+          "ipa": "/əˈdɪʃənl/",
+          "meaning": "thêm, bổ sung"
+        },
+        {
+          "word": "anxiety",
+          "pos": "n",
+          "ipa": "/æŋˈzaɪəti/",
+          "meaning": "sự lo lắng, nỗi lo âu"
+        },
+        {
+          "word": "appropriately",
+          "pos": "adv",
+          "ipa": "/əˈprəʊpriətli/",
+          "meaning": "một cách phù hợp"
+        },
+        {
+          "word": "assignment",
+          "pos": "n",
+          "ipa": "/əˈsaɪnmənt/",
+          "meaning": "bài tập, nhiệm vụ được giao"
+        },
+        {
+          "word": "concentrate on",
+          "pos": "phr v",
+          "ipa": "/ˈkɒnsntreɪt ɒn/",
+          "meaning": "tập trung vào"
+        },
+        {
+          "word": "counsellor",
+          "pos": "n",
+          "ipa": "/ˈkaʊnsələ(r)/",
+          "meaning": "người tư vấn, cố vấn"
+        },
+        {
+          "word": "deadline",
+          "pos": "n",
+          "ipa": "/ˈdedlaɪn/",
+          "meaning": "hạn chót",
+          "example": "The deadline for this project is Friday."
+        },
+        {
+          "word": "deal with",
+          "pos": "phr v",
+          "ipa": "/ˈdiːl wɪð/",
+          "meaning": "giải quyết, đối phó với"
+        },
+        {
+          "word": "delay",
+          "pos": "v",
+          "ipa": "/dɪˈleɪ/",
+          "meaning": "trì hoãn"
+        },
+        {
+          "word": "distraction",
+          "pos": "n",
+          "ipa": "/dɪˈstrækʃn/",
+          "meaning": "điều làm sao nhãng"
+        },
+        {
+          "word": "due date",
+          "pos": "n",
+          "ipa": "/ˈdjuː deɪt/",
+          "meaning": "ngày đến hạn"
+        },
+        {
+          "word": "fattening",
+          "pos": "adj",
+          "ipa": "/ˈfætnɪŋ/",
+          "meaning": "gây béo"
+        },
+        {
+          "word": "get through",
+          "pos": "phr v",
+          "ipa": "/ɡet ˈθruː/",
+          "meaning": "vượt qua, hoàn thành"
+        },
+        {
+          "word": "lose weight",
+          "pos": "phr",
+          "ipa": "/luːz ˈweɪt/",
+          "meaning": "giảm cân"
+        },
+        {
+          "word": "mental",
+          "pos": "adj",
+          "ipa": "/ˈmentl/",
+          "meaning": "(thuộc) tinh thần"
+        },
+        {
+          "word": "minimise",
+          "pos": "v",
+          "ipa": "/ˈmɪnɪmaɪz/",
+          "meaning": "giảm thiểu"
+        },
+        {
+          "word": "mood",
+          "pos": "n",
+          "ipa": "/muːd/",
+          "meaning": "tâm trạng"
+        },
+        {
+          "word": "optimistic",
+          "pos": "adj",
+          "ipa": "/ˌɒptɪˈmɪstɪk/",
+          "meaning": "lạc quan"
+        },
+        {
+          "word": "priority",
+          "pos": "n",
+          "ipa": "/praɪˈɒrəti/",
+          "meaning": "sự ưu tiên, việc ưu tiên"
+        },
+        {
+          "word": "stressed out",
+          "pos": "adj",
+          "ipa": "/ˌstrest ˈaʊt/",
+          "meaning": "căng thẳng, mệt mỏi"
+        },
+        {
+          "word": "well-balanced",
+          "pos": "adj",
+          "ipa": "/ˌwel ˈbælənst/",
+          "meaning": "cân bằng, cân đối",
+          "example": "Eat a well-balanced diet."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Remembering the past",
+      "title_vi": "Nhớ về quá khứ",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-4-lop-9.jsp",
+        "https://download.vn/unit-4-lop-9-tu-vung-54479",
+        "https://vndoc.com/tu-vung-unit-4-lop-9-global-success-321059",
+        "https://quizlet.com/vn/927629509/unit-4-remembering-the-past-tieng-anh-9-global-success-flash-cards/",
+        "https://langgo.edu.vn/tu-vung-unit-4-lop-9-global-success-remembering-the-past",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-4-global-success"
+      ],
+      "words": [
+        {
+          "word": "act out",
+          "pos": "phr v",
+          "ipa": "/ækt ˈaʊt/",
+          "meaning": "diễn, đóng vai"
+        },
+        {
+          "word": "ancient",
+          "pos": "adj",
+          "ipa": "/ˈeɪnʃənt/",
+          "meaning": "cổ xưa, lâu đời"
+        },
+        {
+          "word": "anniversary",
+          "pos": "n",
+          "ipa": "/ˌænɪˈvɜːsəri/",
+          "meaning": "ngày kỉ niệm, lễ kỉ niệm"
+        },
+        {
+          "word": "barefoot",
+          "pos": "adj",
+          "ipa": "/ˈbeəfʊt/",
+          "meaning": "chân trần, đi chân đất"
+        },
+        {
+          "word": "basic",
+          "pos": "adj",
+          "ipa": "/ˈbeɪsɪk/",
+          "meaning": "cơ bản, đơn sơ"
+        },
+        {
+          "word": "behave",
+          "pos": "v",
+          "ipa": "/bɪˈheɪv/",
+          "meaning": "cư xử"
+        },
+        {
+          "word": "castle",
+          "pos": "n",
+          "ipa": "/ˈkɑːsl/",
+          "meaning": "lâu đài"
+        },
+        {
+          "word": "communal",
+          "pos": "adj",
+          "ipa": "/kəˈmjuːnl/",
+          "meaning": "của chung, thuộc cộng đồng",
+          "example": "The village has a communal house."
+        },
+        {
+          "word": "complex",
+          "pos": "n",
+          "ipa": "/ˈkɒmpleks/",
+          "meaning": "quần thể, khu phức hợp"
+        },
+        {
+          "word": "dedicated",
+          "pos": "adj",
+          "ipa": "/ˈdedɪkeɪtɪd/",
+          "meaning": "dành riêng (để thờ/tưởng nhớ); tận tâm"
+        },
+        {
+          "word": "deep-rooted",
+          "pos": "adj",
+          "ipa": "/ˌdiːp ˈruːtɪd/",
+          "meaning": "ăn sâu, bám rễ"
+        },
+        {
+          "word": "face to face",
+          "pos": "adv",
+          "ipa": "/ˌfeɪs tə ˈfeɪs/",
+          "meaning": "trực tiếp, mặt đối mặt"
+        },
+        {
+          "word": "observe",
+          "pos": "v",
+          "ipa": "/əbˈzɜːv/",
+          "meaning": "tuân theo, giữ (phong tục); quan sát"
+        },
+        {
+          "word": "occupy",
+          "pos": "v",
+          "ipa": "/ˈɒkjupaɪ/",
+          "meaning": "chiếm giữ, chiếm đóng"
+        },
+        {
+          "word": "pagoda",
+          "pos": "n",
+          "ipa": "/pəˈɡəʊdə/",
+          "meaning": "chùa"
+        },
+        {
+          "word": "pass on",
+          "pos": "phr v",
+          "ipa": "/pɑːs ˈɒn/",
+          "meaning": "truyền lại"
+        },
+        {
+          "word": "preservation",
+          "pos": "n",
+          "ipa": "/ˌprezəˈveɪʃn/",
+          "meaning": "sự bảo tồn"
+        },
+        {
+          "word": "preserve",
+          "pos": "v",
+          "ipa": "/prɪˈzɜːv/",
+          "meaning": "bảo tồn, gìn giữ"
+        },
+        {
+          "word": "promote",
+          "pos": "v",
+          "ipa": "/prəˈməʊt/",
+          "meaning": "quảng bá, thúc đẩy"
+        },
+        {
+          "word": "rebuild",
+          "pos": "v",
+          "ipa": "/ˌriːˈbɪld/",
+          "meaning": "xây dựng lại"
+        },
+        {
+          "word": "recognise",
+          "pos": "v",
+          "ipa": "/ˈrekəɡnaɪz/",
+          "meaning": "công nhận"
+        },
+        {
+          "word": "safeguard",
+          "pos": "v",
+          "ipa": "/ˈseɪfɡɑːd/",
+          "meaning": "bảo vệ, gìn giữ"
+        },
+        {
+          "word": "structure",
+          "pos": "n",
+          "ipa": "/ˈstrʌktʃə(r)/",
+          "meaning": "công trình kiến trúc"
+        },
+        {
+          "word": "temple complex",
+          "pos": "n",
+          "ipa": "/ˈtempl ˌkɒmpleks/",
+          "meaning": "khu phức hợp đền, quần thể đền"
+        },
+        {
+          "word": "thanks to",
+          "pos": "prep",
+          "ipa": "/ˈθæŋks tə/",
+          "meaning": "nhờ có"
+        },
+        {
+          "word": "treat",
+          "pos": "v",
+          "ipa": "/triːt/",
+          "meaning": "đối xử, đối đãi"
+        },
+        {
+          "word": "valuable",
+          "pos": "adj",
+          "ipa": "/ˈvæljuəbl/",
+          "meaning": "quý giá"
+        },
+        {
+          "word": "World Heritage Site",
+          "pos": "n",
+          "ipa": "/ˌwɜːld ˈherɪtɪdʒ saɪt/",
+          "meaning": "Di sản Thế giới"
+        },
+        {
+          "word": "worship",
+          "pos": "v",
+          "ipa": "/ˈwɜːʃɪp/",
+          "meaning": "thờ cúng"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Our experiences",
+      "title_vi": "Những trải nghiệm của chúng ta",
+      "sources": [
+        "https://vndoc.com/tu-vung-unit-5-lop-9-global-success-322452",
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-5-lop-9.jsp",
+        "https://tailieumoi.vn/bai-viet/175127/tu-vung-tieng-anh-lop-9-unit-5-our-experiences-global-success",
+        "https://quizlet.com/vn/927845847/unit-5-our-experiences-tieng-anh-9-global-success-flash-cards/",
+        "https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-dai-hoc-da-nang/english-composition-b1/unit-5-our-experiences-english-9-global-success/114717613",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-5-global-success"
+      ],
+      "words": [
+        {
+          "word": "amazing",
+          "pos": "adj",
+          "ipa": "/əˈmeɪzɪŋ/",
+          "meaning": "tuyệt vời, đáng kinh ngạc"
+        },
+        {
+          "word": "army-like",
+          "pos": "adj",
+          "ipa": "/ˈɑːmi laɪk/",
+          "meaning": "như trong quân đội"
+        },
+        {
+          "word": "astounding",
+          "pos": "adj",
+          "ipa": "/əˈstaʊndɪŋ/",
+          "meaning": "làm sửng sốt, kinh ngạc"
+        },
+        {
+          "word": "brilliant",
+          "pos": "adj",
+          "ipa": "/ˈbrɪliənt/",
+          "meaning": "rất ấn tượng, xuất sắc"
+        },
+        {
+          "word": "campus",
+          "pos": "n",
+          "ipa": "/ˈkæmpəs/",
+          "meaning": "khuôn viên trường"
+        },
+        {
+          "word": "complex",
+          "pos": "n",
+          "ipa": "/ˈkɒmpleks/",
+          "meaning": "khu liên hợp, quần thể"
+        },
+        {
+          "word": "confidence",
+          "pos": "n",
+          "ipa": "/ˈkɒnfɪdəns/",
+          "meaning": "sự tự tin"
+        },
+        {
+          "word": "coral reef",
+          "pos": "n",
+          "ipa": "/ˈkɒrəl riːf/",
+          "meaning": "rạn san hô"
+        },
+        {
+          "word": "eco-tour",
+          "pos": "n",
+          "ipa": "/ˈiːkəʊ tʊə(r)/",
+          "meaning": "chuyến du lịch sinh thái"
+        },
+        {
+          "word": "embarrassing",
+          "pos": "adj",
+          "ipa": "/ɪmˈbærəsɪŋ/",
+          "meaning": "đáng xấu hổ, ngượng ngùng"
+        },
+        {
+          "word": "enjoyable",
+          "pos": "adj",
+          "ipa": "/ɪnˈdʒɔɪəbl/",
+          "meaning": "thú vị"
+        },
+        {
+          "word": "exhilarating",
+          "pos": "adj",
+          "ipa": "/ɪɡˈzɪləreɪtɪŋ/",
+          "meaning": "đầy phấn khích"
+        },
+        {
+          "word": "experience",
+          "pos": "n",
+          "ipa": "/ɪkˈspɪəriəns/",
+          "meaning": "sự trải nghiệm, kinh nghiệm"
+        },
+        {
+          "word": "explore",
+          "pos": "v",
+          "ipa": "/ɪkˈsplɔː(r)/",
+          "meaning": "khám phá"
+        },
+        {
+          "word": "fauna",
+          "pos": "n",
+          "ipa": "/ˈfɔːnə/",
+          "meaning": "hệ động vật"
+        },
+        {
+          "word": "flora",
+          "pos": "n",
+          "ipa": "/ˈflɔːrə/",
+          "meaning": "hệ thực vật"
+        },
+        {
+          "word": "lack",
+          "pos": "v",
+          "ipa": "/læk/",
+          "meaning": "thiếu"
+        },
+        {
+          "word": "learn by rote",
+          "pos": "phr",
+          "ipa": "/lɜːn baɪ ˈrəʊt/",
+          "meaning": "học vẹt"
+        },
+        {
+          "word": "local speciality",
+          "pos": "n",
+          "ipa": "/ˌləʊkl ˌspeʃiˈæləti/",
+          "meaning": "đặc sản địa phương"
+        },
+        {
+          "word": "memorable",
+          "pos": "adj",
+          "ipa": "/ˈmemərəbl/",
+          "meaning": "đáng nhớ"
+        },
+        {
+          "word": "performance",
+          "pos": "n",
+          "ipa": "/pəˈfɔːməns/",
+          "meaning": "buổi biểu diễn"
+        },
+        {
+          "word": "seabed",
+          "pos": "n",
+          "ipa": "/ˈsiːbed/",
+          "meaning": "đáy biển"
+        },
+        {
+          "word": "species",
+          "pos": "n",
+          "ipa": "/ˈspiːʃiːz/",
+          "meaning": "loài"
+        },
+        {
+          "word": "stream",
+          "pos": "n",
+          "ipa": "/striːm/",
+          "meaning": "dòng suối"
+        },
+        {
+          "word": "thrilling",
+          "pos": "adj",
+          "ipa": "/ˈθrɪlɪŋ/",
+          "meaning": "ly kỳ, hồi hộp"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Vietnamese lifestyle: then and now",
+      "title_vi": "Lối sống của người Việt: xưa và nay",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-6-lop-9.jsp",
+        "https://vietjack.me/tieng-anh-9-unit-6-vietnamses-lifestyle-then-and-now-global-success-224971.html",
+        "https://vndoc.com/tu-vung-unit-6-lop-9-global-success-322913",
+        "https://quizlet.com/vn/931720858/tu-vung-anh-9-global-success-unit-6-flash-cards/"
+      ],
+      "words": [
+        {
+          "word": "democratic",
+          "pos": "adj",
+          "ipa": "/ˌdeməˈkrætɪk/",
+          "meaning": "dân chủ"
+        },
+        {
+          "word": "dependent",
+          "pos": "adj",
+          "ipa": "/dɪˈpendənt/",
+          "meaning": "phụ thuộc, lệ thuộc"
+        },
+        {
+          "word": "dye",
+          "pos": "v",
+          "ipa": "/daɪ/",
+          "meaning": "nhuộm (tóc, vải)"
+        },
+        {
+          "word": "electronic device",
+          "pos": "n",
+          "ipa": "/ɪˌlekˈtrɒnɪk dɪˈvaɪs/",
+          "meaning": "thiết bị điện tử"
+        },
+        {
+          "word": "extended",
+          "pos": "adj",
+          "ipa": "/ɪkˈstendɪd/",
+          "meaning": "(gia đình) nhiều thế hệ",
+          "example": "I live in an extended family."
+        },
+        {
+          "word": "gap",
+          "pos": "n",
+          "ipa": "/ɡæp/",
+          "meaning": "khoảng cách"
+        },
+        {
+          "word": "generation",
+          "pos": "n",
+          "ipa": "/ˌdʒenəˈreɪʃn/",
+          "meaning": "thế hệ"
+        },
+        {
+          "word": "household",
+          "pos": "n",
+          "ipa": "/ˈhaʊshəʊld/",
+          "meaning": "hộ gia đình"
+        },
+        {
+          "word": "lifestyle",
+          "pos": "n",
+          "ipa": "/ˈlaɪfstaɪl/",
+          "meaning": "lối sống"
+        },
+        {
+          "word": "living condition",
+          "pos": "n",
+          "ipa": "/ˈlɪvɪŋ kənˌdɪʃn/",
+          "meaning": "điều kiện sống"
+        },
+        {
+          "word": "memorise",
+          "pos": "v",
+          "ipa": "/ˈmeməraɪz/",
+          "meaning": "ghi nhớ, học thuộc lòng"
+        },
+        {
+          "word": "monk",
+          "pos": "n",
+          "ipa": "/mʌŋk/",
+          "meaning": "nhà sư"
+        },
+        {
+          "word": "nuclear",
+          "pos": "adj",
+          "ipa": "/ˈnjuːkliə(r)/",
+          "meaning": "(gia đình) hạt nhân, hai thế hệ",
+          "example": "Most families now are nuclear families."
+        },
+        {
+          "word": "opportunity",
+          "pos": "n",
+          "ipa": "/ˌɒpəˈtjuːnəti/",
+          "meaning": "cơ hội"
+        },
+        {
+          "word": "play outdoors",
+          "pos": "phr",
+          "ipa": "/pleɪ ˌaʊtˈdɔːz/",
+          "meaning": "chơi ngoài trời"
+        },
+        {
+          "word": "traditional game",
+          "pos": "n",
+          "ipa": "/trəˌdɪʃənl ˈɡeɪm/",
+          "meaning": "trò chơi truyền thống"
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Natural wonders of the world",
+      "title_vi": "Các kỳ quan thiên nhiên của thế giới",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-7-lop-9.jsp",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-7-global-success",
+        "https://langgo.edu.vn/tu-vung-unit-7-lop-9-global-success-natural-wonders-of-the-world",
+        "https://ila.edu.vn/tieng-anh-9-unit-7",
+        "https://quizlet.com/vn/927849374/unit-7-natural-wonders-of-the-world-tieng-anh-9-global-success-flash-cards/",
+        "https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/tieng-anh-co-so/global-success-9-unit-7-vocabulary-grammar-key/154799063"
+      ],
+      "words": [
+        {
+          "word": "access",
+          "pos": "n",
+          "ipa": "/ˈækses/",
+          "meaning": "sự tiếp cận, lối vào"
+        },
+        {
+          "word": "annual",
+          "pos": "adj",
+          "ipa": "/ˈænjuəl/",
+          "meaning": "hằng năm"
+        },
+        {
+          "word": "biodiversity",
+          "pos": "n",
+          "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+          "meaning": "sự đa dạng sinh học"
+        },
+        {
+          "word": "coral",
+          "pos": "n",
+          "ipa": "/ˈkɒrəl/",
+          "meaning": "san hô"
+        },
+        {
+          "word": "crazy",
+          "pos": "adj",
+          "ipa": "/ˈkreɪzi/",
+          "meaning": "say mê, phát cuồng (crazy about)"
+        },
+        {
+          "word": "destination",
+          "pos": "n",
+          "ipa": "/ˌdestɪˈneɪʃn/",
+          "meaning": "điểm đến"
+        },
+        {
+          "word": "ecosystem",
+          "pos": "n",
+          "ipa": "/ˈiːkəʊsɪstəm/",
+          "meaning": "hệ sinh thái"
+        },
+        {
+          "word": "explore",
+          "pos": "v",
+          "ipa": "/ɪkˈsplɔː(r)/",
+          "meaning": "khám phá"
+        },
+        {
+          "word": "feature",
+          "pos": "n",
+          "ipa": "/ˈfiːtʃə(r)/",
+          "meaning": "đặc điểm, nét đặc trưng"
+        },
+        {
+          "word": "landscape",
+          "pos": "n",
+          "ipa": "/ˈlændskeɪp/",
+          "meaning": "phong cảnh"
+        },
+        {
+          "word": "locate",
+          "pos": "v",
+          "ipa": "/ləʊˈkeɪt/",
+          "meaning": "định vị, đặt ở (be located in: nằm ở)"
+        },
+        {
+          "word": "location",
+          "pos": "n",
+          "ipa": "/ləʊˈkeɪʃn/",
+          "meaning": "vị trí, địa điểm"
+        },
+        {
+          "word": "majestic",
+          "pos": "adj",
+          "ipa": "/məˈdʒestɪk/",
+          "meaning": "hùng vĩ, tráng lệ"
+        },
+        {
+          "word": "natural wonder",
+          "pos": "n",
+          "ipa": "/ˌnætʃrəl ˈwʌndə(r)/",
+          "meaning": "kỳ quan thiên nhiên",
+          "example": "Ha Long Bay is a natural wonder."
+        },
+        {
+          "word": "occur",
+          "pos": "v",
+          "ipa": "/əˈkɜː(r)/",
+          "meaning": "xảy ra"
+        },
+        {
+          "word": "paradise",
+          "pos": "n",
+          "ipa": "/ˈpærədaɪs/",
+          "meaning": "thiên đường"
+        },
+        {
+          "word": "peak",
+          "pos": "n",
+          "ipa": "/piːk/",
+          "meaning": "đỉnh núi"
+        },
+        {
+          "word": "permission",
+          "pos": "n",
+          "ipa": "/pəˈmɪʃn/",
+          "meaning": "sự cho phép"
+        },
+        {
+          "word": "permit",
+          "pos": "v",
+          "ipa": "/pəˈmɪt/",
+          "meaning": "cho phép"
+        },
+        {
+          "word": "possess",
+          "pos": "v",
+          "ipa": "/pəˈzes/",
+          "meaning": "có, sở hữu"
+        },
+        {
+          "word": "sustainable",
+          "pos": "adj",
+          "ipa": "/səˈsteɪnəbl/",
+          "meaning": "bền vững"
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Tourism",
+      "title_vi": "Du lịch",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-8-lop-9.jsp",
+        "https://haylamdo.com/tieng-anh-9-moi/tu-vung-unit-8-lop-9.jsp",
+        "https://langgo.edu.vn/tu-vung-unit-8-lop-9-global-success-tourism",
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-8-global-success",
+        "https://tailieumoi.vn/bai-viet/162594/giai-sgk-tieng-anh-9-unit-8-tourism-global-success"
+      ],
+      "words": [
+        {
+          "word": "agency",
+          "pos": "n",
+          "ipa": "/ˈeɪdʒənsi/",
+          "meaning": "hãng, đại lý (du lịch)",
+          "example": "We booked the tour through a travel agency."
+        },
+        {
+          "word": "agent",
+          "pos": "n",
+          "ipa": "/ˈeɪdʒənt/",
+          "meaning": "nhân viên đại lý"
+        },
+        {
+          "word": "brochure",
+          "pos": "n",
+          "ipa": "/ˈbrəʊʃə(r)/",
+          "meaning": "tờ quảng cáo, sách giới thiệu"
+        },
+        {
+          "word": "domestic tourism",
+          "pos": "n",
+          "ipa": "/dəˌmestɪk ˈtʊərɪzəm/",
+          "meaning": "du lịch nội địa"
+        },
+        {
+          "word": "food tourism",
+          "pos": "n",
+          "ipa": "/ˈfuːd ˌtʊərɪzəm/",
+          "meaning": "du lịch ẩm thực"
+        },
+        {
+          "word": "homestay",
+          "pos": "n",
+          "ipa": "/ˈhəʊmsteɪ/",
+          "meaning": "nhà dân cho khách du lịch ở"
+        },
+        {
+          "word": "itinerary",
+          "pos": "n",
+          "ipa": "/aɪˈtɪnərəri/",
+          "meaning": "lịch trình"
+        },
+        {
+          "word": "safari",
+          "pos": "n",
+          "ipa": "/səˈfɑːri/",
+          "meaning": "chuyến đi xem/thám hiểm động vật hoang dã"
+        },
+        {
+          "word": "sports tourism",
+          "pos": "n",
+          "ipa": "/ˈspɔːts ˌtʊərɪzəm/",
+          "meaning": "du lịch thể thao"
+        },
+        {
+          "word": "tourism",
+          "pos": "n",
+          "ipa": "/ˈtʊərɪzəm/",
+          "meaning": "du lịch, ngành du lịch"
+        },
+        {
+          "word": "well-known",
+          "pos": "adj",
+          "ipa": "/ˌwel ˈnəʊn/",
+          "meaning": "nổi tiếng"
+        },
+        {
+          "word": "work out",
+          "pos": "phr v",
+          "ipa": "/wɜːk ˈaʊt/",
+          "meaning": "soạn thảo, lên (kế hoạch)"
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "World Englishes",
+      "title_vi": "Các biến thể tiếng Anh trên thế giới",
+      "sources": [
+        "https://zim.vn/tu-vung-tieng-anh-9-unit-9-global-success",
+        "https://langgo.edu.vn/tu-vung-unit-9-lop-9-global-success-world-englishes",
+        "https://download.vn/unit-9-lop-9-tu-vung-58133",
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-9-lop-9.jsp",
+        "https://loigiaihay.com/tieng-anh-9-global-success-unit-9-tu-vung-a168275.html"
+      ],
+      "words": [
+        {
+          "word": "admire",
+          "pos": "v",
+          "ipa": "/ədˈmaɪə(r)/",
+          "meaning": "ngưỡng mộ"
+        },
+        {
+          "word": "bilingual",
+          "pos": "adj",
+          "ipa": "/ˌbaɪˈlɪŋɡwəl/",
+          "meaning": "nói được hai thứ tiếng, song ngữ"
+        },
+        {
+          "word": "borrowed word",
+          "pos": "n",
+          "ipa": "/ˌbɒrəʊd ˈwɜːd/",
+          "meaning": "từ mượn"
+        },
+        {
+          "word": "concentric",
+          "pos": "adj",
+          "ipa": "/kənˈsentrɪk/",
+          "meaning": "đồng tâm",
+          "example": "The model has three concentric circles."
+        },
+        {
+          "word": "conference",
+          "pos": "n",
+          "ipa": "/ˈkɒnfərəns/",
+          "meaning": "hội nghị"
+        },
+        {
+          "word": "consist of",
+          "pos": "phr v",
+          "ipa": "/kənˈsɪst əv/",
+          "meaning": "bao gồm"
+        },
+        {
+          "word": "copy",
+          "pos": "v",
+          "ipa": "/ˈkɒpi/",
+          "meaning": "chép lại, sao chép"
+        },
+        {
+          "word": "discussion",
+          "pos": "n",
+          "ipa": "/dɪˈskʌʃn/",
+          "meaning": "cuộc thảo luận"
+        },
+        {
+          "word": "establish",
+          "pos": "v",
+          "ipa": "/ɪˈstæblɪʃ/",
+          "meaning": "thành lập, thiết lập"
+        },
+        {
+          "word": "exchange student",
+          "pos": "n",
+          "ipa": "/ɪksˈtʃeɪndʒ ˌstjuːdnt/",
+          "meaning": "học sinh trao đổi"
+        },
+        {
+          "word": "Expanding Circle",
+          "pos": "n",
+          "ipa": "/ɪkˌspændɪŋ ˈsɜːkl/",
+          "meaning": "Vòng tròn mở rộng (nơi tiếng Anh là ngoại ngữ)"
+        },
+        {
+          "word": "first language",
+          "pos": "n",
+          "ipa": "/ˌfɜːst ˈlæŋɡwɪdʒ/",
+          "meaning": "ngôn ngữ thứ nhất, tiếng mẹ đẻ"
+        },
+        {
+          "word": "fluent",
+          "pos": "adj",
+          "ipa": "/ˈfluːənt/",
+          "meaning": "trôi chảy, lưu loát"
+        },
+        {
+          "word": "global",
+          "pos": "adj",
+          "ipa": "/ˈɡləʊbl/",
+          "meaning": "toàn cầu"
+        },
+        {
+          "word": "global language",
+          "pos": "n",
+          "ipa": "/ˌɡləʊbl ˈlæŋɡwɪdʒ/",
+          "meaning": "ngôn ngữ toàn cầu"
+        },
+        {
+          "word": "go over",
+          "pos": "phr v",
+          "ipa": "/ɡəʊ ˈəʊvə(r)/",
+          "meaning": "ôn lại, xem lại"
+        },
+        {
+          "word": "immigrant",
+          "pos": "n",
+          "ipa": "/ˈɪmɪɡrənt/",
+          "meaning": "người nhập cư"
+        },
+        {
+          "word": "Inner Circle",
+          "pos": "n",
+          "ipa": "/ˌɪnə ˈsɜːkl/",
+          "meaning": "Vòng tròn trong (nơi tiếng Anh là ngôn ngữ thứ nhất)"
+        },
+        {
+          "word": "look up",
+          "pos": "phr v",
+          "ipa": "/lʊk ˈʌp/",
+          "meaning": "tra cứu (từ điển)",
+          "example": "Look up new words in a dictionary."
+        },
+        {
+          "word": "model",
+          "pos": "n",
+          "ipa": "/ˈmɒdl/",
+          "meaning": "mô hình"
+        },
+        {
+          "word": "Outer Circle",
+          "pos": "n",
+          "ipa": "/ˌaʊtə ˈsɜːkl/",
+          "meaning": "Vòng tròn ngoài (nơi tiếng Anh là ngôn ngữ thứ hai)"
+        },
+        {
+          "word": "pick up",
+          "pos": "phr v",
+          "ipa": "/pɪk ˈʌp/",
+          "meaning": "học được (một cách tự nhiên)"
+        },
+        {
+          "word": "propose",
+          "pos": "v",
+          "ipa": "/prəˈpəʊz/",
+          "meaning": "đề xuất"
+        },
+        {
+          "word": "represent",
+          "pos": "v",
+          "ipa": "/ˌreprɪˈzent/",
+          "meaning": "đại diện, thể hiện"
+        },
+        {
+          "word": "second language",
+          "pos": "n",
+          "ipa": "/ˌsekənd ˈlæŋɡwɪdʒ/",
+          "meaning": "ngôn ngữ thứ hai"
+        },
+        {
+          "word": "standard",
+          "pos": "n",
+          "ipa": "/ˈstændəd/",
+          "meaning": "chuẩn mực, tiêu chuẩn"
+        },
+        {
+          "word": "translate",
+          "pos": "v",
+          "ipa": "/trænsˈleɪt/",
+          "meaning": "dịch"
+        },
+        {
+          "word": "variety",
+          "pos": "n",
+          "ipa": "/vəˈraɪəti/",
+          "meaning": "biến thể"
+        },
+        {
+          "word": "vocabulary",
+          "pos": "n",
+          "ipa": "/vəˈkæbjələri/",
+          "meaning": "từ vựng"
+        },
+        {
+          "word": "World Englishes",
+          "pos": "n",
+          "ipa": "/ˌwɜːld ˈɪŋɡlɪʃɪz/",
+          "meaning": "các biến thể tiếng Anh trên thế giới"
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Planet Earth",
+      "title_vi": "Hành tinh Trái Đất",
+      "sources": [
+        "https://vndoc.com/tu-vung-unit-10-lop-9-global-success-327586",
+        "https://download.vn/unit-10-lop-9-tu-vung-58833",
+        "https://vietjack.me/tu-vung-tieng-anh-9-unit-10-global-success-planet-earth-228211.html",
+        "https://www.vietjack.com/tieng-anh-9-moi/tu-vung-unit-10-lop-9.jsp",
+        "https://prepedu.com/vi/blog/tieng-anh-9-unit-10"
+      ],
+      "words": [
+        {
+          "word": "affect",
+          "pos": "v",
+          "ipa": "/əˈfekt/",
+          "meaning": "ảnh hưởng đến"
+        },
+        {
+          "word": "appreciate",
+          "pos": "v",
+          "ipa": "/əˈpriːʃieɪt/",
+          "meaning": "trân trọng, đánh giá cao"
+        },
+        {
+          "word": "climate change",
+          "pos": "n",
+          "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+          "meaning": "biến đổi khí hậu"
+        },
+        {
+          "word": "continent",
+          "pos": "n",
+          "ipa": "/ˈkɒntɪnənt/",
+          "meaning": "lục địa, châu lục"
+        },
+        {
+          "word": "destroy",
+          "pos": "v",
+          "ipa": "/dɪˈstrɔɪ/",
+          "meaning": "phá hủy"
+        },
+        {
+          "word": "droppings",
+          "pos": "n",
+          "ipa": "/ˈdrɒpɪŋz/",
+          "meaning": "phân (động vật)"
+        },
+        {
+          "word": "ecological balance",
+          "pos": "n",
+          "ipa": "/ˌiːkəˌlɒdʒɪkl ˈbæləns/",
+          "meaning": "cân bằng sinh thái"
+        },
+        {
+          "word": "essential",
+          "pos": "adj",
+          "ipa": "/ɪˈsenʃl/",
+          "meaning": "thiết yếu, vô cùng quan trọng"
+        },
+        {
+          "word": "fascinating",
+          "pos": "adj",
+          "ipa": "/ˈfæsɪneɪtɪŋ/",
+          "meaning": "rất thú vị, hấp dẫn"
+        },
+        {
+          "word": "fertiliser",
+          "pos": "n",
+          "ipa": "/ˈfɜːtəlaɪzə(r)/",
+          "meaning": "phân bón"
+        },
+        {
+          "word": "food chain",
+          "pos": "n",
+          "ipa": "/ˈfuːd tʃeɪn/",
+          "meaning": "chuỗi thức ăn"
+        },
+        {
+          "word": "grassland",
+          "pos": "n",
+          "ipa": "/ˈɡrɑːslænd/",
+          "meaning": "đồng cỏ"
+        },
+        {
+          "word": "habitat",
+          "pos": "n",
+          "ipa": "/ˈhæbɪtæt/",
+          "meaning": "môi trường sống"
+        },
+        {
+          "word": "harm",
+          "pos": "v",
+          "ipa": "/hɑːm/",
+          "meaning": "làm hại, gây hại"
+        },
+        {
+          "word": "landform",
+          "pos": "n",
+          "ipa": "/ˈlændfɔːm/",
+          "meaning": "địa hình"
+        },
+        {
+          "word": "nature reserve",
+          "pos": "n",
+          "ipa": "/ˈneɪtʃə rɪˌzɜːv/",
+          "meaning": "khu bảo tồn thiên nhiên"
+        },
+        {
+          "word": "observe",
+          "pos": "v",
+          "ipa": "/əbˈzɜːv/",
+          "meaning": "quan sát"
+        },
+        {
+          "word": "orbit",
+          "pos": "v",
+          "ipa": "/ˈɔːbɪt/",
+          "meaning": "quay quanh (theo quỹ đạo)",
+          "example": "The Earth orbits the Sun."
+        },
+        {
+          "word": "outer space",
+          "pos": "n",
+          "ipa": "/ˌaʊtə ˈspeɪs/",
+          "meaning": "không gian vũ trụ"
+        },
+        {
+          "word": "pesticide",
+          "pos": "n",
+          "ipa": "/ˈpestɪsaɪd/",
+          "meaning": "thuốc trừ sâu"
+        },
+        {
+          "word": "planet",
+          "pos": "n",
+          "ipa": "/ˈplænɪt/",
+          "meaning": "hành tinh"
+        },
+        {
+          "word": "pole",
+          "pos": "n",
+          "ipa": "/pəʊl/",
+          "meaning": "cực (Bắc/Nam)"
+        },
+        {
+          "word": "preserve",
+          "pos": "v",
+          "ipa": "/prɪˈzɜːv/",
+          "meaning": "bảo tồn, gìn giữ"
+        },
+        {
+          "word": "threat",
+          "pos": "n",
+          "ipa": "/θret/",
+          "meaning": "mối đe dọa"
+        },
+        {
+          "word": "vital",
+          "pos": "adj",
+          "ipa": "/ˈvaɪtl/",
+          "meaning": "thiết yếu, cực kỳ quan trọng"
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "Electronic devices",
+      "title_vi": "Thiết bị điện tử",
+      "sources": [
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-11-lop-9.jsp",
+        "https://vndoc.com/tu-vung-unit-11-lop-9-global-success-339393",
+        "https://quizlet.com/vn/927946228/unit-11-electronic-devices-tieng-anh-9-global-success-flash-cards/",
+        "https://quizlet.com/vn/1158281834/global-success-9-unit-11-electronic-devices-flash-cards/",
+        "https://vietjack.me/ngu-phap-tieng-anh-9-unit-11-global-success-electronic-devices-226773.html"
+      ],
+      "words": [
+        {
+          "word": "3D printer",
+          "pos": "n",
+          "ipa": "/ˌθriː ˈdiː ˈprɪntə(r)/",
+          "meaning": "máy in 3D"
+        },
+        {
+          "word": "aluminium",
+          "pos": "n",
+          "ipa": "/ˌæləˈmɪniəm/",
+          "meaning": "nhôm"
+        },
+        {
+          "word": "application",
+          "pos": "n",
+          "ipa": "/ˌæplɪˈkeɪʃn/",
+          "meaning": "ứng dụng"
+        },
+        {
+          "word": "assistant",
+          "pos": "n",
+          "ipa": "/əˈsɪstənt/",
+          "meaning": "trợ lý"
+        },
+        {
+          "word": "break down",
+          "pos": "phr v",
+          "ipa": "/breɪk ˈdaʊn/",
+          "meaning": "chia nhỏ, phân tích (vấn đề); bị hỏng"
+        },
+        {
+          "word": "camcorder",
+          "pos": "n",
+          "ipa": "/ˈkæmkɔːdə(r)/",
+          "meaning": "máy quay phim xách tay"
+        },
+        {
+          "word": "cardboard",
+          "pos": "n",
+          "ipa": "/ˈkɑːdbɔːd/",
+          "meaning": "bìa cứng, các tông"
+        },
+        {
+          "word": "copper",
+          "pos": "n",
+          "ipa": "/ˈkɒpə(r)/",
+          "meaning": "đồng (kim loại)"
+        },
+        {
+          "word": "digital textbook",
+          "pos": "n",
+          "ipa": "/ˌdɪdʒɪtl ˈtekstbʊk/",
+          "meaning": "sách giáo khoa điện tử"
+        },
+        {
+          "word": "durable",
+          "pos": "adj",
+          "ipa": "/ˈdjʊərəbl/",
+          "meaning": "bền"
+        },
+        {
+          "word": "e-reader",
+          "pos": "n",
+          "ipa": "/ˈiː riːdə(r)/",
+          "meaning": "máy đọc sách điện tử"
+        },
+        {
+          "word": "electronic device",
+          "pos": "n",
+          "ipa": "/ɪˌlekˈtrɒnɪk dɪˈvaɪs/",
+          "meaning": "thiết bị điện tử"
+        },
+        {
+          "word": "high-quality",
+          "pos": "adj",
+          "ipa": "/ˌhaɪ ˈkwɒləti/",
+          "meaning": "chất lượng cao"
+        },
+        {
+          "word": "interact",
+          "pos": "v",
+          "ipa": "/ˌɪntərˈækt/",
+          "meaning": "tương tác (interact with)"
+        },
+        {
+          "word": "keyboard",
+          "pos": "n",
+          "ipa": "/ˈkiːbɔːd/",
+          "meaning": "bàn phím"
+        },
+        {
+          "word": "leaflet",
+          "pos": "n",
+          "ipa": "/ˈliːflət/",
+          "meaning": "tờ rơi"
+        },
+        {
+          "word": "lightweight",
+          "pos": "adj",
+          "ipa": "/ˈlaɪtweɪt/",
+          "meaning": "nhẹ"
+        },
+        {
+          "word": "mould",
+          "pos": "v",
+          "ipa": "/məʊld/",
+          "meaning": "đúc, tạo khuôn"
+        },
+        {
+          "word": "music player",
+          "pos": "n",
+          "ipa": "/ˈmjuːzɪk ˌpleɪə(r)/",
+          "meaning": "máy nghe nhạc"
+        },
+        {
+          "word": "navigate",
+          "pos": "v",
+          "ipa": "/ˈnævɪɡeɪt/",
+          "meaning": "điều hướng, tìm đường"
+        },
+        {
+          "word": "plastic",
+          "pos": "n",
+          "ipa": "/ˈplæstɪk/",
+          "meaning": "nhựa, chất dẻo"
+        },
+        {
+          "word": "portable",
+          "pos": "adj",
+          "ipa": "/ˈpɔːtəbl/",
+          "meaning": "có thể mang theo, xách tay"
+        },
+        {
+          "word": "robotic vacuum",
+          "pos": "n",
+          "ipa": "/rəʊˌbɒtɪk ˈvækjuːm/",
+          "meaning": "robot hút bụi"
+        },
+        {
+          "word": "rubber",
+          "pos": "n",
+          "ipa": "/ˈrʌbə(r)/",
+          "meaning": "cao su"
+        },
+        {
+          "word": "screen",
+          "pos": "n",
+          "ipa": "/skriːn/",
+          "meaning": "màn hình"
+        },
+        {
+          "word": "self-portrait",
+          "pos": "n",
+          "ipa": "/ˌself ˈpɔːtreɪt/",
+          "meaning": "ảnh/chân dung tự họa, ảnh tự chụp"
+        },
+        {
+          "word": "smartwatch",
+          "pos": "n",
+          "ipa": "/ˈsmɑːtwɒtʃ/",
+          "meaning": "đồng hồ thông minh"
+        },
+        {
+          "word": "social media",
+          "pos": "n",
+          "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+          "meaning": "mạng xã hội"
+        },
+        {
+          "word": "steel",
+          "pos": "n",
+          "ipa": "/stiːl/",
+          "meaning": "thép"
+        },
+        {
+          "word": "stylish",
+          "pos": "adj",
+          "ipa": "/ˈstaɪlɪʃ/",
+          "meaning": "hợp thời trang, sành điệu"
+        },
+        {
+          "word": "suck",
+          "pos": "v",
+          "ipa": "/sʌk/",
+          "meaning": "hút",
+          "example": "The robot vacuum sucks up dust."
+        },
+        {
+          "word": "take note",
+          "pos": "phr",
+          "ipa": "/teɪk ˈnəʊt/",
+          "meaning": "ghi chú, lưu ý"
+        },
+        {
+          "word": "touchscreen",
+          "pos": "n",
+          "ipa": "/ˈtʌtʃskriːn/",
+          "meaning": "màn hình cảm ứng"
+        },
+        {
+          "word": "virtual",
+          "pos": "adj",
+          "ipa": "/ˈvɜːtʃuəl/",
+          "meaning": "ảo"
+        },
+        {
+          "word": "wireless",
+          "pos": "adj",
+          "ipa": "/ˈwaɪələs/",
+          "meaning": "không dây"
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "Career choices",
+      "title_vi": "Lựa chọn nghề nghiệp",
+      "sources": [
+        "https://langgo.edu.vn/tu-vung-unit-12-lop-9-global-success-career-choices",
+        "https://download.vn/unit-12-lop-9-tu-vung-58933",
+        "https://vietjack.com/tieng-anh-9-moi/tu-vung-unit-12-lop-9.jsp",
+        "https://prepedu.com/vi/blog/tieng-anh-9-unit-12",
+        "https://vus.edu.vn/blog-vus/tieng-anh-9-unit-12",
+        "https://quizlet.com/vn/1015524493/unit-12-career-choices-tieng-anh-9-global-success-flash-cards/"
+      ],
+      "words": [
+        {
+          "word": "academic",
+          "pos": "adj",
+          "ipa": "/ˌækəˈdemɪk/",
+          "meaning": "(thuộc) học thuật, nhà trường"
+        },
+        {
+          "word": "assembly worker",
+          "pos": "n",
+          "ipa": "/əˈsembli ˌwɜːkə(r)/",
+          "meaning": "công nhân lắp ráp (dây chuyền)"
+        },
+        {
+          "word": "bartender",
+          "pos": "n",
+          "ipa": "/ˈbɑːtendə(r)/",
+          "meaning": "người pha chế đồ uống"
+        },
+        {
+          "word": "career",
+          "pos": "n",
+          "ipa": "/kəˈrɪə(r)/",
+          "meaning": "sự nghiệp, nghề nghiệp"
+        },
+        {
+          "word": "career choice",
+          "pos": "n",
+          "ipa": "/kəˈrɪə tʃɔɪs/",
+          "meaning": "lựa chọn nghề nghiệp"
+        },
+        {
+          "word": "career orientation",
+          "pos": "n",
+          "ipa": "/kəˈrɪər ˌɔːriənˌteɪʃn/",
+          "meaning": "định hướng nghề nghiệp"
+        },
+        {
+          "word": "career path",
+          "pos": "n",
+          "ipa": "/kəˈrɪə pɑːθ/",
+          "meaning": "con đường sự nghiệp"
+        },
+        {
+          "word": "cashier",
+          "pos": "n",
+          "ipa": "/kæˈʃɪə(r)/",
+          "meaning": "thu ngân"
+        },
+        {
+          "word": "decisive",
+          "pos": "adj",
+          "ipa": "/dɪˈsaɪsɪv/",
+          "meaning": "quyết đoán"
+        },
+        {
+          "word": "demanding",
+          "pos": "adj",
+          "ipa": "/dɪˈmɑːndɪŋ/",
+          "meaning": "đòi hỏi khắt khe, vất vả"
+        },
+        {
+          "word": "fabric",
+          "pos": "n",
+          "ipa": "/ˈfæbrɪk/",
+          "meaning": "vải"
+        },
+        {
+          "word": "garment worker",
+          "pos": "n",
+          "ipa": "/ˈɡɑːmənt ˌwɜːkə(r)/",
+          "meaning": "công nhân may"
+        },
+        {
+          "word": "hands-on",
+          "pos": "adj",
+          "ipa": "/ˌhændz ˈɒn/",
+          "meaning": "thực hành, thực tế"
+        },
+        {
+          "word": "inquiring",
+          "pos": "adj",
+          "ipa": "/ɪnˈkwaɪərɪŋ/",
+          "meaning": "ham học hỏi, tò mò"
+        },
+        {
+          "word": "knowledgeable",
+          "pos": "adj",
+          "ipa": "/ˈnɒlɪdʒəbl/",
+          "meaning": "am hiểu, hiểu biết rộng"
+        },
+        {
+          "word": "mechanic",
+          "pos": "n",
+          "ipa": "/məˈkænɪk/",
+          "meaning": "thợ máy, thợ sửa chữa"
+        },
+        {
+          "word": "orientation",
+          "pos": "n",
+          "ipa": "/ˌɔːriənˈteɪʃn/",
+          "meaning": "sự định hướng"
+        },
+        {
+          "word": "repetitive",
+          "pos": "adj",
+          "ipa": "/rɪˈpetətɪv/",
+          "meaning": "lặp đi lặp lại"
+        },
+        {
+          "word": "rewarding",
+          "pos": "adj",
+          "ipa": "/rɪˈwɔːdɪŋ/",
+          "meaning": "bổ ích, đáng làm"
+        },
+        {
+          "word": "sew",
+          "pos": "v",
+          "ipa": "/səʊ/",
+          "meaning": "khâu, may"
+        },
+        {
+          "word": "software engineer",
+          "pos": "n",
+          "ipa": "/ˈsɒftweər ˌendʒɪˈnɪə(r)/",
+          "meaning": "kỹ sư phần mềm"
+        },
+        {
+          "word": "surgeon",
+          "pos": "n",
+          "ipa": "/ˈsɜːdʒən/",
+          "meaning": "bác sĩ phẫu thuật"
+        },
+        {
+          "word": "vocational",
+          "pos": "adj",
+          "ipa": "/vəʊˈkeɪʃənl/",
+          "meaning": "(thuộc) dạy nghề, hướng nghiệp",
+          "example": "He went to a vocational school."
+        },
+        {
+          "word": "well-paid",
+          "pos": "adj",
+          "ipa": "/ˌwel ˈpeɪd/",
+          "meaning": "được trả lương cao"
+        }
+      ]
+    }
+  ]
+}
