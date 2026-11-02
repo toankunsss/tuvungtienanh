@@ -1,0 +1,775 @@
+{
+  "grade": 1,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 1 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "In the school playground",
+      "title_vi": "Ở sân chơi trường học",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://hoatieu.vn/giao-an-tieng-anh-1-global-success-245043",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-1-lesson-1-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "ball",
+          "pos": "n",
+          "ipa": "/bɔːl/",
+          "meaning": "quả bóng",
+          "example": "This is a ball."
+        },
+        {
+          "word": "bike",
+          "pos": "n",
+          "ipa": "/baɪk/",
+          "meaning": "xe đạp",
+          "example": "This is a bike."
+        },
+        {
+          "word": "book",
+          "pos": "n",
+          "ipa": "/bʊk/",
+          "meaning": "quyển sách",
+          "example": "This is a book."
+        },
+        {
+          "word": "school playground",
+          "pos": "n",
+          "ipa": "/ˌskuːl ˈpleɪɡraʊnd/",
+          "meaning": "sân chơi trường học",
+          "example": "We are in the school playground."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "In the dining room",
+      "title_vi": "Trong phòng ăn",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-2-phonetics-and-vocabulary.jsp"
+      ],
+      "words": [
+        {
+          "word": "cake",
+          "pos": "n",
+          "ipa": "/keɪk/",
+          "meaning": "bánh ngọt",
+          "example": "I have a cake."
+        },
+        {
+          "word": "car",
+          "pos": "n",
+          "ipa": "/kɑː(r)/",
+          "meaning": "ô tô",
+          "example": "I have a car."
+        },
+        {
+          "word": "cat",
+          "pos": "n",
+          "ipa": "/kæt/",
+          "meaning": "con mèo",
+          "example": "I have a cat."
+        },
+        {
+          "word": "cup",
+          "pos": "n",
+          "ipa": "/kʌp/",
+          "meaning": "cái cốc, cái tách",
+          "example": "I have a cup."
+        },
+        {
+          "word": "dining room",
+          "pos": "n",
+          "ipa": "/ˈdaɪnɪŋ ruːm/",
+          "meaning": "phòng ăn",
+          "example": "This is the dining room."
+        },
+        {
+          "word": "have",
+          "pos": "v",
+          "ipa": "/hæv/",
+          "meaning": "có",
+          "example": "I have a cat."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "At the street market",
+      "title_vi": "Ở chợ đường phố",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-3-phonetics-and-vocabulary.jsp"
+      ],
+      "words": [
+        {
+          "word": "apple",
+          "pos": "n",
+          "ipa": "/ˈæpl/",
+          "meaning": "quả táo",
+          "example": "I have an apple."
+        },
+        {
+          "word": "bag",
+          "pos": "n",
+          "ipa": "/bæɡ/",
+          "meaning": "cái túi, cái cặp",
+          "example": "I have a bag."
+        },
+        {
+          "word": "can",
+          "pos": "n",
+          "ipa": "/kæn/",
+          "meaning": "cái lon",
+          "example": "I have a can."
+        },
+        {
+          "word": "hat",
+          "pos": "n",
+          "ipa": "/hæt/",
+          "meaning": "cái mũ",
+          "example": "I have a hat."
+        },
+        {
+          "word": "street market",
+          "pos": "n",
+          "ipa": "/ˌstriːt ˈmɑːkɪt/",
+          "meaning": "chợ đường phố",
+          "example": "We are at the street market."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "In the bedroom",
+      "title_vi": "Trong phòng ngủ",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-4-lesson-1-lop-1-kntt.jsp",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-4-lesson-3-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "bedroom",
+          "pos": "n",
+          "ipa": "/ˈbedruːm/",
+          "meaning": "phòng ngủ",
+          "example": "This is my bedroom."
+        },
+        {
+          "word": "desk",
+          "pos": "n",
+          "ipa": "/desk/",
+          "meaning": "cái bàn học",
+          "example": "This is a desk."
+        },
+        {
+          "word": "dog",
+          "pos": "n",
+          "ipa": "/dɒɡ/",
+          "meaning": "con chó",
+          "example": "The dog is near the door."
+        },
+        {
+          "word": "door",
+          "pos": "n",
+          "ipa": "/dɔː(r)/",
+          "meaning": "cửa ra vào",
+          "example": "This is a door."
+        },
+        {
+          "word": "duck",
+          "pos": "n",
+          "ipa": "/dʌk/",
+          "meaning": "con vịt",
+          "example": "This is a duck."
+        },
+        {
+          "word": "near",
+          "pos": "prep",
+          "ipa": "/nɪə(r)/",
+          "meaning": "gần, ở gần",
+          "example": "The duck is near the desk."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "At the fish and chip shop",
+      "title_vi": "Ở cửa hàng cá và khoai tây chiên",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-5-lesson-1-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "chicken",
+          "pos": "n",
+          "ipa": "/ˈtʃɪkɪn/",
+          "meaning": "thịt gà",
+          "example": "I like chicken."
+        },
+        {
+          "word": "chips",
+          "pos": "n",
+          "ipa": "/tʃɪps/",
+          "meaning": "khoai tây chiên",
+          "example": "I like chips."
+        },
+        {
+          "word": "fish",
+          "pos": "n",
+          "ipa": "/fɪʃ/",
+          "meaning": "cá",
+          "example": "I like fish."
+        },
+        {
+          "word": "milk",
+          "pos": "n",
+          "ipa": "/mɪlk/",
+          "meaning": "sữa",
+          "example": "I like milk."
+        },
+        {
+          "word": "fish and chips",
+          "pos": "n",
+          "ipa": "/ˌfɪʃ ən ˈtʃɪps/",
+          "meaning": "cá và khoai tây chiên",
+          "example": "I like fish and chips."
+        },
+        {
+          "word": "shop",
+          "pos": "n",
+          "ipa": "/ʃɒp/",
+          "meaning": "cửa hàng",
+          "example": "This is a fish and chip shop."
+        },
+        {
+          "word": "like",
+          "pos": "v",
+          "ipa": "/laɪk/",
+          "meaning": "thích",
+          "example": "I like milk."
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "In the classroom",
+      "title_vi": "Trong lớp học",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-6-phonetics-and-vocabulary.jsp",
+        "https://vietjack.com/tieng-anh-1-kn/fun-time-2.jsp"
+      ],
+      "words": [
+        {
+          "word": "bell",
+          "pos": "n",
+          "ipa": "/bel/",
+          "meaning": "cái chuông",
+          "example": "This is a red bell."
+        },
+        {
+          "word": "pen",
+          "pos": "n",
+          "ipa": "/pen/",
+          "meaning": "bút mực",
+          "example": "This is a pen."
+        },
+        {
+          "word": "pencil",
+          "pos": "n",
+          "ipa": "/ˈpensl/",
+          "meaning": "bút chì",
+          "example": "This is a pencil."
+        },
+        {
+          "word": "red",
+          "pos": "adj",
+          "ipa": "/red/",
+          "meaning": "màu đỏ",
+          "example": "The pen is red."
+        },
+        {
+          "word": "board",
+          "pos": "n",
+          "ipa": "/bɔːd/",
+          "meaning": "cái bảng",
+          "example": "Look at the board."
+        },
+        {
+          "word": "classroom",
+          "pos": "n",
+          "ipa": "/ˈklɑːsruːm/",
+          "meaning": "lớp học",
+          "example": "This is my classroom."
+        },
+        {
+          "word": "drawing",
+          "pos": "n",
+          "ipa": "/ˈdrɔːɪŋ/",
+          "meaning": "bức vẽ, tranh vẽ",
+          "example": "This is my drawing."
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "In the garden",
+      "title_vi": "Trong vườn",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-7-lesson-1-lop-1-kntt.jsp",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-7-lesson-3-lop-1-kntt.jsp",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-7-phonetics-and-vocabulary.jsp"
+      ],
+      "words": [
+        {
+          "word": "garden",
+          "pos": "n",
+          "ipa": "/ˈɡɑːdn/",
+          "meaning": "khu vườn",
+          "example": "There's a garden."
+        },
+        {
+          "word": "gate",
+          "pos": "n",
+          "ipa": "/ɡeɪt/",
+          "meaning": "cái cổng",
+          "example": "There's a gate."
+        },
+        {
+          "word": "girl",
+          "pos": "n",
+          "ipa": "/ɡɜːl/",
+          "meaning": "cô bé, bé gái",
+          "example": "There's a girl."
+        },
+        {
+          "word": "goat",
+          "pos": "n",
+          "ipa": "/ɡəʊt/",
+          "meaning": "con dê",
+          "example": "There's a goat."
+        },
+        {
+          "word": "there is",
+          "pos": "phr",
+          "ipa": "/ðeər ɪz/",
+          "meaning": "có (một cái gì đó ở đâu)",
+          "example": "There's a gate."
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "In the park",
+      "title_vi": "Trong công viên",
+      "sources": [
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-8-lesson-1-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "hair",
+          "pos": "n",
+          "ipa": "/heə(r)/",
+          "meaning": "tóc",
+          "example": "This is my hair."
+        },
+        {
+          "word": "hand",
+          "pos": "n",
+          "ipa": "/hænd/",
+          "meaning": "bàn tay",
+          "example": "This is my hand."
+        },
+        {
+          "word": "head",
+          "pos": "n",
+          "ipa": "/hed/",
+          "meaning": "cái đầu",
+          "example": "This is my head."
+        },
+        {
+          "word": "horse",
+          "pos": "n",
+          "ipa": "/hɔːs/",
+          "meaning": "con ngựa",
+          "example": "This is a horse."
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "In the shop",
+      "title_vi": "Trong cửa hàng",
+      "sources": [
+        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-in-the-shop.jsp",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-phonetics-and-vocabulary.jsp",
+        "https://www.scribd.com/document/906647796/Unit-9-Lesson-Guide"
+      ],
+      "words": [
+        {
+          "word": "clock",
+          "pos": "n",
+          "ipa": "/klɒk/",
+          "meaning": "đồng hồ (treo tường)",
+          "example": "This is a clock."
+        },
+        {
+          "word": "lock",
+          "pos": "n",
+          "ipa": "/lɒk/",
+          "meaning": "ổ khóa",
+          "example": "This is a lock."
+        },
+        {
+          "word": "mop",
+          "pos": "n",
+          "ipa": "/mɒp/",
+          "meaning": "cây lau nhà",
+          "example": "This is a mop."
+        },
+        {
+          "word": "pot",
+          "pos": "n",
+          "ipa": "/pɒt/",
+          "meaning": "cái nồi",
+          "example": "This is my pot."
+        },
+        {
+          "word": "shop",
+          "pos": "n",
+          "ipa": "/ʃɒp/",
+          "meaning": "cửa hàng",
+          "example": "We are in the shop."
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "At the zoo",
+      "title_vi": "Ở vườn thú",
+      "sources": [
+        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-10-at-the-zoo-vocabulary-sentence-patterns-global-success-co-dap-an-99855",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-10-lesson-1-lop-1-kntt.jsp",
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html"
+      ],
+      "words": [
+        {
+          "word": "mango",
+          "pos": "n",
+          "ipa": "/ˈmæŋɡəʊ/",
+          "meaning": "quả xoài",
+          "example": "This is a mango."
+        },
+        {
+          "word": "monkey",
+          "pos": "n",
+          "ipa": "/ˈmʌŋki/",
+          "meaning": "con khỉ",
+          "example": "I can see a monkey."
+        },
+        {
+          "word": "mouse",
+          "pos": "n",
+          "ipa": "/maʊs/",
+          "meaning": "con chuột",
+          "example": "I can see a mouse."
+        },
+        {
+          "word": "zoo",
+          "pos": "n",
+          "ipa": "/zuː/",
+          "meaning": "vườn thú",
+          "example": "We are at the zoo."
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "At the bus stop",
+      "title_vi": "Ở trạm xe buýt",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-11-lesson-1-lop-1-kntt.jsp",
+        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-11-at-the-bus-stop.jsp"
+      ],
+      "words": [
+        {
+          "word": "bus",
+          "pos": "n",
+          "ipa": "/bʌs/",
+          "meaning": "xe buýt",
+          "example": "This is a bus."
+        },
+        {
+          "word": "run",
+          "pos": "v",
+          "ipa": "/rʌn/",
+          "meaning": "chạy",
+          "example": "The boy is running."
+        },
+        {
+          "word": "sun",
+          "pos": "n",
+          "ipa": "/sʌn/",
+          "meaning": "mặt trời",
+          "example": "This is the sun."
+        },
+        {
+          "word": "truck",
+          "pos": "n",
+          "ipa": "/trʌk/",
+          "meaning": "xe tải",
+          "example": "This is a truck."
+        },
+        {
+          "word": "bus stop",
+          "pos": "n",
+          "ipa": "/ˈbʌs stɒp/",
+          "meaning": "trạm dừng xe buýt",
+          "example": "We are at the bus stop."
+        },
+        {
+          "word": "boy",
+          "pos": "n",
+          "ipa": "/bɔɪ/",
+          "meaning": "cậu bé, bé trai",
+          "example": "The boy is running."
+        },
+        {
+          "word": "move",
+          "pos": "v",
+          "ipa": "/muːv/",
+          "meaning": "chuyển động, di chuyển",
+          "example": "The bus is moving."
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "At the lake",
+      "title_vi": "Ở bờ hồ",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-12-at-the-lake.jsp",
+        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-12-at-the-lake-vocabulary-sentence-patterns-global-success-co-dap-an-99883"
+      ],
+      "words": [
+        {
+          "word": "lake",
+          "pos": "n",
+          "ipa": "/leɪk/",
+          "meaning": "cái hồ",
+          "example": "This is a lake."
+        },
+        {
+          "word": "leaf",
+          "pos": "n",
+          "ipa": "/liːf/",
+          "meaning": "chiếc lá",
+          "example": "The leaf is falling."
+        },
+        {
+          "word": "lemon",
+          "pos": "n",
+          "ipa": "/ˈlemən/",
+          "meaning": "quả chanh vàng",
+          "example": "This is a lemon."
+        },
+        {
+          "word": "fall",
+          "pos": "v",
+          "ipa": "/fɔːl/",
+          "meaning": "rơi",
+          "example": "The leaves are falling."
+        }
+      ]
+    },
+    {
+      "unit": 13,
+      "title": "In the school canteen",
+      "title_vi": "Ở căng tin trường học",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-13-lesson-1-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "canteen",
+          "pos": "n",
+          "ipa": "/kænˈtiːn/",
+          "meaning": "căng tin, nhà ăn",
+          "example": "We are in the school canteen."
+        },
+        {
+          "word": "banana",
+          "pos": "n",
+          "ipa": "/bəˈnɑːnə/",
+          "meaning": "quả chuối",
+          "example": "I like bananas."
+        },
+        {
+          "word": "noodles",
+          "pos": "n",
+          "ipa": "/ˈnuːdlz/",
+          "meaning": "mì, bún, phở (sợi)",
+          "example": "I like noodles."
+        },
+        {
+          "word": "nut",
+          "pos": "n",
+          "ipa": "/nʌt/",
+          "meaning": "hạt (lạc, điều...)",
+          "example": "I like nuts."
+        }
+      ]
+    },
+    {
+      "unit": 14,
+      "title": "In the toy shop",
+      "title_vi": "Ở cửa hàng đồ chơi",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-14-in-the-toy-shop.jsp",
+        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-14-phonetics-and-vocabulary.jsp"
+      ],
+      "words": [
+        {
+          "word": "teddy bear",
+          "pos": "n",
+          "ipa": "/ˈtedi beə(r)/",
+          "meaning": "gấu bông",
+          "example": "I have a teddy bear."
+        },
+        {
+          "word": "tiger",
+          "pos": "n",
+          "ipa": "/ˈtaɪɡə(r)/",
+          "meaning": "con hổ (đồ chơi)",
+          "example": "I can see a tiger."
+        },
+        {
+          "word": "top",
+          "pos": "n",
+          "ipa": "/tɒp/",
+          "meaning": "con quay",
+          "example": "The top is spinning."
+        },
+        {
+          "word": "toy shop",
+          "pos": "n",
+          "ipa": "/ˈtɔɪ ʃɒp/",
+          "meaning": "cửa hàng đồ chơi",
+          "example": "We are in the toy shop."
+        }
+      ]
+    },
+    {
+      "unit": 15,
+      "title": "At the football match",
+      "title_vi": "Ở trận bóng đá",
+      "sources": [
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
+        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-15-at-the-football-match-vocabulary-sentence-patterns-global-success-co-dap-an-99906",
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-15-lesson-1-lop-1-kntt.jsp"
+      ],
+      "words": [
+        {
+          "word": "face",
+          "pos": "n",
+          "ipa": "/feɪs/",
+          "meaning": "khuôn mặt",
+          "example": "Point to your face."
+        },
+        {
+          "word": "father",
+          "pos": "n",
+          "ipa": "/ˈfɑːðə(r)/",
+          "meaning": "bố, cha",
+          "example": "This is my father."
+        },
+        {
+          "word": "foot",
+          "pos": "n",
+          "ipa": "/fʊt/",
+          "meaning": "bàn chân",
+          "example": "Point to your foot."
+        },
+        {
+          "word": "football",
+          "pos": "n",
+          "ipa": "/ˈfʊtbɔːl/",
+          "meaning": "bóng đá; quả bóng đá",
+          "example": "I like football."
+        },
+        {
+          "word": "match",
+          "pos": "n",
+          "ipa": "/mætʃ/",
+          "meaning": "trận đấu",
+          "example": "We watch a football match."
+        },
+        {
+          "word": "point",
+          "pos": "v",
+          "ipa": "/pɔɪnt/",
+          "meaning": "chỉ (vào)",
+          "example": "Point to your face."
+        },
+        {
+          "word": "watch",
+          "pos": "v",
+          "ipa": "/wɒtʃ/",
+          "meaning": "xem",
+          "example": "We watch football."
+        }
+      ]
+    },
+    {
+      "unit": 16,
+      "title": "At home",
+      "title_vi": "Ở nhà",
+      "sources": [
+        "https://vietjack.com/giao-an-tieng-anh-1/unit-16-lesson-1-lop-1-kntt.jsp",
+        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html"
+      ],
+      "words": [
+        {
+          "word": "home",
+          "pos": "n",
+          "ipa": "/həʊm/",
+          "meaning": "nhà",
+          "example": "We are at home."
+        },
+        {
+          "word": "wash",
+          "pos": "v",
+          "ipa": "/wɒʃ/",
+          "meaning": "rửa, giặt",
+          "example": "Wendy is washing."
+        },
+        {
+          "word": "water",
+          "pos": "n",
+          "ipa": "/ˈwɔːtə(r)/",
+          "meaning": "nước",
+          "example": "This is water."
+        },
+        {
+          "word": "window",
+          "pos": "n",
+          "ipa": "/ˈwɪndəʊ/",
+          "meaning": "cửa sổ",
+          "example": "This is a window."
+        }
+      ]
+    }
+  ]
+}
