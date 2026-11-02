@@ -1,0 +1,1970 @@
+{
+  "grade": 11,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 11 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "A long and healthy life",
+      "title_vi": "Cuộc sống lâu dài và khỏe mạnh",
+      "sources": [
+        "https://hoatieu.vn/tu-vung-tieng-anh-11-global-success-222494",
+        "https://langgo.edu.vn/storage/uploads/2026/04/06/tong-hop-tu-vung-tieng-anh-lop-11-global-success.pdf",
+        "https://vietjack.com/tieng-anh-11-moi/unit-1-tu-vung-lop-11-moi.jsp",
+        "https://vndoc.com/tu-vung-unit-1-lop-11-a-long-and-healthy-life-299235",
+        "https://tkbooks.vn/tu-vung-tieng-anh-unit-1-lop-11-global-success-a-long-and-healthy-life/",
+        "https://quizlet.com/vn/925906324/global-success-11-unit-1-a-long-and-healthy-life-phan-1-flash-cards/",
+        "https://langgo.edu.vn/tu-vung-unit-1-lop-11-global-success-a-long-and-healthy-life"
+      ],
+      "words": [
+        {
+          "word": "antibiotic",
+          "pos": "n",
+          "ipa": "/ˌæntibaɪˈɒtɪk/",
+          "meaning": "thuốc kháng sinh"
+        },
+        {
+          "word": "avoid",
+          "pos": "v",
+          "ipa": "/əˈvɔɪd/",
+          "meaning": "tránh, né tránh"
+        },
+        {
+          "word": "bacteria",
+          "pos": "n",
+          "ipa": "/bækˈtɪəriə/",
+          "meaning": "vi khuẩn"
+        },
+        {
+          "word": "balanced",
+          "pos": "adj",
+          "ipa": "/ˈbælənst/",
+          "meaning": "cân bằng, cân đối"
+        },
+        {
+          "word": "balanced diet",
+          "pos": "n",
+          "ipa": "/ˌbælənst ˈdaɪət/",
+          "meaning": "chế độ ăn uống cân bằng",
+          "example": "A balanced diet is the key to a long and healthy life."
+        },
+        {
+          "word": "cut down on",
+          "pos": "phr v",
+          "ipa": "/ˌkʌt ˈdaʊn ɒn/",
+          "meaning": "cắt giảm",
+          "example": "You should cut down on sugar."
+        },
+        {
+          "word": "examine",
+          "pos": "v",
+          "ipa": "/ɪɡˈzæmɪn/",
+          "meaning": "khám (bệnh), kiểm tra"
+        },
+        {
+          "word": "fit",
+          "pos": "adj",
+          "ipa": "/fɪt/",
+          "meaning": "khỏe mạnh, cân đối"
+        },
+        {
+          "word": "fitness",
+          "pos": "n",
+          "ipa": "/ˈfɪtnəs/",
+          "meaning": "sự khỏe mạnh, thể lực"
+        },
+        {
+          "word": "food poisoning",
+          "pos": "n",
+          "ipa": "/ˈfuːd pɔɪzənɪŋ/",
+          "meaning": "ngộ độc thực phẩm"
+        },
+        {
+          "word": "germ",
+          "pos": "n",
+          "ipa": "/dʒɜːm/",
+          "meaning": "vi trùng"
+        },
+        {
+          "word": "give up",
+          "pos": "phr v",
+          "ipa": "/ˌɡɪv ˈʌp/",
+          "meaning": "từ bỏ"
+        },
+        {
+          "word": "infection",
+          "pos": "n",
+          "ipa": "/ɪnˈfekʃn/",
+          "meaning": "sự nhiễm trùng, bệnh lây nhiễm"
+        },
+        {
+          "word": "ingredient",
+          "pos": "n",
+          "ipa": "/ɪnˈɡriːdiənt/",
+          "meaning": "thành phần, nguyên liệu"
+        },
+        {
+          "word": "junk food",
+          "pos": "n",
+          "ipa": "/ˈdʒʌŋk fuːd/",
+          "meaning": "đồ ăn vặt không có lợi cho sức khỏe"
+        },
+        {
+          "word": "keep fit",
+          "pos": "phr",
+          "ipa": "/ˌkiːp ˈfɪt/",
+          "meaning": "giữ dáng, giữ sức khỏe"
+        },
+        {
+          "word": "life expectancy",
+          "pos": "n",
+          "ipa": "/ˈlaɪf ɪkspektənsi/",
+          "meaning": "tuổi thọ",
+          "example": "Life expectancy has increased in many countries."
+        },
+        {
+          "word": "muscle",
+          "pos": "n",
+          "ipa": "/ˈmʌsl/",
+          "meaning": "cơ, cơ bắp"
+        },
+        {
+          "word": "nutrient",
+          "pos": "n",
+          "ipa": "/ˈnjuːtriənt/",
+          "meaning": "chất dinh dưỡng"
+        },
+        {
+          "word": "organism",
+          "pos": "n",
+          "ipa": "/ˈɔːɡənɪzəm/",
+          "meaning": "sinh vật, cơ thể sống"
+        },
+        {
+          "word": "press-up",
+          "pos": "n",
+          "ipa": "/ˈpres ʌp/",
+          "meaning": "động tác chống đẩy"
+        },
+        {
+          "word": "recipe",
+          "pos": "n",
+          "ipa": "/ˈresəpi/",
+          "meaning": "công thức nấu ăn"
+        },
+        {
+          "word": "regular",
+          "pos": "adj",
+          "ipa": "/ˈreɡjələ(r)/",
+          "meaning": "đều đặn, thường xuyên"
+        },
+        {
+          "word": "strength",
+          "pos": "n",
+          "ipa": "/streŋθ/",
+          "meaning": "sức mạnh, sức khỏe"
+        },
+        {
+          "word": "suffer from",
+          "pos": "phr v",
+          "ipa": "/ˈsʌfə frɒm/",
+          "meaning": "mắc (bệnh), chịu đựng"
+        },
+        {
+          "word": "treatment",
+          "pos": "n",
+          "ipa": "/ˈtriːtmənt/",
+          "meaning": "sự điều trị"
+        },
+        {
+          "word": "virus",
+          "pos": "n",
+          "ipa": "/ˈvaɪrəs/",
+          "meaning": "vi-rút"
+        },
+        {
+          "word": "work out",
+          "pos": "phr v",
+          "ipa": "/ˌwɜːk ˈaʊt/",
+          "meaning": "tập thể dục",
+          "example": "I work out at the gym three times a week."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "The generation gap",
+      "title_vi": "Khoảng cách thế hệ",
+      "sources": [
+        "https://vietjack.com/tieng-anh-11-moi/unit-2-tu-vung-lop-11-moi.jsp",
+        "https://loigiaihay.com/tieng-anh-11-unit-2-tu-vung-a142891.html",
+        "https://quizlet.com/vn/927877650/global-success-11-unit-2-the-generation-gap-vocabulary-flash-cards/",
+        "https://zim.vn/tu-vung-tieng-anh-11-unit-2-the-generation-gap",
+        "https://download.vn/unit-2-lop-11-tu-vung-58967",
+        "https://www.scribd.com/document/910657643/unit2"
+      ],
+      "words": [
+        {
+          "word": "adapt",
+          "pos": "v",
+          "ipa": "/əˈdæpt/",
+          "meaning": "thích nghi"
+        },
+        {
+          "word": "argument",
+          "pos": "n",
+          "ipa": "/ˈɑːɡjumənt/",
+          "meaning": "cuộc tranh cãi"
+        },
+        {
+          "word": "attitude",
+          "pos": "n",
+          "ipa": "/ˈætɪtjuːd/",
+          "meaning": "thái độ"
+        },
+        {
+          "word": "behaviour",
+          "pos": "n",
+          "ipa": "/bɪˈheɪvjə(r)/",
+          "meaning": "hành vi, cách cư xử"
+        },
+        {
+          "word": "belief",
+          "pos": "n",
+          "ipa": "/bɪˈliːf/",
+          "meaning": "niềm tin, tín ngưỡng"
+        },
+        {
+          "word": "bridge the gap",
+          "pos": "idiom",
+          "ipa": "/ˌbrɪdʒ ðə ˈɡæp/",
+          "meaning": "thu hẹp khoảng cách"
+        },
+        {
+          "word": "burden",
+          "pos": "n",
+          "ipa": "/ˈbɜːdn/",
+          "meaning": "gánh nặng"
+        },
+        {
+          "word": "characteristic",
+          "pos": "n",
+          "ipa": "/ˌkærəktəˈrɪstɪk/",
+          "meaning": "đặc điểm, đặc trưng"
+        },
+        {
+          "word": "conflict",
+          "pos": "n",
+          "ipa": "/ˈkɒnflɪkt/",
+          "meaning": "sự xung đột, mâu thuẫn"
+        },
+        {
+          "word": "conservative",
+          "pos": "adj",
+          "ipa": "/kənˈsɜːvətɪv/",
+          "meaning": "bảo thủ"
+        },
+        {
+          "word": "curfew",
+          "pos": "n",
+          "ipa": "/ˈkɜːfjuː/",
+          "meaning": "giờ giới nghiêm (giờ phải về nhà)"
+        },
+        {
+          "word": "curious",
+          "pos": "adj",
+          "ipa": "/ˈkjʊəriəs/",
+          "meaning": "tò mò, ham hiểu biết"
+        },
+        {
+          "word": "deal with",
+          "pos": "phr v",
+          "ipa": "/ˈdiːl wɪð/",
+          "meaning": "giải quyết, đối phó với"
+        },
+        {
+          "word": "digital native",
+          "pos": "n",
+          "ipa": "/ˌdɪdʒɪtl ˈneɪtɪv/",
+          "meaning": "người sinh ra trong thời đại kỹ thuật số"
+        },
+        {
+          "word": "extended family",
+          "pos": "n",
+          "ipa": "/ɪkˌstendɪd ˈfæməli/",
+          "meaning": "đại gia đình (nhiều thế hệ)"
+        },
+        {
+          "word": "financial",
+          "pos": "adj",
+          "ipa": "/faɪˈnænʃl/",
+          "meaning": "thuộc về tài chính"
+        },
+        {
+          "word": "follow in someone's footsteps",
+          "pos": "idiom",
+          "ipa": "/ˌfɒləʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/",
+          "meaning": "nối nghiệp, theo bước ai đó"
+        },
+        {
+          "word": "generation gap",
+          "pos": "n",
+          "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+          "meaning": "khoảng cách thế hệ",
+          "example": "The generation gap can cause conflicts in families."
+        },
+        {
+          "word": "generational",
+          "pos": "adj",
+          "ipa": "/ˌdʒenəˈreɪʃənl/",
+          "meaning": "thuộc về thế hệ"
+        },
+        {
+          "word": "multi-generational",
+          "pos": "adj",
+          "ipa": "/ˌmʌltiˌdʒenəˈreɪʃənl/",
+          "meaning": "nhiều thế hệ"
+        },
+        {
+          "word": "nuclear family",
+          "pos": "n",
+          "ipa": "/ˌnjuːkliə ˈfæməli/",
+          "meaning": "gia đình hạt nhân (chỉ có bố mẹ và con cái)"
+        },
+        {
+          "word": "respect",
+          "pos": "v",
+          "ipa": "/rɪˈspekt/",
+          "meaning": "tôn trọng, kính trọng"
+        },
+        {
+          "word": "traditional",
+          "pos": "adj",
+          "ipa": "/trəˈdɪʃənl/",
+          "meaning": "truyền thống"
+        },
+        {
+          "word": "value",
+          "pos": "n",
+          "ipa": "/ˈvæljuː/",
+          "meaning": "giá trị"
+        },
+        {
+          "word": "viewpoint",
+          "pos": "n",
+          "ipa": "/ˈvjuːpɔɪnt/",
+          "meaning": "quan điểm"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Cities of the future",
+      "title_vi": "Thành phố trong tương lai",
+      "sources": [
+        "https://loigiaihay.com/tieng-anh-11-unit-3-tu-vung-a143039.html",
+        "https://vndoc.com/tu-vung-unit-3-lop-11-cities-of-the-future-300124",
+        "https://tkbooks.vn/tu-vung-unit-3-lop-11-global-success-cities-of-the-future-pdf/",
+        "https://quizlet.com/vn/927937403/global-success-11-unit-3-cities-of-the-future-vocabulary-flash-cards/",
+        "https://wordwall.net/resource/61299382/ngo%E1%BA%A1i-ng%E1%BB%AF/global-success-11-unit-3-cities-of-the-future",
+        "https://mytour.vn/vi/blog/bai-viet/tu-vung-tieng-anh-11-unit-3-thanh-pho-tuong-lai-thanh-cong-toan-cau.html"
+      ],
+      "words": [
+        {
+          "word": "city dweller",
+          "pos": "n",
+          "ipa": "/ˈsɪti ˌdwelə(r)/",
+          "meaning": "cư dân thành phố"
+        },
+        {
+          "word": "cycle path",
+          "pos": "n",
+          "ipa": "/ˈsaɪkl pɑːθ/",
+          "meaning": "đường dành cho xe đạp"
+        },
+        {
+          "word": "detect",
+          "pos": "v",
+          "ipa": "/dɪˈtekt/",
+          "meaning": "phát hiện"
+        },
+        {
+          "word": "driverless",
+          "pos": "adj",
+          "ipa": "/ˈdraɪvələs/",
+          "meaning": "không người lái"
+        },
+        {
+          "word": "eco-friendly",
+          "pos": "adj",
+          "ipa": "/ˌiːkəʊ ˈfrendli/",
+          "meaning": "thân thiện với môi trường"
+        },
+        {
+          "word": "electric bus",
+          "pos": "n",
+          "ipa": "/ɪˌlektrɪk ˈbʌs/",
+          "meaning": "xe buýt điện"
+        },
+        {
+          "word": "get around",
+          "pos": "phr v",
+          "ipa": "/ˌɡet əˈraʊnd/",
+          "meaning": "đi lại, di chuyển"
+        },
+        {
+          "word": "greenhouse gas",
+          "pos": "n",
+          "ipa": "/ˌɡriːnhaʊs ˈɡæs/",
+          "meaning": "khí nhà kính"
+        },
+        {
+          "word": "high-rise",
+          "pos": "adj",
+          "ipa": "/ˈhaɪ raɪz/",
+          "meaning": "cao tầng"
+        },
+        {
+          "word": "infrastructure",
+          "pos": "n",
+          "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+          "meaning": "cơ sở hạ tầng"
+        },
+        {
+          "word": "inhabitant",
+          "pos": "n",
+          "ipa": "/ɪnˈhæbɪtənt/",
+          "meaning": "cư dân"
+        },
+        {
+          "word": "interact",
+          "pos": "v",
+          "ipa": "/ˌɪntərˈækt/",
+          "meaning": "tương tác"
+        },
+        {
+          "word": "liveable",
+          "pos": "adj",
+          "ipa": "/ˈlɪvəbl/",
+          "meaning": "đáng sống"
+        },
+        {
+          "word": "operate",
+          "pos": "v",
+          "ipa": "/ˈɒpəreɪt/",
+          "meaning": "vận hành, hoạt động"
+        },
+        {
+          "word": "pollution",
+          "pos": "n",
+          "ipa": "/pəˈluːʃn/",
+          "meaning": "sự ô nhiễm"
+        },
+        {
+          "word": "public transport",
+          "pos": "n",
+          "ipa": "/ˌpʌblɪk ˈtrænspɔːt/",
+          "meaning": "phương tiện giao thông công cộng"
+        },
+        {
+          "word": "quality of life",
+          "pos": "n",
+          "ipa": "/ˌkwɒləti əv ˈlaɪf/",
+          "meaning": "chất lượng cuộc sống"
+        },
+        {
+          "word": "renewable",
+          "pos": "adj",
+          "ipa": "/rɪˈnjuːəbl/",
+          "meaning": "có thể tái tạo"
+        },
+        {
+          "word": "roof garden",
+          "pos": "n",
+          "ipa": "/ˈruːf ɡɑːdn/",
+          "meaning": "vườn trên sân thượng"
+        },
+        {
+          "word": "sensor",
+          "pos": "n",
+          "ipa": "/ˈsensə(r)/",
+          "meaning": "cảm biến",
+          "example": "Smart sensors will control the traffic lights."
+        },
+        {
+          "word": "skyscraper",
+          "pos": "n",
+          "ipa": "/ˈskaɪskreɪpə(r)/",
+          "meaning": "nhà chọc trời"
+        },
+        {
+          "word": "sustainable",
+          "pos": "adj",
+          "ipa": "/səˈsteɪnəbl/",
+          "meaning": "bền vững"
+        },
+        {
+          "word": "traffic jam",
+          "pos": "n",
+          "ipa": "/ˈtræfɪk dʒæm/",
+          "meaning": "tắc đường"
+        },
+        {
+          "word": "tram",
+          "pos": "n",
+          "ipa": "/træm/",
+          "meaning": "xe điện, tàu điện"
+        },
+        {
+          "word": "urban",
+          "pos": "adj",
+          "ipa": "/ˈɜːbən/",
+          "meaning": "thuộc đô thị"
+        },
+        {
+          "word": "vehicle",
+          "pos": "n",
+          "ipa": "/ˈviːəkl/",
+          "meaning": "phương tiện giao thông, xe cộ"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "ASEAN and Viet Nam",
+      "title_vi": "ASEAN và Việt Nam",
+      "sources": [
+        "https://langgo.edu.vn/tu-vung-unit-4-lop-11-global-success-asean-and-viet-nam",
+        "https://tkbooks.vn/tu-vung-unit-4-lop-11-global-success-asean-and-viet-nam/",
+        "https://vietjack.me/tu-vung-tieng-anh-11-unit-4-global-success-asean-and-vietnam-159526.html",
+        "https://vietjack.com/tieng-anh-11-moi/unit-4-tu-vung-lop-11-moi.jsp",
+        "https://bestflashcard.com/learning-english-vocabulary/v1-sgk-tieng-anh-11-global-success-unit-04/connection"
+      ],
+      "words": [
+        {
+          "word": "apply for",
+          "pos": "phr v",
+          "ipa": "/əˈplaɪ fə(r)/",
+          "meaning": "nộp đơn xin, ứng tuyển"
+        },
+        {
+          "word": "association",
+          "pos": "n",
+          "ipa": "/əˌsəʊsiˈeɪʃn/",
+          "meaning": "hiệp hội"
+        },
+        {
+          "word": "beneficial",
+          "pos": "adj",
+          "ipa": "/ˌbenɪˈfɪʃl/",
+          "meaning": "có lợi, có ích"
+        },
+        {
+          "word": "bloc",
+          "pos": "n",
+          "ipa": "/blɒk/",
+          "meaning": "khối (liên minh các nước)"
+        },
+        {
+          "word": "charter",
+          "pos": "n",
+          "ipa": "/ˈtʃɑːtə(r)/",
+          "meaning": "hiến chương"
+        },
+        {
+          "word": "community",
+          "pos": "n",
+          "ipa": "/kəˈmjuːnəti/",
+          "meaning": "cộng đồng"
+        },
+        {
+          "word": "constitution",
+          "pos": "n",
+          "ipa": "/ˌkɒnstɪˈtjuːʃn/",
+          "meaning": "hiến pháp"
+        },
+        {
+          "word": "contribution",
+          "pos": "n",
+          "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+          "meaning": "sự đóng góp"
+        },
+        {
+          "word": "cooperation",
+          "pos": "n",
+          "ipa": "/kəʊˌɒpəˈreɪʃn/",
+          "meaning": "sự hợp tác"
+        },
+        {
+          "word": "cultural exchange",
+          "pos": "n",
+          "ipa": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
+          "meaning": "giao lưu văn hóa"
+        },
+        {
+          "word": "dispute",
+          "pos": "n",
+          "ipa": "/dɪˈspjuːt/",
+          "meaning": "tranh chấp"
+        },
+        {
+          "word": "diversity",
+          "pos": "n",
+          "ipa": "/daɪˈvɜːsəti/",
+          "meaning": "sự đa dạng"
+        },
+        {
+          "word": "economic",
+          "pos": "adj",
+          "ipa": "/ˌiːkəˈnɒmɪk/",
+          "meaning": "thuộc về kinh tế"
+        },
+        {
+          "word": "economy",
+          "pos": "n",
+          "ipa": "/ɪˈkɒnəmi/",
+          "meaning": "nền kinh tế"
+        },
+        {
+          "word": "eye-opening",
+          "pos": "adj",
+          "ipa": "/ˈaɪ əʊpənɪŋ/",
+          "meaning": "mở mang tầm mắt"
+        },
+        {
+          "word": "host",
+          "pos": "v",
+          "ipa": "/həʊst/",
+          "meaning": "đăng cai, tổ chức"
+        },
+        {
+          "word": "maintain",
+          "pos": "v",
+          "ipa": "/meɪnˈteɪn/",
+          "meaning": "duy trì"
+        },
+        {
+          "word": "member state",
+          "pos": "n",
+          "ipa": "/ˌmembə ˈsteɪt/",
+          "meaning": "quốc gia thành viên",
+          "example": "Viet Nam became a member state of ASEAN in 1995."
+        },
+        {
+          "word": "motto",
+          "pos": "n",
+          "ipa": "/ˈmɒtəʊ/",
+          "meaning": "phương châm, khẩu hiệu"
+        },
+        {
+          "word": "principle",
+          "pos": "n",
+          "ipa": "/ˈprɪnsəpl/",
+          "meaning": "nguyên tắc"
+        },
+        {
+          "word": "promote",
+          "pos": "v",
+          "ipa": "/prəˈməʊt/",
+          "meaning": "thúc đẩy, quảng bá"
+        },
+        {
+          "word": "region",
+          "pos": "n",
+          "ipa": "/ˈriːdʒən/",
+          "meaning": "khu vực, vùng"
+        },
+        {
+          "word": "regional",
+          "pos": "adj",
+          "ipa": "/ˈriːdʒənl/",
+          "meaning": "thuộc khu vực"
+        },
+        {
+          "word": "scholarship",
+          "pos": "n",
+          "ipa": "/ˈskɒləʃɪp/",
+          "meaning": "học bổng"
+        },
+        {
+          "word": "solidarity",
+          "pos": "n",
+          "ipa": "/ˌsɒlɪˈdærəti/",
+          "meaning": "sự đoàn kết"
+        },
+        {
+          "word": "stability",
+          "pos": "n",
+          "ipa": "/stəˈbɪləti/",
+          "meaning": "sự ổn định"
+        },
+        {
+          "word": "summit",
+          "pos": "n",
+          "ipa": "/ˈsʌmɪt/",
+          "meaning": "hội nghị thượng đỉnh"
+        },
+        {
+          "word": "take part in",
+          "pos": "phr v",
+          "ipa": "/ˌteɪk ˈpɑːt ɪn/",
+          "meaning": "tham gia"
+        },
+        {
+          "word": "vision",
+          "pos": "n",
+          "ipa": "/ˈvɪʒn/",
+          "meaning": "tầm nhìn"
+        },
+        {
+          "word": "workshop",
+          "pos": "n",
+          "ipa": "/ˈwɜːkʃɒp/",
+          "meaning": "hội thảo, buổi tập huấn"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Global warming",
+      "title_vi": "Sự nóng lên toàn cầu",
+      "sources": [
+        "https://zim.vn/tu-vung-tieng-anh-11-unit-5-global-warming",
+        "https://loigiaihay.com/vocabulary-unit-5-global-warming-sbt-tieng-anh-11-global-success-a149411.html",
+        "https://dethi.violet.vn/present/global-success-11-unit-5-13617228.html",
+        "https://www.studocu.vn/vn/document/truong-trung-hoc-pho-thong-nguyen-van-thoai/tieng-anh/global-success-11-unit-5-global-warming-vocabulary-exercises/155022777"
+      ],
+      "words": [
+        {
+          "word": "absorb",
+          "pos": "v",
+          "ipa": "/əbˈzɔːb/",
+          "meaning": "hấp thụ"
+        },
+        {
+          "word": "atmosphere",
+          "pos": "n",
+          "ipa": "/ˈætməsfɪə(r)/",
+          "meaning": "khí quyển"
+        },
+        {
+          "word": "carbon dioxide",
+          "pos": "n",
+          "ipa": "/ˌkɑːbən daɪˈɒksaɪd/",
+          "meaning": "khí các-bon đi-ô-xít (CO2)"
+        },
+        {
+          "word": "climate change",
+          "pos": "n",
+          "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+          "meaning": "biến đổi khí hậu"
+        },
+        {
+          "word": "coal",
+          "pos": "n",
+          "ipa": "/kəʊl/",
+          "meaning": "than đá"
+        },
+        {
+          "word": "consequence",
+          "pos": "n",
+          "ipa": "/ˈkɒnsɪkwəns/",
+          "meaning": "hậu quả"
+        },
+        {
+          "word": "cut down",
+          "pos": "phr v",
+          "ipa": "/ˌkʌt ˈdaʊn/",
+          "meaning": "chặt (cây)"
+        },
+        {
+          "word": "deforestation",
+          "pos": "n",
+          "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+          "meaning": "sự phá rừng"
+        },
+        {
+          "word": "emission",
+          "pos": "n",
+          "ipa": "/iˈmɪʃn/",
+          "meaning": "sự phát thải, khí thải"
+        },
+        {
+          "word": "farmland",
+          "pos": "n",
+          "ipa": "/ˈfɑːmlænd/",
+          "meaning": "đất nông nghiệp"
+        },
+        {
+          "word": "fossil fuel",
+          "pos": "n",
+          "ipa": "/ˌfɒsl ˈfjuːəl/",
+          "meaning": "nhiên liệu hóa thạch"
+        },
+        {
+          "word": "global warming",
+          "pos": "n",
+          "ipa": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+          "meaning": "sự nóng lên toàn cầu",
+          "example": "Global warming is caused mainly by human activities."
+        },
+        {
+          "word": "greenhouse gas",
+          "pos": "n",
+          "ipa": "/ˌɡriːnhaʊs ˈɡæs/",
+          "meaning": "khí nhà kính"
+        },
+        {
+          "word": "heat-trapping",
+          "pos": "adj",
+          "ipa": "/ˈhiːt træpɪŋ/",
+          "meaning": "giữ nhiệt"
+        },
+        {
+          "word": "human activity",
+          "pos": "n",
+          "ipa": "/ˌhjuːmən ækˈtɪvəti/",
+          "meaning": "hoạt động của con người"
+        },
+        {
+          "word": "impact",
+          "pos": "n",
+          "ipa": "/ˈɪmpækt/",
+          "meaning": "tác động, ảnh hưởng"
+        },
+        {
+          "word": "leaflet",
+          "pos": "n",
+          "ipa": "/ˈliːflət/",
+          "meaning": "tờ rơi"
+        },
+        {
+          "word": "melt",
+          "pos": "v",
+          "ipa": "/melt/",
+          "meaning": "tan chảy"
+        },
+        {
+          "word": "methane",
+          "pos": "n",
+          "ipa": "/ˈmiːθeɪn/",
+          "meaning": "khí mê-tan"
+        },
+        {
+          "word": "polar ice cap",
+          "pos": "n",
+          "ipa": "/ˌpəʊlə ˈaɪs kæp/",
+          "meaning": "chỏm băng ở vùng cực"
+        },
+        {
+          "word": "pollutant",
+          "pos": "n",
+          "ipa": "/pəˈluːtənt/",
+          "meaning": "chất gây ô nhiễm"
+        },
+        {
+          "word": "release",
+          "pos": "v",
+          "ipa": "/rɪˈliːs/",
+          "meaning": "thải ra, giải phóng"
+        },
+        {
+          "word": "renewable",
+          "pos": "adj",
+          "ipa": "/rɪˈnjuːəbl/",
+          "meaning": "có thể tái tạo"
+        },
+        {
+          "word": "sea level",
+          "pos": "n",
+          "ipa": "/ˈsiː levl/",
+          "meaning": "mực nước biển"
+        },
+        {
+          "word": "solution",
+          "pos": "n",
+          "ipa": "/səˈluːʃn/",
+          "meaning": "giải pháp"
+        },
+        {
+          "word": "soot",
+          "pos": "n",
+          "ipa": "/sʊt/",
+          "meaning": "bồ hóng, muội than"
+        },
+        {
+          "word": "temperature",
+          "pos": "n",
+          "ipa": "/ˈtemprətʃə(r)/",
+          "meaning": "nhiệt độ"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Preserving our heritage",
+      "title_vi": "Bảo tồn di sản của chúng ta",
+      "sources": [
+        "https://vietjack.com/tieng-anh-11-moi/unit-6-tu-vung-lop-11-moi.jsp",
+        "https://download.vn/unit-6-lop-11-tu-vung-56942",
+        "https://vndoc.com/tu-vung-unit-6-lop-11-preserving-our-heritage-302204",
+        "https://zim.vn/tu-vung-tieng-anh-11-unit-6-preserving-our-heritage",
+        "https://quizlet.com/vn/842110474/global-success-11-unit-6-preserving-our-heritage-flash-cards/"
+      ],
+      "words": [
+        {
+          "word": "ancient",
+          "pos": "adj",
+          "ipa": "/ˈeɪnʃənt/",
+          "meaning": "cổ, cổ xưa"
+        },
+        {
+          "word": "appreciate",
+          "pos": "v",
+          "ipa": "/əˈpriːʃieɪt/",
+          "meaning": "trân trọng, đánh giá cao"
+        },
+        {
+          "word": "archaeological",
+          "pos": "adj",
+          "ipa": "/ˌɑːkiəˈlɒdʒɪkl/",
+          "meaning": "thuộc về khảo cổ học"
+        },
+        {
+          "word": "cave",
+          "pos": "n",
+          "ipa": "/keɪv/",
+          "meaning": "hang động"
+        },
+        {
+          "word": "citadel",
+          "pos": "n",
+          "ipa": "/ˈsɪtədəl/",
+          "meaning": "thành lũy, kinh thành"
+        },
+        {
+          "word": "complex",
+          "pos": "n",
+          "ipa": "/ˈkɒmpleks/",
+          "meaning": "quần thể, khu liên hợp"
+        },
+        {
+          "word": "crowdfunding",
+          "pos": "n",
+          "ipa": "/ˈkraʊdfʌndɪŋ/",
+          "meaning": "gây quỹ cộng đồng"
+        },
+        {
+          "word": "die out",
+          "pos": "phr v",
+          "ipa": "/ˌdaɪ ˈaʊt/",
+          "meaning": "biến mất, mai một"
+        },
+        {
+          "word": "festive",
+          "pos": "adj",
+          "ipa": "/ˈfestɪv/",
+          "meaning": "thuộc về lễ hội"
+        },
+        {
+          "word": "fine",
+          "pos": "n",
+          "ipa": "/faɪn/",
+          "meaning": "tiền phạt"
+        },
+        {
+          "word": "folk",
+          "pos": "adj",
+          "ipa": "/fəʊk/",
+          "meaning": "dân gian"
+        },
+        {
+          "word": "heritage",
+          "pos": "n",
+          "ipa": "/ˈherɪtɪdʒ/",
+          "meaning": "di sản"
+        },
+        {
+          "word": "heritage site",
+          "pos": "n",
+          "ipa": "/ˈherɪtɪdʒ saɪt/",
+          "meaning": "khu di sản",
+          "example": "Hoi An Ancient Town is a famous heritage site."
+        },
+        {
+          "word": "historic",
+          "pos": "adj",
+          "ipa": "/hɪˈstɒrɪk/",
+          "meaning": "có tính lịch sử, quan trọng về mặt lịch sử"
+        },
+        {
+          "word": "historical",
+          "pos": "adj",
+          "ipa": "/hɪˈstɒrɪkl/",
+          "meaning": "thuộc về lịch sử"
+        },
+        {
+          "word": "imperial",
+          "pos": "adj",
+          "ipa": "/ɪmˈpɪəriəl/",
+          "meaning": "thuộc về hoàng triều"
+        },
+        {
+          "word": "landscape",
+          "pos": "n",
+          "ipa": "/ˈlændskeɪp/",
+          "meaning": "phong cảnh"
+        },
+        {
+          "word": "limestone",
+          "pos": "n",
+          "ipa": "/ˈlaɪmstəʊn/",
+          "meaning": "đá vôi"
+        },
+        {
+          "word": "monument",
+          "pos": "n",
+          "ipa": "/ˈmɒnjumənt/",
+          "meaning": "đài tưởng niệm, công trình kỷ niệm"
+        },
+        {
+          "word": "performing arts",
+          "pos": "n",
+          "ipa": "/pəˌfɔːmɪŋ ˈɑːts/",
+          "meaning": "nghệ thuật biểu diễn"
+        },
+        {
+          "word": "preservation",
+          "pos": "n",
+          "ipa": "/ˌprezəˈveɪʃn/",
+          "meaning": "sự bảo tồn"
+        },
+        {
+          "word": "preserve",
+          "pos": "v",
+          "ipa": "/prɪˈzɜːv/",
+          "meaning": "bảo tồn, gìn giữ"
+        },
+        {
+          "word": "promote",
+          "pos": "v",
+          "ipa": "/prəˈməʊt/",
+          "meaning": "quảng bá"
+        },
+        {
+          "word": "relic",
+          "pos": "n",
+          "ipa": "/ˈrelɪk/",
+          "meaning": "di tích, di vật"
+        },
+        {
+          "word": "restore",
+          "pos": "v",
+          "ipa": "/rɪˈstɔː(r)/",
+          "meaning": "khôi phục, trùng tu"
+        },
+        {
+          "word": "state",
+          "pos": "n",
+          "ipa": "/steɪt/",
+          "meaning": "nhà nước, quốc gia"
+        },
+        {
+          "word": "take action",
+          "pos": "phr",
+          "ipa": "/ˌteɪk ˈækʃn/",
+          "meaning": "hành động"
+        },
+        {
+          "word": "temple",
+          "pos": "n",
+          "ipa": "/ˈtempl/",
+          "meaning": "đền, chùa"
+        },
+        {
+          "word": "trending",
+          "pos": "adj",
+          "ipa": "/ˈtrendɪŋ/",
+          "meaning": "đang thịnh hành, đang là xu hướng"
+        },
+        {
+          "word": "well-preserved",
+          "pos": "adj",
+          "ipa": "/ˌwel prɪˈzɜːvd/",
+          "meaning": "được bảo tồn tốt"
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Education options for school-leavers",
+      "title_vi": "Các lựa chọn học tập cho học sinh tốt nghiệp phổ thông",
+      "sources": [
+        "https://vietjack.com/tieng-anh-11-moi/unit-7-tu-vung-lop-11-moi.jsp",
+        "https://vndoc.com/tu-vung-unit-7-lop-11-education-options-for-school-leavers-304238",
+        "https://quizlet.com/vn/867932679/global-success-11-unit-7-education-options-for-school-leavers-flash-cards/",
+        "https://loigiaihay.com/vocabulary-unit-7-education-for-school-leavers-sbt-tieng-anh-11-global-success-a150126.html"
+      ],
+      "words": [
+        {
+          "word": "academic",
+          "pos": "adj",
+          "ipa": "/ˌækəˈdemɪk/",
+          "meaning": "có tính học thuật, thuộc về học tập"
+        },
+        {
+          "word": "advisor",
+          "pos": "n",
+          "ipa": "/ədˈvaɪzə(r)/",
+          "meaning": "người cố vấn"
+        },
+        {
+          "word": "apprentice",
+          "pos": "n",
+          "ipa": "/əˈprentɪs/",
+          "meaning": "người học việc"
+        },
+        {
+          "word": "apprenticeship",
+          "pos": "n",
+          "ipa": "/əˈprentɪʃɪp/",
+          "meaning": "sự học việc, thời gian học nghề"
+        },
+        {
+          "word": "bachelor's degree",
+          "pos": "n",
+          "ipa": "/ˈbætʃələz dɪɡriː/",
+          "meaning": "bằng cử nhân"
+        },
+        {
+          "word": "brochure",
+          "pos": "n",
+          "ipa": "/ˈbrəʊʃə(r)/",
+          "meaning": "tờ quảng cáo, sách giới thiệu"
+        },
+        {
+          "word": "college",
+          "pos": "n",
+          "ipa": "/ˈkɒlɪdʒ/",
+          "meaning": "trường cao đẳng"
+        },
+        {
+          "word": "convince",
+          "pos": "v",
+          "ipa": "/kənˈvɪns/",
+          "meaning": "thuyết phục"
+        },
+        {
+          "word": "doctorate",
+          "pos": "n",
+          "ipa": "/ˈdɒktərət/",
+          "meaning": "học vị tiến sĩ"
+        },
+        {
+          "word": "education fair",
+          "pos": "n",
+          "ipa": "/ˌedʒuˈkeɪʃn feə(r)/",
+          "meaning": "hội chợ giáo dục, ngày hội tư vấn tuyển sinh"
+        },
+        {
+          "word": "entrance exam",
+          "pos": "n",
+          "ipa": "/ˈentrəns ɪɡzæm/",
+          "meaning": "kỳ thi tuyển sinh, kỳ thi đầu vào"
+        },
+        {
+          "word": "formal",
+          "pos": "adj",
+          "ipa": "/ˈfɔːml/",
+          "meaning": "chính quy, trang trọng"
+        },
+        {
+          "word": "graduation",
+          "pos": "n",
+          "ipa": "/ˌɡrædʒuˈeɪʃn/",
+          "meaning": "sự tốt nghiệp"
+        },
+        {
+          "word": "higher education",
+          "pos": "n",
+          "ipa": "/ˌhaɪər edʒuˈkeɪʃn/",
+          "meaning": "giáo dục đại học"
+        },
+        {
+          "word": "institution",
+          "pos": "n",
+          "ipa": "/ˌɪnstɪˈtjuːʃn/",
+          "meaning": "học viện, cơ sở giáo dục"
+        },
+        {
+          "word": "manage",
+          "pos": "v",
+          "ipa": "/ˈmænɪdʒ/",
+          "meaning": "xoay xở, quản lý"
+        },
+        {
+          "word": "master's degree",
+          "pos": "n",
+          "ipa": "/ˈmɑːstəz dɪɡriː/",
+          "meaning": "bằng thạc sĩ"
+        },
+        {
+          "word": "mechanic",
+          "pos": "n",
+          "ipa": "/məˈkænɪk/",
+          "meaning": "thợ cơ khí"
+        },
+        {
+          "word": "option",
+          "pos": "n",
+          "ipa": "/ˈɒpʃn/",
+          "meaning": "sự lựa chọn"
+        },
+        {
+          "word": "professional",
+          "pos": "adj",
+          "ipa": "/prəˈfeʃənl/",
+          "meaning": "chuyên nghiệp"
+        },
+        {
+          "word": "qualification",
+          "pos": "n",
+          "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "meaning": "bằng cấp, trình độ chuyên môn"
+        },
+        {
+          "word": "representative",
+          "pos": "n",
+          "ipa": "/ˌreprɪˈzentətɪv/",
+          "meaning": "người đại diện"
+        },
+        {
+          "word": "salary",
+          "pos": "n",
+          "ipa": "/ˈsæləri/",
+          "meaning": "tiền lương"
+        },
+        {
+          "word": "school-leaver",
+          "pos": "n",
+          "ipa": "/ˈskuːl liːvə(r)/",
+          "meaning": "học sinh vừa tốt nghiệp phổ thông",
+          "example": "Many school-leavers choose to go to university."
+        },
+        {
+          "word": "sensible",
+          "pos": "adj",
+          "ipa": "/ˈsensəbl/",
+          "meaning": "hợp lý, khôn ngoan"
+        },
+        {
+          "word": "sensitive",
+          "pos": "adj",
+          "ipa": "/ˈsensətɪv/",
+          "meaning": "nhạy cảm"
+        },
+        {
+          "word": "sixth-form college",
+          "pos": "n",
+          "ipa": "/ˈsɪksθ fɔːm kɒlɪdʒ/",
+          "meaning": "trường dự bị đại học (ở Anh)"
+        },
+        {
+          "word": "trade",
+          "pos": "n",
+          "ipa": "/treɪd/",
+          "meaning": "nghề (thủ công)"
+        },
+        {
+          "word": "vocational school",
+          "pos": "n",
+          "ipa": "/vəʊˈkeɪʃənl skuːl/",
+          "meaning": "trường dạy nghề"
+        },
+        {
+          "word": "wage",
+          "pos": "n",
+          "ipa": "/weɪdʒ/",
+          "meaning": "tiền công"
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "Becoming independent",
+      "title_vi": "Trở nên độc lập",
+      "sources": [
+        "https://vietjack.com/tieng-anh-11-moi/unit-8-tu-vung-lop-11-moi.jsp",
+        "https://vietjack.me/tu-vung-tieng-anh-11-unit-8-global-success-becoming-independent-159888.html",
+        "https://vndoc.com/tu-vung-unit-8-lop-11-becoming-independent-313837",
+        "https://zim.vn/tu-vung-tieng-anh-11-unit-8-becoming-independent",
+        "https://langgo.edu.vn/tu-vung-tieng-anh-lop-11"
+      ],
+      "words": [
+        {
+          "word": "achieve",
+          "pos": "v",
+          "ipa": "/əˈtʃiːv/",
+          "meaning": "đạt được"
+        },
+        {
+          "word": "carry out",
+          "pos": "phr v",
+          "ipa": "/ˌkæri ˈaʊt/",
+          "meaning": "thực hiện, tiến hành"
+        },
+        {
+          "word": "combine",
+          "pos": "v",
+          "ipa": "/kəmˈbaɪn/",
+          "meaning": "kết hợp"
+        },
+        {
+          "word": "come up with",
+          "pos": "phr v",
+          "ipa": "/ˌkʌm ˈʌp wɪð/",
+          "meaning": "nghĩ ra, nảy ra (ý tưởng)"
+        },
+        {
+          "word": "confidence",
+          "pos": "n",
+          "ipa": "/ˈkɒnfɪdəns/",
+          "meaning": "sự tự tin"
+        },
+        {
+          "word": "confident",
+          "pos": "adj",
+          "ipa": "/ˈkɒnfɪdənt/",
+          "meaning": "tự tin"
+        },
+        {
+          "word": "deal with",
+          "pos": "phr v",
+          "ipa": "/ˈdiːl wɪð/",
+          "meaning": "giải quyết, đối phó với"
+        },
+        {
+          "word": "decision-making skill",
+          "pos": "n",
+          "ipa": "/dɪˈsɪʒn meɪkɪŋ skɪl/",
+          "meaning": "kỹ năng ra quyết định"
+        },
+        {
+          "word": "dependent",
+          "pos": "adj",
+          "ipa": "/dɪˈpendənt/",
+          "meaning": "phụ thuộc"
+        },
+        {
+          "word": "fold",
+          "pos": "v",
+          "ipa": "/fəʊld/",
+          "meaning": "gấp (quần áo)"
+        },
+        {
+          "word": "get around",
+          "pos": "phr v",
+          "ipa": "/ˌɡet əˈraʊnd/",
+          "meaning": "đi lại"
+        },
+        {
+          "word": "get into the habit of",
+          "pos": "idiom",
+          "ipa": "/ˌɡet ˌɪntə ðə ˈhæbɪt əv/",
+          "meaning": "tập thói quen"
+        },
+        {
+          "word": "identify",
+          "pos": "v",
+          "ipa": "/aɪˈdentɪfaɪ/",
+          "meaning": "xác định, nhận biết"
+        },
+        {
+          "word": "independence",
+          "pos": "n",
+          "ipa": "/ˌɪndɪˈpendəns/",
+          "meaning": "sự độc lập"
+        },
+        {
+          "word": "independent",
+          "pos": "adj",
+          "ipa": "/ˌɪndɪˈpendənt/",
+          "meaning": "độc lập",
+          "example": "Teenagers want to become more independent."
+        },
+        {
+          "word": "install",
+          "pos": "v",
+          "ipa": "/ɪnˈstɔːl/",
+          "meaning": "cài đặt"
+        },
+        {
+          "word": "iron",
+          "pos": "v",
+          "ipa": "/ˈaɪən/",
+          "meaning": "là, ủi (quần áo)"
+        },
+        {
+          "word": "learner",
+          "pos": "n",
+          "ipa": "/ˈlɜːnə(r)/",
+          "meaning": "người học"
+        },
+        {
+          "word": "learning goal",
+          "pos": "n",
+          "ipa": "/ˈlɜːnɪŋ ɡəʊl/",
+          "meaning": "mục tiêu học tập"
+        },
+        {
+          "word": "life skill",
+          "pos": "n",
+          "ipa": "/ˈlaɪf skɪl/",
+          "meaning": "kỹ năng sống"
+        },
+        {
+          "word": "make use of",
+          "pos": "phr",
+          "ipa": "/ˌmeɪk ˈjuːs əv/",
+          "meaning": "tận dụng"
+        },
+        {
+          "word": "manage",
+          "pos": "v",
+          "ipa": "/ˈmænɪdʒ/",
+          "meaning": "quản lý, xoay xở"
+        },
+        {
+          "word": "measure",
+          "pos": "v",
+          "ipa": "/ˈmeʒə(r)/",
+          "meaning": "đo lường"
+        },
+        {
+          "word": "money management skill",
+          "pos": "n",
+          "ipa": "/ˈmʌni mænɪdʒmənt skɪl/",
+          "meaning": "kỹ năng quản lý tiền bạc"
+        },
+        {
+          "word": "reliable",
+          "pos": "adj",
+          "ipa": "/rɪˈlaɪəbl/",
+          "meaning": "đáng tin cậy"
+        },
+        {
+          "word": "remove",
+          "pos": "v",
+          "ipa": "/rɪˈmuːv/",
+          "meaning": "loại bỏ, tẩy (vết bẩn)"
+        },
+        {
+          "word": "responsibility",
+          "pos": "n",
+          "ipa": "/rɪˌspɒnsəˈbɪləti/",
+          "meaning": "trách nhiệm"
+        },
+        {
+          "word": "responsible",
+          "pos": "adj",
+          "ipa": "/rɪˈspɒnsəbl/",
+          "meaning": "có trách nhiệm"
+        },
+        {
+          "word": "rinse",
+          "pos": "v",
+          "ipa": "/rɪns/",
+          "meaning": "xả, tráng (nước)"
+        },
+        {
+          "word": "schedule",
+          "pos": "n",
+          "ipa": "/ˈʃedjuːl/",
+          "meaning": "lịch trình, thời gian biểu"
+        },
+        {
+          "word": "self-study",
+          "pos": "n",
+          "ipa": "/ˌself ˈstʌdi/",
+          "meaning": "sự tự học"
+        },
+        {
+          "word": "time management skill",
+          "pos": "n",
+          "ipa": "/ˈtaɪm mænɪdʒmənt skɪl/",
+          "meaning": "kỹ năng quản lý thời gian"
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Social issues",
+      "title_vi": "Các vấn đề xã hội",
+      "sources": [
+        "https://langgo.edu.vn/tu-vung-unit-9-lop-11-global-success-social-issues",
+        "https://vndoc.com/tu-vung-unit-9-lop-11-social-issues-315734",
+        "https://download.vn/unit-9-lop-11-tu-vung-57711",
+        "https://tailieumoi.vn/bai-viet/109003/tu-vung-tieng-anh-lop-11-unit-9-social-issues-global-success",
+        "https://www.vietjack.com/tieng-anh-11-moi/unit-9-tu-vung-lop-11-moi.jsp",
+        "https://quizlet.com/vn/948977955/global-success-11-unit-9-social-issues-flash-cards/"
+      ],
+      "words": [
+        {
+          "word": "admit",
+          "pos": "v",
+          "ipa": "/ədˈmɪt/",
+          "meaning": "thừa nhận"
+        },
+        {
+          "word": "alcohol",
+          "pos": "n",
+          "ipa": "/ˈælkəhɒl/",
+          "meaning": "rượu, đồ uống có cồn"
+        },
+        {
+          "word": "anti-bullying",
+          "pos": "adj",
+          "ipa": "/ˌænti ˈbʊliɪŋ/",
+          "meaning": "chống bắt nạt"
+        },
+        {
+          "word": "anxiety",
+          "pos": "n",
+          "ipa": "/æŋˈzaɪəti/",
+          "meaning": "sự lo âu"
+        },
+        {
+          "word": "ashamed",
+          "pos": "adj",
+          "ipa": "/əˈʃeɪmd/",
+          "meaning": "xấu hổ"
+        },
+        {
+          "word": "awareness",
+          "pos": "n",
+          "ipa": "/əˈweənəs/",
+          "meaning": "nhận thức, sự hiểu biết"
+        },
+        {
+          "word": "body shaming",
+          "pos": "n",
+          "ipa": "/ˈbɒdi ʃeɪmɪŋ/",
+          "meaning": "sự chê bai ngoại hình"
+        },
+        {
+          "word": "bully",
+          "pos": "v",
+          "ipa": "/ˈbʊli/",
+          "meaning": "bắt nạt"
+        },
+        {
+          "word": "campaign",
+          "pos": "n",
+          "ipa": "/kæmˈpeɪn/",
+          "meaning": "chiến dịch"
+        },
+        {
+          "word": "crime",
+          "pos": "n",
+          "ipa": "/kraɪm/",
+          "meaning": "tội phạm, tội ác"
+        },
+        {
+          "word": "cyberbullying",
+          "pos": "n",
+          "ipa": "/ˈsaɪbəbʊliɪŋ/",
+          "meaning": "bắt nạt trên mạng"
+        },
+        {
+          "word": "depression",
+          "pos": "n",
+          "ipa": "/dɪˈpreʃn/",
+          "meaning": "chứng trầm cảm"
+        },
+        {
+          "word": "drug",
+          "pos": "n",
+          "ipa": "/drʌɡ/",
+          "meaning": "ma túy; thuốc"
+        },
+        {
+          "word": "drunk",
+          "pos": "adj",
+          "ipa": "/drʌŋk/",
+          "meaning": "say rượu"
+        },
+        {
+          "word": "frighten",
+          "pos": "v",
+          "ipa": "/ˈfraɪtn/",
+          "meaning": "làm hoảng sợ"
+        },
+        {
+          "word": "hang out",
+          "pos": "phr v",
+          "ipa": "/ˌhæŋ ˈaʊt/",
+          "meaning": "đi chơi"
+        },
+        {
+          "word": "hesitate",
+          "pos": "v",
+          "ipa": "/ˈhezɪteɪt/",
+          "meaning": "do dự, ngập ngừng"
+        },
+        {
+          "word": "make fun of",
+          "pos": "phr",
+          "ipa": "/ˌmeɪk ˈfʌn əv/",
+          "meaning": "chế giễu, trêu chọc"
+        },
+        {
+          "word": "obey",
+          "pos": "v",
+          "ipa": "/əˈbeɪ/",
+          "meaning": "tuân theo, vâng lời"
+        },
+        {
+          "word": "offensive",
+          "pos": "adj",
+          "ipa": "/əˈfensɪv/",
+          "meaning": "xúc phạm, công kích"
+        },
+        {
+          "word": "overpopulation",
+          "pos": "n",
+          "ipa": "/ˌəʊvəˌpɒpjuˈleɪʃn/",
+          "meaning": "sự bùng nổ dân số"
+        },
+        {
+          "word": "painful",
+          "pos": "adj",
+          "ipa": "/ˈpeɪnfl/",
+          "meaning": "đau đớn"
+        },
+        {
+          "word": "peer influence",
+          "pos": "n",
+          "ipa": "/ˈpɪər ɪnfluəns/",
+          "meaning": "ảnh hưởng từ bạn bè đồng trang lứa"
+        },
+        {
+          "word": "peer pressure",
+          "pos": "n",
+          "ipa": "/ˈpɪə preʃə(r)/",
+          "meaning": "áp lực từ bạn bè đồng trang lứa",
+          "example": "Many teenagers smoke because of peer pressure."
+        },
+        {
+          "word": "physical",
+          "pos": "adj",
+          "ipa": "/ˈfɪzɪkl/",
+          "meaning": "thuộc về thể chất"
+        },
+        {
+          "word": "policy",
+          "pos": "n",
+          "ipa": "/ˈpɒləsi/",
+          "meaning": "chính sách"
+        },
+        {
+          "word": "poverty",
+          "pos": "n",
+          "ipa": "/ˈpɒvəti/",
+          "meaning": "sự nghèo đói"
+        },
+        {
+          "word": "pressing",
+          "pos": "adj",
+          "ipa": "/ˈpresɪŋ/",
+          "meaning": "cấp bách"
+        },
+        {
+          "word": "self-confidence",
+          "pos": "n",
+          "ipa": "/ˌself ˈkɒnfɪdəns/",
+          "meaning": "sự tự tin"
+        },
+        {
+          "word": "skip",
+          "pos": "v",
+          "ipa": "/skɪp/",
+          "meaning": "bỏ, trốn (học)"
+        },
+        {
+          "word": "social issue",
+          "pos": "n",
+          "ipa": "/ˌsəʊʃl ˈɪʃuː/",
+          "meaning": "vấn đề xã hội"
+        },
+        {
+          "word": "sympathy",
+          "pos": "n",
+          "ipa": "/ˈsɪmpəθi/",
+          "meaning": "sự cảm thông"
+        },
+        {
+          "word": "verbal",
+          "pos": "adj",
+          "ipa": "/ˈvɜːbl/",
+          "meaning": "bằng lời nói"
+        },
+        {
+          "word": "victim",
+          "pos": "n",
+          "ipa": "/ˈvɪktɪm/",
+          "meaning": "nạn nhân"
+        },
+        {
+          "word": "violent",
+          "pos": "adj",
+          "ipa": "/ˈvaɪələnt/",
+          "meaning": "bạo lực"
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "The ecosystem",
+      "title_vi": "Hệ sinh thái",
+      "sources": [
+        "https://langgo.edu.vn/tu-vung-unit-10-lop-11-global-success-the-ecosystem",
+        "https://www.vietjack.com/tieng-anh-11-moi/unit-10-tu-vung-lop-11-moi.jsp",
+        "https://tienganhthaythang.com/bai-tap-unit-10-the-ecosystem-tieng-anh-lop-11-global-success-1-04-2024",
+        "https://yourhomework.net/vocabulary/lesson/000000123397-g",
+        "https://vus.edu.vn/blog-vus/tieng-anh-11-unit-10"
+      ],
+      "words": [
+        {
+          "word": "biodiversity",
+          "pos": "n",
+          "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+          "meaning": "đa dạng sinh học"
+        },
+        {
+          "word": "bird-watching",
+          "pos": "n",
+          "ipa": "/ˈbɜːd wɒtʃɪŋ/",
+          "meaning": "hoạt động ngắm chim"
+        },
+        {
+          "word": "conservation",
+          "pos": "n",
+          "ipa": "/ˌkɒnsəˈveɪʃn/",
+          "meaning": "sự bảo tồn"
+        },
+        {
+          "word": "continent",
+          "pos": "n",
+          "ipa": "/ˈkɒntɪnənt/",
+          "meaning": "lục địa, châu lục"
+        },
+        {
+          "word": "coral reef",
+          "pos": "n",
+          "ipa": "/ˈkɒrəl riːf/",
+          "meaning": "rạn san hô"
+        },
+        {
+          "word": "creature",
+          "pos": "n",
+          "ipa": "/ˈkriːtʃə(r)/",
+          "meaning": "sinh vật"
+        },
+        {
+          "word": "cruelty",
+          "pos": "n",
+          "ipa": "/ˈkruːəlti/",
+          "meaning": "sự tàn ác"
+        },
+        {
+          "word": "delta",
+          "pos": "n",
+          "ipa": "/ˈdeltə/",
+          "meaning": "châu thổ, đồng bằng"
+        },
+        {
+          "word": "destroy",
+          "pos": "v",
+          "ipa": "/dɪˈstrɔɪ/",
+          "meaning": "phá hủy"
+        },
+        {
+          "word": "diversity",
+          "pos": "n",
+          "ipa": "/daɪˈvɜːsəti/",
+          "meaning": "sự đa dạng"
+        },
+        {
+          "word": "ecosystem",
+          "pos": "n",
+          "ipa": "/ˈiːkəʊsɪstəm/",
+          "meaning": "hệ sinh thái",
+          "example": "Every species plays a role in the ecosystem."
+        },
+        {
+          "word": "endanger",
+          "pos": "v",
+          "ipa": "/ɪnˈdeɪndʒə(r)/",
+          "meaning": "gây nguy hiểm"
+        },
+        {
+          "word": "endangered",
+          "pos": "adj",
+          "ipa": "/ɪnˈdeɪndʒəd/",
+          "meaning": "có nguy cơ tuyệt chủng"
+        },
+        {
+          "word": "fauna",
+          "pos": "n",
+          "ipa": "/ˈfɔːnə/",
+          "meaning": "hệ động vật"
+        },
+        {
+          "word": "flora",
+          "pos": "n",
+          "ipa": "/ˈflɔːrə/",
+          "meaning": "hệ thực vật"
+        },
+        {
+          "word": "food chain",
+          "pos": "n",
+          "ipa": "/ˈfuːd tʃeɪn/",
+          "meaning": "chuỗi thức ăn"
+        },
+        {
+          "word": "green",
+          "pos": "adj",
+          "ipa": "/ɡriːn/",
+          "meaning": "xanh, thân thiện với môi trường"
+        },
+        {
+          "word": "habitat",
+          "pos": "n",
+          "ipa": "/ˈhæbɪtæt/",
+          "meaning": "môi trường sống"
+        },
+        {
+          "word": "koala",
+          "pos": "n",
+          "ipa": "/kəʊˈɑːlə/",
+          "meaning": "gấu túi koala"
+        },
+        {
+          "word": "living things",
+          "pos": "n",
+          "ipa": "/ˌlɪvɪŋ ˈθɪŋz/",
+          "meaning": "sinh vật sống"
+        },
+        {
+          "word": "mammal",
+          "pos": "n",
+          "ipa": "/ˈmæml/",
+          "meaning": "động vật có vú"
+        },
+        {
+          "word": "national park",
+          "pos": "n",
+          "ipa": "/ˌnæʃnəl ˈpɑːk/",
+          "meaning": "vườn quốc gia"
+        },
+        {
+          "word": "nature reserve",
+          "pos": "n",
+          "ipa": "/ˈneɪtʃə rɪzɜːv/",
+          "meaning": "khu bảo tồn thiên nhiên"
+        },
+        {
+          "word": "organism",
+          "pos": "n",
+          "ipa": "/ˈɔːɡənɪzəm/",
+          "meaning": "sinh vật"
+        },
+        {
+          "word": "overuse",
+          "pos": "n",
+          "ipa": "/ˌəʊvəˈjuːs/",
+          "meaning": "sự lạm dụng, sử dụng quá mức"
+        },
+        {
+          "word": "pangolin",
+          "pos": "n",
+          "ipa": "/pæŋˈɡəʊlɪn/",
+          "meaning": "con tê tê"
+        },
+        {
+          "word": "resource",
+          "pos": "n",
+          "ipa": "/rɪˈzɔːs/",
+          "meaning": "tài nguyên"
+        },
+        {
+          "word": "restoration",
+          "pos": "n",
+          "ipa": "/ˌrestəˈreɪʃn/",
+          "meaning": "sự phục hồi"
+        },
+        {
+          "word": "restore",
+          "pos": "v",
+          "ipa": "/rɪˈstɔː(r)/",
+          "meaning": "phục hồi"
+        },
+        {
+          "word": "run out",
+          "pos": "phr v",
+          "ipa": "/ˌrʌn ˈaʊt/",
+          "meaning": "cạn kiệt"
+        },
+        {
+          "word": "shelter",
+          "pos": "n",
+          "ipa": "/ˈʃeltə(r)/",
+          "meaning": "nơi trú ẩn"
+        },
+        {
+          "word": "snorkelling",
+          "pos": "n",
+          "ipa": "/ˈsnɔːkəlɪŋ/",
+          "meaning": "lặn với ống thở"
+        },
+        {
+          "word": "species",
+          "pos": "n",
+          "ipa": "/ˈspiːʃiːz/",
+          "meaning": "loài"
+        },
+        {
+          "word": "survival",
+          "pos": "n",
+          "ipa": "/səˈvaɪvl/",
+          "meaning": "sự sống sót, tồn tại"
+        },
+        {
+          "word": "tropical forest",
+          "pos": "n",
+          "ipa": "/ˌtrɒpɪkl ˈfɒrɪst/",
+          "meaning": "rừng nhiệt đới"
+        },
+        {
+          "word": "waterway",
+          "pos": "n",
+          "ipa": "/ˈwɔːtəweɪ/",
+          "meaning": "đường thủy"
+        },
+        {
+          "word": "wetland",
+          "pos": "n",
+          "ipa": "/ˈwetlənd/",
+          "meaning": "vùng đất ngập nước"
+        },
+        {
+          "word": "wildlife",
+          "pos": "n",
+          "ipa": "/ˈwaɪldlaɪf/",
+          "meaning": "động vật hoang dã"
+        }
+      ]
+    }
+  ]
+}
