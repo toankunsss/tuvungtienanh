@@ -1,215 +1,215 @@
 ﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-3,1,Hello,sourced,hello,exclam,/həˈləʊ/,/həˈloʊ/,,,xin chào,"Hello, I'm Mary."
-3,1,Hello,sourced,hi,exclam,/haɪ/,/haɪ/,,,chào (thân mật),"Hi, Ben. I'm Mai."
-3,1,Hello,sourced,goodbye,exclam,/ˌɡʊdˈbaɪ/,/ˌɡʊdˈbaɪ/,,,tạm biệt,"Goodbye, Lucy."
-3,1,Hello,sourced,bye,exclam,/baɪ/,/baɪ/,,,tạm biệt (thân mật),"Bye, Mai."
-3,1,Hello,sourced,how are you?,phr,/ˌhaʊ ˈɑː juː/,/ˌhaʊ ˈɑːr juː/,,,bạn có khỏe không?,"How are you, Nam?"
-3,1,Hello,sourced,fine,adj,/faɪn/,/faɪn/,,,"khỏe, ổn","I'm fine, thank you."
-3,1,Hello,sourced,thank you,phr,/ˈθæŋk juː/,/ˈθæŋk juː/,,,cảm ơn,"Fine, thank you."
-3,1,Hello,sourced,I'm,phr,/aɪm/,/aɪm/,,,"tôi là, mình là",I'm Ben.
-3,2,Our names,sourced,name,n,/neɪm/,/neɪm/,,,tên,What's your name?
-3,2,Our names,sourced,what's your name?,phr,/ˌwɒts jɔː ˈneɪm/,/ˌwʌts jɔːr ˈneɪm/,,,bạn tên là gì?,What's your name? – My name's Linh.
-3,2,Our names,sourced,my name's,phr,/maɪ ˈneɪmz/,/maɪ ˈneɪmz/,,,tên mình là,My name's Bill.
-3,2,Our names,sourced,his,det,/hɪz/,/hɪz/,,,"của anh ấy, của bạn ấy (nam)",His name is Ben.
-3,2,Our names,sourced,her,det,/hɜː(r)/,/hɝː/,,,"của chị ấy, của bạn ấy (nữ)",Her name is Mary.
-3,2,Our names,sourced,how old are you?,phr,/ˌhaʊ ˈəʊld ɑː juː/,/ˌhaʊ ˈoʊld ɑːr juː/,,,bạn bao nhiêu tuổi?,How old are you? – I'm eight.
-3,2,Our names,sourced,years old,phr,/ˈjɪəz əʊld/,/ˈjɪrz oʊld/,,,... tuổi,I'm eight years old.
-3,2,Our names,sourced,one,num,/wʌn/,/wʌn/,,,một,"One, two, three."
-3,2,Our names,sourced,two,num,/tuː/,/tuː/,,,hai,
-3,2,Our names,sourced,three,num,/θriː/,/θriː/,,,ba,
-3,2,Our names,sourced,four,num,/fɔː(r)/,/fɔːr/,,,bốn,
-3,2,Our names,sourced,five,num,/faɪv/,/faɪv/,,,năm,
-3,2,Our names,sourced,six,num,/sɪks/,/sɪks/,,,sáu,
-3,2,Our names,sourced,seven,num,/ˈsevn/,/ˈsevən/,,,bảy,
-3,2,Our names,sourced,eight,num,/eɪt/,/eɪt/,,,tám,I'm eight years old.
-3,2,Our names,sourced,nine,num,/naɪn/,/naɪn/,,,chín,
-3,2,Our names,sourced,ten,num,/ten/,/ten/,,,mười,I'm ten years old.
-3,3,Our friends,sourced,friend,n,/frend/,/frend/,,,"bạn, bạn bè",This is my friend.
-3,3,Our friends,sourced,this,pron,/ðɪs/,/ðɪs/,,,"đây, cái này, người này",This is Mary.
-3,3,Our friends,sourced,that,pron,/ðæt/,/ðæt/,,,"kia, cái kia, người kia",That is my friend.
-3,3,Our friends,sourced,is this ...?,phr,/ɪz ˈðɪs/,/ɪz ˈðɪs .../,,,đây có phải là ... không?,Is this Lucy?
-3,3,Our friends,sourced,is that ...?,phr,/ɪz ˈðæt/,/ɪz ˈðæt .../,,,kia có phải là ... không?,Is that Minh?
-3,3,Our friends,sourced,"yes, it is",phr,/ˌjes ɪt ˈɪz/,/ˌjes ɪt ˈɪz/,,,"vâng, đúng vậy","Is that Minh? – Yes, it is."
-3,3,Our friends,sourced,"no, it isn't",phr,/ˌnəʊ ɪt ˈɪznt/,/ˌnoʊ ɪt ˈɪzənt/,,,"không, không phải","Is that Ben? – No, it isn't."
-3,4,Our bodies,sourced,body,n,/ˈbɒdi/,/ˈbɑːdi/,,,cơ thể,
-3,4,Our bodies,sourced,face,n,/feɪs/,/feɪs/,,,khuôn mặt,It's a face.
-3,4,Our bodies,sourced,hand,n,/hænd/,/hænd/,,,bàn tay,Touch your hand.
-3,4,Our bodies,sourced,ear,n,/ɪə(r)/,/ɪr/,,,tai,It's an ear.
-3,4,Our bodies,sourced,eye,n,/aɪ/,/aɪ/,,,mắt,It's an eye.
-3,4,Our bodies,sourced,nose,n,/nəʊz/,/noʊz/,,,mũi,It's a nose.
-3,4,Our bodies,sourced,mouth,n,/maʊθ/,/maʊθ/,,,miệng,It's a mouth.
-3,4,Our bodies,sourced,open,v,/ˈəʊpən/,/ˈoʊpən/,,,mở,Open your mouth.
-3,4,Our bodies,sourced,touch,v,/tʌtʃ/,/tʌtʃ/,,,"chạm vào, sờ vào",Touch your nose.
-3,4,Our bodies,sourced,what's this?,phr,/ˌwɒts ˈðɪs/,/ˌwʌts ˈðɪs/,,,đây là cái gì?,What's this? – It's a hand.
-3,5,My hobbies,sourced,hobby,n,/ˈhɒbi/,/ˈhɑːbi/,,,sở thích,What's your hobby?
-3,5,My hobbies,sourced,dancing,n,/ˈdɑːnsɪŋ/,/ˈdænsɪŋ/,,,nhảy múa,My hobby is dancing.
-3,5,My hobbies,sourced,drawing,n,/ˈdrɔːɪŋ/,/ˈdrɑːɪŋ/,,,vẽ (bằng bút chì),I like drawing.
-3,5,My hobbies,sourced,painting,n,/ˈpeɪntɪŋ/,/ˈpeɪntɪŋ/,,,"vẽ tranh, tô màu",It's painting.
-3,5,My hobbies,sourced,singing,n,/ˈsɪŋɪŋ/,/ˈsɪŋɪŋ/,,,ca hát,My hobby is singing.
-3,5,My hobbies,sourced,swimming,n,/ˈswɪmɪŋ/,/ˈswɪmɪŋ/,,,bơi lội,I like swimming.
-3,5,My hobbies,sourced,running,n,/ˈrʌnɪŋ/,/ˈrʌnɪŋ/,,,chạy bộ,It's running.
-3,5,My hobbies,sourced,cooking,n,/ˈkʊkɪŋ/,/ˈkʊkɪŋ/,,,nấu ăn,My hobby is cooking.
-3,5,My hobbies,sourced,walking,n,/ˈwɔːkɪŋ/,/ˈwɑːkɪŋ/,,,đi bộ,I like walking.
-3,5,My hobbies,sourced,what's your hobby?,phr,/ˌwɒts jɔː ˈhɒbi/,/ˌwʌts jɔːr ˈhɑːbi/,,,sở thích của bạn là gì?,What's your hobby? – It's swimming.
-3,5,My hobbies,sourced,like,v,/laɪk/,/laɪk/,,,thích,I like drawing.
-3,6,Our school,sourced,school,n,/skuːl/,/skuːl/,,,trường học,Is this our school?
-3,6,Our school,sourced,classroom,n,/ˈklɑːsruːm/,/ˈklæsruːm/,,,"lớp học, phòng học",This is our classroom.
-3,6,Our school,sourced,library,n,/ˈlaɪbrəri/,/ˈlaɪbreriː/,,,thư viện,Is this our library?
-3,6,Our school,sourced,playground,n,/ˈpleɪɡraʊnd/,/ˈpleɪɡraʊnd/,,,sân chơi,That's our playground.
-3,6,Our school,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,,,phòng máy tính,Let's go to the computer room.
-3,6,Our school,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,,,phòng âm nhạc,This is the music room.
-3,6,Our school,sourced,art room,n,/ˈɑːt ruːm/,/ˈɑːrt ruːm/,,,phòng mỹ thuật,Is that the art room?
-3,6,Our school,sourced,our,det,/ˈaʊə(r)/,/ˈaʊɚ/,,,của chúng mình,This is our school.
-3,7,Classroom instructions,sourced,stand up,phr v,/ˌstænd ˈʌp/,/ˌstænd ˈʌp/,,,đứng lên,"Stand up, please!"
-3,7,Classroom instructions,sourced,sit down,phr v,/ˌsɪt ˈdaʊn/,/ˌsɪt ˈdaʊn/,,,ngồi xuống,"Sit down, please!"
-3,7,Classroom instructions,sourced,open your book,phr,/ˌəʊpən jɔː ˈbʊk/,/ˌoʊpən jɔːr ˈbʊk/,,,mở sách ra,"Open your book, please!"
-3,7,Classroom instructions,sourced,close your book,phr,/ˌkləʊz jɔː ˈbʊk/,/ˌkloʊz jɔːr ˈbʊk/,,,gấp sách lại,"Close your book, please!"
-3,7,Classroom instructions,sourced,be quiet,phr,/ˌbi ˈkwaɪət/,/ˌbiː ˈkwaɪət/,,,giữ trật tự,"Be quiet, please!"
-3,7,Classroom instructions,sourced,come in,phr v,/ˌkʌm ˈɪn/,/ˌkʌm ˈɪn/,,,đi vào,May I come in?
-3,7,Classroom instructions,sourced,go out,phr v,/ˌɡəʊ ˈaʊt/,/ˌɡoʊ ˈaʊt/,,,đi ra ngoài,May I go out?
-3,7,Classroom instructions,sourced,speak,v,/spiːk/,/spiːk/,,,nói,May I speak Vietnamese?
-3,7,Classroom instructions,sourced,please,adv,/pliːz/,/pliːz/,,,"làm ơn, xin vui lòng","Sit down, please."
-3,7,Classroom instructions,sourced,may I ...?,phr,/ˈmeɪ aɪ/,/ˈmeɪ aɪ .../,,,em có thể ... không ạ?,May I open the book?
-3,7,Classroom instructions,sourced,"yes, you can",phr,/ˌjes juː ˈkæn/,/ˌjes juː ˈkæn/,,,"được, em có thể","May I come in? – Yes, you can."
-3,7,Classroom instructions,sourced,"no, you can't",phr,/ˌnəʊ juː ˈkɑːnt/,/ˌnoʊ juː ˈkænt/,,,"không, em không thể","May I go out? – No, you can't."
-3,8,My school things,sourced,book,n,/bʊk/,/bʊk/,,,quyển sách,I have a book.
-3,8,My school things,sourced,notebook,n,/ˈnəʊtbʊk/,/ˈnoʊtbʊk/,,,quyển vở,I have a notebook.
-3,8,My school things,sourced,pen,n,/pen/,/pen/,,,bút mực,I have a pen.
-3,8,My school things,sourced,pencil case,n,/ˈpensl keɪs/,/ˈpensəl keɪs/,,,hộp bút,I have a pencil case.
-3,8,My school things,sourced,eraser,n,/ɪˈreɪzə(r)/,/ɪˈreɪsɚ/,,,cục tẩy,I have an eraser.
-3,8,My school things,sourced,ruler,n,/ˈruːlə(r)/,/ˈruːlɚ/,,,thước kẻ,This is my ruler.
-3,8,My school things,sourced,school bag,n,/ˈskuːl bæɡ/,/ˈskuːl bæɡ/,,,cặp sách,I have a school bag.
-3,8,My school things,sourced,have,v,/hæv/,/hæv/,,,có,I have a notebook.
-3,9,Colours,sourced,colour,n,/ˈkʌlə(r)/,/ˈkʌlɚ/,,,màu sắc,What colour is it?
-3,9,Colours,sourced,red,adj,/red/,/red/,,,màu đỏ,It's red.
-3,9,Colours,sourced,blue,adj,/bluː/,/bluː/,,,màu xanh dương,It's blue.
-3,9,Colours,sourced,green,adj,/ɡriːn/,/ɡriːn/,,,màu xanh lá cây,It's green.
-3,9,Colours,sourced,yellow,adj,/ˈjeləʊ/,/ˈjeloʊ/,,,màu vàng,It's yellow.
-3,9,Colours,sourced,white,adj,/waɪt/,/waɪt/,,,màu trắng,It's white.
-3,9,Colours,sourced,black,adj,/blæk/,/blæk/,,,màu đen,They're black.
-3,9,Colours,sourced,brown,adj,/braʊn/,/braʊn/,,,màu nâu,It's brown.
-3,9,Colours,sourced,orange,adj,/ˈɒrɪndʒ/,/ˈɔːrɪndʒ/,,,màu cam,They're orange.
-3,9,Colours,sourced,what colour is it?,phr,/ˌwɒt ˈkʌlər ɪz ɪt/,/ˌwʌt ˈkʌlɚ ɪz ɪt/,,,nó màu gì?,What colour is it? – It's red.
-3,9,Colours,sourced,what colour are they?,phr,/ˌwɒt ˈkʌlər ɑː ðeɪ/,/ˌwʌt ˈkʌlɚ ɑːr ðeɪ/,,,chúng màu gì?,What colour are they? – They're blue.
-3,10,Break time activities,sourced,break time,n,/ˈbreɪk taɪm/,/ˈbreɪk taɪm/,,,giờ ra chơi,I play chess at break time.
-3,10,Break time activities,sourced,play chess,phr,/ˌpleɪ ˈtʃes/,/ˌpleɪ ˈtʃes/,,,chơi cờ vua,I play chess at break time.
-3,10,Break time activities,sourced,play volleyball,phr,/ˌpleɪ ˈvɒlibɔːl/,/ˌpleɪ ˈvɑːlibɑːl/,,,chơi bóng chuyền,We play volleyball.
-3,10,Break time activities,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,,,chơi bóng rổ,I play basketball at break time.
-3,10,Break time activities,sourced,play badminton,phr,/ˌpleɪ ˈbædmɪntən/,/ˌpleɪ ˈbædmɪntən/,,,chơi cầu lông,We play badminton.
-3,10,Break time activities,sourced,play football,phr,/ˌpleɪ ˈfʊtbɔːl/,/ˌpleɪ ˈfʊtbɑːl/,,,chơi bóng đá,I play football at break time.
-3,10,Break time activities,sourced,play table tennis,phr,/ˌpleɪ ˈteɪbl tenɪs/,/ˌpleɪ ˈteɪbəl ˌtenɪs/,,,chơi bóng bàn,We play table tennis.
-3,10,Break time activities,sourced,chat with friends,phr,/ˌtʃæt wɪð ˈfrendz/,/ˌtʃæt wɪð ˈfrendz/,,,trò chuyện với bạn bè,I chat with my friends.
-3,10,Break time activities,sourced,do word puzzles,phr,/ˌduː ˈwɜːd pʌzlz/,/ˌduː ˈwɝːd ˌpʌzəlz/,,,chơi giải ô chữ,I do word puzzles at break time.
-3,10,Break time activities,sourced,what do you do at break time?,phr,/ˌwɒt də juː ˈduː ət ˈbreɪk taɪm/,/ˌwʌt duː juː ˈduː æt ˈbreɪk taɪm/,,,bạn làm gì vào giờ ra chơi?,
-3,11,My family,sourced,family,n,/ˈfæməli/,/ˈfæməli/,,,gia đình,This is my family.
-3,11,My family,sourced,grandfather,n,/ˈɡrænfɑːðə(r)/,/ˈɡrænfɑːðɚ/,,,ông,It's my grandfather.
-3,11,My family,sourced,grandmother,n,/ˈɡrænmʌðə(r)/,/ˈɡrændmʌðɚ/,,,bà,That's my grandmother.
-3,11,My family,sourced,father,n,/ˈfɑːðə(r)/,/ˈfɑːðɚ/,,,bố,Who's that? – It's my father.
-3,11,My family,sourced,mother,n,/ˈmʌðə(r)/,/ˈmʌðɚ/,,,mẹ,Who's that? – It's my mother.
-3,11,My family,sourced,brother,n,/ˈbrʌðə(r)/,/ˈbrʌðɚ/,,,"anh trai, em trai",It's my brother.
-3,11,My family,sourced,sister,n,/ˈsɪstə(r)/,/ˈsɪstɚ/,,,"chị gái, em gái",It's my sister.
-3,11,My family,sourced,man,n,/mæn/,/mæn/,,,người đàn ông,Who's the man?
-3,11,My family,sourced,woman,n,/ˈwʊmən/,/ˈwʊmən/,,,người phụ nữ,Who's the woman?
-3,11,My family,sourced,photo,n,/ˈfəʊtəʊ/,/ˈfoʊtoʊ/,,,bức ảnh,Look at this photo.
-3,11,My family,sourced,who,pron,/huː/,/huː/,,,ai,Who's that?
-3,11,My family,sourced,who's that?,phr,/ˌhuːz ˈðæt/,/ˌhuːz ˈðæt/,,,kia là ai?,Who's that? – It's my brother.
-3,11,My family,sourced,nineteen,num,/ˌnaɪnˈtiːn/,/ˌnaɪnˈtiːn/,,,mười chín,My sister is nineteen.
-3,12,Jobs,sourced,job,n,/dʒɒb/,/dʒɑːb/,,,"nghề nghiệp, công việc",What's his job?
-3,12,Jobs,sourced,doctor,n,/ˈdɒktə(r)/,/ˈdɑːktɚ/,,,bác sĩ,She's a doctor.
-3,12,Jobs,sourced,nurse,n,/nɜːs/,/nɝːs/,,,y tá,My mother is a nurse.
-3,12,Jobs,sourced,farmer,n,/ˈfɑːmə(r)/,/ˈfɑːrmɚ/,,,nông dân,He's a farmer.
-3,12,Jobs,sourced,cook,n,/kʊk/,/kʊk/,,,đầu bếp,My father is a cook.
-3,12,Jobs,sourced,singer,n,/ˈsɪŋə(r)/,/ˈsɪŋɚ/,,,ca sĩ,She's a singer.
-3,13,My house,sourced,house,n,/haʊs/,/haʊs/,,,ngôi nhà,This is my house.
-3,13,My house,sourced,living room,n,/ˈlɪvɪŋ ruːm/,/ˈlɪvɪŋ ruːm/,,,phòng khách,Where's the living room?
-3,13,My house,sourced,kitchen,n,/ˈkɪtʃɪn/,/ˈkɪtʃən/,,,nhà bếp,The kitchen is there.
-3,13,My house,sourced,bedroom,n,/ˈbedruːm/,/ˈbedruːm/,,,phòng ngủ,Where's the bedroom? – It's here.
-3,13,My house,sourced,bathroom,n,/ˈbɑːθruːm/,/ˈbæθruːm/,,,phòng tắm,Where's the bathroom?
-3,13,My house,sourced,here,adv,/hɪə(r)/,/hiːr/,,,ở đây,It's here.
-3,13,My house,sourced,there,adv,/ðeə(r)/,/ðer/,,,ở đằng kia,It's there.
-3,13,My house,sourced,table,n,/ˈteɪbl/,/ˈteɪbəl/,,,cái bàn,Where are the tables?
-3,13,My house,sourced,chair,n,/tʃeə(r)/,/tʃer/,,,cái ghế,They're in the living room.
-3,13,My house,sourced,where's the ...?,phr,/ˈweəz ðə/,/ˈwerz ðə .../,,,... ở đâu?,Where's the kitchen?
-3,13,My house,sourced,where are the ...?,phr,/ˈweər ɑː ðə/,/ˈwer ɑːr ðə .../,,,những ... ở đâu?,Where are the chairs?
-3,14,My bedroom,sourced,bedroom,n,/ˈbedruːm/,/ˈbedruːm/,,,phòng ngủ,This is my bedroom.
-3,14,My bedroom,sourced,bed,n,/bed/,/bed/,,,cái giường,There's a bed in the room.
-3,14,My bedroom,sourced,desk,n,/desk/,/desk/,,,bàn học,There's a desk.
-3,14,My bedroom,sourced,lamp,n,/læmp/,/læmp/,,,đèn bàn,There are two lamps.
-3,14,My bedroom,sourced,window,n,/ˈwɪndəʊ/,/ˈwɪndoʊ/,,,cửa sổ,There are two windows.
-3,14,My bedroom,sourced,door,n,/dɔː(r)/,/dɔːr/,,,cửa ra vào,The door is big.
-3,14,My bedroom,sourced,chair,n,/tʃeə(r)/,/tʃer/,,,cái ghế,The chairs are new.
-3,14,My bedroom,sourced,big,adj,/bɪɡ/,/bɪɡ/,,,"to, lớn",The door is big.
-3,14,My bedroom,sourced,small,adj,/smɔːl/,/smɑːl/,,,nhỏ,The windows are small.
-3,14,My bedroom,sourced,new,adj,/njuː/,/nuː/,,,mới,The chair is new.
-3,14,My bedroom,sourced,old,adj,/əʊld/,/oʊld/,,,cũ,The desk is old.
-3,14,My bedroom,sourced,there's,phr,/ðeəz/,/ðerz/,,,có (một),There's a bed in the room.
-3,14,My bedroom,sourced,there are,phr,/ðeər ɑː(r)/,/ðer ɑːr/,,,có (nhiều),There are two windows.
-3,15,At the dining table,sourced,dining table,n,/ˈdaɪnɪŋ teɪbl/,/ˈdaɪnɪŋ ˌteɪbəl/,,,bàn ăn,
-3,15,At the dining table,sourced,beans,n,/biːnz/,/biːnz/,,,đậu,Would you like some beans?
-3,15,At the dining table,sourced,bread,n,/bred/,/bred/,,,bánh mì,I'd like some bread.
-3,15,At the dining table,sourced,chicken,n,/ˈtʃɪkɪn/,/ˈtʃɪkən/,,,thịt gà,"I'd like some chicken, please."
-3,15,At the dining table,sourced,egg,n,/eɡ/,/eɡ/,,,quả trứng,"I'd like some eggs, please."
-3,15,At the dining table,sourced,fish,n,/fɪʃ/,/fɪʃ/,,,cá,Would you like some fish?
-3,15,At the dining table,sourced,meat,n,/miːt/,/miːt/,,,thịt,Would you like some meat?
-3,15,At the dining table,sourced,rice,n,/raɪs/,/raɪs/,,,"cơm, gạo",I'd like some rice.
-3,15,At the dining table,sourced,milk,n,/mɪlk/,/mɪlk/,,,sữa,Would you like some milk?
-3,15,At the dining table,sourced,juice,n,/dʒuːs/,/dʒuːs/,,,nước ép,Would you like some juice?
-3,15,At the dining table,sourced,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,,,nước,I'd like some water.
-3,15,At the dining table,sourced,would you like some ...?,phr,/wʊd juː ˈlaɪk səm/,/wʊd juː ˈlaɪk səm .../,,,bạn có muốn dùng một ít ... không?,"Would you like some juice? – Yes, please."
-3,15,At the dining table,sourced,"yes, please",phr,/ˌjes ˈpliːz/,/ˌjes ˈpliːz/,,,"vâng, cho mình xin","Would you like some beans? – Yes, please."
-3,15,At the dining table,sourced,"no, thanks",phr,/ˌnəʊ ˈθæŋks/,/ˌnoʊ ˈθæŋks/,,,"không, cảm ơn","Would you like some fish? – No, thanks."
-3,15,At the dining table,sourced,what would you like to eat?,phr,/ˌwɒt wʊd juː ˈlaɪk tə ˈiːt/,/ˌwʌt wʊd juː ˈlaɪk tə ˈiːt/,,,bạn muốn ăn gì?,What would you like to eat? – I'd like some eggs.
-3,16,My pets,sourced,pet,n,/pet/,/pet/,,,thú cưng,How many pets do you have?
-3,16,My pets,sourced,dog,n,/dɒɡ/,/dɑːɡ/,,,con chó,I have two dogs.
-3,16,My pets,sourced,cat,n,/kæt/,/kæt/,,,con mèo,I have a cat.
-3,16,My pets,sourced,bird,n,/bɜːd/,/bɝːd/,,,con chim,I have some birds.
-3,16,My pets,sourced,rabbit,n,/ˈræbɪt/,/ˈræbɪt/,,,con thỏ,I have three rabbits.
-3,16,My pets,sourced,parrot,n,/ˈpærət/,/ˈperət/,,,con vẹt,How many parrots do you have?
-3,16,My pets,sourced,goldfish,n,/ˈɡəʊldfɪʃ/,/ˈɡoʊldfɪʃ/,,,cá vàng,I have two goldfish.
-3,16,My pets,sourced,turtle,n,/ˈtɜːtl/,/ˈtɝːtəl/,,,con rùa,I have a turtle.
-3,16,My pets,sourced,many,det,/ˈmeni/,/ˈmeni/,,,nhiều,I have many birds.
-3,16,My pets,sourced,some,det,/sʌm/,/sʌm/,,,"một vài, một ít",I have some parrots.
-3,16,My pets,sourced,how many ... do you have?,phr,/ˌhaʊ ˈmeni ... də juː ˈhæv/,/ˌhaʊ ˈmeni ... duː juː ˈhæv/,,,bạn có bao nhiêu ...?,How many dogs do you have?
-3,17,Our toys,sourced,toy,n,/tɔɪ/,/tɔɪ/,,,đồ chơi,These are our toys.
-3,17,Our toys,sourced,doll,n,/dɒl/,/dɑːl/,,,búp bê,She has a doll.
-3,17,Our toys,sourced,teddy bear,n,/ˈtedi beə(r)/,/ˈtedi ber/,,,gấu bông,He has a teddy bear.
-3,17,Our toys,sourced,robot,n,/ˈrəʊbɒt/,/ˈroʊbɑːt/,,,"người máy, rô-bốt",I have a robot.
-3,17,Our toys,sourced,ball,n,/bɔːl/,/bɑːl/,,,quả bóng,He has two balls.
-3,17,Our toys,sourced,kite,n,/kaɪt/,/kaɪt/,,,con diều,She has a kite.
-3,17,Our toys,sourced,car,n,/kɑː(r)/,/kɑːr/,,,ô tô,He has a car.
-3,17,Our toys,sourced,plane,n,/pleɪn/,/pleɪn/,,,máy bay,He has three planes.
-3,17,Our toys,sourced,ship,n,/ʃɪp/,/ʃɪp/,,,tàu thủy,They have two ships.
-3,17,Our toys,sourced,train,n,/treɪn/,/treɪn/,,,tàu hỏa,They have four trains.
-3,17,Our toys,sourced,truck,n,/trʌk/,/trʌk/,,,xe tải,They have five trucks.
-3,18,Playing and doing,sourced,what are you doing?,phr,/ˌwɒt ɑː juː ˈduːɪŋ/,/ˌwʌt ɑːr juː ˈduːɪŋ/,,,bạn đang làm gì?,What are you doing? – I'm reading.
-3,18,Playing and doing,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,,,chơi bóng rổ,I'm playing basketball.
-3,18,Playing and doing,sourced,draw a picture,phr,/ˌdrɔː ə ˈpɪktʃə(r)/,/ˌdrɑː ə ˈpɪktʃɚ/,,,vẽ tranh,I'm drawing a picture.
-3,18,Playing and doing,sourced,watch TV,phr,/ˌwɒtʃ ˌtiː ˈviː/,/ˌwɑːtʃ ˌtiː ˈviː/,,,xem ti vi,I'm watching TV.
-3,18,Playing and doing,sourced,listen to music,phr,/ˌlɪsn tə ˈmjuːzɪk/,/ˌlɪsən tə ˈmjuːzɪk/,,,nghe nhạc,I'm listening to music.
-3,18,Playing and doing,sourced,dance,v,/dɑːns/,/dæns/,,,"nhảy, múa",She's dancing.
-3,18,Playing and doing,sourced,read,v,/riːd/,/riːd/,,,đọc,He's reading.
-3,18,Playing and doing,sourced,sing,v,/sɪŋ/,/sɪŋ/,,,hát,They're singing.
-3,18,Playing and doing,sourced,write,v,/raɪt/,/raɪt/,,,viết,I'm writing.
-3,18,Playing and doing,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,,,phòng âm nhạc,I'm in the music room.
-3,19,Outdoor activities,sourced,outdoor activity,n,/ˌaʊtdɔːr ækˈtɪvəti/,/ˌaʊtdɔːr ækˈtɪvəti/,,,hoạt động ngoài trời,
-3,19,Outdoor activities,sourced,cycle,v,/ˈsaɪkl/,/ˈsaɪkəl/,,,đạp xe,She's cycling.
-3,19,Outdoor activities,sourced,fly a kite,phr,/ˌflaɪ ə ˈkaɪt/,/ˌflaɪ ə ˈkaɪt/,,,thả diều,He's flying a kite.
-3,19,Outdoor activities,sourced,skate,v,/skeɪt/,/skeɪt/,,,trượt pa-tanh,He's skating.
-3,19,Outdoor activities,sourced,skip,v,/skɪp/,/skɪp/,,,nhảy dây,She's skipping.
-3,19,Outdoor activities,sourced,walk,v,/wɔːk/,/wɑːk/,,,đi bộ,They're walking.
-3,19,Outdoor activities,sourced,run,v,/rʌn/,/rʌn/,,,chạy,He's running.
-3,19,Outdoor activities,sourced,play football,phr,/ˌpleɪ ˈfʊtbɔːl/,/ˌpleɪ ˈfʊtbɑːl/,,,chơi bóng đá,They're playing football.
-3,19,Outdoor activities,sourced,play badminton,phr,/ˌpleɪ ˈbædmɪntən/,/ˌpleɪ ˈbædmɪntən/,,,chơi cầu lông,She's playing badminton.
-3,19,Outdoor activities,sourced,what's he doing?,phr,/ˌwɒts hi ˈduːɪŋ/,/ˌwʌts hiː ˈduːɪŋ/,,,bạn ấy (nam) đang làm gì?,What's he doing? – He's skating.
-3,19,Outdoor activities,sourced,what's she doing?,phr,/ˌwɒts ʃi ˈduːɪŋ/,/ˌwʌts ʃiː ˈduːɪŋ/,,,bạn ấy (nữ) đang làm gì?,What's she doing? – She's cycling.
-3,20,At the zoo,sourced,zoo,n,/zuː/,/zuː/,,,vườn thú,We're at the zoo.
-3,20,At the zoo,sourced,tiger,n,/ˈtaɪɡə(r)/,/ˈtaɪɡɚ/,,,con hổ,I can see a tiger.
-3,20,At the zoo,sourced,horse,n,/hɔːs/,/hɔːrs/,,,con ngựa,I can see a horse.
-3,20,At the zoo,sourced,monkey,n,/ˈmʌŋki/,/ˈmʌŋki/,,,con khỉ,The monkey is swinging.
-3,20,At the zoo,sourced,peacock,n,/ˈpiːkɒk/,/ˈpiːkɑːk/,,,con công,I can see a peacock.
-3,20,At the zoo,sourced,elephant,n,/ˈelɪfənt/,/ˈeləfənt/,,,con voi,The elephant is counting.
-3,20,At the zoo,sourced,parrot,n,/ˈpærət/,/ˈperət/,,,con vẹt,The parrot is dancing.
-3,20,At the zoo,sourced,climb,v,/klaɪm/,/klaɪm/,,,"leo, trèo",The monkey is climbing.
-3,20,At the zoo,sourced,count,v,/kaʊnt/,/kaʊnt/,,,đếm,The elephant is counting.
-3,20,At the zoo,sourced,dance,v,/dɑːns/,/dæns/,,,nhảy múa,The peacock is dancing.
-3,20,At the zoo,sourced,swing,v,/swɪŋ/,/swɪŋ/,,,"đu, đung đưa",The monkey is swinging.
+3,1,Hello,sourced,hello,exclam,/həˈləʊ/,/həˈloʊ/,audio/uk/hello.mp3,audio/us/hello.mp3,xin chào,"Hello, I'm Mary."
+3,1,Hello,sourced,hi,exclam,/haɪ/,/haɪ/,audio/uk/hi.mp3,audio/us/hi.mp3,chào (thân mật),"Hi, Ben. I'm Mai."
+3,1,Hello,sourced,goodbye,exclam,/ˌɡʊdˈbaɪ/,/ˌɡʊdˈbaɪ/,audio/uk/goodbye.mp3,audio/us/goodbye.mp3,tạm biệt,"Goodbye, Lucy."
+3,1,Hello,sourced,bye,exclam,/baɪ/,/baɪ/,audio/uk/bye.mp3,audio/us/bye.mp3,tạm biệt (thân mật),"Bye, Mai."
+3,1,Hello,sourced,how are you?,phr,/ˌhaʊ ˈɑː juː/,/ˌhaʊ ˈɑːr juː/,audio/uk/how-are-you.mp3,audio/us/how-are-you.mp3,bạn có khỏe không?,"How are you, Nam?"
+3,1,Hello,sourced,fine,adj,/faɪn/,/faɪn/,audio/uk/fine.mp3,audio/us/fine.mp3,"khỏe, ổn","I'm fine, thank you."
+3,1,Hello,sourced,thank you,phr,/ˈθæŋk juː/,/ˈθæŋk juː/,audio/uk/thank-you.mp3,audio/us/thank-you.mp3,cảm ơn,"Fine, thank you."
+3,1,Hello,sourced,I'm,phr,/aɪm/,/aɪm/,audio/uk/i-m.mp3,audio/us/i-m.mp3,"tôi là, mình là",I'm Ben.
+3,2,Our names,sourced,name,n,/neɪm/,/neɪm/,audio/uk/name.mp3,audio/us/name.mp3,tên,What's your name?
+3,2,Our names,sourced,what's your name?,phr,/ˌwɒts jɔː ˈneɪm/,/ˌwʌts jɔːr ˈneɪm/,audio/uk/what-s-your-name.mp3,audio/us/what-s-your-name.mp3,bạn tên là gì?,What's your name? – My name's Linh.
+3,2,Our names,sourced,my name's,phr,/maɪ ˈneɪmz/,/maɪ ˈneɪmz/,audio/uk/my-name-s.mp3,audio/us/my-name-s.mp3,tên mình là,My name's Bill.
+3,2,Our names,sourced,his,det,/hɪz/,/hɪz/,audio/uk/his.mp3,audio/us/his.mp3,"của anh ấy, của bạn ấy (nam)",His name is Ben.
+3,2,Our names,sourced,her,det,/hɜː(r)/,/hɝː/,audio/uk/her.mp3,audio/us/her.mp3,"của chị ấy, của bạn ấy (nữ)",Her name is Mary.
+3,2,Our names,sourced,how old are you?,phr,/ˌhaʊ ˈəʊld ɑː juː/,/ˌhaʊ ˈoʊld ɑːr juː/,audio/uk/how-old-are-you.mp3,audio/us/how-old-are-you.mp3,bạn bao nhiêu tuổi?,How old are you? – I'm eight.
+3,2,Our names,sourced,years old,phr,/ˈjɪəz əʊld/,/ˈjɪrz oʊld/,audio/uk/years-old.mp3,audio/us/years-old.mp3,... tuổi,I'm eight years old.
+3,2,Our names,sourced,one,num,/wʌn/,/wʌn/,audio/uk/one.mp3,audio/us/one.mp3,một,"One, two, three."
+3,2,Our names,sourced,two,num,/tuː/,/tuː/,audio/uk/two.mp3,audio/us/two.mp3,hai,
+3,2,Our names,sourced,three,num,/θriː/,/θriː/,audio/uk/three.mp3,audio/us/three.mp3,ba,
+3,2,Our names,sourced,four,num,/fɔː(r)/,/fɔːr/,audio/uk/four.mp3,audio/us/four.mp3,bốn,
+3,2,Our names,sourced,five,num,/faɪv/,/faɪv/,audio/uk/five.mp3,audio/us/five.mp3,năm,
+3,2,Our names,sourced,six,num,/sɪks/,/sɪks/,audio/uk/six.mp3,audio/us/six.mp3,sáu,
+3,2,Our names,sourced,seven,num,/ˈsevn/,/ˈsevən/,audio/uk/seven.mp3,audio/us/seven.mp3,bảy,
+3,2,Our names,sourced,eight,num,/eɪt/,/eɪt/,audio/uk/eight.mp3,audio/us/eight.mp3,tám,I'm eight years old.
+3,2,Our names,sourced,nine,num,/naɪn/,/naɪn/,audio/uk/nine.mp3,audio/us/nine.mp3,chín,
+3,2,Our names,sourced,ten,num,/ten/,/ten/,audio/uk/ten.mp3,audio/us/ten.mp3,mười,I'm ten years old.
+3,3,Our friends,sourced,friend,n,/frend/,/frend/,audio/uk/friend.mp3,audio/us/friend.mp3,"bạn, bạn bè",This is my friend.
+3,3,Our friends,sourced,this,pron,/ðɪs/,/ðɪs/,audio/uk/this.mp3,audio/us/this.mp3,"đây, cái này, người này",This is Mary.
+3,3,Our friends,sourced,that,pron,/ðæt/,/ðæt/,audio/uk/that.mp3,audio/us/that.mp3,"kia, cái kia, người kia",That is my friend.
+3,3,Our friends,sourced,is this ...?,phr,/ɪz ˈðɪs/,/ɪz ˈðɪs .../,audio/uk/is-this.mp3,audio/us/is-this.mp3,đây có phải là ... không?,Is this Lucy?
+3,3,Our friends,sourced,is that ...?,phr,/ɪz ˈðæt/,/ɪz ˈðæt .../,audio/uk/is-that.mp3,audio/us/is-that.mp3,kia có phải là ... không?,Is that Minh?
+3,3,Our friends,sourced,"yes, it is",phr,/ˌjes ɪt ˈɪz/,/ˌjes ɪt ˈɪz/,audio/uk/yes-it-is.mp3,audio/us/yes-it-is.mp3,"vâng, đúng vậy","Is that Minh? – Yes, it is."
+3,3,Our friends,sourced,"no, it isn't",phr,/ˌnəʊ ɪt ˈɪznt/,/ˌnoʊ ɪt ˈɪzənt/,audio/uk/no-it-isn-t.mp3,audio/us/no-it-isn-t.mp3,"không, không phải","Is that Ben? – No, it isn't."
+3,4,Our bodies,sourced,body,n,/ˈbɒdi/,/ˈbɑːdi/,audio/uk/body.mp3,audio/us/body.mp3,cơ thể,
+3,4,Our bodies,sourced,face,n,/feɪs/,/feɪs/,audio/uk/face.mp3,audio/us/face.mp3,khuôn mặt,It's a face.
+3,4,Our bodies,sourced,hand,n,/hænd/,/hænd/,audio/uk/hand.mp3,audio/us/hand.mp3,bàn tay,Touch your hand.
+3,4,Our bodies,sourced,ear,n,/ɪə(r)/,/ɪr/,audio/uk/ear.mp3,audio/us/ear.mp3,tai,It's an ear.
+3,4,Our bodies,sourced,eye,n,/aɪ/,/aɪ/,audio/uk/eye.mp3,audio/us/eye.mp3,mắt,It's an eye.
+3,4,Our bodies,sourced,nose,n,/nəʊz/,/noʊz/,audio/uk/nose.mp3,audio/us/nose.mp3,mũi,It's a nose.
+3,4,Our bodies,sourced,mouth,n,/maʊθ/,/maʊθ/,audio/uk/mouth.mp3,audio/us/mouth.mp3,miệng,It's a mouth.
+3,4,Our bodies,sourced,open,v,/ˈəʊpən/,/ˈoʊpən/,audio/uk/open.mp3,audio/us/open.mp3,mở,Open your mouth.
+3,4,Our bodies,sourced,touch,v,/tʌtʃ/,/tʌtʃ/,audio/uk/touch.mp3,audio/us/touch.mp3,"chạm vào, sờ vào",Touch your nose.
+3,4,Our bodies,sourced,what's this?,phr,/ˌwɒts ˈðɪs/,/ˌwʌts ˈðɪs/,audio/uk/what-s-this.mp3,audio/us/what-s-this.mp3,đây là cái gì?,What's this? – It's a hand.
+3,5,My hobbies,sourced,hobby,n,/ˈhɒbi/,/ˈhɑːbi/,audio/uk/hobby.mp3,audio/us/hobby.mp3,sở thích,What's your hobby?
+3,5,My hobbies,sourced,dancing,n,/ˈdɑːnsɪŋ/,/ˈdænsɪŋ/,audio/uk/dancing.mp3,audio/us/dancing.mp3,nhảy múa,My hobby is dancing.
+3,5,My hobbies,sourced,drawing,n,/ˈdrɔːɪŋ/,/ˈdrɑːɪŋ/,audio/uk/drawing.mp3,audio/us/drawing.mp3,vẽ (bằng bút chì),I like drawing.
+3,5,My hobbies,sourced,painting,n,/ˈpeɪntɪŋ/,/ˈpeɪntɪŋ/,audio/uk/painting.mp3,audio/us/painting.mp3,"vẽ tranh, tô màu",It's painting.
+3,5,My hobbies,sourced,singing,n,/ˈsɪŋɪŋ/,/ˈsɪŋɪŋ/,audio/uk/singing.mp3,audio/us/singing.mp3,ca hát,My hobby is singing.
+3,5,My hobbies,sourced,swimming,n,/ˈswɪmɪŋ/,/ˈswɪmɪŋ/,audio/uk/swimming.mp3,audio/us/swimming.mp3,bơi lội,I like swimming.
+3,5,My hobbies,sourced,running,n,/ˈrʌnɪŋ/,/ˈrʌnɪŋ/,audio/uk/running.mp3,audio/us/running.mp3,chạy bộ,It's running.
+3,5,My hobbies,sourced,cooking,n,/ˈkʊkɪŋ/,/ˈkʊkɪŋ/,audio/uk/cooking.mp3,audio/us/cooking.mp3,nấu ăn,My hobby is cooking.
+3,5,My hobbies,sourced,walking,n,/ˈwɔːkɪŋ/,/ˈwɑːkɪŋ/,audio/uk/walking.mp3,audio/us/walking.mp3,đi bộ,I like walking.
+3,5,My hobbies,sourced,what's your hobby?,phr,/ˌwɒts jɔː ˈhɒbi/,/ˌwʌts jɔːr ˈhɑːbi/,audio/uk/what-s-your-hobby.mp3,audio/us/what-s-your-hobby.mp3,sở thích của bạn là gì?,What's your hobby? – It's swimming.
+3,5,My hobbies,sourced,like,v,/laɪk/,/laɪk/,audio/uk/like.mp3,audio/us/like.mp3,thích,I like drawing.
+3,6,Our school,sourced,school,n,/skuːl/,/skuːl/,audio/uk/school.mp3,audio/us/school.mp3,trường học,Is this our school?
+3,6,Our school,sourced,classroom,n,/ˈklɑːsruːm/,/ˈklæsruːm/,audio/uk/classroom.mp3,audio/us/classroom.mp3,"lớp học, phòng học",This is our classroom.
+3,6,Our school,sourced,library,n,/ˈlaɪbrəri/,/ˈlaɪbreriː/,audio/uk/library.mp3,audio/us/library.mp3,thư viện,Is this our library?
+3,6,Our school,sourced,playground,n,/ˈpleɪɡraʊnd/,/ˈpleɪɡraʊnd/,audio/uk/playground.mp3,audio/us/playground.mp3,sân chơi,That's our playground.
+3,6,Our school,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,audio/uk/computer-room.mp3,audio/us/computer-room.mp3,phòng máy tính,Let's go to the computer room.
+3,6,Our school,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,audio/uk/music-room.mp3,audio/us/music-room.mp3,phòng âm nhạc,This is the music room.
+3,6,Our school,sourced,art room,n,/ˈɑːt ruːm/,/ˈɑːrt ruːm/,audio/uk/art-room.mp3,audio/us/art-room.mp3,phòng mỹ thuật,Is that the art room?
+3,6,Our school,sourced,our,det,/ˈaʊə(r)/,/ˈaʊɚ/,audio/uk/our.mp3,audio/us/our.mp3,của chúng mình,This is our school.
+3,7,Classroom instructions,sourced,stand up,phr v,/ˌstænd ˈʌp/,/ˌstænd ˈʌp/,audio/uk/stand-up.mp3,audio/us/stand-up.mp3,đứng lên,"Stand up, please!"
+3,7,Classroom instructions,sourced,sit down,phr v,/ˌsɪt ˈdaʊn/,/ˌsɪt ˈdaʊn/,audio/uk/sit-down.mp3,audio/us/sit-down.mp3,ngồi xuống,"Sit down, please!"
+3,7,Classroom instructions,sourced,open your book,phr,/ˌəʊpən jɔː ˈbʊk/,/ˌoʊpən jɔːr ˈbʊk/,audio/uk/open-your-book.mp3,audio/us/open-your-book.mp3,mở sách ra,"Open your book, please!"
+3,7,Classroom instructions,sourced,close your book,phr,/ˌkləʊz jɔː ˈbʊk/,/ˌkloʊz jɔːr ˈbʊk/,audio/uk/close-your-book.mp3,audio/us/close-your-book.mp3,gấp sách lại,"Close your book, please!"
+3,7,Classroom instructions,sourced,be quiet,phr,/ˌbi ˈkwaɪət/,/ˌbiː ˈkwaɪət/,audio/uk/be-quiet.mp3,audio/us/be-quiet.mp3,giữ trật tự,"Be quiet, please!"
+3,7,Classroom instructions,sourced,come in,phr v,/ˌkʌm ˈɪn/,/ˌkʌm ˈɪn/,audio/uk/come-in.mp3,audio/us/come-in.mp3,đi vào,May I come in?
+3,7,Classroom instructions,sourced,go out,phr v,/ˌɡəʊ ˈaʊt/,/ˌɡoʊ ˈaʊt/,audio/uk/go-out.mp3,audio/us/go-out.mp3,đi ra ngoài,May I go out?
+3,7,Classroom instructions,sourced,speak,v,/spiːk/,/spiːk/,audio/uk/speak.mp3,audio/us/speak.mp3,nói,May I speak Vietnamese?
+3,7,Classroom instructions,sourced,please,adv,/pliːz/,/pliːz/,audio/uk/please.mp3,audio/us/please.mp3,"làm ơn, xin vui lòng","Sit down, please."
+3,7,Classroom instructions,sourced,may I ...?,phr,/ˈmeɪ aɪ/,/ˈmeɪ aɪ .../,audio/uk/may-i.mp3,audio/us/may-i.mp3,em có thể ... không ạ?,May I open the book?
+3,7,Classroom instructions,sourced,"yes, you can",phr,/ˌjes juː ˈkæn/,/ˌjes juː ˈkæn/,audio/uk/yes-you-can.mp3,audio/us/yes-you-can.mp3,"được, em có thể","May I come in? – Yes, you can."
+3,7,Classroom instructions,sourced,"no, you can't",phr,/ˌnəʊ juː ˈkɑːnt/,/ˌnoʊ juː ˈkænt/,audio/uk/no-you-can-t.mp3,audio/us/no-you-can-t.mp3,"không, em không thể","May I go out? – No, you can't."
+3,8,My school things,sourced,book,n,/bʊk/,/bʊk/,audio/uk/book.mp3,audio/us/book.mp3,quyển sách,I have a book.
+3,8,My school things,sourced,notebook,n,/ˈnəʊtbʊk/,/ˈnoʊtbʊk/,audio/uk/notebook.mp3,audio/us/notebook.mp3,quyển vở,I have a notebook.
+3,8,My school things,sourced,pen,n,/pen/,/pen/,audio/uk/pen.mp3,audio/us/pen.mp3,bút mực,I have a pen.
+3,8,My school things,sourced,pencil case,n,/ˈpensl keɪs/,/ˈpensəl keɪs/,audio/uk/pencil-case.mp3,audio/us/pencil-case.mp3,hộp bút,I have a pencil case.
+3,8,My school things,sourced,eraser,n,/ɪˈreɪzə(r)/,/ɪˈreɪsɚ/,audio/uk/eraser.mp3,audio/us/eraser.mp3,cục tẩy,I have an eraser.
+3,8,My school things,sourced,ruler,n,/ˈruːlə(r)/,/ˈruːlɚ/,audio/uk/ruler.mp3,audio/us/ruler.mp3,thước kẻ,This is my ruler.
+3,8,My school things,sourced,school bag,n,/ˈskuːl bæɡ/,/ˈskuːl bæɡ/,audio/uk/school-bag.mp3,audio/us/school-bag.mp3,cặp sách,I have a school bag.
+3,8,My school things,sourced,have,v,/hæv/,/hæv/,audio/uk/have.mp3,audio/us/have.mp3,có,I have a notebook.
+3,9,Colours,sourced,colour,n,/ˈkʌlə(r)/,/ˈkʌlɚ/,audio/uk/colour.mp3,audio/us/colour.mp3,màu sắc,What colour is it?
+3,9,Colours,sourced,red,adj,/red/,/red/,audio/uk/red.mp3,audio/us/red.mp3,màu đỏ,It's red.
+3,9,Colours,sourced,blue,adj,/bluː/,/bluː/,audio/uk/blue.mp3,audio/us/blue.mp3,màu xanh dương,It's blue.
+3,9,Colours,sourced,green,adj,/ɡriːn/,/ɡriːn/,audio/uk/green.mp3,audio/us/green.mp3,màu xanh lá cây,It's green.
+3,9,Colours,sourced,yellow,adj,/ˈjeləʊ/,/ˈjeloʊ/,audio/uk/yellow.mp3,audio/us/yellow.mp3,màu vàng,It's yellow.
+3,9,Colours,sourced,white,adj,/waɪt/,/waɪt/,audio/uk/white.mp3,audio/us/white.mp3,màu trắng,It's white.
+3,9,Colours,sourced,black,adj,/blæk/,/blæk/,audio/uk/black.mp3,audio/us/black.mp3,màu đen,They're black.
+3,9,Colours,sourced,brown,adj,/braʊn/,/braʊn/,audio/uk/brown.mp3,audio/us/brown.mp3,màu nâu,It's brown.
+3,9,Colours,sourced,orange,adj,/ˈɒrɪndʒ/,/ˈɔːrɪndʒ/,audio/uk/orange.mp3,audio/us/orange.mp3,màu cam,They're orange.
+3,9,Colours,sourced,what colour is it?,phr,/ˌwɒt ˈkʌlər ɪz ɪt/,/ˌwʌt ˈkʌlɚ ɪz ɪt/,audio/uk/what-colour-is-it.mp3,audio/us/what-colour-is-it.mp3,nó màu gì?,What colour is it? – It's red.
+3,9,Colours,sourced,what colour are they?,phr,/ˌwɒt ˈkʌlər ɑː ðeɪ/,/ˌwʌt ˈkʌlɚ ɑːr ðeɪ/,audio/uk/what-colour-are-they.mp3,audio/us/what-colour-are-they.mp3,chúng màu gì?,What colour are they? – They're blue.
+3,10,Break time activities,sourced,break time,n,/ˈbreɪk taɪm/,/ˈbreɪk taɪm/,audio/uk/break-time.mp3,audio/us/break-time.mp3,giờ ra chơi,I play chess at break time.
+3,10,Break time activities,sourced,play chess,phr,/ˌpleɪ ˈtʃes/,/ˌpleɪ ˈtʃes/,audio/uk/play-chess.mp3,audio/us/play-chess.mp3,chơi cờ vua,I play chess at break time.
+3,10,Break time activities,sourced,play volleyball,phr,/ˌpleɪ ˈvɒlibɔːl/,/ˌpleɪ ˈvɑːlibɑːl/,audio/uk/play-volleyball.mp3,audio/us/play-volleyball.mp3,chơi bóng chuyền,We play volleyball.
+3,10,Break time activities,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,audio/uk/play-basketball.mp3,audio/us/play-basketball.mp3,chơi bóng rổ,I play basketball at break time.
+3,10,Break time activities,sourced,play badminton,phr,/ˌpleɪ ˈbædmɪntən/,/ˌpleɪ ˈbædmɪntən/,audio/uk/play-badminton.mp3,audio/us/play-badminton.mp3,chơi cầu lông,We play badminton.
+3,10,Break time activities,sourced,play football,phr,/ˌpleɪ ˈfʊtbɔːl/,/ˌpleɪ ˈfʊtbɑːl/,audio/uk/play-football.mp3,audio/us/play-football.mp3,chơi bóng đá,I play football at break time.
+3,10,Break time activities,sourced,play table tennis,phr,/ˌpleɪ ˈteɪbl tenɪs/,/ˌpleɪ ˈteɪbəl ˌtenɪs/,audio/uk/play-table-tennis.mp3,audio/us/play-table-tennis.mp3,chơi bóng bàn,We play table tennis.
+3,10,Break time activities,sourced,chat with friends,phr,/ˌtʃæt wɪð ˈfrendz/,/ˌtʃæt wɪð ˈfrendz/,audio/uk/chat-with-friends.mp3,audio/us/chat-with-friends.mp3,trò chuyện với bạn bè,I chat with my friends.
+3,10,Break time activities,sourced,do word puzzles,phr,/ˌduː ˈwɜːd pʌzlz/,/ˌduː ˈwɝːd ˌpʌzəlz/,audio/uk/do-word-puzzles.mp3,audio/us/do-word-puzzles.mp3,chơi giải ô chữ,I do word puzzles at break time.
+3,10,Break time activities,sourced,what do you do at break time?,phr,/ˌwɒt də juː ˈduː ət ˈbreɪk taɪm/,/ˌwʌt duː juː ˈduː æt ˈbreɪk taɪm/,audio/uk/what-do-you-do-at-break-time.mp3,audio/us/what-do-you-do-at-break-time.mp3,bạn làm gì vào giờ ra chơi?,
+3,11,My family,sourced,family,n,/ˈfæməli/,/ˈfæməli/,audio/uk/family.mp3,audio/us/family.mp3,gia đình,This is my family.
+3,11,My family,sourced,grandfather,n,/ˈɡrænfɑːðə(r)/,/ˈɡrænfɑːðɚ/,audio/uk/grandfather.mp3,audio/us/grandfather.mp3,ông,It's my grandfather.
+3,11,My family,sourced,grandmother,n,/ˈɡrænmʌðə(r)/,/ˈɡrændmʌðɚ/,audio/uk/grandmother.mp3,audio/us/grandmother.mp3,bà,That's my grandmother.
+3,11,My family,sourced,father,n,/ˈfɑːðə(r)/,/ˈfɑːðɚ/,audio/uk/father.mp3,audio/us/father.mp3,bố,Who's that? – It's my father.
+3,11,My family,sourced,mother,n,/ˈmʌðə(r)/,/ˈmʌðɚ/,audio/uk/mother.mp3,audio/us/mother.mp3,mẹ,Who's that? – It's my mother.
+3,11,My family,sourced,brother,n,/ˈbrʌðə(r)/,/ˈbrʌðɚ/,audio/uk/brother.mp3,audio/us/brother.mp3,"anh trai, em trai",It's my brother.
+3,11,My family,sourced,sister,n,/ˈsɪstə(r)/,/ˈsɪstɚ/,audio/uk/sister.mp3,audio/us/sister.mp3,"chị gái, em gái",It's my sister.
+3,11,My family,sourced,man,n,/mæn/,/mæn/,audio/uk/man.mp3,audio/us/man.mp3,người đàn ông,Who's the man?
+3,11,My family,sourced,woman,n,/ˈwʊmən/,/ˈwʊmən/,audio/uk/woman.mp3,audio/us/woman.mp3,người phụ nữ,Who's the woman?
+3,11,My family,sourced,photo,n,/ˈfəʊtəʊ/,/ˈfoʊtoʊ/,audio/uk/photo.mp3,audio/us/photo.mp3,bức ảnh,Look at this photo.
+3,11,My family,sourced,who,pron,/huː/,/huː/,audio/uk/who.mp3,audio/us/who.mp3,ai,Who's that?
+3,11,My family,sourced,who's that?,phr,/ˌhuːz ˈðæt/,/ˌhuːz ˈðæt/,audio/uk/who-s-that.mp3,audio/us/who-s-that.mp3,kia là ai?,Who's that? – It's my brother.
+3,11,My family,sourced,nineteen,num,/ˌnaɪnˈtiːn/,/ˌnaɪnˈtiːn/,audio/uk/nineteen.mp3,audio/us/nineteen.mp3,mười chín,My sister is nineteen.
+3,12,Jobs,sourced,job,n,/dʒɒb/,/dʒɑːb/,audio/uk/job.mp3,audio/us/job.mp3,"nghề nghiệp, công việc",What's his job?
+3,12,Jobs,sourced,doctor,n,/ˈdɒktə(r)/,/ˈdɑːktɚ/,audio/uk/doctor.mp3,audio/us/doctor.mp3,bác sĩ,She's a doctor.
+3,12,Jobs,sourced,nurse,n,/nɜːs/,/nɝːs/,audio/uk/nurse.mp3,audio/us/nurse.mp3,y tá,My mother is a nurse.
+3,12,Jobs,sourced,farmer,n,/ˈfɑːmə(r)/,/ˈfɑːrmɚ/,audio/uk/farmer.mp3,audio/us/farmer.mp3,nông dân,He's a farmer.
+3,12,Jobs,sourced,cook,n,/kʊk/,/kʊk/,audio/uk/cook.mp3,audio/us/cook.mp3,đầu bếp,My father is a cook.
+3,12,Jobs,sourced,singer,n,/ˈsɪŋə(r)/,/ˈsɪŋɚ/,audio/uk/singer.mp3,audio/us/singer.mp3,ca sĩ,She's a singer.
+3,13,My house,sourced,house,n,/haʊs/,/haʊs/,audio/uk/house.mp3,audio/us/house.mp3,ngôi nhà,This is my house.
+3,13,My house,sourced,living room,n,/ˈlɪvɪŋ ruːm/,/ˈlɪvɪŋ ruːm/,audio/uk/living-room.mp3,audio/us/living-room.mp3,phòng khách,Where's the living room?
+3,13,My house,sourced,kitchen,n,/ˈkɪtʃɪn/,/ˈkɪtʃən/,audio/uk/kitchen.mp3,audio/us/kitchen.mp3,nhà bếp,The kitchen is there.
+3,13,My house,sourced,bedroom,n,/ˈbedruːm/,/ˈbedruːm/,audio/uk/bedroom.mp3,audio/us/bedroom.mp3,phòng ngủ,Where's the bedroom? – It's here.
+3,13,My house,sourced,bathroom,n,/ˈbɑːθruːm/,/ˈbæθruːm/,audio/uk/bathroom.mp3,audio/us/bathroom.mp3,phòng tắm,Where's the bathroom?
+3,13,My house,sourced,here,adv,/hɪə(r)/,/hiːr/,audio/uk/here.mp3,audio/us/here.mp3,ở đây,It's here.
+3,13,My house,sourced,there,adv,/ðeə(r)/,/ðer/,audio/uk/there.mp3,audio/us/there.mp3,ở đằng kia,It's there.
+3,13,My house,sourced,table,n,/ˈteɪbl/,/ˈteɪbəl/,audio/uk/table.mp3,audio/us/table.mp3,cái bàn,Where are the tables?
+3,13,My house,sourced,chair,n,/tʃeə(r)/,/tʃer/,audio/uk/chair.mp3,audio/us/chair.mp3,cái ghế,They're in the living room.
+3,13,My house,sourced,where's the ...?,phr,/ˈweəz ðə/,/ˈwerz ðə .../,audio/uk/where-s-the.mp3,audio/us/where-s-the.mp3,... ở đâu?,Where's the kitchen?
+3,13,My house,sourced,where are the ...?,phr,/ˈweər ɑː ðə/,/ˈwer ɑːr ðə .../,audio/uk/where-are-the.mp3,audio/us/where-are-the.mp3,những ... ở đâu?,Where are the chairs?
+3,14,My bedroom,sourced,bedroom,n,/ˈbedruːm/,/ˈbedruːm/,audio/uk/bedroom.mp3,audio/us/bedroom.mp3,phòng ngủ,This is my bedroom.
+3,14,My bedroom,sourced,bed,n,/bed/,/bed/,audio/uk/bed.mp3,audio/us/bed.mp3,cái giường,There's a bed in the room.
+3,14,My bedroom,sourced,desk,n,/desk/,/desk/,audio/uk/desk.mp3,audio/us/desk.mp3,bàn học,There's a desk.
+3,14,My bedroom,sourced,lamp,n,/læmp/,/læmp/,audio/uk/lamp.mp3,audio/us/lamp.mp3,đèn bàn,There are two lamps.
+3,14,My bedroom,sourced,window,n,/ˈwɪndəʊ/,/ˈwɪndoʊ/,audio/uk/window.mp3,audio/us/window.mp3,cửa sổ,There are two windows.
+3,14,My bedroom,sourced,door,n,/dɔː(r)/,/dɔːr/,audio/uk/door.mp3,audio/us/door.mp3,cửa ra vào,The door is big.
+3,14,My bedroom,sourced,chair,n,/tʃeə(r)/,/tʃer/,audio/uk/chair.mp3,audio/us/chair.mp3,cái ghế,The chairs are new.
+3,14,My bedroom,sourced,big,adj,/bɪɡ/,/bɪɡ/,audio/uk/big.mp3,audio/us/big.mp3,"to, lớn",The door is big.
+3,14,My bedroom,sourced,small,adj,/smɔːl/,/smɑːl/,audio/uk/small.mp3,audio/us/small.mp3,nhỏ,The windows are small.
+3,14,My bedroom,sourced,new,adj,/njuː/,/nuː/,audio/uk/new.mp3,audio/us/new.mp3,mới,The chair is new.
+3,14,My bedroom,sourced,old,adj,/əʊld/,/oʊld/,audio/uk/old.mp3,audio/us/old.mp3,cũ,The desk is old.
+3,14,My bedroom,sourced,there's,phr,/ðeəz/,/ðerz/,audio/uk/there-s.mp3,audio/us/there-s.mp3,có (một),There's a bed in the room.
+3,14,My bedroom,sourced,there are,phr,/ðeər ɑː(r)/,/ðer ɑːr/,audio/uk/there-are.mp3,audio/us/there-are.mp3,có (nhiều),There are two windows.
+3,15,At the dining table,sourced,dining table,n,/ˈdaɪnɪŋ teɪbl/,/ˈdaɪnɪŋ ˌteɪbəl/,audio/uk/dining-table.mp3,audio/us/dining-table.mp3,bàn ăn,
+3,15,At the dining table,sourced,beans,n,/biːnz/,/biːnz/,audio/uk/beans.mp3,audio/us/beans.mp3,đậu,Would you like some beans?
+3,15,At the dining table,sourced,bread,n,/bred/,/bred/,audio/uk/bread.mp3,audio/us/bread.mp3,bánh mì,I'd like some bread.
+3,15,At the dining table,sourced,chicken,n,/ˈtʃɪkɪn/,/ˈtʃɪkən/,audio/uk/chicken.mp3,audio/us/chicken.mp3,thịt gà,"I'd like some chicken, please."
+3,15,At the dining table,sourced,egg,n,/eɡ/,/eɡ/,audio/uk/egg.mp3,audio/us/egg.mp3,quả trứng,"I'd like some eggs, please."
+3,15,At the dining table,sourced,fish,n,/fɪʃ/,/fɪʃ/,audio/uk/fish.mp3,audio/us/fish.mp3,cá,Would you like some fish?
+3,15,At the dining table,sourced,meat,n,/miːt/,/miːt/,audio/uk/meat.mp3,audio/us/meat.mp3,thịt,Would you like some meat?
+3,15,At the dining table,sourced,rice,n,/raɪs/,/raɪs/,audio/uk/rice.mp3,audio/us/rice.mp3,"cơm, gạo",I'd like some rice.
+3,15,At the dining table,sourced,milk,n,/mɪlk/,/mɪlk/,audio/uk/milk.mp3,audio/us/milk.mp3,sữa,Would you like some milk?
+3,15,At the dining table,sourced,juice,n,/dʒuːs/,/dʒuːs/,audio/uk/juice.mp3,audio/us/juice.mp3,nước ép,Would you like some juice?
+3,15,At the dining table,sourced,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,audio/uk/water.mp3,audio/us/water.mp3,nước,I'd like some water.
+3,15,At the dining table,sourced,would you like some ...?,phr,/wʊd juː ˈlaɪk səm/,/wʊd juː ˈlaɪk səm .../,audio/uk/would-you-like-some.mp3,audio/us/would-you-like-some.mp3,bạn có muốn dùng một ít ... không?,"Would you like some juice? – Yes, please."
+3,15,At the dining table,sourced,"yes, please",phr,/ˌjes ˈpliːz/,/ˌjes ˈpliːz/,audio/uk/yes-please.mp3,audio/us/yes-please.mp3,"vâng, cho mình xin","Would you like some beans? – Yes, please."
+3,15,At the dining table,sourced,"no, thanks",phr,/ˌnəʊ ˈθæŋks/,/ˌnoʊ ˈθæŋks/,audio/uk/no-thanks.mp3,audio/us/no-thanks.mp3,"không, cảm ơn","Would you like some fish? – No, thanks."
+3,15,At the dining table,sourced,what would you like to eat?,phr,/ˌwɒt wʊd juː ˈlaɪk tə ˈiːt/,/ˌwʌt wʊd juː ˈlaɪk tə ˈiːt/,audio/uk/what-would-you-like-to-eat.mp3,audio/us/what-would-you-like-to-eat.mp3,bạn muốn ăn gì?,What would you like to eat? – I'd like some eggs.
+3,16,My pets,sourced,pet,n,/pet/,/pet/,audio/uk/pet.mp3,audio/us/pet.mp3,thú cưng,How many pets do you have?
+3,16,My pets,sourced,dog,n,/dɒɡ/,/dɑːɡ/,audio/uk/dog.mp3,audio/us/dog.mp3,con chó,I have two dogs.
+3,16,My pets,sourced,cat,n,/kæt/,/kæt/,audio/uk/cat.mp3,audio/us/cat.mp3,con mèo,I have a cat.
+3,16,My pets,sourced,bird,n,/bɜːd/,/bɝːd/,audio/uk/bird.mp3,audio/us/bird.mp3,con chim,I have some birds.
+3,16,My pets,sourced,rabbit,n,/ˈræbɪt/,/ˈræbɪt/,audio/uk/rabbit.mp3,audio/us/rabbit.mp3,con thỏ,I have three rabbits.
+3,16,My pets,sourced,parrot,n,/ˈpærət/,/ˈperət/,audio/uk/parrot.mp3,audio/us/parrot.mp3,con vẹt,How many parrots do you have?
+3,16,My pets,sourced,goldfish,n,/ˈɡəʊldfɪʃ/,/ˈɡoʊldfɪʃ/,audio/uk/goldfish.mp3,audio/us/goldfish.mp3,cá vàng,I have two goldfish.
+3,16,My pets,sourced,turtle,n,/ˈtɜːtl/,/ˈtɝːtəl/,audio/uk/turtle.mp3,audio/us/turtle.mp3,con rùa,I have a turtle.
+3,16,My pets,sourced,many,det,/ˈmeni/,/ˈmeni/,audio/uk/many.mp3,audio/us/many.mp3,nhiều,I have many birds.
+3,16,My pets,sourced,some,det,/sʌm/,/sʌm/,audio/uk/some.mp3,audio/us/some.mp3,"một vài, một ít",I have some parrots.
+3,16,My pets,sourced,how many ... do you have?,phr,/ˌhaʊ ˈmeni ... də juː ˈhæv/,/ˌhaʊ ˈmeni ... duː juː ˈhæv/,audio/uk/how-many-do-you-have.mp3,audio/us/how-many-do-you-have.mp3,bạn có bao nhiêu ...?,How many dogs do you have?
+3,17,Our toys,sourced,toy,n,/tɔɪ/,/tɔɪ/,audio/uk/toy.mp3,audio/us/toy.mp3,đồ chơi,These are our toys.
+3,17,Our toys,sourced,doll,n,/dɒl/,/dɑːl/,audio/uk/doll.mp3,audio/us/doll.mp3,búp bê,She has a doll.
+3,17,Our toys,sourced,teddy bear,n,/ˈtedi beə(r)/,/ˈtedi ber/,audio/uk/teddy-bear.mp3,audio/us/teddy-bear.mp3,gấu bông,He has a teddy bear.
+3,17,Our toys,sourced,robot,n,/ˈrəʊbɒt/,/ˈroʊbɑːt/,audio/uk/robot.mp3,audio/us/robot.mp3,"người máy, rô-bốt",I have a robot.
+3,17,Our toys,sourced,ball,n,/bɔːl/,/bɑːl/,audio/uk/ball.mp3,audio/us/ball.mp3,quả bóng,He has two balls.
+3,17,Our toys,sourced,kite,n,/kaɪt/,/kaɪt/,audio/uk/kite.mp3,audio/us/kite.mp3,con diều,She has a kite.
+3,17,Our toys,sourced,car,n,/kɑː(r)/,/kɑːr/,audio/uk/car.mp3,audio/us/car.mp3,ô tô,He has a car.
+3,17,Our toys,sourced,plane,n,/pleɪn/,/pleɪn/,audio/uk/plane.mp3,audio/us/plane.mp3,máy bay,He has three planes.
+3,17,Our toys,sourced,ship,n,/ʃɪp/,/ʃɪp/,audio/uk/ship.mp3,audio/us/ship.mp3,tàu thủy,They have two ships.
+3,17,Our toys,sourced,train,n,/treɪn/,/treɪn/,audio/uk/train.mp3,audio/us/train.mp3,tàu hỏa,They have four trains.
+3,17,Our toys,sourced,truck,n,/trʌk/,/trʌk/,audio/uk/truck.mp3,audio/us/truck.mp3,xe tải,They have five trucks.
+3,18,Playing and doing,sourced,what are you doing?,phr,/ˌwɒt ɑː juː ˈduːɪŋ/,/ˌwʌt ɑːr juː ˈduːɪŋ/,audio/uk/what-are-you-doing.mp3,audio/us/what-are-you-doing.mp3,bạn đang làm gì?,What are you doing? – I'm reading.
+3,18,Playing and doing,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,audio/uk/play-basketball.mp3,audio/us/play-basketball.mp3,chơi bóng rổ,I'm playing basketball.
+3,18,Playing and doing,sourced,draw a picture,phr,/ˌdrɔː ə ˈpɪktʃə(r)/,/ˌdrɑː ə ˈpɪktʃɚ/,audio/uk/draw-a-picture.mp3,audio/us/draw-a-picture.mp3,vẽ tranh,I'm drawing a picture.
+3,18,Playing and doing,sourced,watch TV,phr,/ˌwɒtʃ ˌtiː ˈviː/,/ˌwɑːtʃ ˌtiː ˈviː/,audio/uk/watch-tv.mp3,audio/us/watch-tv.mp3,xem ti vi,I'm watching TV.
+3,18,Playing and doing,sourced,listen to music,phr,/ˌlɪsn tə ˈmjuːzɪk/,/ˌlɪsən tə ˈmjuːzɪk/,audio/uk/listen-to-music.mp3,audio/us/listen-to-music.mp3,nghe nhạc,I'm listening to music.
+3,18,Playing and doing,sourced,dance,v,/dɑːns/,/dæns/,audio/uk/dance.mp3,audio/us/dance.mp3,"nhảy, múa",She's dancing.
+3,18,Playing and doing,sourced,read,v,/riːd/,/riːd/,audio/uk/read.mp3,audio/us/read.mp3,đọc,He's reading.
+3,18,Playing and doing,sourced,sing,v,/sɪŋ/,/sɪŋ/,audio/uk/sing.mp3,audio/us/sing.mp3,hát,They're singing.
+3,18,Playing and doing,sourced,write,v,/raɪt/,/raɪt/,audio/uk/write.mp3,audio/us/write.mp3,viết,I'm writing.
+3,18,Playing and doing,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,audio/uk/music-room.mp3,audio/us/music-room.mp3,phòng âm nhạc,I'm in the music room.
+3,19,Outdoor activities,sourced,outdoor activity,n,/ˌaʊtdɔːr ækˈtɪvəti/,/ˌaʊtdɔːr ækˈtɪvəti/,audio/uk/outdoor-activity.mp3,audio/us/outdoor-activity.mp3,hoạt động ngoài trời,
+3,19,Outdoor activities,sourced,cycle,v,/ˈsaɪkl/,/ˈsaɪkəl/,audio/uk/cycle.mp3,audio/us/cycle.mp3,đạp xe,She's cycling.
+3,19,Outdoor activities,sourced,fly a kite,phr,/ˌflaɪ ə ˈkaɪt/,/ˌflaɪ ə ˈkaɪt/,audio/uk/fly-a-kite.mp3,audio/us/fly-a-kite.mp3,thả diều,He's flying a kite.
+3,19,Outdoor activities,sourced,skate,v,/skeɪt/,/skeɪt/,audio/uk/skate.mp3,audio/us/skate.mp3,trượt pa-tanh,He's skating.
+3,19,Outdoor activities,sourced,skip,v,/skɪp/,/skɪp/,audio/uk/skip.mp3,audio/us/skip.mp3,nhảy dây,She's skipping.
+3,19,Outdoor activities,sourced,walk,v,/wɔːk/,/wɑːk/,audio/uk/walk.mp3,audio/us/walk.mp3,đi bộ,They're walking.
+3,19,Outdoor activities,sourced,run,v,/rʌn/,/rʌn/,audio/uk/run.mp3,audio/us/run.mp3,chạy,He's running.
+3,19,Outdoor activities,sourced,play football,phr,/ˌpleɪ ˈfʊtbɔːl/,/ˌpleɪ ˈfʊtbɑːl/,audio/uk/play-football.mp3,audio/us/play-football.mp3,chơi bóng đá,They're playing football.
+3,19,Outdoor activities,sourced,play badminton,phr,/ˌpleɪ ˈbædmɪntən/,/ˌpleɪ ˈbædmɪntən/,audio/uk/play-badminton.mp3,audio/us/play-badminton.mp3,chơi cầu lông,She's playing badminton.
+3,19,Outdoor activities,sourced,what's he doing?,phr,/ˌwɒts hi ˈduːɪŋ/,/ˌwʌts hiː ˈduːɪŋ/,audio/uk/what-s-he-doing.mp3,audio/us/what-s-he-doing.mp3,bạn ấy (nam) đang làm gì?,What's he doing? – He's skating.
+3,19,Outdoor activities,sourced,what's she doing?,phr,/ˌwɒts ʃi ˈduːɪŋ/,/ˌwʌts ʃiː ˈduːɪŋ/,audio/uk/what-s-she-doing.mp3,audio/us/what-s-she-doing.mp3,bạn ấy (nữ) đang làm gì?,What's she doing? – She's cycling.
+3,20,At the zoo,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,We're at the zoo.
+3,20,At the zoo,sourced,tiger,n,/ˈtaɪɡə(r)/,/ˈtaɪɡɚ/,audio/uk/tiger.mp3,audio/us/tiger.mp3,con hổ,I can see a tiger.
+3,20,At the zoo,sourced,horse,n,/hɔːs/,/hɔːrs/,audio/uk/horse.mp3,audio/us/horse.mp3,con ngựa,I can see a horse.
+3,20,At the zoo,sourced,monkey,n,/ˈmʌŋki/,/ˈmʌŋki/,audio/uk/monkey.mp3,audio/us/monkey.mp3,con khỉ,The monkey is swinging.
+3,20,At the zoo,sourced,peacock,n,/ˈpiːkɒk/,/ˈpiːkɑːk/,audio/uk/peacock.mp3,audio/us/peacock.mp3,con công,I can see a peacock.
+3,20,At the zoo,sourced,elephant,n,/ˈelɪfənt/,/ˈeləfənt/,audio/uk/elephant.mp3,audio/us/elephant.mp3,con voi,The elephant is counting.
+3,20,At the zoo,sourced,parrot,n,/ˈpærət/,/ˈperət/,audio/uk/parrot.mp3,audio/us/parrot.mp3,con vẹt,The parrot is dancing.
+3,20,At the zoo,sourced,climb,v,/klaɪm/,/klaɪm/,audio/uk/climb.mp3,audio/us/climb.mp3,"leo, trèo",The monkey is climbing.
+3,20,At the zoo,sourced,count,v,/kaʊnt/,/kaʊnt/,audio/uk/count.mp3,audio/us/count.mp3,đếm,The elephant is counting.
+3,20,At the zoo,sourced,dance,v,/dɑːns/,/dæns/,audio/uk/dance.mp3,audio/us/dance.mp3,nhảy múa,The peacock is dancing.
+3,20,At the zoo,sourced,swing,v,/swɪŋ/,/swɪŋ/,audio/uk/swing.mp3,audio/us/swing.mp3,"đu, đung đưa",The monkey is swinging.

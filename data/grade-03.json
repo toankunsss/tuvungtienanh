@@ -20,6 +20,8 @@
           "pos": "exclam",
           "ipa_uk": "/həˈləʊ/",
           "ipa_us": "/həˈloʊ/",
+          "audio_uk": "audio/uk/hello.mp3",
+          "audio_us": "audio/us/hello.mp3",
           "meaning": "xin chào",
           "example": "Hello, I'm Mary."
         },
@@ -28,6 +30,8 @@
           "pos": "exclam",
           "ipa_uk": "/haɪ/",
           "ipa_us": "/haɪ/",
+          "audio_uk": "audio/uk/hi.mp3",
+          "audio_us": "audio/us/hi.mp3",
           "meaning": "chào (thân mật)",
           "example": "Hi, Ben. I'm Mai."
         },
@@ -36,6 +40,8 @@
           "pos": "exclam",
           "ipa_uk": "/ˌɡʊdˈbaɪ/",
           "ipa_us": "/ˌɡʊdˈbaɪ/",
+          "audio_uk": "audio/uk/goodbye.mp3",
+          "audio_us": "audio/us/goodbye.mp3",
           "meaning": "tạm biệt",
           "example": "Goodbye, Lucy."
         },
@@ -44,6 +50,8 @@
           "pos": "exclam",
           "ipa_uk": "/baɪ/",
           "ipa_us": "/baɪ/",
+          "audio_uk": "audio/uk/bye.mp3",
+          "audio_us": "audio/us/bye.mp3",
           "meaning": "tạm biệt (thân mật)",
           "example": "Bye, Mai."
         },
@@ -52,6 +60,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌhaʊ ˈɑː juː/",
           "ipa_us": "/ˌhaʊ ˈɑːr juː/",
+          "audio_uk": "audio/uk/how-are-you.mp3",
+          "audio_us": "audio/us/how-are-you.mp3",
           "meaning": "bạn có khỏe không?",
           "example": "How are you, Nam?"
         },
@@ -60,6 +70,8 @@
           "pos": "adj",
           "ipa_uk": "/faɪn/",
           "ipa_us": "/faɪn/",
+          "audio_uk": "audio/uk/fine.mp3",
+          "audio_us": "audio/us/fine.mp3",
           "meaning": "khỏe, ổn",
           "example": "I'm fine, thank you."
         },
@@ -68,6 +80,8 @@
           "pos": "phr",
           "ipa_uk": "/ˈθæŋk juː/",
           "ipa_us": "/ˈθæŋk juː/",
+          "audio_uk": "audio/uk/thank-you.mp3",
+          "audio_us": "audio/us/thank-you.mp3",
           "meaning": "cảm ơn",
           "example": "Fine, thank you."
         },
@@ -76,6 +90,8 @@
           "pos": "phr",
           "ipa_uk": "/aɪm/",
           "ipa_us": "/aɪm/",
+          "audio_uk": "audio/uk/i-m.mp3",
+          "audio_us": "audio/us/i-m.mp3",
           "meaning": "tôi là, mình là",
           "example": "I'm Ben."
         }
@@ -98,6 +114,8 @@
           "pos": "n",
           "ipa_uk": "/neɪm/",
           "ipa_us": "/neɪm/",
+          "audio_uk": "audio/uk/name.mp3",
+          "audio_us": "audio/us/name.mp3",
           "meaning": "tên",
           "example": "What's your name?"
         },
@@ -106,6 +124,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts jɔː ˈneɪm/",
           "ipa_us": "/ˌwʌts jɔːr ˈneɪm/",
+          "audio_uk": "audio/uk/what-s-your-name.mp3",
+          "audio_us": "audio/us/what-s-your-name.mp3",
           "meaning": "bạn tên là gì?",
           "example": "What's your name? – My name's Linh."
         },
@@ -114,6 +134,8 @@
           "pos": "phr",
           "ipa_uk": "/maɪ ˈneɪmz/",
           "ipa_us": "/maɪ ˈneɪmz/",
+          "audio_uk": "audio/uk/my-name-s.mp3",
+          "audio_us": "audio/us/my-name-s.mp3",
           "meaning": "tên mình là",
           "example": "My name's Bill."
         },
@@ -122,6 +144,8 @@
           "pos": "det",
           "ipa_uk": "/hɪz/",
           "ipa_us": "/hɪz/",
+          "audio_uk": "audio/uk/his.mp3",
+          "audio_us": "audio/us/his.mp3",
           "meaning": "của anh ấy, của bạn ấy (nam)",
           "example": "His name is Ben."
         },
@@ -130,6 +154,8 @@
           "pos": "det",
           "ipa_uk": "/hɜː(r)/",
           "ipa_us": "/hɝː/",
+          "audio_uk": "audio/uk/her.mp3",
+          "audio_us": "audio/us/her.mp3",
           "meaning": "của chị ấy, của bạn ấy (nữ)",
           "example": "Her name is Mary."
         },
@@ -138,6 +164,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌhaʊ ˈəʊld ɑː juː/",
           "ipa_us": "/ˌhaʊ ˈoʊld ɑːr juː/",
+          "audio_uk": "audio/uk/how-old-are-you.mp3",
+          "audio_us": "audio/us/how-old-are-you.mp3",
           "meaning": "bạn bao nhiêu tuổi?",
           "example": "How old are you? – I'm eight."
         },
@@ -146,6 +174,8 @@
           "pos": "phr",
           "ipa_uk": "/ˈjɪəz əʊld/",
           "ipa_us": "/ˈjɪrz oʊld/",
+          "audio_uk": "audio/uk/years-old.mp3",
+          "audio_us": "audio/us/years-old.mp3",
           "meaning": "... tuổi",
           "example": "I'm eight years old."
         },
@@ -154,6 +184,8 @@
           "pos": "num",
           "ipa_uk": "/wʌn/",
           "ipa_us": "/wʌn/",
+          "audio_uk": "audio/uk/one.mp3",
+          "audio_us": "audio/us/one.mp3",
           "meaning": "một",
           "example": "One, two, three."
         },
@@ -162,6 +194,8 @@
           "pos": "num",
           "ipa_uk": "/tuː/",
           "ipa_us": "/tuː/",
+          "audio_uk": "audio/uk/two.mp3",
+          "audio_us": "audio/us/two.mp3",
           "meaning": "hai"
         },
         {
@@ -169,6 +203,8 @@
           "pos": "num",
           "ipa_uk": "/θriː/",
           "ipa_us": "/θriː/",
+          "audio_uk": "audio/uk/three.mp3",
+          "audio_us": "audio/us/three.mp3",
           "meaning": "ba"
         },
         {
@@ -176,6 +212,8 @@
           "pos": "num",
           "ipa_uk": "/fɔː(r)/",
           "ipa_us": "/fɔːr/",
+          "audio_uk": "audio/uk/four.mp3",
+          "audio_us": "audio/us/four.mp3",
           "meaning": "bốn"
         },
         {
@@ -183,6 +221,8 @@
           "pos": "num",
           "ipa_uk": "/faɪv/",
           "ipa_us": "/faɪv/",
+          "audio_uk": "audio/uk/five.mp3",
+          "audio_us": "audio/us/five.mp3",
           "meaning": "năm"
         },
         {
@@ -190,6 +230,8 @@
           "pos": "num",
           "ipa_uk": "/sɪks/",
           "ipa_us": "/sɪks/",
+          "audio_uk": "audio/uk/six.mp3",
+          "audio_us": "audio/us/six.mp3",
           "meaning": "sáu"
         },
         {
@@ -197,6 +239,8 @@
           "pos": "num",
           "ipa_uk": "/ˈsevn/",
           "ipa_us": "/ˈsevən/",
+          "audio_uk": "audio/uk/seven.mp3",
+          "audio_us": "audio/us/seven.mp3",
           "meaning": "bảy"
         },
         {
@@ -204,6 +248,8 @@
           "pos": "num",
           "ipa_uk": "/eɪt/",
           "ipa_us": "/eɪt/",
+          "audio_uk": "audio/uk/eight.mp3",
+          "audio_us": "audio/us/eight.mp3",
           "meaning": "tám",
           "example": "I'm eight years old."
         },
@@ -212,6 +258,8 @@
           "pos": "num",
           "ipa_uk": "/naɪn/",
           "ipa_us": "/naɪn/",
+          "audio_uk": "audio/uk/nine.mp3",
+          "audio_us": "audio/us/nine.mp3",
           "meaning": "chín"
         },
         {
@@ -219,6 +267,8 @@
           "pos": "num",
           "ipa_uk": "/ten/",
           "ipa_us": "/ten/",
+          "audio_uk": "audio/uk/ten.mp3",
+          "audio_us": "audio/us/ten.mp3",
           "meaning": "mười",
           "example": "I'm ten years old."
         }
@@ -240,6 +290,8 @@
           "pos": "n",
           "ipa_uk": "/frend/",
           "ipa_us": "/frend/",
+          "audio_uk": "audio/uk/friend.mp3",
+          "audio_us": "audio/us/friend.mp3",
           "meaning": "bạn, bạn bè",
           "example": "This is my friend."
         },
@@ -248,6 +300,8 @@
           "pos": "pron",
           "ipa_uk": "/ðɪs/",
           "ipa_us": "/ðɪs/",
+          "audio_uk": "audio/uk/this.mp3",
+          "audio_us": "audio/us/this.mp3",
           "meaning": "đây, cái này, người này",
           "example": "This is Mary."
         },
@@ -256,6 +310,8 @@
           "pos": "pron",
           "ipa_uk": "/ðæt/",
           "ipa_us": "/ðæt/",
+          "audio_uk": "audio/uk/that.mp3",
+          "audio_us": "audio/us/that.mp3",
           "meaning": "kia, cái kia, người kia",
           "example": "That is my friend."
         },
@@ -264,6 +320,8 @@
           "pos": "phr",
           "ipa_uk": "/ɪz ˈðɪs/",
           "ipa_us": "/ɪz ˈðɪs .../",
+          "audio_uk": "audio/uk/is-this.mp3",
+          "audio_us": "audio/us/is-this.mp3",
           "meaning": "đây có phải là ... không?",
           "example": "Is this Lucy?"
         },
@@ -272,6 +330,8 @@
           "pos": "phr",
           "ipa_uk": "/ɪz ˈðæt/",
           "ipa_us": "/ɪz ˈðæt .../",
+          "audio_uk": "audio/uk/is-that.mp3",
+          "audio_us": "audio/us/is-that.mp3",
           "meaning": "kia có phải là ... không?",
           "example": "Is that Minh?"
         },
@@ -280,6 +340,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌjes ɪt ˈɪz/",
           "ipa_us": "/ˌjes ɪt ˈɪz/",
+          "audio_uk": "audio/uk/yes-it-is.mp3",
+          "audio_us": "audio/us/yes-it-is.mp3",
           "meaning": "vâng, đúng vậy",
           "example": "Is that Minh? – Yes, it is."
         },
@@ -288,6 +350,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌnəʊ ɪt ˈɪznt/",
           "ipa_us": "/ˌnoʊ ɪt ˈɪzənt/",
+          "audio_uk": "audio/uk/no-it-isn-t.mp3",
+          "audio_us": "audio/us/no-it-isn-t.mp3",
           "meaning": "không, không phải",
           "example": "Is that Ben? – No, it isn't."
         }
@@ -310,6 +374,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbɒdi/",
           "ipa_us": "/ˈbɑːdi/",
+          "audio_uk": "audio/uk/body.mp3",
+          "audio_us": "audio/us/body.mp3",
           "meaning": "cơ thể"
         },
         {
@@ -317,6 +383,8 @@
           "pos": "n",
           "ipa_uk": "/feɪs/",
           "ipa_us": "/feɪs/",
+          "audio_uk": "audio/uk/face.mp3",
+          "audio_us": "audio/us/face.mp3",
           "meaning": "khuôn mặt",
           "example": "It's a face."
         },
@@ -325,6 +393,8 @@
           "pos": "n",
           "ipa_uk": "/hænd/",
           "ipa_us": "/hænd/",
+          "audio_uk": "audio/uk/hand.mp3",
+          "audio_us": "audio/us/hand.mp3",
           "meaning": "bàn tay",
           "example": "Touch your hand."
         },
@@ -333,6 +403,8 @@
           "pos": "n",
           "ipa_uk": "/ɪə(r)/",
           "ipa_us": "/ɪr/",
+          "audio_uk": "audio/uk/ear.mp3",
+          "audio_us": "audio/us/ear.mp3",
           "meaning": "tai",
           "example": "It's an ear."
         },
@@ -341,6 +413,8 @@
           "pos": "n",
           "ipa_uk": "/aɪ/",
           "ipa_us": "/aɪ/",
+          "audio_uk": "audio/uk/eye.mp3",
+          "audio_us": "audio/us/eye.mp3",
           "meaning": "mắt",
           "example": "It's an eye."
         },
@@ -349,6 +423,8 @@
           "pos": "n",
           "ipa_uk": "/nəʊz/",
           "ipa_us": "/noʊz/",
+          "audio_uk": "audio/uk/nose.mp3",
+          "audio_us": "audio/us/nose.mp3",
           "meaning": "mũi",
           "example": "It's a nose."
         },
@@ -357,6 +433,8 @@
           "pos": "n",
           "ipa_uk": "/maʊθ/",
           "ipa_us": "/maʊθ/",
+          "audio_uk": "audio/uk/mouth.mp3",
+          "audio_us": "audio/us/mouth.mp3",
           "meaning": "miệng",
           "example": "It's a mouth."
         },
@@ -365,6 +443,8 @@
           "pos": "v",
           "ipa_uk": "/ˈəʊpən/",
           "ipa_us": "/ˈoʊpən/",
+          "audio_uk": "audio/uk/open.mp3",
+          "audio_us": "audio/us/open.mp3",
           "meaning": "mở",
           "example": "Open your mouth."
         },
@@ -373,6 +453,8 @@
           "pos": "v",
           "ipa_uk": "/tʌtʃ/",
           "ipa_us": "/tʌtʃ/",
+          "audio_uk": "audio/uk/touch.mp3",
+          "audio_us": "audio/us/touch.mp3",
           "meaning": "chạm vào, sờ vào",
           "example": "Touch your nose."
         },
@@ -381,6 +463,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts ˈðɪs/",
           "ipa_us": "/ˌwʌts ˈðɪs/",
+          "audio_uk": "audio/uk/what-s-this.mp3",
+          "audio_us": "audio/us/what-s-this.mp3",
           "meaning": "đây là cái gì?",
           "example": "What's this? – It's a hand."
         }
@@ -403,6 +487,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhɒbi/",
           "ipa_us": "/ˈhɑːbi/",
+          "audio_uk": "audio/uk/hobby.mp3",
+          "audio_us": "audio/us/hobby.mp3",
           "meaning": "sở thích",
           "example": "What's your hobby?"
         },
@@ -411,6 +497,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdɑːnsɪŋ/",
           "ipa_us": "/ˈdænsɪŋ/",
+          "audio_uk": "audio/uk/dancing.mp3",
+          "audio_us": "audio/us/dancing.mp3",
           "meaning": "nhảy múa",
           "example": "My hobby is dancing."
         },
@@ -419,6 +507,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdrɔːɪŋ/",
           "ipa_us": "/ˈdrɑːɪŋ/",
+          "audio_uk": "audio/uk/drawing.mp3",
+          "audio_us": "audio/us/drawing.mp3",
           "meaning": "vẽ (bằng bút chì)",
           "example": "I like drawing."
         },
@@ -427,6 +517,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpeɪntɪŋ/",
           "ipa_us": "/ˈpeɪntɪŋ/",
+          "audio_uk": "audio/uk/painting.mp3",
+          "audio_us": "audio/us/painting.mp3",
           "meaning": "vẽ tranh, tô màu",
           "example": "It's painting."
         },
@@ -435,6 +527,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪŋɪŋ/",
           "ipa_us": "/ˈsɪŋɪŋ/",
+          "audio_uk": "audio/uk/singing.mp3",
+          "audio_us": "audio/us/singing.mp3",
           "meaning": "ca hát",
           "example": "My hobby is singing."
         },
@@ -443,6 +537,8 @@
           "pos": "n",
           "ipa_uk": "/ˈswɪmɪŋ/",
           "ipa_us": "/ˈswɪmɪŋ/",
+          "audio_uk": "audio/uk/swimming.mp3",
+          "audio_us": "audio/us/swimming.mp3",
           "meaning": "bơi lội",
           "example": "I like swimming."
         },
@@ -451,6 +547,8 @@
           "pos": "n",
           "ipa_uk": "/ˈrʌnɪŋ/",
           "ipa_us": "/ˈrʌnɪŋ/",
+          "audio_uk": "audio/uk/running.mp3",
+          "audio_us": "audio/us/running.mp3",
           "meaning": "chạy bộ",
           "example": "It's running."
         },
@@ -459,6 +557,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkʊkɪŋ/",
           "ipa_us": "/ˈkʊkɪŋ/",
+          "audio_uk": "audio/uk/cooking.mp3",
+          "audio_us": "audio/us/cooking.mp3",
           "meaning": "nấu ăn",
           "example": "My hobby is cooking."
         },
@@ -467,6 +567,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɔːkɪŋ/",
           "ipa_us": "/ˈwɑːkɪŋ/",
+          "audio_uk": "audio/uk/walking.mp3",
+          "audio_us": "audio/us/walking.mp3",
           "meaning": "đi bộ",
           "example": "I like walking."
         },
@@ -475,6 +577,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts jɔː ˈhɒbi/",
           "ipa_us": "/ˌwʌts jɔːr ˈhɑːbi/",
+          "audio_uk": "audio/uk/what-s-your-hobby.mp3",
+          "audio_us": "audio/us/what-s-your-hobby.mp3",
           "meaning": "sở thích của bạn là gì?",
           "example": "What's your hobby? – It's swimming."
         },
@@ -483,6 +587,8 @@
           "pos": "v",
           "ipa_uk": "/laɪk/",
           "ipa_us": "/laɪk/",
+          "audio_uk": "audio/uk/like.mp3",
+          "audio_us": "audio/us/like.mp3",
           "meaning": "thích",
           "example": "I like drawing."
         }
@@ -505,6 +611,8 @@
           "pos": "n",
           "ipa_uk": "/skuːl/",
           "ipa_us": "/skuːl/",
+          "audio_uk": "audio/uk/school.mp3",
+          "audio_us": "audio/us/school.mp3",
           "meaning": "trường học",
           "example": "Is this our school?"
         },
@@ -513,6 +621,8 @@
           "pos": "n",
           "ipa_uk": "/ˈklɑːsruːm/",
           "ipa_us": "/ˈklæsruːm/",
+          "audio_uk": "audio/uk/classroom.mp3",
+          "audio_us": "audio/us/classroom.mp3",
           "meaning": "lớp học, phòng học",
           "example": "This is our classroom."
         },
@@ -521,6 +631,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪbrəri/",
           "ipa_us": "/ˈlaɪbreriː/",
+          "audio_uk": "audio/uk/library.mp3",
+          "audio_us": "audio/us/library.mp3",
           "meaning": "thư viện",
           "example": "Is this our library?"
         },
@@ -529,6 +641,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpleɪɡraʊnd/",
           "ipa_us": "/ˈpleɪɡraʊnd/",
+          "audio_uk": "audio/uk/playground.mp3",
+          "audio_us": "audio/us/playground.mp3",
           "meaning": "sân chơi",
           "example": "That's our playground."
         },
@@ -537,6 +651,8 @@
           "pos": "n",
           "ipa_uk": "/kəmˈpjuːtə ruːm/",
           "ipa_us": "/kəmˈpjuːtɚ ruːm/",
+          "audio_uk": "audio/uk/computer-room.mp3",
+          "audio_us": "audio/us/computer-room.mp3",
           "meaning": "phòng máy tính",
           "example": "Let's go to the computer room."
         },
@@ -545,6 +661,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmjuːzɪk ruːm/",
           "ipa_us": "/ˈmjuːzɪk ruːm/",
+          "audio_uk": "audio/uk/music-room.mp3",
+          "audio_us": "audio/us/music-room.mp3",
           "meaning": "phòng âm nhạc",
           "example": "This is the music room."
         },
@@ -553,6 +671,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɑːt ruːm/",
           "ipa_us": "/ˈɑːrt ruːm/",
+          "audio_uk": "audio/uk/art-room.mp3",
+          "audio_us": "audio/us/art-room.mp3",
           "meaning": "phòng mỹ thuật",
           "example": "Is that the art room?"
         },
@@ -561,6 +681,8 @@
           "pos": "det",
           "ipa_uk": "/ˈaʊə(r)/",
           "ipa_us": "/ˈaʊɚ/",
+          "audio_uk": "audio/uk/our.mp3",
+          "audio_us": "audio/us/our.mp3",
           "meaning": "của chúng mình",
           "example": "This is our school."
         }
@@ -583,6 +705,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌstænd ˈʌp/",
           "ipa_us": "/ˌstænd ˈʌp/",
+          "audio_uk": "audio/uk/stand-up.mp3",
+          "audio_us": "audio/us/stand-up.mp3",
           "meaning": "đứng lên",
           "example": "Stand up, please!"
         },
@@ -591,6 +715,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌsɪt ˈdaʊn/",
           "ipa_us": "/ˌsɪt ˈdaʊn/",
+          "audio_uk": "audio/uk/sit-down.mp3",
+          "audio_us": "audio/us/sit-down.mp3",
           "meaning": "ngồi xuống",
           "example": "Sit down, please!"
         },
@@ -599,6 +725,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌəʊpən jɔː ˈbʊk/",
           "ipa_us": "/ˌoʊpən jɔːr ˈbʊk/",
+          "audio_uk": "audio/uk/open-your-book.mp3",
+          "audio_us": "audio/us/open-your-book.mp3",
           "meaning": "mở sách ra",
           "example": "Open your book, please!"
         },
@@ -607,6 +735,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌkləʊz jɔː ˈbʊk/",
           "ipa_us": "/ˌkloʊz jɔːr ˈbʊk/",
+          "audio_uk": "audio/uk/close-your-book.mp3",
+          "audio_us": "audio/us/close-your-book.mp3",
           "meaning": "gấp sách lại",
           "example": "Close your book, please!"
         },
@@ -615,6 +745,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌbi ˈkwaɪət/",
           "ipa_us": "/ˌbiː ˈkwaɪət/",
+          "audio_uk": "audio/uk/be-quiet.mp3",
+          "audio_us": "audio/us/be-quiet.mp3",
           "meaning": "giữ trật tự",
           "example": "Be quiet, please!"
         },
@@ -623,6 +755,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌkʌm ˈɪn/",
           "ipa_us": "/ˌkʌm ˈɪn/",
+          "audio_uk": "audio/uk/come-in.mp3",
+          "audio_us": "audio/us/come-in.mp3",
           "meaning": "đi vào",
           "example": "May I come in?"
         },
@@ -631,6 +765,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌɡəʊ ˈaʊt/",
           "ipa_us": "/ˌɡoʊ ˈaʊt/",
+          "audio_uk": "audio/uk/go-out.mp3",
+          "audio_us": "audio/us/go-out.mp3",
           "meaning": "đi ra ngoài",
           "example": "May I go out?"
         },
@@ -639,6 +775,8 @@
           "pos": "v",
           "ipa_uk": "/spiːk/",
           "ipa_us": "/spiːk/",
+          "audio_uk": "audio/uk/speak.mp3",
+          "audio_us": "audio/us/speak.mp3",
           "meaning": "nói",
           "example": "May I speak Vietnamese?"
         },
@@ -647,6 +785,8 @@
           "pos": "adv",
           "ipa_uk": "/pliːz/",
           "ipa_us": "/pliːz/",
+          "audio_uk": "audio/uk/please.mp3",
+          "audio_us": "audio/us/please.mp3",
           "meaning": "làm ơn, xin vui lòng",
           "example": "Sit down, please."
         },
@@ -655,6 +795,8 @@
           "pos": "phr",
           "ipa_uk": "/ˈmeɪ aɪ/",
           "ipa_us": "/ˈmeɪ aɪ .../",
+          "audio_uk": "audio/uk/may-i.mp3",
+          "audio_us": "audio/us/may-i.mp3",
           "meaning": "em có thể ... không ạ?",
           "example": "May I open the book?"
         },
@@ -663,6 +805,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌjes juː ˈkæn/",
           "ipa_us": "/ˌjes juː ˈkæn/",
+          "audio_uk": "audio/uk/yes-you-can.mp3",
+          "audio_us": "audio/us/yes-you-can.mp3",
           "meaning": "được, em có thể",
           "example": "May I come in? – Yes, you can."
         },
@@ -671,6 +815,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌnəʊ juː ˈkɑːnt/",
           "ipa_us": "/ˌnoʊ juː ˈkænt/",
+          "audio_uk": "audio/uk/no-you-can-t.mp3",
+          "audio_us": "audio/us/no-you-can-t.mp3",
           "meaning": "không, em không thể",
           "example": "May I go out? – No, you can't."
         }
@@ -692,6 +838,8 @@
           "pos": "n",
           "ipa_uk": "/bʊk/",
           "ipa_us": "/bʊk/",
+          "audio_uk": "audio/uk/book.mp3",
+          "audio_us": "audio/us/book.mp3",
           "meaning": "quyển sách",
           "example": "I have a book."
         },
@@ -700,6 +848,8 @@
           "pos": "n",
           "ipa_uk": "/ˈnəʊtbʊk/",
           "ipa_us": "/ˈnoʊtbʊk/",
+          "audio_uk": "audio/uk/notebook.mp3",
+          "audio_us": "audio/us/notebook.mp3",
           "meaning": "quyển vở",
           "example": "I have a notebook."
         },
@@ -708,6 +858,8 @@
           "pos": "n",
           "ipa_uk": "/pen/",
           "ipa_us": "/pen/",
+          "audio_uk": "audio/uk/pen.mp3",
+          "audio_us": "audio/us/pen.mp3",
           "meaning": "bút mực",
           "example": "I have a pen."
         },
@@ -716,6 +868,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpensl keɪs/",
           "ipa_us": "/ˈpensəl keɪs/",
+          "audio_uk": "audio/uk/pencil-case.mp3",
+          "audio_us": "audio/us/pencil-case.mp3",
           "meaning": "hộp bút",
           "example": "I have a pencil case."
         },
@@ -724,6 +878,8 @@
           "pos": "n",
           "ipa_uk": "/ɪˈreɪzə(r)/",
           "ipa_us": "/ɪˈreɪsɚ/",
+          "audio_uk": "audio/uk/eraser.mp3",
+          "audio_us": "audio/us/eraser.mp3",
           "meaning": "cục tẩy",
           "example": "I have an eraser."
         },
@@ -732,6 +888,8 @@
           "pos": "n",
           "ipa_uk": "/ˈruːlə(r)/",
           "ipa_us": "/ˈruːlɚ/",
+          "audio_uk": "audio/uk/ruler.mp3",
+          "audio_us": "audio/us/ruler.mp3",
           "meaning": "thước kẻ",
           "example": "This is my ruler."
         },
@@ -740,6 +898,8 @@
           "pos": "n",
           "ipa_uk": "/ˈskuːl bæɡ/",
           "ipa_us": "/ˈskuːl bæɡ/",
+          "audio_uk": "audio/uk/school-bag.mp3",
+          "audio_us": "audio/us/school-bag.mp3",
           "meaning": "cặp sách",
           "example": "I have a school bag."
         },
@@ -748,6 +908,8 @@
           "pos": "v",
           "ipa_uk": "/hæv/",
           "ipa_us": "/hæv/",
+          "audio_uk": "audio/uk/have.mp3",
+          "audio_us": "audio/us/have.mp3",
           "meaning": "có",
           "example": "I have a notebook."
         }
@@ -770,6 +932,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkʌlə(r)/",
           "ipa_us": "/ˈkʌlɚ/",
+          "audio_uk": "audio/uk/colour.mp3",
+          "audio_us": "audio/us/colour.mp3",
           "meaning": "màu sắc",
           "example": "What colour is it?"
         },
@@ -778,6 +942,8 @@
           "pos": "adj",
           "ipa_uk": "/red/",
           "ipa_us": "/red/",
+          "audio_uk": "audio/uk/red.mp3",
+          "audio_us": "audio/us/red.mp3",
           "meaning": "màu đỏ",
           "example": "It's red."
         },
@@ -786,6 +952,8 @@
           "pos": "adj",
           "ipa_uk": "/bluː/",
           "ipa_us": "/bluː/",
+          "audio_uk": "audio/uk/blue.mp3",
+          "audio_us": "audio/us/blue.mp3",
           "meaning": "màu xanh dương",
           "example": "It's blue."
         },
@@ -794,6 +962,8 @@
           "pos": "adj",
           "ipa_uk": "/ɡriːn/",
           "ipa_us": "/ɡriːn/",
+          "audio_uk": "audio/uk/green.mp3",
+          "audio_us": "audio/us/green.mp3",
           "meaning": "màu xanh lá cây",
           "example": "It's green."
         },
@@ -802,6 +972,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈjeləʊ/",
           "ipa_us": "/ˈjeloʊ/",
+          "audio_uk": "audio/uk/yellow.mp3",
+          "audio_us": "audio/us/yellow.mp3",
           "meaning": "màu vàng",
           "example": "It's yellow."
         },
@@ -810,6 +982,8 @@
           "pos": "adj",
           "ipa_uk": "/waɪt/",
           "ipa_us": "/waɪt/",
+          "audio_uk": "audio/uk/white.mp3",
+          "audio_us": "audio/us/white.mp3",
           "meaning": "màu trắng",
           "example": "It's white."
         },
@@ -818,6 +992,8 @@
           "pos": "adj",
           "ipa_uk": "/blæk/",
           "ipa_us": "/blæk/",
+          "audio_uk": "audio/uk/black.mp3",
+          "audio_us": "audio/us/black.mp3",
           "meaning": "màu đen",
           "example": "They're black."
         },
@@ -826,6 +1002,8 @@
           "pos": "adj",
           "ipa_uk": "/braʊn/",
           "ipa_us": "/braʊn/",
+          "audio_uk": "audio/uk/brown.mp3",
+          "audio_us": "audio/us/brown.mp3",
           "meaning": "màu nâu",
           "example": "It's brown."
         },
@@ -834,6 +1012,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈɒrɪndʒ/",
           "ipa_us": "/ˈɔːrɪndʒ/",
+          "audio_uk": "audio/uk/orange.mp3",
+          "audio_us": "audio/us/orange.mp3",
           "meaning": "màu cam",
           "example": "They're orange."
         },
@@ -842,6 +1022,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒt ˈkʌlər ɪz ɪt/",
           "ipa_us": "/ˌwʌt ˈkʌlɚ ɪz ɪt/",
+          "audio_uk": "audio/uk/what-colour-is-it.mp3",
+          "audio_us": "audio/us/what-colour-is-it.mp3",
           "meaning": "nó màu gì?",
           "example": "What colour is it? – It's red."
         },
@@ -850,6 +1032,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒt ˈkʌlər ɑː ðeɪ/",
           "ipa_us": "/ˌwʌt ˈkʌlɚ ɑːr ðeɪ/",
+          "audio_uk": "audio/uk/what-colour-are-they.mp3",
+          "audio_us": "audio/us/what-colour-are-they.mp3",
           "meaning": "chúng màu gì?",
           "example": "What colour are they? – They're blue."
         }
@@ -871,6 +1055,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbreɪk taɪm/",
           "ipa_us": "/ˈbreɪk taɪm/",
+          "audio_uk": "audio/uk/break-time.mp3",
+          "audio_us": "audio/us/break-time.mp3",
           "meaning": "giờ ra chơi",
           "example": "I play chess at break time."
         },
@@ -879,6 +1065,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈtʃes/",
           "ipa_us": "/ˌpleɪ ˈtʃes/",
+          "audio_uk": "audio/uk/play-chess.mp3",
+          "audio_us": "audio/us/play-chess.mp3",
           "meaning": "chơi cờ vua",
           "example": "I play chess at break time."
         },
@@ -887,6 +1075,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈvɒlibɔːl/",
           "ipa_us": "/ˌpleɪ ˈvɑːlibɑːl/",
+          "audio_uk": "audio/uk/play-volleyball.mp3",
+          "audio_us": "audio/us/play-volleyball.mp3",
           "meaning": "chơi bóng chuyền",
           "example": "We play volleyball."
         },
@@ -895,6 +1085,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈbæskətbɑːl/",
+          "audio_uk": "audio/uk/play-basketball.mp3",
+          "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
           "example": "I play basketball at break time."
         },
@@ -903,6 +1095,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbædmɪntən/",
           "ipa_us": "/ˌpleɪ ˈbædmɪntən/",
+          "audio_uk": "audio/uk/play-badminton.mp3",
+          "audio_us": "audio/us/play-badminton.mp3",
           "meaning": "chơi cầu lông",
           "example": "We play badminton."
         },
@@ -911,6 +1105,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈfʊtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈfʊtbɑːl/",
+          "audio_uk": "audio/uk/play-football.mp3",
+          "audio_us": "audio/us/play-football.mp3",
           "meaning": "chơi bóng đá",
           "example": "I play football at break time."
         },
@@ -919,6 +1115,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈteɪbl tenɪs/",
           "ipa_us": "/ˌpleɪ ˈteɪbəl ˌtenɪs/",
+          "audio_uk": "audio/uk/play-table-tennis.mp3",
+          "audio_us": "audio/us/play-table-tennis.mp3",
           "meaning": "chơi bóng bàn",
           "example": "We play table tennis."
         },
@@ -927,6 +1125,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌtʃæt wɪð ˈfrendz/",
           "ipa_us": "/ˌtʃæt wɪð ˈfrendz/",
+          "audio_uk": "audio/uk/chat-with-friends.mp3",
+          "audio_us": "audio/us/chat-with-friends.mp3",
           "meaning": "trò chuyện với bạn bè",
           "example": "I chat with my friends."
         },
@@ -935,6 +1135,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌduː ˈwɜːd pʌzlz/",
           "ipa_us": "/ˌduː ˈwɝːd ˌpʌzəlz/",
+          "audio_uk": "audio/uk/do-word-puzzles.mp3",
+          "audio_us": "audio/us/do-word-puzzles.mp3",
           "meaning": "chơi giải ô chữ",
           "example": "I do word puzzles at break time."
         },
@@ -943,6 +1145,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒt də juː ˈduː ət ˈbreɪk taɪm/",
           "ipa_us": "/ˌwʌt duː juː ˈduː æt ˈbreɪk taɪm/",
+          "audio_uk": "audio/uk/what-do-you-do-at-break-time.mp3",
+          "audio_us": "audio/us/what-do-you-do-at-break-time.mp3",
           "meaning": "bạn làm gì vào giờ ra chơi?"
         }
       ]
@@ -963,6 +1167,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfæməli/",
           "ipa_us": "/ˈfæməli/",
+          "audio_uk": "audio/uk/family.mp3",
+          "audio_us": "audio/us/family.mp3",
           "meaning": "gia đình",
           "example": "This is my family."
         },
@@ -971,6 +1177,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡrænfɑːðə(r)/",
           "ipa_us": "/ˈɡrænfɑːðɚ/",
+          "audio_uk": "audio/uk/grandfather.mp3",
+          "audio_us": "audio/us/grandfather.mp3",
           "meaning": "ông",
           "example": "It's my grandfather."
         },
@@ -979,6 +1187,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡrænmʌðə(r)/",
           "ipa_us": "/ˈɡrændmʌðɚ/",
+          "audio_uk": "audio/uk/grandmother.mp3",
+          "audio_us": "audio/us/grandmother.mp3",
           "meaning": "bà",
           "example": "That's my grandmother."
         },
@@ -987,6 +1197,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːðə(r)/",
           "ipa_us": "/ˈfɑːðɚ/",
+          "audio_uk": "audio/uk/father.mp3",
+          "audio_us": "audio/us/father.mp3",
           "meaning": "bố",
           "example": "Who's that? – It's my father."
         },
@@ -995,6 +1207,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌðə(r)/",
           "ipa_us": "/ˈmʌðɚ/",
+          "audio_uk": "audio/uk/mother.mp3",
+          "audio_us": "audio/us/mother.mp3",
           "meaning": "mẹ",
           "example": "Who's that? – It's my mother."
         },
@@ -1003,6 +1217,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbrʌðə(r)/",
           "ipa_us": "/ˈbrʌðɚ/",
+          "audio_uk": "audio/uk/brother.mp3",
+          "audio_us": "audio/us/brother.mp3",
           "meaning": "anh trai, em trai",
           "example": "It's my brother."
         },
@@ -1011,6 +1227,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪstə(r)/",
           "ipa_us": "/ˈsɪstɚ/",
+          "audio_uk": "audio/uk/sister.mp3",
+          "audio_us": "audio/us/sister.mp3",
           "meaning": "chị gái, em gái",
           "example": "It's my sister."
         },
@@ -1019,6 +1237,8 @@
           "pos": "n",
           "ipa_uk": "/mæn/",
           "ipa_us": "/mæn/",
+          "audio_uk": "audio/uk/man.mp3",
+          "audio_us": "audio/us/man.mp3",
           "meaning": "người đàn ông",
           "example": "Who's the man?"
         },
@@ -1027,6 +1247,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwʊmən/",
           "ipa_us": "/ˈwʊmən/",
+          "audio_uk": "audio/uk/woman.mp3",
+          "audio_us": "audio/us/woman.mp3",
           "meaning": "người phụ nữ",
           "example": "Who's the woman?"
         },
@@ -1035,6 +1257,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfəʊtəʊ/",
           "ipa_us": "/ˈfoʊtoʊ/",
+          "audio_uk": "audio/uk/photo.mp3",
+          "audio_us": "audio/us/photo.mp3",
           "meaning": "bức ảnh",
           "example": "Look at this photo."
         },
@@ -1043,6 +1267,8 @@
           "pos": "pron",
           "ipa_uk": "/huː/",
           "ipa_us": "/huː/",
+          "audio_uk": "audio/uk/who.mp3",
+          "audio_us": "audio/us/who.mp3",
           "meaning": "ai",
           "example": "Who's that?"
         },
@@ -1051,6 +1277,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌhuːz ˈðæt/",
           "ipa_us": "/ˌhuːz ˈðæt/",
+          "audio_uk": "audio/uk/who-s-that.mp3",
+          "audio_us": "audio/us/who-s-that.mp3",
           "meaning": "kia là ai?",
           "example": "Who's that? – It's my brother."
         },
@@ -1059,6 +1287,8 @@
           "pos": "num",
           "ipa_uk": "/ˌnaɪnˈtiːn/",
           "ipa_us": "/ˌnaɪnˈtiːn/",
+          "audio_uk": "audio/uk/nineteen.mp3",
+          "audio_us": "audio/us/nineteen.mp3",
           "meaning": "mười chín",
           "example": "My sister is nineteen."
         }
@@ -1079,6 +1309,8 @@
           "pos": "n",
           "ipa_uk": "/dʒɒb/",
           "ipa_us": "/dʒɑːb/",
+          "audio_uk": "audio/uk/job.mp3",
+          "audio_us": "audio/us/job.mp3",
           "meaning": "nghề nghiệp, công việc",
           "example": "What's his job?"
         },
@@ -1087,6 +1319,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdɒktə(r)/",
           "ipa_us": "/ˈdɑːktɚ/",
+          "audio_uk": "audio/uk/doctor.mp3",
+          "audio_us": "audio/us/doctor.mp3",
           "meaning": "bác sĩ",
           "example": "She's a doctor."
         },
@@ -1095,6 +1329,8 @@
           "pos": "n",
           "ipa_uk": "/nɜːs/",
           "ipa_us": "/nɝːs/",
+          "audio_uk": "audio/uk/nurse.mp3",
+          "audio_us": "audio/us/nurse.mp3",
           "meaning": "y tá",
           "example": "My mother is a nurse."
         },
@@ -1103,6 +1339,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːmə(r)/",
           "ipa_us": "/ˈfɑːrmɚ/",
+          "audio_uk": "audio/uk/farmer.mp3",
+          "audio_us": "audio/us/farmer.mp3",
           "meaning": "nông dân",
           "example": "He's a farmer."
         },
@@ -1111,6 +1349,8 @@
           "pos": "n",
           "ipa_uk": "/kʊk/",
           "ipa_us": "/kʊk/",
+          "audio_uk": "audio/uk/cook.mp3",
+          "audio_us": "audio/us/cook.mp3",
           "meaning": "đầu bếp",
           "example": "My father is a cook."
         },
@@ -1119,6 +1359,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪŋə(r)/",
           "ipa_us": "/ˈsɪŋɚ/",
+          "audio_uk": "audio/uk/singer.mp3",
+          "audio_us": "audio/us/singer.mp3",
           "meaning": "ca sĩ",
           "example": "She's a singer."
         }
@@ -1141,6 +1383,8 @@
           "pos": "n",
           "ipa_uk": "/haʊs/",
           "ipa_us": "/haʊs/",
+          "audio_uk": "audio/uk/house.mp3",
+          "audio_us": "audio/us/house.mp3",
           "meaning": "ngôi nhà",
           "example": "This is my house."
         },
@@ -1149,6 +1393,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɪvɪŋ ruːm/",
           "ipa_us": "/ˈlɪvɪŋ ruːm/",
+          "audio_uk": "audio/uk/living-room.mp3",
+          "audio_us": "audio/us/living-room.mp3",
           "meaning": "phòng khách",
           "example": "Where's the living room?"
         },
@@ -1157,6 +1403,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɪtʃɪn/",
           "ipa_us": "/ˈkɪtʃən/",
+          "audio_uk": "audio/uk/kitchen.mp3",
+          "audio_us": "audio/us/kitchen.mp3",
           "meaning": "nhà bếp",
           "example": "The kitchen is there."
         },
@@ -1165,6 +1413,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbedruːm/",
           "ipa_us": "/ˈbedruːm/",
+          "audio_uk": "audio/uk/bedroom.mp3",
+          "audio_us": "audio/us/bedroom.mp3",
           "meaning": "phòng ngủ",
           "example": "Where's the bedroom? – It's here."
         },
@@ -1173,6 +1423,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbɑːθruːm/",
           "ipa_us": "/ˈbæθruːm/",
+          "audio_uk": "audio/uk/bathroom.mp3",
+          "audio_us": "audio/us/bathroom.mp3",
           "meaning": "phòng tắm",
           "example": "Where's the bathroom?"
         },
@@ -1181,6 +1433,8 @@
           "pos": "adv",
           "ipa_uk": "/hɪə(r)/",
           "ipa_us": "/hiːr/",
+          "audio_uk": "audio/uk/here.mp3",
+          "audio_us": "audio/us/here.mp3",
           "meaning": "ở đây",
           "example": "It's here."
         },
@@ -1189,6 +1443,8 @@
           "pos": "adv",
           "ipa_uk": "/ðeə(r)/",
           "ipa_us": "/ðer/",
+          "audio_uk": "audio/uk/there.mp3",
+          "audio_us": "audio/us/there.mp3",
           "meaning": "ở đằng kia",
           "example": "It's there."
         },
@@ -1197,6 +1453,8 @@
           "pos": "n",
           "ipa_uk": "/ˈteɪbl/",
           "ipa_us": "/ˈteɪbəl/",
+          "audio_uk": "audio/uk/table.mp3",
+          "audio_us": "audio/us/table.mp3",
           "meaning": "cái bàn",
           "example": "Where are the tables?"
         },
@@ -1205,6 +1463,8 @@
           "pos": "n",
           "ipa_uk": "/tʃeə(r)/",
           "ipa_us": "/tʃer/",
+          "audio_uk": "audio/uk/chair.mp3",
+          "audio_us": "audio/us/chair.mp3",
           "meaning": "cái ghế",
           "example": "They're in the living room."
         },
@@ -1213,6 +1473,8 @@
           "pos": "phr",
           "ipa_uk": "/ˈweəz ðə/",
           "ipa_us": "/ˈwerz ðə .../",
+          "audio_uk": "audio/uk/where-s-the.mp3",
+          "audio_us": "audio/us/where-s-the.mp3",
           "meaning": "... ở đâu?",
           "example": "Where's the kitchen?"
         },
@@ -1221,6 +1483,8 @@
           "pos": "phr",
           "ipa_uk": "/ˈweər ɑː ðə/",
           "ipa_us": "/ˈwer ɑːr ðə .../",
+          "audio_uk": "audio/uk/where-are-the.mp3",
+          "audio_us": "audio/us/where-are-the.mp3",
           "meaning": "những ... ở đâu?",
           "example": "Where are the chairs?"
         }
@@ -1242,6 +1506,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbedruːm/",
           "ipa_us": "/ˈbedruːm/",
+          "audio_uk": "audio/uk/bedroom.mp3",
+          "audio_us": "audio/us/bedroom.mp3",
           "meaning": "phòng ngủ",
           "example": "This is my bedroom."
         },
@@ -1250,6 +1516,8 @@
           "pos": "n",
           "ipa_uk": "/bed/",
           "ipa_us": "/bed/",
+          "audio_uk": "audio/uk/bed.mp3",
+          "audio_us": "audio/us/bed.mp3",
           "meaning": "cái giường",
           "example": "There's a bed in the room."
         },
@@ -1258,6 +1526,8 @@
           "pos": "n",
           "ipa_uk": "/desk/",
           "ipa_us": "/desk/",
+          "audio_uk": "audio/uk/desk.mp3",
+          "audio_us": "audio/us/desk.mp3",
           "meaning": "bàn học",
           "example": "There's a desk."
         },
@@ -1266,6 +1536,8 @@
           "pos": "n",
           "ipa_uk": "/læmp/",
           "ipa_us": "/læmp/",
+          "audio_uk": "audio/uk/lamp.mp3",
+          "audio_us": "audio/us/lamp.mp3",
           "meaning": "đèn bàn",
           "example": "There are two lamps."
         },
@@ -1274,6 +1546,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɪndəʊ/",
           "ipa_us": "/ˈwɪndoʊ/",
+          "audio_uk": "audio/uk/window.mp3",
+          "audio_us": "audio/us/window.mp3",
           "meaning": "cửa sổ",
           "example": "There are two windows."
         },
@@ -1282,6 +1556,8 @@
           "pos": "n",
           "ipa_uk": "/dɔː(r)/",
           "ipa_us": "/dɔːr/",
+          "audio_uk": "audio/uk/door.mp3",
+          "audio_us": "audio/us/door.mp3",
           "meaning": "cửa ra vào",
           "example": "The door is big."
         },
@@ -1290,6 +1566,8 @@
           "pos": "n",
           "ipa_uk": "/tʃeə(r)/",
           "ipa_us": "/tʃer/",
+          "audio_uk": "audio/uk/chair.mp3",
+          "audio_us": "audio/us/chair.mp3",
           "meaning": "cái ghế",
           "example": "The chairs are new."
         },
@@ -1298,6 +1576,8 @@
           "pos": "adj",
           "ipa_uk": "/bɪɡ/",
           "ipa_us": "/bɪɡ/",
+          "audio_uk": "audio/uk/big.mp3",
+          "audio_us": "audio/us/big.mp3",
           "meaning": "to, lớn",
           "example": "The door is big."
         },
@@ -1306,6 +1586,8 @@
           "pos": "adj",
           "ipa_uk": "/smɔːl/",
           "ipa_us": "/smɑːl/",
+          "audio_uk": "audio/uk/small.mp3",
+          "audio_us": "audio/us/small.mp3",
           "meaning": "nhỏ",
           "example": "The windows are small."
         },
@@ -1314,6 +1596,8 @@
           "pos": "adj",
           "ipa_uk": "/njuː/",
           "ipa_us": "/nuː/",
+          "audio_uk": "audio/uk/new.mp3",
+          "audio_us": "audio/us/new.mp3",
           "meaning": "mới",
           "example": "The chair is new."
         },
@@ -1322,6 +1606,8 @@
           "pos": "adj",
           "ipa_uk": "/əʊld/",
           "ipa_us": "/oʊld/",
+          "audio_uk": "audio/uk/old.mp3",
+          "audio_us": "audio/us/old.mp3",
           "meaning": "cũ",
           "example": "The desk is old."
         },
@@ -1330,6 +1616,8 @@
           "pos": "phr",
           "ipa_uk": "/ðeəz/",
           "ipa_us": "/ðerz/",
+          "audio_uk": "audio/uk/there-s.mp3",
+          "audio_us": "audio/us/there-s.mp3",
           "meaning": "có (một)",
           "example": "There's a bed in the room."
         },
@@ -1338,6 +1626,8 @@
           "pos": "phr",
           "ipa_uk": "/ðeər ɑː(r)/",
           "ipa_us": "/ðer ɑːr/",
+          "audio_uk": "audio/uk/there-are.mp3",
+          "audio_us": "audio/us/there-are.mp3",
           "meaning": "có (nhiều)",
           "example": "There are two windows."
         }
@@ -1359,6 +1649,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdaɪnɪŋ teɪbl/",
           "ipa_us": "/ˈdaɪnɪŋ ˌteɪbəl/",
+          "audio_uk": "audio/uk/dining-table.mp3",
+          "audio_us": "audio/us/dining-table.mp3",
           "meaning": "bàn ăn"
         },
         {
@@ -1366,6 +1658,8 @@
           "pos": "n",
           "ipa_uk": "/biːnz/",
           "ipa_us": "/biːnz/",
+          "audio_uk": "audio/uk/beans.mp3",
+          "audio_us": "audio/us/beans.mp3",
           "meaning": "đậu",
           "example": "Would you like some beans?"
         },
@@ -1374,6 +1668,8 @@
           "pos": "n",
           "ipa_uk": "/bred/",
           "ipa_us": "/bred/",
+          "audio_uk": "audio/uk/bread.mp3",
+          "audio_us": "audio/us/bread.mp3",
           "meaning": "bánh mì",
           "example": "I'd like some bread."
         },
@@ -1382,6 +1678,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtʃɪkɪn/",
           "ipa_us": "/ˈtʃɪkən/",
+          "audio_uk": "audio/uk/chicken.mp3",
+          "audio_us": "audio/us/chicken.mp3",
           "meaning": "thịt gà",
           "example": "I'd like some chicken, please."
         },
@@ -1390,6 +1688,8 @@
           "pos": "n",
           "ipa_uk": "/eɡ/",
           "ipa_us": "/eɡ/",
+          "audio_uk": "audio/uk/egg.mp3",
+          "audio_us": "audio/us/egg.mp3",
           "meaning": "quả trứng",
           "example": "I'd like some eggs, please."
         },
@@ -1398,6 +1698,8 @@
           "pos": "n",
           "ipa_uk": "/fɪʃ/",
           "ipa_us": "/fɪʃ/",
+          "audio_uk": "audio/uk/fish.mp3",
+          "audio_us": "audio/us/fish.mp3",
           "meaning": "cá",
           "example": "Would you like some fish?"
         },
@@ -1406,6 +1708,8 @@
           "pos": "n",
           "ipa_uk": "/miːt/",
           "ipa_us": "/miːt/",
+          "audio_uk": "audio/uk/meat.mp3",
+          "audio_us": "audio/us/meat.mp3",
           "meaning": "thịt",
           "example": "Would you like some meat?"
         },
@@ -1414,6 +1718,8 @@
           "pos": "n",
           "ipa_uk": "/raɪs/",
           "ipa_us": "/raɪs/",
+          "audio_uk": "audio/uk/rice.mp3",
+          "audio_us": "audio/us/rice.mp3",
           "meaning": "cơm, gạo",
           "example": "I'd like some rice."
         },
@@ -1422,6 +1728,8 @@
           "pos": "n",
           "ipa_uk": "/mɪlk/",
           "ipa_us": "/mɪlk/",
+          "audio_uk": "audio/uk/milk.mp3",
+          "audio_us": "audio/us/milk.mp3",
           "meaning": "sữa",
           "example": "Would you like some milk?"
         },
@@ -1430,6 +1738,8 @@
           "pos": "n",
           "ipa_uk": "/dʒuːs/",
           "ipa_us": "/dʒuːs/",
+          "audio_uk": "audio/uk/juice.mp3",
+          "audio_us": "audio/us/juice.mp3",
           "meaning": "nước ép",
           "example": "Would you like some juice?"
         },
@@ -1438,6 +1748,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɔːtə(r)/",
           "ipa_us": "/ˈwɑːtɚ/",
+          "audio_uk": "audio/uk/water.mp3",
+          "audio_us": "audio/us/water.mp3",
           "meaning": "nước",
           "example": "I'd like some water."
         },
@@ -1446,6 +1758,8 @@
           "pos": "phr",
           "ipa_uk": "/wʊd juː ˈlaɪk səm/",
           "ipa_us": "/wʊd juː ˈlaɪk səm .../",
+          "audio_uk": "audio/uk/would-you-like-some.mp3",
+          "audio_us": "audio/us/would-you-like-some.mp3",
           "meaning": "bạn có muốn dùng một ít ... không?",
           "example": "Would you like some juice? – Yes, please."
         },
@@ -1454,6 +1768,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌjes ˈpliːz/",
           "ipa_us": "/ˌjes ˈpliːz/",
+          "audio_uk": "audio/uk/yes-please.mp3",
+          "audio_us": "audio/us/yes-please.mp3",
           "meaning": "vâng, cho mình xin",
           "example": "Would you like some beans? – Yes, please."
         },
@@ -1462,6 +1778,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌnəʊ ˈθæŋks/",
           "ipa_us": "/ˌnoʊ ˈθæŋks/",
+          "audio_uk": "audio/uk/no-thanks.mp3",
+          "audio_us": "audio/us/no-thanks.mp3",
           "meaning": "không, cảm ơn",
           "example": "Would you like some fish? – No, thanks."
         },
@@ -1470,6 +1788,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒt wʊd juː ˈlaɪk tə ˈiːt/",
           "ipa_us": "/ˌwʌt wʊd juː ˈlaɪk tə ˈiːt/",
+          "audio_uk": "audio/uk/what-would-you-like-to-eat.mp3",
+          "audio_us": "audio/us/what-would-you-like-to-eat.mp3",
           "meaning": "bạn muốn ăn gì?",
           "example": "What would you like to eat? – I'd like some eggs."
         }
@@ -1491,6 +1811,8 @@
           "pos": "n",
           "ipa_uk": "/pet/",
           "ipa_us": "/pet/",
+          "audio_uk": "audio/uk/pet.mp3",
+          "audio_us": "audio/us/pet.mp3",
           "meaning": "thú cưng",
           "example": "How many pets do you have?"
         },
@@ -1499,6 +1821,8 @@
           "pos": "n",
           "ipa_uk": "/dɒɡ/",
           "ipa_us": "/dɑːɡ/",
+          "audio_uk": "audio/uk/dog.mp3",
+          "audio_us": "audio/us/dog.mp3",
           "meaning": "con chó",
           "example": "I have two dogs."
         },
@@ -1507,6 +1831,8 @@
           "pos": "n",
           "ipa_uk": "/kæt/",
           "ipa_us": "/kæt/",
+          "audio_uk": "audio/uk/cat.mp3",
+          "audio_us": "audio/us/cat.mp3",
           "meaning": "con mèo",
           "example": "I have a cat."
         },
@@ -1515,6 +1841,8 @@
           "pos": "n",
           "ipa_uk": "/bɜːd/",
           "ipa_us": "/bɝːd/",
+          "audio_uk": "audio/uk/bird.mp3",
+          "audio_us": "audio/us/bird.mp3",
           "meaning": "con chim",
           "example": "I have some birds."
         },
@@ -1523,6 +1851,8 @@
           "pos": "n",
           "ipa_uk": "/ˈræbɪt/",
           "ipa_us": "/ˈræbɪt/",
+          "audio_uk": "audio/uk/rabbit.mp3",
+          "audio_us": "audio/us/rabbit.mp3",
           "meaning": "con thỏ",
           "example": "I have three rabbits."
         },
@@ -1531,6 +1861,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpærət/",
           "ipa_us": "/ˈperət/",
+          "audio_uk": "audio/uk/parrot.mp3",
+          "audio_us": "audio/us/parrot.mp3",
           "meaning": "con vẹt",
           "example": "How many parrots do you have?"
         },
@@ -1539,6 +1871,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡəʊldfɪʃ/",
           "ipa_us": "/ˈɡoʊldfɪʃ/",
+          "audio_uk": "audio/uk/goldfish.mp3",
+          "audio_us": "audio/us/goldfish.mp3",
           "meaning": "cá vàng",
           "example": "I have two goldfish."
         },
@@ -1547,6 +1881,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtɜːtl/",
           "ipa_us": "/ˈtɝːtəl/",
+          "audio_uk": "audio/uk/turtle.mp3",
+          "audio_us": "audio/us/turtle.mp3",
           "meaning": "con rùa",
           "example": "I have a turtle."
         },
@@ -1555,6 +1891,8 @@
           "pos": "det",
           "ipa_uk": "/ˈmeni/",
           "ipa_us": "/ˈmeni/",
+          "audio_uk": "audio/uk/many.mp3",
+          "audio_us": "audio/us/many.mp3",
           "meaning": "nhiều",
           "example": "I have many birds."
         },
@@ -1563,6 +1901,8 @@
           "pos": "det",
           "ipa_uk": "/sʌm/",
           "ipa_us": "/sʌm/",
+          "audio_uk": "audio/uk/some.mp3",
+          "audio_us": "audio/us/some.mp3",
           "meaning": "một vài, một ít",
           "example": "I have some parrots."
         },
@@ -1571,6 +1911,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌhaʊ ˈmeni ... də juː ˈhæv/",
           "ipa_us": "/ˌhaʊ ˈmeni ... duː juː ˈhæv/",
+          "audio_uk": "audio/uk/how-many-do-you-have.mp3",
+          "audio_us": "audio/us/how-many-do-you-have.mp3",
           "meaning": "bạn có bao nhiêu ...?",
           "example": "How many dogs do you have?"
         }
@@ -1592,6 +1934,8 @@
           "pos": "n",
           "ipa_uk": "/tɔɪ/",
           "ipa_us": "/tɔɪ/",
+          "audio_uk": "audio/uk/toy.mp3",
+          "audio_us": "audio/us/toy.mp3",
           "meaning": "đồ chơi",
           "example": "These are our toys."
         },
@@ -1600,6 +1944,8 @@
           "pos": "n",
           "ipa_uk": "/dɒl/",
           "ipa_us": "/dɑːl/",
+          "audio_uk": "audio/uk/doll.mp3",
+          "audio_us": "audio/us/doll.mp3",
           "meaning": "búp bê",
           "example": "She has a doll."
         },
@@ -1608,6 +1954,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtedi beə(r)/",
           "ipa_us": "/ˈtedi ber/",
+          "audio_uk": "audio/uk/teddy-bear.mp3",
+          "audio_us": "audio/us/teddy-bear.mp3",
           "meaning": "gấu bông",
           "example": "He has a teddy bear."
         },
@@ -1616,6 +1964,8 @@
           "pos": "n",
           "ipa_uk": "/ˈrəʊbɒt/",
           "ipa_us": "/ˈroʊbɑːt/",
+          "audio_uk": "audio/uk/robot.mp3",
+          "audio_us": "audio/us/robot.mp3",
           "meaning": "người máy, rô-bốt",
           "example": "I have a robot."
         },
@@ -1624,6 +1974,8 @@
           "pos": "n",
           "ipa_uk": "/bɔːl/",
           "ipa_us": "/bɑːl/",
+          "audio_uk": "audio/uk/ball.mp3",
+          "audio_us": "audio/us/ball.mp3",
           "meaning": "quả bóng",
           "example": "He has two balls."
         },
@@ -1632,6 +1984,8 @@
           "pos": "n",
           "ipa_uk": "/kaɪt/",
           "ipa_us": "/kaɪt/",
+          "audio_uk": "audio/uk/kite.mp3",
+          "audio_us": "audio/us/kite.mp3",
           "meaning": "con diều",
           "example": "She has a kite."
         },
@@ -1640,6 +1994,8 @@
           "pos": "n",
           "ipa_uk": "/kɑː(r)/",
           "ipa_us": "/kɑːr/",
+          "audio_uk": "audio/uk/car.mp3",
+          "audio_us": "audio/us/car.mp3",
           "meaning": "ô tô",
           "example": "He has a car."
         },
@@ -1648,6 +2004,8 @@
           "pos": "n",
           "ipa_uk": "/pleɪn/",
           "ipa_us": "/pleɪn/",
+          "audio_uk": "audio/uk/plane.mp3",
+          "audio_us": "audio/us/plane.mp3",
           "meaning": "máy bay",
           "example": "He has three planes."
         },
@@ -1656,6 +2014,8 @@
           "pos": "n",
           "ipa_uk": "/ʃɪp/",
           "ipa_us": "/ʃɪp/",
+          "audio_uk": "audio/uk/ship.mp3",
+          "audio_us": "audio/us/ship.mp3",
           "meaning": "tàu thủy",
           "example": "They have two ships."
         },
@@ -1664,6 +2024,8 @@
           "pos": "n",
           "ipa_uk": "/treɪn/",
           "ipa_us": "/treɪn/",
+          "audio_uk": "audio/uk/train.mp3",
+          "audio_us": "audio/us/train.mp3",
           "meaning": "tàu hỏa",
           "example": "They have four trains."
         },
@@ -1672,6 +2034,8 @@
           "pos": "n",
           "ipa_uk": "/trʌk/",
           "ipa_us": "/trʌk/",
+          "audio_uk": "audio/uk/truck.mp3",
+          "audio_us": "audio/us/truck.mp3",
           "meaning": "xe tải",
           "example": "They have five trucks."
         }
@@ -1693,6 +2057,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒt ɑː juː ˈduːɪŋ/",
           "ipa_us": "/ˌwʌt ɑːr juː ˈduːɪŋ/",
+          "audio_uk": "audio/uk/what-are-you-doing.mp3",
+          "audio_us": "audio/us/what-are-you-doing.mp3",
           "meaning": "bạn đang làm gì?",
           "example": "What are you doing? – I'm reading."
         },
@@ -1701,6 +2067,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈbæskətbɑːl/",
+          "audio_uk": "audio/uk/play-basketball.mp3",
+          "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
           "example": "I'm playing basketball."
         },
@@ -1709,6 +2077,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌdrɔː ə ˈpɪktʃə(r)/",
           "ipa_us": "/ˌdrɑː ə ˈpɪktʃɚ/",
+          "audio_uk": "audio/uk/draw-a-picture.mp3",
+          "audio_us": "audio/us/draw-a-picture.mp3",
           "meaning": "vẽ tranh",
           "example": "I'm drawing a picture."
         },
@@ -1717,6 +2087,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒtʃ ˌtiː ˈviː/",
           "ipa_us": "/ˌwɑːtʃ ˌtiː ˈviː/",
+          "audio_uk": "audio/uk/watch-tv.mp3",
+          "audio_us": "audio/us/watch-tv.mp3",
           "meaning": "xem ti vi",
           "example": "I'm watching TV."
         },
@@ -1725,6 +2097,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌlɪsn tə ˈmjuːzɪk/",
           "ipa_us": "/ˌlɪsən tə ˈmjuːzɪk/",
+          "audio_uk": "audio/uk/listen-to-music.mp3",
+          "audio_us": "audio/us/listen-to-music.mp3",
           "meaning": "nghe nhạc",
           "example": "I'm listening to music."
         },
@@ -1733,6 +2107,8 @@
           "pos": "v",
           "ipa_uk": "/dɑːns/",
           "ipa_us": "/dæns/",
+          "audio_uk": "audio/uk/dance.mp3",
+          "audio_us": "audio/us/dance.mp3",
           "meaning": "nhảy, múa",
           "example": "She's dancing."
         },
@@ -1741,6 +2117,8 @@
           "pos": "v",
           "ipa_uk": "/riːd/",
           "ipa_us": "/riːd/",
+          "audio_uk": "audio/uk/read.mp3",
+          "audio_us": "audio/us/read.mp3",
           "meaning": "đọc",
           "example": "He's reading."
         },
@@ -1749,6 +2127,8 @@
           "pos": "v",
           "ipa_uk": "/sɪŋ/",
           "ipa_us": "/sɪŋ/",
+          "audio_uk": "audio/uk/sing.mp3",
+          "audio_us": "audio/us/sing.mp3",
           "meaning": "hát",
           "example": "They're singing."
         },
@@ -1757,6 +2137,8 @@
           "pos": "v",
           "ipa_uk": "/raɪt/",
           "ipa_us": "/raɪt/",
+          "audio_uk": "audio/uk/write.mp3",
+          "audio_us": "audio/us/write.mp3",
           "meaning": "viết",
           "example": "I'm writing."
         },
@@ -1765,6 +2147,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmjuːzɪk ruːm/",
           "ipa_us": "/ˈmjuːzɪk ruːm/",
+          "audio_uk": "audio/uk/music-room.mp3",
+          "audio_us": "audio/us/music-room.mp3",
           "meaning": "phòng âm nhạc",
           "example": "I'm in the music room."
         }
@@ -1786,6 +2170,8 @@
           "pos": "n",
           "ipa_uk": "/ˌaʊtdɔːr ækˈtɪvəti/",
           "ipa_us": "/ˌaʊtdɔːr ækˈtɪvəti/",
+          "audio_uk": "audio/uk/outdoor-activity.mp3",
+          "audio_us": "audio/us/outdoor-activity.mp3",
           "meaning": "hoạt động ngoài trời"
         },
         {
@@ -1793,6 +2179,8 @@
           "pos": "v",
           "ipa_uk": "/ˈsaɪkl/",
           "ipa_us": "/ˈsaɪkəl/",
+          "audio_uk": "audio/uk/cycle.mp3",
+          "audio_us": "audio/us/cycle.mp3",
           "meaning": "đạp xe",
           "example": "She's cycling."
         },
@@ -1801,6 +2189,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌflaɪ ə ˈkaɪt/",
           "ipa_us": "/ˌflaɪ ə ˈkaɪt/",
+          "audio_uk": "audio/uk/fly-a-kite.mp3",
+          "audio_us": "audio/us/fly-a-kite.mp3",
           "meaning": "thả diều",
           "example": "He's flying a kite."
         },
@@ -1809,6 +2199,8 @@
           "pos": "v",
           "ipa_uk": "/skeɪt/",
           "ipa_us": "/skeɪt/",
+          "audio_uk": "audio/uk/skate.mp3",
+          "audio_us": "audio/us/skate.mp3",
           "meaning": "trượt pa-tanh",
           "example": "He's skating."
         },
@@ -1817,6 +2209,8 @@
           "pos": "v",
           "ipa_uk": "/skɪp/",
           "ipa_us": "/skɪp/",
+          "audio_uk": "audio/uk/skip.mp3",
+          "audio_us": "audio/us/skip.mp3",
           "meaning": "nhảy dây",
           "example": "She's skipping."
         },
@@ -1825,6 +2219,8 @@
           "pos": "v",
           "ipa_uk": "/wɔːk/",
           "ipa_us": "/wɑːk/",
+          "audio_uk": "audio/uk/walk.mp3",
+          "audio_us": "audio/us/walk.mp3",
           "meaning": "đi bộ",
           "example": "They're walking."
         },
@@ -1833,6 +2229,8 @@
           "pos": "v",
           "ipa_uk": "/rʌn/",
           "ipa_us": "/rʌn/",
+          "audio_uk": "audio/uk/run.mp3",
+          "audio_us": "audio/us/run.mp3",
           "meaning": "chạy",
           "example": "He's running."
         },
@@ -1841,6 +2239,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈfʊtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈfʊtbɑːl/",
+          "audio_uk": "audio/uk/play-football.mp3",
+          "audio_us": "audio/us/play-football.mp3",
           "meaning": "chơi bóng đá",
           "example": "They're playing football."
         },
@@ -1849,6 +2249,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbædmɪntən/",
           "ipa_us": "/ˌpleɪ ˈbædmɪntən/",
+          "audio_uk": "audio/uk/play-badminton.mp3",
+          "audio_us": "audio/us/play-badminton.mp3",
           "meaning": "chơi cầu lông",
           "example": "She's playing badminton."
         },
@@ -1857,6 +2259,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts hi ˈduːɪŋ/",
           "ipa_us": "/ˌwʌts hiː ˈduːɪŋ/",
+          "audio_uk": "audio/uk/what-s-he-doing.mp3",
+          "audio_us": "audio/us/what-s-he-doing.mp3",
           "meaning": "bạn ấy (nam) đang làm gì?",
           "example": "What's he doing? – He's skating."
         },
@@ -1865,6 +2269,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts ʃi ˈduːɪŋ/",
           "ipa_us": "/ˌwʌts ʃiː ˈduːɪŋ/",
+          "audio_uk": "audio/uk/what-s-she-doing.mp3",
+          "audio_us": "audio/us/what-s-she-doing.mp3",
           "meaning": "bạn ấy (nữ) đang làm gì?",
           "example": "What's she doing? – She's cycling."
         }
@@ -1887,6 +2293,8 @@
           "pos": "n",
           "ipa_uk": "/zuː/",
           "ipa_us": "/zuː/",
+          "audio_uk": "audio/uk/zoo.mp3",
+          "audio_us": "audio/us/zoo.mp3",
           "meaning": "vườn thú",
           "example": "We're at the zoo."
         },
@@ -1895,6 +2303,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtaɪɡə(r)/",
           "ipa_us": "/ˈtaɪɡɚ/",
+          "audio_uk": "audio/uk/tiger.mp3",
+          "audio_us": "audio/us/tiger.mp3",
           "meaning": "con hổ",
           "example": "I can see a tiger."
         },
@@ -1903,6 +2313,8 @@
           "pos": "n",
           "ipa_uk": "/hɔːs/",
           "ipa_us": "/hɔːrs/",
+          "audio_uk": "audio/uk/horse.mp3",
+          "audio_us": "audio/us/horse.mp3",
           "meaning": "con ngựa",
           "example": "I can see a horse."
         },
@@ -1911,6 +2323,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌŋki/",
           "ipa_us": "/ˈmʌŋki/",
+          "audio_uk": "audio/uk/monkey.mp3",
+          "audio_us": "audio/us/monkey.mp3",
           "meaning": "con khỉ",
           "example": "The monkey is swinging."
         },
@@ -1919,6 +2333,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpiːkɒk/",
           "ipa_us": "/ˈpiːkɑːk/",
+          "audio_uk": "audio/uk/peacock.mp3",
+          "audio_us": "audio/us/peacock.mp3",
           "meaning": "con công",
           "example": "I can see a peacock."
         },
@@ -1927,6 +2343,8 @@
           "pos": "n",
           "ipa_uk": "/ˈelɪfənt/",
           "ipa_us": "/ˈeləfənt/",
+          "audio_uk": "audio/uk/elephant.mp3",
+          "audio_us": "audio/us/elephant.mp3",
           "meaning": "con voi",
           "example": "The elephant is counting."
         },
@@ -1935,6 +2353,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpærət/",
           "ipa_us": "/ˈperət/",
+          "audio_uk": "audio/uk/parrot.mp3",
+          "audio_us": "audio/us/parrot.mp3",
           "meaning": "con vẹt",
           "example": "The parrot is dancing."
         },
@@ -1943,6 +2363,8 @@
           "pos": "v",
           "ipa_uk": "/klaɪm/",
           "ipa_us": "/klaɪm/",
+          "audio_uk": "audio/uk/climb.mp3",
+          "audio_us": "audio/us/climb.mp3",
           "meaning": "leo, trèo",
           "example": "The monkey is climbing."
         },
@@ -1951,6 +2373,8 @@
           "pos": "v",
           "ipa_uk": "/kaʊnt/",
           "ipa_us": "/kaʊnt/",
+          "audio_uk": "audio/uk/count.mp3",
+          "audio_us": "audio/us/count.mp3",
           "meaning": "đếm",
           "example": "The elephant is counting."
         },
@@ -1959,6 +2383,8 @@
           "pos": "v",
           "ipa_uk": "/dɑːns/",
           "ipa_us": "/dæns/",
+          "audio_uk": "audio/uk/dance.mp3",
+          "audio_us": "audio/us/dance.mp3",
           "meaning": "nhảy múa",
           "example": "The peacock is dancing."
         },
@@ -1967,6 +2393,8 @@
           "pos": "v",
           "ipa_uk": "/swɪŋ/",
           "ipa_us": "/swɪŋ/",
+          "audio_uk": "audio/uk/swing.mp3",
+          "audio_us": "audio/us/swing.mp3",
           "meaning": "đu, đung đưa",
           "example": "The monkey is swinging."
         }

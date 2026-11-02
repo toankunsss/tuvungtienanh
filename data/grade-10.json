@@ -23,6 +23,8 @@
           "pos": "n",
           "ipa_uk": "/əˈtʃiːvmənt/",
           "ipa_us": "/əˈtʃiːvmənt/",
+          "audio_uk": "audio/uk/achievement.mp3",
+          "audio_us": "audio/us/achievement.mp3",
           "meaning": "thành tựu"
         },
         {
@@ -30,6 +32,8 @@
           "pos": "v",
           "ipa_uk": "/əˈpriːʃieɪt/",
           "ipa_us": "/əˈpriːʃieɪt/",
+          "audio_uk": "audio/uk/appreciate.mp3",
+          "audio_us": "audio/us/appreciate.mp3",
           "meaning": "biết ơn, trân trọng"
         },
         {
@@ -37,6 +41,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbenɪfɪt/",
           "ipa_us": "/ˈbenəfɪt/",
+          "audio_uk": "audio/uk/benefit.mp3",
+          "audio_us": "audio/us/benefit.mp3",
           "meaning": "lợi ích"
         },
         {
@@ -44,6 +50,8 @@
           "pos": "n",
           "ipa_uk": "/bɒnd/",
           "ipa_us": "/bɑːnd/",
+          "audio_uk": "audio/uk/bond.mp3",
+          "audio_us": "audio/us/bond.mp3",
           "meaning": "sự gắn bó, mối liên kết"
         },
         {
@@ -51,6 +59,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbredwɪnə(r)/",
           "ipa_us": "/ˈbredwɪnɚ/",
+          "audio_uk": "audio/uk/breadwinner.mp3",
+          "audio_us": "audio/us/breadwinner.mp3",
           "meaning": "trụ cột gia đình, người kiếm tiền nuôi gia đình",
           "example": "My father is the breadwinner of the family."
         },
@@ -59,6 +69,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkærəktə(r)/",
           "ipa_us": "/ˈkerɪktɚ/",
+          "audio_uk": "audio/uk/character-n.mp3",
+          "audio_us": "audio/us/character-n.mp3",
           "meaning": "tính cách"
         },
         {
@@ -66,6 +78,8 @@
           "pos": "n",
           "ipa_uk": "/tʃɔː(r)/",
           "ipa_us": "/tʃɔːr/",
+          "audio_uk": "audio/uk/chore.mp3",
+          "audio_us": "audio/us/chore.mp3",
           "meaning": "việc nhà, việc vặt"
         },
         {
@@ -73,6 +87,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌkliːn ðə ˈhaʊs/",
           "ipa_us": "/ˌkliːn ðə ˈhaʊs/",
+          "audio_uk": "audio/uk/clean-the-house.mp3",
+          "audio_us": "audio/us/clean-the-house.mp3",
           "meaning": "lau dọn nhà cửa"
         },
         {
@@ -80,6 +96,8 @@
           "pos": "v",
           "ipa_uk": "/kənˈtrɪbjuːt/",
           "ipa_us": "/kənˈtrɪbjuːt/",
+          "audio_uk": "audio/uk/contribute.mp3",
+          "audio_us": "audio/us/contribute.mp3",
           "meaning": "đóng góp"
         },
         {
@@ -87,6 +105,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈkrɪtɪkl/",
           "ipa_us": "/ˈkrɪtɪkəl/",
+          "audio_uk": "audio/uk/critical.mp3",
+          "audio_us": "audio/us/critical.mp3",
           "meaning": "hay phê phán, chỉ trích; khó tính"
         },
         {
@@ -94,6 +114,8 @@
           "pos": "v",
           "ipa_uk": "/ˈdæmɪdʒ/",
           "ipa_us": "/ˈdæmɪdʒ/",
+          "audio_uk": "audio/uk/damage.mp3",
+          "audio_us": "audio/us/damage.mp3",
           "meaning": "làm hỏng, gây hại"
         },
         {
@@ -101,6 +123,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌduː ðə ˈkʊkɪŋ/",
           "ipa_us": "/ˌduː ðə ˈkʊkɪŋ/",
+          "audio_uk": "audio/uk/do-the-cooking.mp3",
+          "audio_us": "audio/us/do-the-cooking.mp3",
           "meaning": "nấu ăn"
         },
         {
@@ -108,6 +132,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌduː ðə ˈlɔːndri/",
           "ipa_us": "/ˌduː ðə ˈlɑːndri/",
+          "audio_uk": "audio/uk/do-the-laundry.mp3",
+          "audio_us": "audio/us/do-the-laundry.mp3",
           "meaning": "giặt giũ"
         },
         {
@@ -115,6 +141,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌduː ðə ˈʃɒpɪŋ/",
           "ipa_us": "/ˌduː ðə ˈʃɑːpɪŋ/",
+          "audio_uk": "audio/uk/do-the-shopping.mp3",
+          "audio_us": "audio/us/do-the-shopping.mp3",
           "meaning": "đi chợ, mua sắm"
         },
         {
@@ -122,6 +150,8 @@
           "pos": "n",
           "ipa_uk": "/ɪkˌstendɪd ˈfæməli/",
           "ipa_us": "/ɪkˌstendɪd ˈfæməli/",
+          "audio_uk": "audio/uk/extended-family.mp3",
+          "audio_us": "audio/us/extended-family.mp3",
           "meaning": "gia đình nhiều thế hệ"
         },
         {
@@ -129,6 +159,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡrætɪtjuːd/",
           "ipa_us": "/ˈɡrætətuːd/",
+          "audio_uk": "audio/uk/gratitude.mp3",
+          "audio_us": "audio/us/gratitude.mp3",
           "meaning": "lòng biết ơn"
         },
         {
@@ -136,6 +168,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡrəʊsəri/",
           "ipa_us": "/ˈɡroʊsɚi/",
+          "audio_uk": "audio/uk/grocery.mp3",
+          "audio_us": "audio/us/grocery.mp3",
           "meaning": "thực phẩm và tạp hóa"
         },
         {
@@ -143,6 +177,8 @@
           "pos": "n",
           "ipa_uk": "/ˌhevi ˈlɪftɪŋ/",
           "ipa_us": "/ˌhevi ˈlɪftɪŋ/",
+          "audio_uk": "audio/uk/heavy-lifting.mp3",
+          "audio_us": "audio/us/heavy-lifting.mp3",
           "meaning": "việc mang vác nặng"
         },
         {
@@ -150,6 +186,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhəʊmmeɪkə(r)/",
           "ipa_us": "/ˈhoʊmmeɪkɚ/",
+          "audio_uk": "audio/uk/homemaker.mp3",
+          "audio_us": "audio/us/homemaker.mp3",
           "meaning": "người nội trợ"
         },
         {
@@ -157,6 +195,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhaʊswɜːk/",
           "ipa_us": "/ˈhaʊswɝːk/",
+          "audio_uk": "audio/uk/housework.mp3",
+          "audio_us": "audio/us/housework.mp3",
           "meaning": "việc nhà"
         },
         {
@@ -164,6 +204,8 @@
           "pos": "v",
           "ipa_uk": "/ˈaɪən/",
           "ipa_us": "/ˈaɪɚn/",
+          "audio_uk": "audio/uk/iron.mp3",
+          "audio_us": "audio/us/iron.mp3",
           "meaning": "là, ủi (quần áo)"
         },
         {
@@ -171,6 +213,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɔːndri/",
           "ipa_us": "/ˈlɑːndri/",
+          "audio_uk": "audio/uk/laundry.mp3",
+          "audio_us": "audio/us/laundry.mp3",
           "meaning": "quần áo cần giặt; việc giặt là"
         },
         {
@@ -178,6 +222,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌleɪ ðə ˈteɪbl/",
           "ipa_us": "/ˌleɪ ðə ˈteɪbəl/",
+          "audio_uk": "audio/uk/lay-the-table.mp3",
+          "audio_us": "audio/us/lay-the-table.mp3",
           "meaning": "dọn bàn ăn, bày bát đũa"
         },
         {
@@ -185,6 +231,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmænə(r)/",
           "ipa_us": "/ˈmænɚ/",
+          "audio_uk": "audio/uk/manner.mp3",
+          "audio_us": "audio/us/manner.mp3",
           "meaning": "tác phong, cách cư xử"
         },
         {
@@ -192,6 +240,8 @@
           "pos": "v",
           "ipa_uk": "/mɒp/",
           "ipa_us": "/mɑːp/",
+          "audio_uk": "audio/uk/mop.mp3",
+          "audio_us": "audio/us/mop.mp3",
           "meaning": "lau (nhà) bằng cây lau nhà"
         },
         {
@@ -199,6 +249,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌməʊ ðə ˈlɔːn/",
           "ipa_us": "/ˌmoʊ ðə ˈlɑːn/",
+          "audio_uk": "audio/uk/mow-the-lawn.mp3",
+          "audio_us": "audio/us/mow-the-lawn.mp3",
           "meaning": "cắt cỏ"
         },
         {
@@ -206,6 +258,8 @@
           "pos": "n",
           "ipa_uk": "/ˌnjuːkliə ˈfæməli/",
           "ipa_us": "/ˌnuːkliɚ ˈfæməli/",
+          "audio_uk": "audio/uk/nuclear-family.mp3",
+          "audio_us": "audio/us/nuclear-family.mp3",
           "meaning": "gia đình hạt nhân (bố mẹ và con cái)"
         },
         {
@@ -213,6 +267,8 @@
           "pos": "v",
           "ipa_uk": "/ˈnɜːtʃə(r)/",
           "ipa_us": "/ˈnɝːtʃɚ/",
+          "audio_uk": "audio/uk/nurture.mp3",
+          "audio_us": "audio/us/nurture.mp3",
           "meaning": "nuôi dưỡng"
         },
         {
@@ -220,6 +276,8 @@
           "pos": "phr v",
           "ipa_uk": "/pʊt ˈaʊt/",
           "ipa_us": "/pʊt ˈaʊt/",
+          "audio_uk": "audio/uk/put-out.mp3",
+          "audio_us": "audio/us/put-out.mp3",
           "meaning": "mang (rác) ra ngoài để vứt"
         },
         {
@@ -227,6 +285,8 @@
           "pos": "v",
           "ipa_uk": "/reɪz/",
           "ipa_us": "/reɪz/",
+          "audio_uk": "audio/uk/raise.mp3",
+          "audio_us": "audio/us/raise.mp3",
           "meaning": "nuôi nấng"
         },
         {
@@ -234,6 +294,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˌspɒnsəˈbɪləti/",
           "ipa_us": "/riˌspɑːnsəˈbɪləti/",
+          "audio_uk": "audio/uk/responsibility.mp3",
+          "audio_us": "audio/us/responsibility.mp3",
           "meaning": "trách nhiệm"
         },
         {
@@ -241,6 +303,8 @@
           "pos": "n",
           "ipa_uk": "/ruːˈtiːn/",
           "ipa_us": "/ruːˈtiːn/",
+          "audio_uk": "audio/uk/routine.mp3",
+          "audio_us": "audio/us/routine.mp3",
           "meaning": "lệ thường, công việc hằng ngày"
         },
         {
@@ -248,6 +312,8 @@
           "pos": "n",
           "ipa_uk": "/ˈrʌbɪʃ/",
           "ipa_us": "/ˈrʌbɪʃ/",
+          "audio_uk": "audio/uk/rubbish.mp3",
+          "audio_us": "audio/us/rubbish.mp3",
           "meaning": "rác"
         },
         {
@@ -255,6 +321,8 @@
           "pos": "adv",
           "ipa_uk": "/ˈspɒtləsli/",
           "ipa_us": "/ˈspɑːtləsli/",
+          "audio_uk": "audio/uk/spotlessly.mp3",
+          "audio_us": "audio/us/spotlessly.mp3",
           "meaning": "sạch bong, không tì vết"
         },
         {
@@ -262,6 +330,8 @@
           "pos": "v",
           "ipa_uk": "/ˈstreŋkθn/",
           "ipa_us": "/ˈstreŋθən/",
+          "audio_uk": "audio/uk/strengthen.mp3",
+          "audio_us": "audio/us/strengthen.mp3",
           "meaning": "củng cố, làm vững mạnh thêm"
         },
         {
@@ -269,6 +339,8 @@
           "pos": "v",
           "ipa_uk": "/səˈpɔːt/",
           "ipa_us": "/səˈpɔːrt/",
+          "audio_uk": "audio/uk/support.mp3",
+          "audio_us": "audio/us/support.mp3",
           "meaning": "ủng hộ, hỗ trợ"
         },
         {
@@ -276,6 +348,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈtruːθfl/",
           "ipa_us": "/ˈtruːθfəl/",
+          "audio_uk": "audio/uk/truthful.mp3",
+          "audio_us": "audio/us/truthful.mp3",
           "meaning": "trung thực"
         },
         {
@@ -283,6 +357,8 @@
           "pos": "n",
           "ipa_uk": "/ˈvæljuː/",
           "ipa_us": "/ˈvæljuː/",
+          "audio_uk": "audio/uk/value.mp3",
+          "audio_us": "audio/us/value.mp3",
           "meaning": "giá trị"
         },
         {
@@ -290,6 +366,8 @@
           "pos": "n",
           "ipa_uk": "/ˌwɒʃɪŋ ˈʌp/",
           "ipa_us": "/ˌwɑːʃɪŋ ˈʌp/",
+          "audio_uk": "audio/uk/washing-up.mp3",
+          "audio_us": "audio/us/washing-up.mp3",
           "meaning": "việc rửa bát đĩa"
         }
       ]
@@ -312,6 +390,8 @@
           "pos": "v",
           "ipa_uk": "/əˈdɒpt/",
           "ipa_us": "/əˈdɑːpt/",
+          "audio_uk": "audio/uk/adopt.mp3",
+          "audio_us": "audio/us/adopt.mp3",
           "meaning": "áp dụng, chấp nhận (lối sống, thói quen)"
         },
         {
@@ -319,6 +399,8 @@
           "pos": "n",
           "ipa_uk": "/əˈplaɪəns/",
           "ipa_us": "/əˈplaɪəns/",
+          "audio_uk": "audio/uk/appliance.mp3",
+          "audio_us": "audio/us/appliance.mp3",
           "meaning": "thiết bị, đồ gia dụng"
         },
         {
@@ -326,6 +408,8 @@
           "pos": "n",
           "ipa_uk": "/əˈweənəs/",
           "ipa_us": "/əˈwernəs/",
+          "audio_uk": "audio/uk/awareness.mp3",
+          "audio_us": "audio/us/awareness.mp3",
           "meaning": "nhận thức, sự hiểu biết"
         },
         {
@@ -333,6 +417,8 @@
           "pos": "phr v",
           "ipa_uk": "/breɪk ˈdaʊn/",
           "ipa_us": "/breɪk ˈdaʊn/",
+          "audio_uk": "audio/uk/break-down.mp3",
+          "audio_us": "audio/us/break-down.mp3",
           "meaning": "phân hủy; hỏng"
         },
         {
@@ -340,6 +426,8 @@
           "pos": "v",
           "ipa_uk": "/ˈkælkjuleɪt/",
           "ipa_us": "/ˈkælkjəleɪt/",
+          "audio_uk": "audio/uk/calculate.mp3",
+          "audio_us": "audio/us/calculate.mp3",
           "meaning": "tính toán"
         },
         {
@@ -347,6 +435,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɑːbən ˈfʊtprɪnt/",
           "ipa_us": "/ˌkɑːrbən ˈfʊtprɪnt/",
+          "audio_uk": "audio/uk/carbon-footprint.mp3",
+          "audio_us": "audio/us/carbon-footprint.mp3",
           "meaning": "lượng khí thải các-bon (do một người/hoạt động tạo ra)"
         },
         {
@@ -354,6 +444,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkemɪkl/",
           "ipa_us": "/ˈkemɪkəl/",
+          "audio_uk": "audio/uk/chemical.mp3",
+          "audio_us": "audio/us/chemical.mp3",
           "meaning": "hóa chất"
         },
         {
@@ -361,6 +453,8 @@
           "pos": "phr v",
           "ipa_uk": "/kliːn ˈʌp/",
           "ipa_us": "/kliːn ˈʌp/",
+          "audio_uk": "audio/uk/clean-up.mp3",
+          "audio_us": "audio/us/clean-up.mp3",
           "meaning": "dọn sạch"
         },
         {
@@ -368,6 +462,8 @@
           "pos": "phr v",
           "ipa_uk": "/kʌt ˈdaʊn/",
           "ipa_us": "/kʌt ˈdaʊn/",
+          "audio_uk": "audio/uk/cut-down.mp3",
+          "audio_us": "audio/us/cut-down.mp3",
           "meaning": "chặt (cây); cắt giảm"
         },
         {
@@ -375,6 +471,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌiːkəʊ ˈfrendli/",
           "ipa_us": "/ˌiːkoʊ ˈfrendli/",
+          "audio_uk": "audio/uk/eco-friendly.mp3",
+          "audio_us": "audio/us/eco-friendly.mp3",
           "meaning": "thân thiện với môi trường"
         },
         {
@@ -382,6 +480,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪˈlektrɪkl/",
           "ipa_us": "/ɪˈlektrɪkəl/",
+          "audio_uk": "audio/uk/electrical.mp3",
+          "audio_us": "audio/us/electrical.mp3",
           "meaning": "(thuộc về) điện"
         },
         {
@@ -389,6 +489,8 @@
           "pos": "n",
           "ipa_uk": "/iˈmɪʃn/",
           "ipa_us": "/ɪˈmɪʃən/",
+          "audio_uk": "audio/uk/emission.mp3",
+          "audio_us": "audio/us/emission.mp3",
           "meaning": "khí thải, sự thải ra"
         },
         {
@@ -396,6 +498,8 @@
           "pos": "v",
           "ipa_uk": "/ɪnˈkʌrɪdʒ/",
           "ipa_us": "/enˈkɝːɪdʒ/",
+          "audio_uk": "audio/uk/encourage.mp3",
+          "audio_us": "audio/us/encourage.mp3",
           "meaning": "khuyến khích"
         },
         {
@@ -403,6 +507,8 @@
           "pos": "n",
           "ipa_uk": "/ˈenədʒi/",
           "ipa_us": "/ˈenɚdʒi/",
+          "audio_uk": "audio/uk/energy.mp3",
+          "audio_us": "audio/us/energy.mp3",
           "meaning": "năng lượng"
         },
         {
@@ -410,6 +516,8 @@
           "pos": "v",
           "ipa_uk": "/ˈestɪmeɪt/",
           "ipa_us": "/ˈestəmeɪt/",
+          "audio_uk": "audio/uk/estimate.mp3",
+          "audio_us": "audio/us/estimate.mp3",
           "meaning": "ước tính"
         },
         {
@@ -417,6 +525,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈɡləʊbl/",
           "ipa_us": "/ˈɡloʊbəl/",
+          "audio_uk": "audio/uk/global.mp3",
+          "audio_us": "audio/us/global.mp3",
           "meaning": "toàn cầu"
         },
         {
@@ -424,6 +534,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɡriːn ˈlɪvɪŋ/",
           "ipa_us": "/ˌɡriːn ˈlɪvɪŋ/",
+          "audio_uk": "audio/uk/green-living.mp3",
+          "audio_us": "audio/us/green-living.mp3",
           "meaning": "lối sống xanh"
         },
         {
@@ -431,6 +543,8 @@
           "pos": "n",
           "ipa_uk": "/ˌhaʊshəʊld əˈplaɪəns/",
           "ipa_us": "/ˌhaʊshoʊld əˈplaɪəns/",
+          "audio_uk": "audio/uk/household-appliance.mp3",
+          "audio_us": "audio/us/household-appliance.mp3",
           "meaning": "đồ gia dụng"
         },
         {
@@ -438,6 +552,8 @@
           "pos": "v",
           "ipa_uk": "/ɪmˈpruːv/",
           "ipa_us": "/ˌɪmˈpruːv/",
+          "audio_uk": "audio/uk/improve.mp3",
+          "audio_us": "audio/us/improve.mp3",
           "meaning": "cải thiện"
         },
         {
@@ -445,6 +561,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪʃuː/",
           "ipa_us": "/ˈɪʃuː/",
+          "audio_uk": "audio/uk/issue.mp3",
+          "audio_us": "audio/us/issue.mp3",
           "meaning": "vấn đề"
         },
         {
@@ -452,6 +570,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪfstaɪl/",
           "ipa_us": "/ˈlaɪfstaɪl/",
+          "audio_uk": "audio/uk/lifestyle.mp3",
+          "audio_us": "audio/us/lifestyle.mp3",
           "meaning": "lối sống"
         },
         {
@@ -459,6 +579,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɪtə(r)/",
           "ipa_us": "/ˈlɪtɚ/",
+          "audio_uk": "audio/uk/litter.mp3",
+          "audio_us": "audio/us/litter.mp3",
           "meaning": "rác (vứt bừa bãi)"
         },
         {
@@ -466,6 +588,8 @@
           "pos": "phr v",
           "ipa_uk": "/set ˈʌp/",
           "ipa_us": "/set ˈʌp/",
+          "audio_uk": "audio/uk/set-up.mp3",
+          "audio_us": "audio/us/set-up.mp3",
           "meaning": "thành lập, thiết lập"
         }
       ]
@@ -489,6 +613,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɔːdiəns/",
           "ipa_us": "/ˈɑːdiəns/",
+          "audio_uk": "audio/uk/audience.mp3",
+          "audio_us": "audio/us/audience.mp3",
           "meaning": "khán giả, thính giả"
         },
         {
@@ -496,6 +622,8 @@
           "pos": "n",
           "ipa_uk": "/kəmˈpəʊzə(r)/",
           "ipa_us": "/kəmˈpoʊzɚ/",
+          "audio_uk": "audio/uk/composer.mp3",
+          "audio_us": "audio/us/composer.mp3",
           "meaning": "nhà soạn nhạc"
         },
         {
@@ -503,6 +631,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfeɪməs/",
           "ipa_us": "/ˈfeɪməs/",
+          "audio_uk": "audio/uk/famous.mp3",
+          "audio_us": "audio/us/famous.mp3",
           "meaning": "nổi tiếng"
         },
         {
@@ -510,6 +640,8 @@
           "pos": "n",
           "ipa_uk": "/fæn/",
           "ipa_us": "/fæn/",
+          "audio_uk": "audio/uk/fan.mp3",
+          "audio_us": "audio/us/fan.mp3",
           "meaning": "người hâm mộ"
         },
         {
@@ -517,6 +649,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfestɪvl/",
           "ipa_us": "/ˈfestɪvəl/",
+          "audio_uk": "audio/uk/festival.mp3",
+          "audio_us": "audio/us/festival.mp3",
           "meaning": "lễ hội"
         },
         {
@@ -524,6 +658,8 @@
           "pos": "v",
           "ipa_uk": "/ˈhezɪteɪt/",
           "ipa_us": "/ˈhezəteɪt/",
+          "audio_uk": "audio/uk/hesitate.mp3",
+          "audio_us": "audio/us/hesitate.mp3",
           "meaning": "do dự, ngập ngừng"
         },
         {
@@ -531,6 +667,8 @@
           "pos": "n",
           "ipa_uk": "/dʒʌdʒ/",
           "ipa_us": "/dʒʌdʒ/",
+          "audio_uk": "audio/uk/judge.mp3",
+          "audio_us": "audio/us/judge.mp3",
           "meaning": "giám khảo"
         },
         {
@@ -538,6 +676,8 @@
           "pos": "n",
           "ipa_uk": "/ˌmjuːzɪkl ˈɪnstrəmənt/",
           "ipa_us": "/ˌmjuːzɪkəl ˈɪnstrəmənt/",
+          "audio_uk": "audio/uk/musical-instrument.mp3",
+          "audio_us": "audio/us/musical-instrument.mp3",
           "meaning": "nhạc cụ"
         },
         {
@@ -545,6 +685,8 @@
           "pos": "n",
           "ipa_uk": "/pɑːˈtɪsɪpənt/",
           "ipa_us": "/pɑːrˈtɪsəpənt/",
+          "audio_uk": "audio/uk/participant.mp3",
+          "audio_us": "audio/us/participant.mp3",
           "meaning": "người tham gia, thí sinh"
         },
         {
@@ -552,6 +694,8 @@
           "pos": "v",
           "ipa_uk": "/pəˈfɔːm/",
           "ipa_us": "/pɚˈfɔːrm/",
+          "audio_uk": "audio/uk/perform.mp3",
+          "audio_us": "audio/us/perform.mp3",
           "meaning": "biểu diễn"
         },
         {
@@ -559,6 +703,8 @@
           "pos": "n",
           "ipa_uk": "/pəˈfɔːməns/",
           "ipa_us": "/pɚˈfɔːrməns/",
+          "audio_uk": "audio/uk/performance.mp3",
+          "audio_us": "audio/us/performance.mp3",
           "meaning": "buổi biểu diễn, màn trình diễn"
         },
         {
@@ -566,6 +712,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈtæləntɪd/",
           "ipa_us": "/ˈtæləntɪd/",
+          "audio_uk": "audio/uk/talented.mp3",
+          "audio_us": "audio/us/talented.mp3",
           "meaning": "có tài, tài năng"
         },
         {
@@ -573,6 +721,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtiːneɪdʒə(r)/",
           "ipa_us": "/ˈtiːneɪdʒɚ/",
+          "audio_uk": "audio/uk/teenager.mp3",
+          "audio_us": "audio/us/teenager.mp3",
           "meaning": "thanh thiếu niên"
         },
         {
@@ -580,6 +730,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtrʌmpɪt/",
           "ipa_us": "/ˈtrʌmpət/",
+          "audio_uk": "audio/uk/trumpet.mp3",
+          "audio_us": "audio/us/trumpet.mp3",
           "meaning": "kèn trumpet"
         }
       ]
@@ -603,6 +755,8 @@
           "pos": "v",
           "ipa_uk": "/ˈbenɪfɪt/",
           "ipa_us": "/ˈbenəfɪt/",
+          "audio_uk": "audio/uk/benefit.mp3",
+          "audio_us": "audio/us/benefit.mp3",
           "meaning": "có lợi, được lợi; giúp ích cho"
         },
         {
@@ -610,6 +764,8 @@
           "pos": "phr",
           "ipa_uk": "/baɪ ˈtʃɑːns/",
           "ipa_us": "/baɪ ˈtʃæns/",
+          "audio_uk": "audio/uk/by-chance.mp3",
+          "audio_us": "audio/us/by-chance.mp3",
           "meaning": "tình cờ"
         },
         {
@@ -617,6 +773,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtʃærəti/",
           "ipa_us": "/ˈtʃerɪti/",
+          "audio_uk": "audio/uk/charity.mp3",
+          "audio_us": "audio/us/charity.mp3",
           "meaning": "tổ chức từ thiện, hội từ thiện"
         },
         {
@@ -624,6 +782,8 @@
           "pos": "n",
           "ipa_uk": "/kəˈmjuːnəti/",
           "ipa_us": "/kəˈmjuːnəti/",
+          "audio_uk": "audio/uk/community.mp3",
+          "audio_us": "audio/us/community.mp3",
           "meaning": "cộng đồng"
         },
         {
@@ -631,6 +791,8 @@
           "pos": "n",
           "ipa_uk": "/kəˌmjuːnəti ˈsɜːvɪs/",
           "ipa_us": "/kəˌmjuːnəti ˈsɝːvɪs/",
+          "audio_uk": "audio/uk/community-service.mp3",
+          "audio_us": "audio/us/community-service.mp3",
           "meaning": "hoạt động phục vụ cộng đồng"
         },
         {
@@ -638,6 +800,8 @@
           "pos": "v",
           "ipa_uk": "/dəʊˈneɪt/",
           "ipa_us": "/ˈdoʊneɪt/",
+          "audio_uk": "audio/uk/donate.mp3",
+          "audio_us": "audio/us/donate.mp3",
           "meaning": "quyên góp, hiến tặng"
         },
         {
@@ -645,6 +809,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈdʒenərəs/",
           "ipa_us": "/ˈdʒenɚəs/",
+          "audio_uk": "audio/uk/generous.mp3",
+          "audio_us": "audio/us/generous.mp3",
           "meaning": "hào phóng, rộng lượng"
         },
         {
@@ -652,6 +818,8 @@
           "pos": "v",
           "ipa_uk": "/ˌɪntərˈækt/",
           "ipa_us": "/ˌɪntəˈrækt/",
+          "audio_uk": "audio/uk/interact.mp3",
+          "audio_us": "audio/us/interact.mp3",
           "meaning": "tương tác"
         },
         {
@@ -659,6 +827,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌnɒn ˈprɒfɪt/",
           "ipa_us": "/ˌnɑːn ˈprɑːfɪt/",
+          "audio_uk": "audio/uk/non-profit.mp3",
+          "audio_us": "audio/us/non-profit.mp3",
           "meaning": "phi lợi nhuận"
         },
         {
@@ -666,6 +836,8 @@
           "pos": "v",
           "ipa_uk": "/reɪz/",
           "ipa_us": "/reɪz/",
+          "audio_uk": "audio/uk/raise.mp3",
+          "audio_us": "audio/us/raise.mp3",
           "meaning": "quyên góp (tiền)",
           "example": "They raised money for poor children."
         },
@@ -674,6 +846,8 @@
           "pos": "adj",
           "ipa_uk": "/rɪˈməʊt/",
           "ipa_us": "/rɪˈmoʊt/",
+          "audio_uk": "audio/uk/remote.mp3",
+          "audio_us": "audio/us/remote.mp3",
           "meaning": "xa xôi, hẻo lánh"
         },
         {
@@ -681,6 +855,8 @@
           "pos": "n",
           "ipa_uk": "/ˌvɒlənˈtɪə(r)/",
           "ipa_us": "/ˌvɑːlənˈtɪr/",
+          "audio_uk": "audio/uk/volunteer.mp3",
+          "audio_us": "audio/us/volunteer.mp3",
           "meaning": "tình nguyện viên"
         }
       ]
@@ -704,6 +880,8 @@
           "pos": "n",
           "ipa_uk": "/ˌθriː ˈdiː ˈprɪntɪŋ/",
           "ipa_us": "/ˌθriː ˈdiː ˈprɪntɪŋ/",
+          "audio_uk": "audio/uk/3d-printing.mp3",
+          "audio_us": "audio/us/3d-printing.mp3",
           "meaning": "công nghệ in 3D"
         },
         {
@@ -711,6 +889,8 @@
           "pos": "n",
           "ipa_uk": "/ədˈvɑːntɪdʒ/",
           "ipa_us": "/ædˈvæntɪdʒ/",
+          "audio_uk": "audio/uk/advantage.mp3",
+          "audio_us": "audio/us/advantage.mp3",
           "meaning": "lợi thế, ưu điểm"
         },
         {
@@ -718,6 +898,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
           "ipa_us": "/ˌɑːrtəˌfɪʃəl ˌɪnˈtelədʒəns/",
+          "audio_uk": "audio/uk/artificial-intelligence.mp3",
+          "audio_us": "audio/us/artificial-intelligence.mp3",
           "meaning": "trí tuệ nhân tạo"
         },
         {
@@ -725,6 +907,8 @@
           "pos": "n",
           "ipa_uk": "/dɪˈvaɪs/",
           "ipa_us": "/dɪˈvaɪs/",
+          "audio_uk": "audio/uk/device.mp3",
+          "audio_us": "audio/us/device.mp3",
           "meaning": "thiết bị"
         },
         {
@@ -732,6 +916,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɪnəˈveɪʃn/",
           "ipa_us": "/ˌɪnəˈveɪʃən/",
+          "audio_uk": "audio/uk/innovation.mp3",
+          "audio_us": "audio/us/innovation.mp3",
           "meaning": "sự đổi mới, sáng kiến"
         },
         {
@@ -739,6 +925,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈɪnəveɪtɪv/",
           "ipa_us": "/ˈɪnəveɪtɪv/",
+          "audio_uk": "audio/uk/innovative.mp3",
+          "audio_us": "audio/us/innovative.mp3",
           "meaning": "đổi mới, sáng tạo"
         },
         {
@@ -746,6 +934,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈvenʃn/",
           "ipa_us": "/ˌɪnˈvenʃən/",
+          "audio_uk": "audio/uk/invention.mp3",
+          "audio_us": "audio/us/invention.mp3",
           "meaning": "sự phát minh, vật phát minh"
         },
         {
@@ -753,6 +943,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈventə(r)/",
           "ipa_us": "/ˌɪnˈventɚ/",
+          "audio_uk": "audio/uk/inventor.mp3",
+          "audio_us": "audio/us/inventor.mp3",
           "meaning": "nhà phát minh"
         },
         {
@@ -760,6 +952,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlæptɒp/",
           "ipa_us": "/ˈlæptɑːp/",
+          "audio_uk": "audio/uk/laptop.mp3",
+          "audio_us": "audio/us/laptop.mp3",
           "meaning": "máy tính xách tay"
         },
         {
@@ -767,6 +961,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpætnt/",
           "ipa_us": "/ˈpætənt/",
+          "audio_uk": "audio/uk/patent.mp3",
+          "audio_us": "audio/us/patent.mp3",
           "meaning": "bằng sáng chế"
         },
         {
@@ -774,6 +970,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈpɔːtəbl/",
           "ipa_us": "/ˈpɔːrtəbəl/",
+          "audio_uk": "audio/uk/portable.mp3",
+          "audio_us": "audio/us/portable.mp3",
           "meaning": "dễ mang theo, xách tay"
         },
         {
@@ -781,6 +979,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɒftweə(r)/",
           "ipa_us": "/ˈsɑːftwer/",
+          "audio_uk": "audio/uk/software.mp3",
+          "audio_us": "audio/us/software.mp3",
           "meaning": "phần mềm"
         }
       ]
@@ -803,6 +1003,8 @@
           "pos": "n",
           "ipa_uk": "/ˈækses/",
           "ipa_us": "/ˈækses/",
+          "audio_uk": "audio/uk/access.mp3",
+          "audio_us": "audio/us/access.mp3",
           "meaning": "sự tiếp cận, quyền tiếp cận"
         },
         {
@@ -810,6 +1012,8 @@
           "pos": "n",
           "ipa_uk": "/əˌsəʊsiˈeɪʃn/",
           "ipa_us": "/əˌsoʊsiˈeɪʃən/",
+          "audio_uk": "audio/uk/association.mp3",
+          "audio_us": "audio/us/association.mp3",
           "meaning": "hiệp hội, đoàn thể"
         },
         {
@@ -817,6 +1021,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈiːkwəl/",
           "ipa_us": "/ˈiːkwəl/",
+          "audio_uk": "audio/uk/equal.mp3",
+          "audio_us": "audio/us/equal.mp3",
           "meaning": "bình đẳng, ngang bằng"
         },
         {
@@ -824,6 +1030,8 @@
           "pos": "n",
           "ipa_uk": "/iˈkwɒləti/",
           "ipa_us": "/ɪˈkwɑːləti/",
+          "audio_uk": "audio/uk/equality.mp3",
+          "audio_us": "audio/us/equality.mp3",
           "meaning": "sự bình đẳng"
         },
         {
@@ -831,6 +1039,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪkˈspɪəriənst/",
           "ipa_us": "/ɪkˈspɪriənst/",
+          "audio_uk": "audio/uk/experienced.mp3",
+          "audio_us": "audio/us/experienced.mp3",
           "meaning": "có kinh nghiệm"
         },
         {
@@ -838,6 +1048,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfiːmeɪl/",
           "ipa_us": "/ˈfiːmeɪl/",
+          "audio_uk": "audio/uk/female.mp3",
+          "audio_us": "audio/us/female.mp3",
           "meaning": "(thuộc) nữ giới"
         },
         {
@@ -845,6 +1057,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɪtnəs/",
           "ipa_us": "/ˈfɪtnəs/",
+          "audio_uk": "audio/uk/fitness.mp3",
+          "audio_us": "audio/us/fitness.mp3",
           "meaning": "sự khỏe mạnh, thể lực"
         },
         {
@@ -852,6 +1066,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfleksəbl/",
           "ipa_us": "/ˈfleksəbəl/",
+          "audio_uk": "audio/uk/flexible.mp3",
+          "audio_us": "audio/us/flexible.mp3",
           "meaning": "linh hoạt"
         },
         {
@@ -859,6 +1075,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdʒendə(r)/",
           "ipa_us": "/ˈdʒendɚ/",
+          "audio_uk": "audio/uk/gender.mp3",
+          "audio_us": "audio/us/gender.mp3",
           "meaning": "giới tính"
         },
         {
@@ -866,6 +1084,8 @@
           "pos": "n",
           "ipa_uk": "/ˌdʒendər iˈkwɒləti/",
           "ipa_us": "/ˌdʒendɚ ɪˈkwɑːləti/",
+          "audio_uk": "audio/uk/gender-equality.mp3",
+          "audio_us": "audio/us/gender-equality.mp3",
           "meaning": "bình đẳng giới"
         },
         {
@@ -873,6 +1093,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdʒendə rəʊl/",
           "ipa_us": "/ˈdʒendɚ roʊl/",
+          "audio_uk": "audio/uk/gender-role.mp3",
+          "audio_us": "audio/us/gender-role.mp3",
           "meaning": "vai trò giới"
         },
         {
@@ -880,6 +1102,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈdʒentl/",
           "ipa_us": "/ˈdʒentəl/",
+          "audio_uk": "audio/uk/gentle.mp3",
+          "audio_us": "audio/us/gentle.mp3",
           "meaning": "dịu dàng, hiền lành"
         },
         {
@@ -887,6 +1111,8 @@
           "pos": "v",
           "ipa_uk": "/ˈɪnfluəns/",
           "ipa_us": "/ˈɪnfluəns/",
+          "audio_uk": "audio/uk/influence.mp3",
+          "audio_us": "audio/us/influence.mp3",
           "meaning": "ảnh hưởng"
         },
         {
@@ -894,6 +1120,8 @@
           "pos": "v",
           "ipa_uk": "/ɪnˈtend/",
           "ipa_us": "/ˌɪnˈtend/",
+          "audio_uk": "audio/uk/intend.mp3",
+          "audio_us": "audio/us/intend.mp3",
           "meaning": "có ý định, dự định"
         },
         {
@@ -901,6 +1129,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɪndəɡɑːtn/",
           "ipa_us": "/ˈkɪndɚɡɑːrtən/",
+          "audio_uk": "audio/uk/kindergarten.mp3",
+          "audio_us": "audio/us/kindergarten.mp3",
           "meaning": "trường mẫu giáo, mầm non"
         },
         {
@@ -908,6 +1138,8 @@
           "pos": "v",
           "ipa_uk": "/pəˈsiːv/",
           "ipa_us": "/pɚˈsiːv/",
+          "audio_uk": "audio/uk/perceive.mp3",
+          "audio_us": "audio/us/perceive.mp3",
           "meaning": "nhận thức, cảm nhận"
         },
         {
@@ -915,6 +1147,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈməʊt/",
           "ipa_us": "/prəˈmoʊt/",
+          "audio_uk": "audio/uk/promote.mp3",
+          "audio_us": "audio/us/promote.mp3",
           "meaning": "khuyến khích, thúc đẩy"
         },
         {
@@ -922,6 +1156,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈkwaɪə(r)/",
           "ipa_us": "/rɪˈkwaɪɚ/",
+          "audio_uk": "audio/uk/require.mp3",
+          "audio_us": "audio/us/require.mp3",
           "meaning": "yêu cầu, đòi hỏi"
         },
         {
@@ -929,6 +1165,8 @@
           "pos": "n",
           "ipa_uk": "/ˌsəʊʃl ˈbaɪəs/",
           "ipa_us": "/ˌsoʊʃəl ˈbaɪəs/",
+          "audio_uk": "audio/uk/social-bias.mp3",
+          "audio_us": "audio/us/social-bias.mp3",
           "meaning": "định kiến xã hội"
         },
         {
@@ -936,6 +1174,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɜːdʒən/",
           "ipa_us": "/ˈsɝːdʒən/",
+          "audio_uk": "audio/uk/surgeon.mp3",
+          "audio_us": "audio/us/surgeon.mp3",
           "meaning": "bác sĩ phẫu thuật"
         },
         {
@@ -943,6 +1183,8 @@
           "pos": "v",
           "ipa_uk": "/tend/",
           "ipa_us": "/tend/",
+          "audio_uk": "audio/uk/tend.mp3",
+          "audio_us": "audio/us/tend.mp3",
           "meaning": "có khuynh hướng"
         },
         {
@@ -950,6 +1192,8 @@
           "pos": "v",
           "ipa_uk": "/triːt/",
           "ipa_us": "/triːt/",
+          "audio_uk": "audio/uk/treat.mp3",
+          "audio_us": "audio/us/treat.mp3",
           "meaning": "đối xử"
         }
       ]
@@ -972,6 +1216,8 @@
           "pos": "v",
           "ipa_uk": "/əˈtʃiːv/",
           "ipa_us": "/əˈtʃiːv/",
+          "audio_uk": "audio/uk/achieve.mp3",
+          "audio_us": "audio/us/achieve.mp3",
           "meaning": "đạt được"
         },
         {
@@ -979,6 +1225,8 @@
           "pos": "n",
           "ipa_uk": "/eɪm/",
           "ipa_us": "/eɪm/",
+          "audio_uk": "audio/uk/aim.mp3",
+          "audio_us": "audio/us/aim.mp3",
           "meaning": "mục tiêu, mục đích"
         },
         {
@@ -986,6 +1234,8 @@
           "pos": "v",
           "ipa_uk": "/kəˈmɪt/",
           "ipa_us": "/kəˈmɪt/",
+          "audio_uk": "audio/uk/commit.mp3",
+          "audio_us": "audio/us/commit.mp3",
           "meaning": "cam kết"
         },
         {
@@ -993,6 +1243,8 @@
           "pos": "adj",
           "ipa_uk": "/kəmˈpetətɪv/",
           "ipa_us": "/kəmˈpetətɪv/",
+          "audio_uk": "audio/uk/competitive.mp3",
+          "audio_us": "audio/us/competitive.mp3",
           "meaning": "cạnh tranh, có sức cạnh tranh"
         },
         {
@@ -1000,6 +1252,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌdɪsədˈvɑːntɪdʒd/",
           "ipa_us": "/dɪsədˈvæntɪdʒd/",
+          "audio_uk": "audio/uk/disadvantaged.mp3",
+          "audio_us": "audio/us/disadvantaged.mp3",
           "meaning": "thiệt thòi, có hoàn cảnh khó khăn"
         },
         {
@@ -1007,6 +1261,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌiːkəˈnɒmɪk/",
           "ipa_us": "/ˌiːkəˈnɑːmɪk/",
+          "audio_uk": "audio/uk/economic.mp3",
+          "audio_us": "audio/us/economic.mp3",
           "meaning": "(thuộc) kinh tế"
         },
         {
@@ -1014,6 +1270,8 @@
           "pos": "n",
           "ipa_uk": "/ɪˈkɒnəmi/",
           "ipa_us": "/ɪˈkɑːnəmi/",
+          "audio_uk": "audio/uk/economy.mp3",
+          "audio_us": "audio/us/economy.mp3",
           "meaning": "nền kinh tế"
         },
         {
@@ -1021,6 +1279,8 @@
           "pos": "v",
           "ipa_uk": "/ˈentə(r)/",
           "ipa_us": "/ˈentɚ/",
+          "audio_uk": "audio/uk/enter.mp3",
+          "audio_us": "audio/us/enter.mp3",
           "meaning": "gia nhập, thâm nhập (thị trường)"
         },
         {
@@ -1028,6 +1288,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪˈsenʃl/",
           "ipa_us": "/ɪˈsenʃəl/",
+          "audio_uk": "audio/uk/essential.mp3",
+          "audio_us": "audio/us/essential.mp3",
           "meaning": "cần thiết, thiết yếu"
         },
         {
@@ -1035,6 +1297,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈekspɜːt/",
           "ipa_us": "/ˈekspɚt/",
+          "audio_uk": "audio/uk/expert.mp3",
+          "audio_us": "audio/us/expert.mp3",
           "meaning": "(thuộc) chuyên môn, chuyên gia"
         },
         {
@@ -1042,6 +1306,8 @@
           "pos": "v",
           "ipa_uk": "/fəˈsɪlɪteɪt/",
           "ipa_us": "/fəˈsɪləteɪt/",
+          "audio_uk": "audio/uk/facilitate.mp3",
+          "audio_us": "audio/us/facilitate.mp3",
           "meaning": "tạo điều kiện thuận lợi"
         },
         {
@@ -1049,6 +1315,8 @@
           "pos": "n",
           "ipa_uk": "/ɡəʊl/",
           "ipa_us": "/ɡoʊl/",
+          "audio_uk": "audio/uk/goal.mp3",
+          "audio_us": "audio/us/goal.mp3",
           "meaning": "mục tiêu"
         },
         {
@@ -1056,6 +1324,8 @@
           "pos": "n",
           "ipa_uk": "/ɡrəʊθ/",
           "ipa_us": "/ɡroʊθ/",
+          "audio_uk": "audio/uk/growth.mp3",
+          "audio_us": "audio/us/growth.mp3",
           "meaning": "sự tăng trưởng"
         },
         {
@@ -1063,6 +1333,8 @@
           "pos": "n",
           "ipa_uk": "/hɑːm/",
           "ipa_us": "/hɑːrm/",
+          "audio_uk": "audio/uk/harm.mp3",
+          "audio_us": "audio/us/harm.mp3",
           "meaning": "sự tổn hại, mối nguy hại"
         },
         {
@@ -1070,6 +1342,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhʌŋɡə(r)/",
           "ipa_us": "/ˈhʌŋɡɚ/",
+          "audio_uk": "audio/uk/hunger.mp3",
+          "audio_us": "audio/us/hunger.mp3",
           "meaning": "nạn đói"
         },
         {
@@ -1077,6 +1351,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌɪntəˈnæʃnəl/",
           "ipa_us": "/ˌɪntɚˈnæʃənəl/",
+          "audio_uk": "audio/uk/international.mp3",
+          "audio_us": "audio/us/international.mp3",
           "meaning": "quốc tế"
         },
         {
@@ -1084,6 +1360,8 @@
           "pos": "v",
           "ipa_uk": "/ɪnˈvest/",
           "ipa_us": "/ˌɪnˈvest/",
+          "audio_uk": "audio/uk/invest.mp3",
+          "audio_us": "audio/us/invest.mp3",
           "meaning": "đầu tư"
         },
         {
@@ -1091,6 +1369,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈvestə(r)/",
           "ipa_us": "/ˌɪnˈvestɚ/",
+          "audio_uk": "audio/uk/investor.mp3",
+          "audio_us": "audio/us/investor.mp3",
           "meaning": "nhà đầu tư"
         },
         {
@@ -1098,6 +1378,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɔːɡənaɪˈzeɪʃn/",
           "ipa_us": "/ˌɔːrɡənɪˈzeɪʃən/",
+          "audio_uk": "audio/uk/organisation.mp3",
+          "audio_us": "audio/us/organisation.mp3",
           "meaning": "tổ chức"
         },
         {
@@ -1105,6 +1387,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈpiːskiːpɪŋ/",
           "ipa_us": "/ˈpiːskiːpɪŋ/",
+          "audio_uk": "audio/uk/peacekeeping.mp3",
+          "audio_us": "audio/us/peacekeeping.mp3",
           "meaning": "gìn giữ hòa bình",
           "example": "Viet Nam has sent troops to UN peacekeeping missions."
         },
@@ -1113,6 +1397,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpɒvəti/",
           "ipa_us": "/ˈpɑːvɚti/",
+          "audio_uk": "audio/uk/poverty.mp3",
+          "audio_us": "audio/us/poverty.mp3",
           "meaning": "sự nghèo đói"
         },
         {
@@ -1120,6 +1406,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈməʊt/",
           "ipa_us": "/prəˈmoʊt/",
+          "audio_uk": "audio/uk/promote.mp3",
+          "audio_us": "audio/us/promote.mp3",
           "meaning": "quảng bá, thúc đẩy"
         },
         {
@@ -1127,6 +1415,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkwɒləti/",
           "ipa_us": "/ˈkwɑːləti/",
+          "audio_uk": "audio/uk/quality.mp3",
+          "audio_us": "audio/us/quality.mp3",
           "meaning": "chất lượng"
         },
         {
@@ -1134,6 +1424,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈriːdʒənl/",
           "ipa_us": "/ˈriːdʒənəl/",
+          "audio_uk": "audio/uk/regional.mp3",
+          "audio_us": "audio/us/regional.mp3",
           "meaning": "(thuộc) khu vực"
         },
         {
@@ -1141,6 +1433,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˈleɪʃn/",
           "ipa_us": "/riˈleɪʃən/",
+          "audio_uk": "audio/uk/relation.mp3",
+          "audio_us": "audio/us/relation.mp3",
           "meaning": "mối quan hệ"
         },
         {
@@ -1148,6 +1442,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈspekt/",
           "ipa_us": "/rɪˈspekt/",
+          "audio_uk": "audio/uk/respect.mp3",
+          "audio_us": "audio/us/respect.mp3",
           "meaning": "tôn trọng"
         },
         {
@@ -1155,6 +1451,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈteknɪkl/",
           "ipa_us": "/ˈteknɪkəl/",
+          "audio_uk": "audio/uk/technical.mp3",
+          "audio_us": "audio/us/technical.mp3",
           "meaning": "(thuộc) kỹ thuật"
         },
         {
@@ -1162,6 +1460,8 @@
           "pos": "n",
           "ipa_uk": "/treɪd/",
           "ipa_us": "/treɪd/",
+          "audio_uk": "audio/uk/trade.mp3",
+          "audio_us": "audio/us/trade.mp3",
           "meaning": "thương mại"
         },
         {
@@ -1169,6 +1469,8 @@
           "pos": "v",
           "ipa_uk": "/ˈvæksɪneɪt/",
           "ipa_us": "/ˈvæksəneɪt/",
+          "audio_uk": "audio/uk/vaccinate.mp3",
+          "audio_us": "audio/us/vaccinate.mp3",
           "meaning": "tiêm vắc-xin"
         },
         {
@@ -1176,6 +1478,8 @@
           "pos": "v",
           "ipa_uk": "/ˈwelkəm/",
           "ipa_us": "/ˈwelkəm/",
+          "audio_uk": "audio/uk/welcome.mp3",
+          "audio_us": "audio/us/welcome.mp3",
           "meaning": "chào đón, hoan nghênh"
         }
       ]
@@ -1198,6 +1502,8 @@
           "pos": "n",
           "ipa_uk": "/ˌblendɪd ˈlɜːnɪŋ/",
           "ipa_us": "/ˌblendɪd ˈlɝːnɪŋ/",
+          "audio_uk": "audio/uk/blended-learning.mp3",
+          "audio_us": "audio/us/blended-learning.mp3",
           "meaning": "học tập kết hợp (trực tiếp và trực tuyến)"
         },
         {
@@ -1205,6 +1511,8 @@
           "pos": "v",
           "ipa_uk": "/kəˈmjuːnɪkeɪt/",
           "ipa_us": "/kəˈmjuːnəkeɪt/",
+          "audio_uk": "audio/uk/communicate.mp3",
+          "audio_us": "audio/us/communicate.mp3",
           "meaning": "giao tiếp"
         },
         {
@@ -1212,6 +1520,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈdɪdʒɪtl/",
           "ipa_us": "/ˈdɪdʒɪtəl/",
+          "audio_uk": "audio/uk/digital.mp3",
+          "audio_us": "audio/us/digital.mp3",
           "meaning": "kỹ thuật số"
         },
         {
@@ -1219,6 +1529,8 @@
           "pos": "n",
           "ipa_uk": "/ˌfeɪs tə ˌfeɪs ˈlɜːnɪŋ/",
           "ipa_us": "/ˌfeɪs tə ˌfeɪs ˈlɝːnɪŋ/",
+          "audio_uk": "audio/uk/face-to-face-learning.mp3",
+          "audio_us": "audio/us/face-to-face-learning.mp3",
           "meaning": "học trực tiếp"
         },
         {
@@ -1226,6 +1538,8 @@
           "pos": "n",
           "ipa_uk": "/məˈtɪəriəl/",
           "ipa_us": "/məˈtɪriəl/",
+          "audio_uk": "audio/uk/material.mp3",
+          "audio_us": "audio/us/material.mp3",
           "meaning": "tài liệu"
         },
         {
@@ -1233,6 +1547,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɒnlaɪn ˈlɜːnɪŋ/",
           "ipa_us": "/ˌɑːnlaɪn ˈlɝːnɪŋ/",
+          "audio_uk": "audio/uk/online-learning.mp3",
+          "audio_us": "audio/us/online-learning.mp3",
           "meaning": "học trực tuyến"
         },
         {
@@ -1240,6 +1556,8 @@
           "pos": "adj",
           "ipa_uk": "/əˈrɪdʒənl/",
           "ipa_us": "/əˈrɪdʒənəl/",
+          "audio_uk": "audio/uk/original.mp3",
+          "audio_us": "audio/us/original.mp3",
           "meaning": "nguyên bản; độc đáo"
         },
         {
@@ -1247,6 +1565,8 @@
           "pos": "v",
           "ipa_uk": "/prɪˈfɜː(r)/",
           "ipa_us": "/prɪˈfɝː/",
+          "audio_uk": "audio/uk/prefer.mp3",
+          "audio_us": "audio/us/prefer.mp3",
           "meaning": "thích hơn"
         },
         {
@@ -1254,6 +1574,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˈsɔːs/",
           "ipa_us": "/ˈriːsɔːrs/",
+          "audio_uk": "audio/uk/resource.mp3",
+          "audio_us": "audio/us/resource.mp3",
           "meaning": "tài nguyên, nguồn tài liệu"
         },
         {
@@ -1261,6 +1583,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˈsɜːtʃ fə(r)/",
           "ipa_us": "/ˈsɝːtʃ fɚ/",
+          "audio_uk": "audio/uk/search-for.mp3",
+          "audio_us": "audio/us/search-for.mp3",
           "meaning": "tìm kiếm"
         },
         {
@@ -1268,6 +1592,8 @@
           "pos": "n",
           "ipa_uk": "/ˈstrætədʒi/",
           "ipa_us": "/ˈstrætədʒi/",
+          "audio_uk": "audio/uk/strategy.mp3",
+          "audio_us": "audio/us/strategy.mp3",
           "meaning": "chiến lược"
         },
         {
@@ -1275,6 +1601,8 @@
           "pos": "v",
           "ipa_uk": "/ˌʌpˈləʊd/",
           "ipa_us": "/ˈʌploʊd/",
+          "audio_uk": "audio/uk/upload.mp3",
+          "audio_us": "audio/us/upload.mp3",
           "meaning": "tải lên"
         }
       ]
@@ -1298,6 +1626,8 @@
           "pos": "v",
           "ipa_uk": "/ˈænəlaɪz/",
           "ipa_us": "/ˈænəlaɪz/",
+          "audio_uk": "audio/uk/analyse.mp3",
+          "audio_us": "audio/us/analyse.mp3",
           "meaning": "phân tích"
         },
         {
@@ -1305,6 +1635,8 @@
           "pos": "phr",
           "ipa_uk": "/ət ˈsteɪk/",
           "ipa_us": "/æt ˈsteɪk/",
+          "audio_uk": "audio/uk/at-stake.mp3",
+          "audio_us": "audio/us/at-stake.mp3",
           "meaning": "đang bị đe dọa, lâm nguy"
         },
         {
@@ -1312,6 +1644,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbæləns/",
           "ipa_us": "/ˈbæləns/",
+          "audio_uk": "audio/uk/balance.mp3",
+          "audio_us": "audio/us/balance.mp3",
           "meaning": "sự cân bằng"
         },
         {
@@ -1319,6 +1653,8 @@
           "pos": "n",
           "ipa_uk": "/ˌbaɪəʊdaɪˈvɜːsəti/",
           "ipa_us": "/ˌbaɪoʊdaɪˈvɝːsəti/",
+          "audio_uk": "audio/uk/biodiversity.mp3",
+          "audio_us": "audio/us/biodiversity.mp3",
           "meaning": "đa dạng sinh học"
         },
         {
@@ -1326,6 +1662,8 @@
           "pos": "n",
           "ipa_uk": "/ˈklaɪmət tʃeɪndʒ/",
           "ipa_us": "/ˈklaɪmət tʃeɪndʒ/",
+          "audio_uk": "audio/uk/climate-change.mp3",
+          "audio_us": "audio/us/climate-change.mp3",
           "meaning": "biến đổi khí hậu"
         },
         {
@@ -1333,6 +1671,8 @@
           "pos": "phr v",
           "ipa_uk": "/kʌm ˈʌp wɪð/",
           "ipa_us": "/kʌm ˈʌp wɪð/",
+          "audio_uk": "audio/uk/come-up-with.mp3",
+          "audio_us": "audio/us/come-up-with.mp3",
           "meaning": "nghĩ ra, nảy ra (ý tưởng)"
         },
         {
@@ -1340,6 +1680,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒnsɪkwəns/",
           "ipa_us": "/ˈkɑːnsəkwəns/",
+          "audio_uk": "audio/uk/consequence.mp3",
+          "audio_us": "audio/us/consequence.mp3",
           "meaning": "hậu quả"
         },
         {
@@ -1347,6 +1689,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɒnsəˈveɪʃn/",
           "ipa_us": "/ˌkɑːnsɚˈveɪʃən/",
+          "audio_uk": "audio/uk/conservation.mp3",
+          "audio_us": "audio/us/conservation.mp3",
           "meaning": "sự bảo tồn"
         },
         {
@@ -1354,6 +1698,8 @@
           "pos": "v",
           "ipa_uk": "/ˈdæmɪdʒ/",
           "ipa_us": "/ˈdæmɪdʒ/",
+          "audio_uk": "audio/uk/damage.mp3",
+          "audio_us": "audio/us/damage.mp3",
           "meaning": "làm hại, làm hỏng"
         },
         {
@@ -1361,6 +1707,8 @@
           "pos": "n",
           "ipa_uk": "/ˌdiːˌfɒrɪˈsteɪʃn/",
           "ipa_us": "/dɪˌfɔːrɪˈsteɪʃən/",
+          "audio_uk": "audio/uk/deforestation.mp3",
+          "audio_us": "audio/us/deforestation.mp3",
           "meaning": "nạn phá rừng"
         },
         {
@@ -1368,6 +1716,8 @@
           "pos": "n",
           "ipa_uk": "/ˈiːkəʊsɪstəm/",
           "ipa_us": "/ˈiːkoʊsɪstəm/",
+          "audio_uk": "audio/uk/ecosystem.mp3",
+          "audio_us": "audio/us/ecosystem.mp3",
           "meaning": "hệ sinh thái"
         },
         {
@@ -1375,6 +1725,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪnˈdeɪndʒəd/",
           "ipa_us": "/ɪnˈdeɪndʒɚd/",
+          "audio_uk": "audio/uk/endangered.mp3",
+          "audio_us": "audio/us/endangered.mp3",
           "meaning": "có nguy cơ tuyệt chủng"
         },
         {
@@ -1382,6 +1734,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˌvaɪrənˌmentl prəˈtekʃn/",
           "ipa_us": "/ɪnˌvaɪrənˌmentəl prəˈtekʃən/",
+          "audio_uk": "audio/uk/environmental-protection.mp3",
+          "audio_us": "audio/us/environmental-protection.mp3",
           "meaning": "bảo vệ môi trường"
         },
         {
@@ -1389,6 +1743,8 @@
           "pos": "n",
           "ipa_uk": "/ɪˈrəʊʒn/",
           "ipa_us": "/ɪˈroʊʒən/",
+          "audio_uk": "audio/uk/erosion.mp3",
+          "audio_us": "audio/us/erosion.mp3",
           "meaning": "sự xói mòn"
         },
         {
@@ -1396,6 +1752,8 @@
           "pos": "v",
           "ipa_uk": "/ɪɡˈzɪst/",
           "ipa_us": "/ɪɡˈzɪst/",
+          "audio_uk": "audio/uk/exist.mp3",
+          "audio_us": "audio/us/exist.mp3",
           "meaning": "tồn tại"
         },
         {
@@ -1403,6 +1761,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɜːtəlaɪzə(r)/",
           "ipa_us": "/ˈfɝːtəlaɪzɚ/",
+          "audio_uk": "audio/uk/fertiliser.mp3",
+          "audio_us": "audio/us/fertiliser.mp3",
           "meaning": "phân bón"
         },
         {
@@ -1410,6 +1770,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɒsl ˌfjuːəl/",
           "ipa_us": "/ˈfɑːsəl ˌfjuːəl/",
+          "audio_uk": "audio/uk/fossil-fuel.mp3",
+          "audio_us": "audio/us/fossil-fuel.mp3",
           "meaning": "nhiên liệu hóa thạch"
         },
         {
@@ -1417,6 +1779,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɡləʊbl ˈwɔːmɪŋ/",
           "ipa_us": "/ˌɡloʊbəl ˈwɔːrmɪŋ/",
+          "audio_uk": "audio/uk/global-warming.mp3",
+          "audio_us": "audio/us/global-warming.mp3",
           "meaning": "sự nóng lên toàn cầu"
         },
         {
@@ -1424,6 +1788,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡriːnhaʊs ɪˌfekt/",
           "ipa_us": "/ˈɡriːnhaʊs ɪˌfekt/",
+          "audio_uk": "audio/uk/greenhouse-effect.mp3",
+          "audio_us": "audio/us/greenhouse-effect.mp3",
           "meaning": "hiệu ứng nhà kính"
         },
         {
@@ -1431,6 +1797,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhæbɪtæt/",
           "ipa_us": "/ˈhæbətæt/",
+          "audio_uk": "audio/uk/habitat.mp3",
+          "audio_us": "audio/us/habitat.mp3",
           "meaning": "môi trường sống"
         },
         {
@@ -1438,6 +1806,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhiːtweɪv/",
           "ipa_us": "/ˈhiːtweɪv/",
+          "audio_uk": "audio/uk/heatwave.mp3",
+          "audio_us": "audio/us/heatwave.mp3",
           "meaning": "đợt nắng nóng"
         },
         {
@@ -1445,6 +1815,8 @@
           "pos": "n",
           "ipa_uk": "/ˈaɪs ˌmeltɪŋ/",
           "ipa_us": "/ˈaɪs ˌmeltɪŋ/",
+          "audio_uk": "audio/uk/ice-melting.mp3",
+          "audio_us": "audio/us/ice-melting.mp3",
           "meaning": "sự tan băng"
         },
         {
@@ -1452,6 +1824,8 @@
           "pos": "v",
           "ipa_uk": "/aɪˈdentɪfaɪ/",
           "ipa_us": "/aɪˈdentəfaɪ/",
+          "audio_uk": "audio/uk/identify.mp3",
+          "audio_us": "audio/us/identify.mp3",
           "meaning": "xác định"
         },
         {
@@ -1459,6 +1833,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪʃuː/",
           "ipa_us": "/ˈɪʃuː/",
+          "audio_uk": "audio/uk/issue.mp3",
+          "audio_us": "audio/us/issue.mp3",
           "meaning": "vấn đề"
         },
         {
@@ -1466,6 +1842,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpestɪsaɪd/",
           "ipa_us": "/ˈpestəsaɪd/",
+          "audio_uk": "audio/uk/pesticide.mp3",
+          "audio_us": "audio/us/pesticide.mp3",
           "meaning": "thuốc trừ sâu"
         },
         {
@@ -1473,6 +1851,8 @@
           "pos": "v",
           "ipa_uk": "/pəˈluːt/",
           "ipa_us": "/pəˈluːt/",
+          "audio_uk": "audio/uk/pollute.mp3",
+          "audio_us": "audio/us/pollute.mp3",
           "meaning": "gây ô nhiễm"
         },
         {
@@ -1480,6 +1860,8 @@
           "pos": "n",
           "ipa_uk": "/pəˈluːʃn/",
           "ipa_us": "/pəˈluːʃən/",
+          "audio_uk": "audio/uk/pollution.mp3",
+          "audio_us": "audio/us/pollution.mp3",
           "meaning": "sự ô nhiễm"
         },
         {
@@ -1487,6 +1869,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈpræktɪkl/",
           "ipa_us": "/ˈpræktɪkəl/",
+          "audio_uk": "audio/uk/practical.mp3",
+          "audio_us": "audio/us/practical.mp3",
           "meaning": "thiết thực"
         },
         {
@@ -1494,6 +1878,8 @@
           "pos": "v",
           "ipa_uk": "/prɪˈzɜːv/",
           "ipa_us": "/prɪˈzɝːv/",
+          "audio_uk": "audio/uk/preserve.mp3",
+          "audio_us": "audio/us/preserve.mp3",
           "meaning": "giữ gìn, bảo tồn"
         },
         {
@@ -1501,6 +1887,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈtekt/",
           "ipa_us": "/prəˈtekt/",
+          "audio_uk": "audio/uk/protect.mp3",
+          "audio_us": "audio/us/protect.mp3",
           "meaning": "bảo vệ"
         },
         {
@@ -1508,6 +1896,8 @@
           "pos": "adj",
           "ipa_uk": "/rəˈspɪrətri/",
           "ipa_us": "/ˈrespɚətɔːri/",
+          "audio_uk": "audio/uk/respiratory.mp3",
+          "audio_us": "audio/us/respiratory.mp3",
           "meaning": "(thuộc) hô hấp"
         },
         {
@@ -1515,6 +1905,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsuːɪdʒ/",
           "ipa_us": "/ˈsuːɪdʒ/",
+          "audio_uk": "audio/uk/sewage.mp3",
+          "audio_us": "audio/us/sewage.mp3",
           "meaning": "nước thải"
         },
         {
@@ -1522,6 +1914,8 @@
           "pos": "n",
           "ipa_uk": "/θret/",
           "ipa_us": "/θret/",
+          "audio_uk": "audio/uk/threat.mp3",
+          "audio_us": "audio/us/threat.mp3",
           "meaning": "mối đe dọa"
         },
         {
@@ -1529,6 +1923,8 @@
           "pos": "n",
           "ipa_uk": "/ˌvedʒəˈteɪʃn/",
           "ipa_us": "/ˌvedʒəˈteɪʃən/",
+          "audio_uk": "audio/uk/vegetation.mp3",
+          "audio_us": "audio/us/vegetation.mp3",
           "meaning": "thảm thực vật, cây cỏ"
         },
         {
@@ -1536,6 +1932,8 @@
           "pos": "n",
           "ipa_uk": "/ˈweɪst ɡæs/",
           "ipa_us": "/ˈweɪst ɡæs/",
+          "audio_uk": "audio/uk/waste-gas.mp3",
+          "audio_us": "audio/us/waste-gas.mp3",
           "meaning": "khí thải"
         },
         {
@@ -1543,6 +1941,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwaɪldlaɪf/",
           "ipa_us": "/ˈwaɪldlaɪf/",
+          "audio_uk": "audio/uk/wildlife.mp3",
+          "audio_us": "audio/us/wildlife.mp3",
           "meaning": "động vật hoang dã"
         }
       ]
@@ -1566,6 +1966,8 @@
           "pos": "n",
           "ipa_uk": "/ədˈvɜːtɪsmənt/",
           "ipa_us": "/ædˈvɝːtəzmənt/",
+          "audio_uk": "audio/uk/advertisement.mp3",
+          "audio_us": "audio/us/advertisement.mp3",
           "meaning": "quảng cáo"
         },
         {
@@ -1573,6 +1975,8 @@
           "pos": "adj",
           "ipa_uk": "/əˈweə(r)/",
           "ipa_us": "/əˈwer/",
+          "audio_uk": "audio/uk/aware.mp3",
+          "audio_us": "audio/us/aware.mp3",
           "meaning": "nhận thức được, biết"
         },
         {
@@ -1580,6 +1984,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbenɪfɪt/",
           "ipa_us": "/ˈbenəfɪt/",
+          "audio_uk": "audio/uk/benefit.mp3",
+          "audio_us": "audio/us/benefit.mp3",
           "meaning": "lợi ích"
         },
         {
@@ -1587,6 +1993,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbrəʊʃə(r)/",
           "ipa_us": "/broʊˈʃʊr/",
+          "audio_uk": "audio/uk/brochure.mp3",
+          "audio_us": "audio/us/brochure.mp3",
           "meaning": "tờ quảng cáo, sách giới thiệu"
         },
         {
@@ -1594,6 +2002,8 @@
           "pos": "v",
           "ipa_uk": "/kɔːz/",
           "ipa_us": "/kɑːz/",
+          "audio_uk": "audio/uk/cause.mp3",
+          "audio_us": "audio/us/cause.mp3",
           "meaning": "gây ra"
         },
         {
@@ -1601,6 +2011,8 @@
           "pos": "n",
           "ipa_uk": "/krɑːft/",
           "ipa_us": "/kræft/",
+          "audio_uk": "audio/uk/craft.mp3",
+          "audio_us": "audio/us/craft.mp3",
           "meaning": "đồ thủ công"
         },
         {
@@ -1608,6 +2020,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌiːkəʊ ˈfrendli/",
           "ipa_us": "/ˌiːkoʊ ˈfrendli/",
+          "audio_uk": "audio/uk/eco-friendly.mp3",
+          "audio_us": "audio/us/eco-friendly.mp3",
           "meaning": "thân thiện với môi trường"
         },
         {
@@ -1615,6 +2029,8 @@
           "pos": "n",
           "ipa_uk": "/ˈiːkəʊtʊərɪzəm/",
           "ipa_us": "/ˈiːkoʊtʊrɪzəm/",
+          "audio_uk": "audio/uk/ecotourism.mp3",
+          "audio_us": "audio/us/ecotourism.mp3",
           "meaning": "du lịch sinh thái"
         },
         {
@@ -1622,6 +2038,8 @@
           "pos": "v",
           "ipa_uk": "/ɪkˈsplɔː(r)/",
           "ipa_us": "/ɪkˈsplɔːr/",
+          "audio_uk": "audio/uk/explore-v.mp3",
+          "audio_us": "audio/us/explore-v.mp3",
           "meaning": "khám phá"
         },
         {
@@ -1629,6 +2047,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfiːld trɪp/",
           "ipa_us": "/ˈfiːld trɪp/",
+          "audio_uk": "audio/uk/field-trip.mp3",
+          "audio_us": "audio/us/field-trip.mp3",
           "meaning": "chuyến đi thực tế"
         },
         {
@@ -1636,6 +2056,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪmpækt/",
           "ipa_us": "/ˈɪmpækt/",
+          "audio_uk": "audio/uk/impact.mp3",
+          "audio_us": "audio/us/impact.mp3",
           "meaning": "tác động"
         },
         {
@@ -1643,6 +2065,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌliːv ˈlɪtə(r)/",
           "ipa_us": "/ˌliːv ˈlɪtɚ/",
+          "audio_uk": "audio/uk/leave-litter.mp3",
+          "audio_us": "audio/us/leave-litter.mp3",
           "meaning": "xả rác"
         },
         {
@@ -1650,6 +2074,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈləʊkl/",
           "ipa_us": "/ˈloʊkəl/",
+          "audio_uk": "audio/uk/local.mp3",
+          "audio_us": "audio/us/local.mp3",
           "meaning": "(thuộc) địa phương"
         },
         {
@@ -1657,6 +2083,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpækɪdʒɪŋ/",
           "ipa_us": "/ˈpækɪdʒɪŋ/",
+          "audio_uk": "audio/uk/packaging.mp3",
+          "audio_us": "audio/us/packaging.mp3",
           "meaning": "bao bì"
         },
         {
@@ -1664,6 +2092,8 @@
           "pos": "v",
           "ipa_uk": "/ˈprɒmɪs/",
           "ipa_us": "/ˈprɑːməs/",
+          "audio_uk": "audio/uk/promise.mp3",
+          "audio_us": "audio/us/promise.mp3",
           "meaning": "hứa"
         },
         {
@@ -1671,6 +2101,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈməʊt/",
           "ipa_us": "/prəˈmoʊt/",
+          "audio_uk": "audio/uk/promote.mp3",
+          "audio_us": "audio/us/promote.mp3",
           "meaning": "quảng bá, thúc đẩy"
         },
         {
@@ -1678,6 +2110,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈtekt/",
           "ipa_us": "/prəˈtekt/",
+          "audio_uk": "audio/uk/protect.mp3",
+          "audio_us": "audio/us/protect.mp3",
           "meaning": "bảo vệ"
         },
         {
@@ -1685,6 +2119,8 @@
           "pos": "adj",
           "ipa_uk": "/rɪˈspɒnsəbl/",
           "ipa_us": "/riˈspɑːnsəbəl/",
+          "audio_uk": "audio/uk/responsible.mp3",
+          "audio_us": "audio/us/responsible.mp3",
           "meaning": "có trách nhiệm"
         },
         {
@@ -1692,6 +2128,8 @@
           "pos": "n",
           "ipa_uk": "/ˈstæləktaɪt/",
           "ipa_us": "/stəˈlæktaɪt/",
+          "audio_uk": "audio/uk/stalactite.mp3",
+          "audio_us": "audio/us/stalactite.mp3",
           "meaning": "thạch nhũ"
         },
         {
@@ -1699,6 +2137,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtʊə ɡaɪd/",
           "ipa_us": "/ˈtʊr ɡaɪd/",
+          "audio_uk": "audio/uk/tour-guide.mp3",
+          "audio_us": "audio/us/tour-guide.mp3",
           "meaning": "hướng dẫn viên du lịch"
         },
         {
@@ -1706,6 +2146,8 @@
           "pos": "n",
           "ipa_uk": "/treɪl/",
           "ipa_us": "/treɪl/",
+          "audio_uk": "audio/uk/trail.mp3",
+          "audio_us": "audio/us/trail.mp3",
           "meaning": "đường mòn"
         },
         {
@@ -1713,6 +2155,8 @@
           "pos": "v",
           "ipa_uk": "/weɪst/",
           "ipa_us": "/weɪst/",
+          "audio_uk": "audio/uk/waste.mp3",
+          "audio_us": "audio/us/waste.mp3",
           "meaning": "lãng phí"
         }
       ]
