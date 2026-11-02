@@ -79,11 +79,16 @@ def check_grade(grade: int) -> list[str]:
             seen.add(key)
             if w.get("pos") not in POS:
                 err(f"{tag}: {word!r} has unknown pos {w.get('pos')!r}")
-            if not IPA_RE.match(w.get("ipa", "")):
-                err(f"{tag}: {word!r} has bad ipa {w.get('ipa')!r}")
+            for key in ("ipa_uk", "ipa_us"):
+                if not IPA_RE.match(w.get(key) or ""):
+                    err(f"{tag}: {word!r} has bad {key} {w.get(key)!r}")
+            for key in ("audio_uk", "audio_us"):
+                if key in w and not (ROOT / w[key]).exists():
+                    err(f"{tag}: {word!r} {key} file missing: {w[key]}")
             if not w.get("meaning", "").strip():
                 err(f"{tag}: {word!r} has no meaning")
-            extra = set(w) - {"word", "pos", "ipa", "meaning", "example"}
+            extra = set(w) - {"word", "pos", "ipa_uk", "ipa_us", "audio_uk", "audio_us",
+                              "meaning", "example"}
             if extra:
                 err(f"{tag}: {word!r} has unexpected keys {sorted(extra)}")
     return errs

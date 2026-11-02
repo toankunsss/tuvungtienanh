@@ -3,7 +3,7 @@
 Bộ dữ liệu **từ vựng theo từng unit** của bộ sách giáo khoa **Tiếng Anh Global Success**
 (NXB Giáo dục Việt Nam, bộ *Kết nối tri thức với cuộc sống*) từ lớp 1 đến lớp 12, lưu dưới dạng **JSON** (kèm bản **CSV**).
 
-Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – Anh), **nghĩa tiếng Việt** và đôi khi **câu ví dụ**.
+Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và giọng Mỹ (US)**, **file giọng đọc UK và US (MP3)**, **nghĩa tiếng Việt** và đôi khi **câu ví dụ**.
 
 > ⚠️ **Đọc kỹ phần [Trạng thái dữ liệu](#trạng-thái-dữ-liệu) trước khi dùng.**
 > Mỗi unit có trường `status`: `sourced` = danh sách từ đã được đối chiếu với nguồn trên mạng;
@@ -16,6 +16,7 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Định dạng dữ liệu](#định-dạng-dữ-liệu)
 - [Cách sử dụng](#cách-sử-dụng)
+- [Phát âm: IPA và giọng đọc UK / US](#phát-âm-ipa-và-giọng-đọc-uk--us)
 - [Trạng thái dữ liệu](#trạng-thái-dữ-liệu)
 - [Nguồn và độ chính xác](#nguồn-và-độ-chính-xác)
 - [Đóng góp / sửa dữ liệu](#đóng-góp--sửa-dữ-liệu)
@@ -30,6 +31,10 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
 │   ├── grade-01.json
 │   ├── ...
 │   └── grade-12.json
+├── audio/                   # Giọng đọc MP3
+│   ├── uk/<từ>.mp3          #   giọng Anh (British)
+│   ├── us/<từ>.mp3          #   giọng Mỹ (American)
+│   └── manifest.json        #   cách sinh từng file (văn bản hay IPA)
 ├── dist/                    # File sinh tự động từ data/ (đừng sửa tay)
 │   ├── all.json             # Tất cả các lớp trong 1 file (dạng lồng nhau)
 │   ├── flat.json            # Mỗi phần tử là 1 từ (dạng phẳng, dễ lọc)
@@ -39,6 +44,9 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
 └── scripts/
     ├── validate.py          # Kiểm tra lỗi dữ liệu
     ├── build.py             # Sinh thư mục dist/
+    ├── ipa_us.py            # Sinh IPA giọng Mỹ từ từ điển CMU
+    ├── ipa_us_overrides.json#   IPA Mỹ viết tay cho từ không có trong CMU
+    ├── make_audio.py        # Sinh giọng đọc UK / US
     └── readme_tables.py     # Cập nhật bảng trạng thái trong README
 ```
 
@@ -63,7 +71,10 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
         {
           "word": "activity",
           "pos": "n",
-          "ipa": "/ækˈtɪvəti/",
+          "ipa_uk": "/ækˈtɪvəti/",
+          "ipa_us": "/ækˈtɪvəti/",
+          "audio_uk": "audio/uk/activity.mp3",
+          "audio_us": "audio/us/activity.mp3",
           "meaning": "hoạt động",
           "example": "We have many activities at school."
         }
@@ -81,7 +92,10 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
 | `sources` | Các trang web đã dùng để đối chiếu danh sách từ |
 | `words[].word` | Từ / cụm từ |
 | `words[].pos` | Từ loại (bảng dưới) |
-| `words[].ipa` | Phiên âm IPA Anh – Anh, nằm giữa hai dấu `/ /` |
+| `words[].ipa_uk` | Phiên âm IPA giọng Anh (British), nằm giữa hai dấu `/ /` |
+| `words[].ipa_us` | Phiên âm IPA giọng Mỹ (American) |
+| `words[].audio_uk` | Đường dẫn file MP3 giọng Anh (tính từ gốc repo) |
+| `words[].audio_us` | Đường dẫn file MP3 giọng Mỹ |
 | `words[].meaning` | Nghĩa tiếng Việt |
 | `words[].example` | Câu ví dụ (không bắt buộc) |
 
@@ -103,7 +117,8 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA** (giọng Anh – A
 [
   {
     "grade": 6, "unit": 1, "unit_title": "My new school", "status": "sourced",
-    "word": "activity", "pos": "n", "ipa": "/ækˈtɪvəti/",
+    "word": "activity", "pos": "n", "ipa_uk": "/ækˈtɪvəti/", "ipa_us": "/ækˈtɪvəti/",
+    "audio_uk": "audio/uk/activity.mp3", "audio_us": "audio/us/activity.mp3",
     "meaning": "hoạt động", "example": "We have many activities at school."
   }
 ]
@@ -129,7 +144,12 @@ const BASE = "https://raw.githubusercontent.com/toankunsss/tuvungtienanh/main";
 // Lấy từ vựng Unit 3 lớp 6
 const grade = await fetch(`${BASE}/data/grade-06.json`).then(r => r.json());
 const unit3 = grade.units.find(u => u.unit === 3);
-unit3.words.forEach(w => console.log(`${w.word} ${w.ipa} – ${w.meaning}`));
+unit3.words.forEach(w => console.log(`${w.word}  UK ${w.ipa_uk}  US ${w.ipa_us} – ${w.meaning}`));
+
+// Phát giọng đọc
+const play = (w, accent = "us") => new Audio(`${BASE}/${w[`audio_${accent}`]}`).play();
+play(unit3.words[0], "uk");   // giọng Anh
+play(unit3.words[0], "us");   // giọng Mỹ
 
 // Chỉ lấy các từ đã có nguồn xác minh
 const flat = await fetch(`${BASE}/dist/flat.json`).then(r => r.json());
@@ -150,7 +170,7 @@ with open("data/grade-09.json", encoding="utf-8") as f:
 for unit in grade9["units"]:
     print(f"Unit {unit['unit']}: {unit['title']} ({len(unit['words'])} từ)")
     for w in unit["words"]:
-        print(f"  {w['word']:<20} {w['ipa']:<20} {w['meaning']}")
+        print(f"  {w['word']:<20} UK {w['ipa_uk']:<18} US {w['ipa_us']:<18} {w['meaning']}")
 ```
 
 Dùng pandas với bản phẳng:
@@ -166,12 +186,12 @@ df[df.status == "sourced"].groupby("grade").size()  # Số từ đã xác minh m
 ### 4. Excel / Google Sheets / Anki / Quizlet
 
 - Mở file `dist/csv/grade-XX.csv` bằng Excel hoặc import vào Google Sheets (mã hóa UTF-8).
-- **Anki**: *File → Import* file CSV, ánh xạ cột `word` vào mặt trước và `ipa` + `meaning` vào mặt sau.
+- **Anki**: *File → Import* file CSV, ánh xạ cột `word` vào mặt trước và `ipa_uk` / `ipa_us` + `meaning` vào mặt sau. Muốn có âm thanh: chép các file trong `audio/` vào thư mục `collection.media` của Anki và thêm cột `[sound:tên-file.mp3]`.
 - **Quizlet**: copy 2 cột `word` và `meaning` rồi dán vào ô *Import*.
 
 ### 5. Chạy các script (sau khi sửa dữ liệu)
 
-Cần Python 3.10 trở lên, không cần cài thêm thư viện.
+Cần Python 3.10 trở lên. `validate.py`, `build.py`, `readme_tables.py` không cần thư viện ngoài.
 
 ```bash
 python3 scripts/validate.py
@@ -188,6 +208,32 @@ python3 scripts/readme_tables.py
 - `validate.py` kiểm tra số unit của từng lớp, từ loại hợp lệ, IPA đúng dạng `/.../`, từ trùng lặp, unit `sourced` phải có nguồn… Có thể chỉ kiểm tra vài lớp: `python3 scripts/validate.py 6 7`.
 - `build.py` sinh lại toàn bộ `dist/` từ `data/`.
 - `readme_tables.py` cập nhật bảng trạng thái bên dưới.
+
+Khi **thêm hoặc sửa từ**, sinh lại IPA Mỹ và giọng đọc cho từ mới (cần `pip install cmudict kokoro-onnx soundfile`, `ffmpeg`, và 2 file model ở [kokoro-onnx releases](https://github.com/thewh1teagle/kokoro-onnx/releases/tag/model-files-v1.0)):
+
+```bash
+python3 scripts/ipa_us.py
+```
+
+```bash
+python3 scripts/make_audio.py --model /đường/dẫn/thư-mục-model
+```
+
+`make_audio.py` chỉ sinh file còn thiếu; thêm `--force` để sinh lại tất cả.
+
+## Phát âm: IPA và giọng đọc UK / US
+
+| | Giọng Anh (UK) | Giọng Mỹ (US) |
+|---|---|---|
+| Trường IPA | `ipa_uk` | `ipa_us` |
+| Kiểu ký hiệu | Cambridge / Oxford UK: `/ˈwɔːtə(r)/`, `/ɡəʊ/`, `/hɒt/` | Cambridge US: `/ˈwɑːtɚ/`, `/ɡoʊ/`, `/hɑːt/` |
+| Nguồn IPA | Biên soạn theo chuẩn từ điển Anh – Anh | Sinh tự động từ **CMU Pronouncing Dictionary** (Carnegie Mellon) rồi chuyển sang ký hiệu Cambridge US; ~70 từ không có trong CMU được viết tay trong `scripts/ipa_us_overrides.json` |
+| Giọng đọc | `audio/uk/*.mp3` – giọng nữ Anh `bf_emma` | `audio/us/*.mp3` – giọng nữ Mỹ `af_heart` |
+
+- Giọng đọc được tạo bằng mô hình **Kokoro-82M** (giấy phép Apache-2.0), tốc độ 0.9×, MP3 mono 48 kbps.
+- Với mỗi từ, cách đọc của mô hình được so với IPA trong dữ liệu. Nếu khớp, mô hình đọc từ như bình thường; nếu lệch (ví dụ *live* động từ /lɪv/, các từ như *dance, class* mà giọng Anh của mô hình đọc theo kiểu miền Bắc nước Anh), file được đọc **theo đúng IPA của dữ liệu**. Chi tiết từng file nằm trong `audio/manifest.json` (`mode`: `text` hoặc `ipa`).
+- Từ giống nhau ở nhiều lớp dùng chung 1 file âm thanh.
+- Đây là **giọng máy (TTS)**, không phải giọng thu âm của sách. Với tên riêng tiếng Việt (*Hoan Kiem Lake, Bai Dinh Pagoda…*) cách đọc chỉ mang tính tham khảo.
 
 ## Trạng thái dữ liệu
 
@@ -472,7 +518,7 @@ python3 scripts/readme_tables.py
   Đây là các nguồn **tổng hợp của bên thứ ba**, không phải bảng Glossary in trong sách, và đôi khi không khớp nhau, nên:
   - một unit có thể **thiếu** vài từ so với sách, hoặc có vài từ sách không liệt kê;
   - các unit lớp 1–2 chỉ gồm các từ trọng tâm theo âm/chữ cái của bài (3–5 từ/unit).
-- **Phiên âm IPA, từ loại, nghĩa tiếng Việt và câu ví dụ** được biên soạn theo chuẩn từ điển Anh – Anh (Cambridge / Oxford), không chép từ sách.
+- **Phiên âm IPA UK, từ loại, nghĩa tiếng Việt và câu ví dụ** được biên soạn theo chuẩn từ điển Anh – Anh (Cambridge / Oxford), không chép từ sách. **IPA US** và **giọng đọc** được sinh như mô tả ở mục [Phát âm](#phát-âm-ipa-và-giọng-đọc-uk--us).
 - Một số **tên unit** chưa được nguồn nào xác nhận: lớp 1 Unit 8 (*In the park*), lớp 2 Unit 8 (*In the village*).
 
 Nếu bạn có sách giáo khoa trong tay, hãy so với phần **Glossary** cuối sách và sửa giúp (xem bên dưới).
@@ -481,9 +527,10 @@ Nếu bạn có sách giáo khoa trong tay, hãy so với phần **Glossary** cu
 
 1. Sửa file trong `data/` (không sửa `dist/`).
 2. Khi đã đối chiếu xong một unit với sách hoặc nguồn tin cậy: thêm URL / ghi chú vào `sources` và đổi `status` thành `"sourced"`.
-3. Chạy lần lượt `validate.py` → `build.py` → `readme_tables.py`.
-4. Commit cả `data/`, `dist/` và `README.md`.
+3. Nếu thêm từ mới: chạy `ipa_us.py` rồi `make_audio.py`.
+4. Chạy lần lượt `validate.py` → `build.py` → `readme_tables.py`.
+5. Commit cả `data/`, `audio/`, `dist/` và `README.md`.
 
 ---
 
-*Dữ liệu dùng cho mục đích học tập. Tên sách và tên unit thuộc về NXB Giáo dục Việt Nam.*
+*Dữ liệu dùng cho mục đích học tập. Tên sách và tên unit thuộc về NXB Giáo dục Việt Nam. IPA Mỹ dựa trên CMU Pronouncing Dictionary (giấy phép BSD); giọng đọc tạo bằng Kokoro-82M (Apache-2.0).*

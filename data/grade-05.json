@@ -19,108 +19,125 @@
         {
           "word": "yourself",
           "pos": "pron",
-          "ipa": "/jɔːˈself/",
+          "ipa_uk": "/jɔːˈself/",
+          "ipa_us": "/jɚˈself/",
           "meaning": "bản thân bạn",
           "example": "Can you tell me about yourself?"
         },
         {
           "word": "city",
           "pos": "n",
-          "ipa": "/ˈsɪti/",
+          "ipa_uk": "/ˈsɪti/",
+          "ipa_us": "/ˈsɪti/",
           "meaning": "thành phố",
           "example": "I live in the city."
         },
         {
           "word": "countryside",
           "pos": "n",
-          "ipa": "/ˈkʌntrisaɪd/",
+          "ipa_uk": "/ˈkʌntrisaɪd/",
+          "ipa_us": "/ˈkʌntrisaɪd/",
           "meaning": "vùng nông thôn",
           "example": "My grandparents live in the countryside."
         },
         {
           "word": "class",
           "pos": "n",
-          "ipa": "/klɑːs/",
+          "ipa_uk": "/klɑːs/",
+          "ipa_us": "/klæs/",
           "meaning": "lớp học",
           "example": "I'm in class 5A."
         },
         {
           "word": "favourite",
           "pos": "adj",
-          "ipa": "/ˈfeɪvərɪt/",
+          "ipa_uk": "/ˈfeɪvərɪt/",
+          "ipa_us": "/ˈfeɪvɚɪt/",
           "meaning": "yêu thích",
           "example": "What's your favourite colour?"
         },
         {
           "word": "pink",
           "pos": "adj",
-          "ipa": "/pɪŋk/",
+          "ipa_uk": "/pɪŋk/",
+          "ipa_us": "/pɪŋk/",
           "meaning": "màu hồng"
         },
         {
           "word": "green",
           "pos": "adj",
-          "ipa": "/ɡriːn/",
+          "ipa_uk": "/ɡriːn/",
+          "ipa_us": "/ɡriːn/",
           "meaning": "màu xanh lá cây"
         },
         {
           "word": "purple",
           "pos": "adj",
-          "ipa": "/ˈpɜːpl/",
+          "ipa_uk": "/ˈpɜːpl/",
+          "ipa_us": "/ˈpɝːpəl/",
           "meaning": "màu tím"
         },
         {
           "word": "pasta",
           "pos": "n",
-          "ipa": "/ˈpæstə/",
+          "ipa_uk": "/ˈpæstə/",
+          "ipa_us": "/ˈpɑːstə/",
           "meaning": "mì Ý"
         },
         {
           "word": "noodles",
           "pos": "n",
-          "ipa": "/ˈnuːdlz/",
+          "ipa_uk": "/ˈnuːdlz/",
+          "ipa_us": "/ˈnuːdəlz/",
           "meaning": "mì, bún, phở (sợi)"
         },
         {
           "word": "sandwich",
           "pos": "n",
-          "ipa": "/ˈsænwɪtʃ/",
+          "ipa_uk": "/ˈsænwɪtʃ/",
+          "ipa_us": "/ˈsænwɪtʃ/",
           "meaning": "bánh mì kẹp"
         },
         {
           "word": "table tennis",
           "pos": "n",
-          "ipa": "/ˈteɪbl tenɪs/",
+          "ipa_uk": "/ˈteɪbl tenɪs/",
+          "ipa_us": "/ˈteɪbəl ˌtenɪs/",
           "meaning": "bóng bàn"
         },
         {
           "word": "basketball",
           "pos": "n",
-          "ipa": "/ˈbɑːskɪtbɔːl/",
+          "ipa_uk": "/ˈbɑːskɪtbɔːl/",
+          "ipa_us": "/ˈbæskətbɑːl/",
           "meaning": "bóng rổ"
         },
         {
           "word": "baseball",
           "pos": "n",
-          "ipa": "/ˈbeɪsbɔːl/",
+          "ipa_uk": "/ˈbeɪsbɔːl/",
+          "ipa_us": "/ˈbeɪsbɑːl/",
           "meaning": "bóng chày"
         },
         {
           "word": "tennis",
           "pos": "n",
-          "ipa": "/ˈtenɪs/",
+          "ipa_uk": "/ˈtenɪs/",
+          "ipa_us": "/ˈtenɪs/",
           "meaning": "quần vợt"
         },
         {
           "word": "swimming",
           "pos": "n",
-          "ipa": "/ˈswɪmɪŋ/",
+          "ipa_uk": "/ˈswɪmɪŋ/",
+          "ipa_us": "/ˈswɪmɪŋ/",
           "meaning": "bơi lội"
         },
         {
           "word": "dolphin",
           "pos": "n",
-          "ipa": "/ˈdɒlfɪn/",
+          "ipa_uk": "/ˈdɒlfɪn/",
+          "ipa_us": "/ˈdɑːlfən/",
           "meaning": "cá heo",
           "example": "My favourite animal is the dolphin."
         }
@@ -140,61 +157,70 @@
         {
           "word": "house",
           "pos": "n",
-          "ipa": "/haʊs/",
+          "ipa_uk": "/haʊs/",
+          "ipa_us": "/haʊs/",
           "meaning": "ngôi nhà",
           "example": "Do you live in this house?"
         },
         {
           "word": "flat",
           "pos": "n",
-          "ipa": "/flæt/",
+          "ipa_uk": "/flæt/",
+          "ipa_us": "/flæt/",
           "meaning": "căn hộ",
           "example": "I live in a flat."
         },
         {
           "word": "building",
           "pos": "n",
-          "ipa": "/ˈbɪldɪŋ/",
+          "ipa_uk": "/ˈbɪldɪŋ/",
+          "ipa_us": "/ˈbɪldɪŋ/",
           "meaning": "tòa nhà",
           "example": "Do you live in that building?"
         },
         {
           "word": "tower",
           "pos": "n",
-          "ipa": "/ˈtaʊə/",
+          "ipa_uk": "/ˈtaʊə/",
+          "ipa_us": "/ˈtaʊɚ/",
           "meaning": "tòa tháp, tòa nhà cao tầng",
           "example": "I live in Lotus Tower."
         },
         {
           "word": "live",
           "pos": "v",
-          "ipa": "/lɪv/",
+          "ipa_uk": "/lɪv/",
+          "ipa_us": "/lɪv/",
           "meaning": "sống, ở"
         },
         {
           "word": "address",
           "pos": "n",
-          "ipa": "/əˈdres/",
+          "ipa_uk": "/əˈdres/",
+          "ipa_us": "/əˈdres/",
           "meaning": "địa chỉ",
           "example": "What's your address?"
         },
         {
           "word": "street",
           "pos": "n",
-          "ipa": "/striːt/",
+          "ipa_uk": "/striːt/",
+          "ipa_us": "/striːt/",
           "meaning": "đường phố",
           "example": "It's 23 Le Thanh Tong Street."
         },
         {
           "word": "road",
           "pos": "n",
-          "ipa": "/rəʊd/",
+          "ipa_uk": "/rəʊd/",
+          "ipa_us": "/roʊd/",
           "meaning": "con đường"
         },
         {
           "word": "lane",
           "pos": "n",
-          "ipa": "/leɪn/",
+          "ipa_uk": "/leɪn/",
+          "ipa_us": "/leɪn/",
           "meaning": "ngõ, hẻm"
         }
       ]
@@ -214,88 +240,102 @@
         {
           "word": "foreign",
           "pos": "adj",
-          "ipa": "/ˈfɒrən/",
+          "ipa_uk": "/ˈfɒrən/",
+          "ipa_us": "/ˈfɔːrən/",
           "meaning": "(thuộc) nước ngoài"
         },
         {
           "word": "nationality",
           "pos": "n",
-          "ipa": "/ˌnæʃəˈnæləti/",
+          "ipa_uk": "/ˌnæʃəˈnæləti/",
+          "ipa_us": "/ˌnæʃəˈnæləti/",
           "meaning": "quốc tịch",
           "example": "What nationality is she?"
         },
         {
           "word": "American",
           "pos": "adj",
-          "ipa": "/əˈmerɪkən/",
+          "ipa_uk": "/əˈmerɪkən/",
+          "ipa_us": "/əˈmerɪkən/",
           "meaning": "(người) Mỹ",
           "example": "She's American."
         },
         {
           "word": "Australian",
           "pos": "adj",
-          "ipa": "/ɒˈstreɪliən/",
+          "ipa_uk": "/ɒˈstreɪliən/",
+          "ipa_us": "/ɑːˈstreɪljən/",
           "meaning": "(người) Úc"
         },
         {
           "word": "British",
           "pos": "adj",
-          "ipa": "/ˈbrɪtɪʃ/",
+          "ipa_uk": "/ˈbrɪtɪʃ/",
+          "ipa_us": "/ˈbrɪtɪʃ/",
           "meaning": "(người) Anh"
         },
         {
           "word": "Japanese",
           "pos": "adj",
-          "ipa": "/ˌdʒæpəˈniːz/",
+          "ipa_uk": "/ˌdʒæpəˈniːz/",
+          "ipa_us": "/ˌdʒæpəˈniːz/",
           "meaning": "(người) Nhật Bản"
         },
         {
           "word": "Malaysian",
           "pos": "adj",
-          "ipa": "/məˈleɪʒn/",
+          "ipa_uk": "/məˈleɪʒn/",
+          "ipa_us": "/məˈleɪʒən/",
           "meaning": "(người) Ma-lai-xi-a"
         },
         {
           "word": "Singaporean",
           "pos": "adj",
-          "ipa": "/ˌsɪŋəˈpɔːriən/",
+          "ipa_uk": "/ˌsɪŋəˈpɔːriən/",
+          "ipa_us": "/sɪŋɡəˈpɔːriən/",
           "meaning": "(người) Xin-ga-po"
         },
         {
           "word": "Thai",
           "pos": "adj",
-          "ipa": "/taɪ/",
+          "ipa_uk": "/taɪ/",
+          "ipa_us": "/taɪ/",
           "meaning": "(người) Thái Lan"
         },
         {
           "word": "active",
           "pos": "adj",
-          "ipa": "/ˈæktɪv/",
+          "ipa_uk": "/ˈæktɪv/",
+          "ipa_us": "/ˈæktɪv/",
           "meaning": "năng động"
         },
         {
           "word": "clever",
           "pos": "adj",
-          "ipa": "/ˈklevə/",
+          "ipa_uk": "/ˈklevə/",
+          "ipa_us": "/ˈklevɚ/",
           "meaning": "thông minh, lanh lợi",
           "example": "What's she like? She's clever."
         },
         {
           "word": "friendly",
           "pos": "adj",
-          "ipa": "/ˈfrendli/",
+          "ipa_uk": "/ˈfrendli/",
+          "ipa_us": "/ˈfrendli/",
           "meaning": "thân thiện"
         },
         {
           "word": "helpful",
           "pos": "adj",
-          "ipa": "/ˈhelpfl/",
+          "ipa_uk": "/ˈhelpfl/",
+          "ipa_us": "/ˈhelpfəl/",
           "meaning": "hay giúp đỡ"
         },
         {
           "word": "kind",
           "pos": "adj",
-          "ipa": "/kaɪnd/",
+          "ipa_uk": "/kaɪnd/",
+          "ipa_us": "/kaɪnd/",
           "meaning": "tốt bụng"
         }
       ]
@@ -314,63 +354,73 @@
         {
           "word": "free time",
           "pos": "n",
-          "ipa": "/ˌfriː ˈtaɪm/",
+          "ipa_uk": "/ˌfriː ˈtaɪm/",
+          "ipa_us": "/ˌfriː ˈtaɪm/",
           "meaning": "thời gian rảnh",
           "example": "What do you do in your free time?"
         },
         {
           "word": "surf the Internet",
           "pos": "phr",
-          "ipa": "/ˌsɜːf ði ˈɪntənet/",
+          "ipa_uk": "/ˌsɜːf ði ˈɪntənet/",
+          "ipa_us": "/ˌsɝːf ði ˈɪntɚnet/",
           "meaning": "lướt mạng"
         },
         {
           "word": "water the flowers",
           "pos": "phr",
-          "ipa": "/ˌwɔːtə ðə ˈflaʊəz/",
+          "ipa_uk": "/ˌwɔːtə ðə ˈflaʊəz/",
+          "ipa_us": "/ˌwɑːtɚ ðə ˈflaʊɚz/",
           "meaning": "tưới hoa"
         },
         {
           "word": "go for a walk",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ fər ə ˈwɔːk/",
+          "ipa_uk": "/ˌɡəʊ fər ə ˈwɔːk/",
+          "ipa_us": "/ˌɡoʊ fɚ ə ˈwɑːk/",
           "meaning": "đi dạo"
         },
         {
           "word": "ride a bike",
           "pos": "phr",
-          "ipa": "/ˌraɪd ə ˈbaɪk/",
+          "ipa_uk": "/ˌraɪd ə ˈbaɪk/",
+          "ipa_us": "/ˌraɪd ə ˈbaɪk/",
           "meaning": "đạp xe",
           "example": "I often ride my bike."
         },
         {
           "word": "always",
           "pos": "adv",
-          "ipa": "/ˈɔːlweɪz/",
+          "ipa_uk": "/ˈɔːlweɪz/",
+          "ipa_us": "/ˈɑːlweɪz/",
           "meaning": "luôn luôn"
         },
         {
           "word": "usually",
           "pos": "adv",
-          "ipa": "/ˈjuːʒuəli/",
+          "ipa_uk": "/ˈjuːʒuəli/",
+          "ipa_us": "/ˈjuːʒəli/",
           "meaning": "thường xuyên"
         },
         {
           "word": "often",
           "pos": "adv",
-          "ipa": "/ˈɒfn/",
+          "ipa_uk": "/ˈɒfn/",
+          "ipa_us": "/ˈɑːfən/",
           "meaning": "thường"
         },
         {
           "word": "sometimes",
           "pos": "adv",
-          "ipa": "/ˈsʌmtaɪmz/",
+          "ipa_uk": "/ˈsʌmtaɪmz/",
+          "ipa_us": "/ˈsʌmtaɪmz/",
           "meaning": "thỉnh thoảng"
         },
         {
           "word": "never",
           "pos": "adv",
-          "ipa": "/ˈnevə/",
+          "ipa_uk": "/ˈnevə/",
+          "ipa_us": "/ˈnevɚ/",
           "meaning": "không bao giờ"
         }
       ]
@@ -390,76 +440,88 @@
         {
           "word": "future",
           "pos": "n",
-          "ipa": "/ˈfjuːtʃə/",
+          "ipa_uk": "/ˈfjuːtʃə/",
+          "ipa_us": "/ˈfjuːtʃɚ/",
           "meaning": "tương lai",
           "example": "What would you like to be in the future?"
         },
         {
           "word": "job",
           "pos": "n",
-          "ipa": "/dʒɒb/",
+          "ipa_uk": "/dʒɒb/",
+          "ipa_us": "/dʒɑːb/",
           "meaning": "công việc, nghề nghiệp"
         },
         {
           "word": "firefighter",
           "pos": "n",
-          "ipa": "/ˈfaɪəfaɪtə/",
+          "ipa_uk": "/ˈfaɪəfaɪtə/",
+          "ipa_us": "/ˈfaɪrfaɪtɚ/",
           "meaning": "lính cứu hỏa"
         },
         {
           "word": "gardener",
           "pos": "n",
-          "ipa": "/ˈɡɑːdnə/",
+          "ipa_uk": "/ˈɡɑːdnə/",
+          "ipa_us": "/ˈɡɑːrdənɚ/",
           "meaning": "người làm vườn"
         },
         {
           "word": "reporter",
           "pos": "n",
-          "ipa": "/rɪˈpɔːtə/",
+          "ipa_uk": "/rɪˈpɔːtə/",
+          "ipa_us": "/rɪˈpɔːrtɚ/",
           "meaning": "phóng viên",
           "example": "I'd like to be a reporter."
         },
         {
           "word": "writer",
           "pos": "n",
-          "ipa": "/ˈraɪtə/",
+          "ipa_uk": "/ˈraɪtə/",
+          "ipa_us": "/ˈraɪtɚ/",
           "meaning": "nhà văn"
         },
         {
           "word": "farmer",
           "pos": "n",
-          "ipa": "/ˈfɑːmə/",
+          "ipa_uk": "/ˈfɑːmə/",
+          "ipa_us": "/ˈfɑːrmɚ/",
           "meaning": "nông dân"
         },
         {
           "word": "teacher",
           "pos": "n",
-          "ipa": "/ˈtiːtʃə/",
+          "ipa_uk": "/ˈtiːtʃə/",
+          "ipa_us": "/ˈtiːtʃɚ/",
           "meaning": "giáo viên"
         },
         {
           "word": "put out fires",
           "pos": "phr",
-          "ipa": "/ˌpʊt aʊt ˈfaɪəz/",
+          "ipa_uk": "/ˌpʊt aʊt ˈfaɪəz/",
+          "ipa_us": "/ˌpʊt aʊt ˈfaɪɚz/",
           "meaning": "dập lửa",
           "example": "A firefighter puts out fires."
         },
         {
           "word": "save people",
           "pos": "phr",
-          "ipa": "/ˌseɪv ˈpiːpl/",
+          "ipa_uk": "/ˌseɪv ˈpiːpl/",
+          "ipa_us": "/ˌseɪv ˈpiːpəl/",
           "meaning": "cứu người"
         },
         {
           "word": "grow vegetables",
           "pos": "phr",
-          "ipa": "/ˌɡrəʊ ˈvedʒtəblz/",
+          "ipa_uk": "/ˌɡrəʊ ˈvedʒtəblz/",
+          "ipa_us": "/ˌɡroʊ ˈvedʒtəbəlz/",
           "meaning": "trồng rau"
         },
         {
           "word": "write stories",
           "pos": "phr",
-          "ipa": "/ˌraɪt ˈstɔːriz/",
+          "ipa_uk": "/ˌraɪt ˈstɔːriz/",
+          "ipa_us": "/ˌraɪt ˈstɔːriz/",
           "meaning": "viết truyện"
         }
       ]
@@ -478,94 +540,109 @@
         {
           "word": "floor",
           "pos": "n",
-          "ipa": "/flɔː/",
+          "ipa_uk": "/flɔː/",
+          "ipa_us": "/flɔːr/",
           "meaning": "tầng",
           "example": "The library is on the second floor."
         },
         {
           "word": "ground floor",
           "pos": "n",
-          "ipa": "/ˌɡraʊnd ˈflɔː/",
+          "ipa_uk": "/ˌɡraʊnd ˈflɔː/",
+          "ipa_us": "/ˌɡraʊnd ˈflɔːr/",
           "meaning": "tầng trệt"
         },
         {
           "word": "first floor",
           "pos": "n",
-          "ipa": "/ˌfɜːst ˈflɔː/",
+          "ipa_uk": "/ˌfɜːst ˈflɔː/",
+          "ipa_us": "/ˌfɝːst ˈflɔːr/",
           "meaning": "tầng một"
         },
         {
           "word": "second floor",
           "pos": "n",
-          "ipa": "/ˌsekənd ˈflɔː/",
+          "ipa_uk": "/ˌsekənd ˈflɔː/",
+          "ipa_us": "/ˌsekənd ˈflɔːr/",
           "meaning": "tầng hai"
         },
         {
           "word": "art room",
           "pos": "n",
-          "ipa": "/ˈɑːt ruːm/",
+          "ipa_uk": "/ˈɑːt ruːm/",
+          "ipa_us": "/ˈɑːrt ruːm/",
           "meaning": "phòng mỹ thuật"
         },
         {
           "word": "computer room",
           "pos": "n",
-          "ipa": "/kəmˈpjuːtə ruːm/",
+          "ipa_uk": "/kəmˈpjuːtə ruːm/",
+          "ipa_us": "/kəmˈpjuːtɚ ruːm/",
           "meaning": "phòng máy tính"
         },
         {
           "word": "music room",
           "pos": "n",
-          "ipa": "/ˈmjuːzɪk ruːm/",
+          "ipa_uk": "/ˈmjuːzɪk ruːm/",
+          "ipa_us": "/ˈmjuːzɪk ruːm/",
           "meaning": "phòng âm nhạc"
         },
         {
           "word": "library",
           "pos": "n",
-          "ipa": "/ˈlaɪbrəri/",
+          "ipa_uk": "/ˈlaɪbrəri/",
+          "ipa_us": "/ˈlaɪbreriː/",
           "meaning": "thư viện"
         },
         {
           "word": "corridor",
           "pos": "n",
-          "ipa": "/ˈkɒrɪdɔː/",
+          "ipa_uk": "/ˈkɒrɪdɔː/",
+          "ipa_us": "/ˈkɔːrɪdɚ/",
           "meaning": "hành lang"
         },
         {
           "word": "go along",
           "pos": "phr v",
-          "ipa": "/ˌɡəʊ əˈlɒŋ/",
+          "ipa_uk": "/ˌɡəʊ əˈlɒŋ/",
+          "ipa_us": "/ˌɡoʊ əˈlɑːŋ/",
           "meaning": "đi dọc theo",
           "example": "Go along the corridor."
         },
         {
           "word": "go past",
           "pos": "phr v",
-          "ipa": "/ˌɡəʊ ˈpɑːst/",
+          "ipa_uk": "/ˌɡəʊ ˈpɑːst/",
+          "ipa_us": "/ˌɡoʊ ˈpæst/",
           "meaning": "đi qua, đi ngang qua",
           "example": "Go past the computer room."
         },
         {
           "word": "turn left",
           "pos": "phr",
-          "ipa": "/ˌtɜːn ˈleft/",
+          "ipa_uk": "/ˌtɜːn ˈleft/",
+          "ipa_us": "/ˌtɝːn ˈleft/",
           "meaning": "rẽ trái"
         },
         {
           "word": "turn right",
           "pos": "phr",
-          "ipa": "/ˌtɜːn ˈraɪt/",
+          "ipa_uk": "/ˌtɜːn ˈraɪt/",
+          "ipa_us": "/ˌtɝːn ˈraɪt/",
           "meaning": "rẽ phải"
         },
         {
           "word": "downstairs",
           "pos": "adv",
-          "ipa": "/ˌdaʊnˈsteəz/",
+          "ipa_uk": "/ˌdaʊnˈsteəz/",
+          "ipa_us": "/ˌdaʊnˈsterz/",
           "meaning": "ở tầng dưới, xuống tầng dưới"
         },
         {
           "word": "upstairs",
           "pos": "adv",
-          "ipa": "/ˌʌpˈsteəz/",
+          "ipa_uk": "/ˌʌpˈsteəz/",
+          "ipa_us": "/əpˈsterz/",
           "meaning": "ở tầng trên, lên tầng trên"
         }
       ]
@@ -584,51 +661,59 @@
         {
           "word": "school activity",
           "pos": "n",
-          "ipa": "/ˌskuːl ækˈtɪvəti/",
+          "ipa_uk": "/ˌskuːl ækˈtɪvəti/",
+          "ipa_us": "/ˌskuːl ækˈtɪvəti/",
           "meaning": "hoạt động ở trường"
         },
         {
           "word": "do projects",
           "pos": "phr",
-          "ipa": "/ˌduː ˈprɒdʒekts/",
+          "ipa_uk": "/ˌduː ˈprɒdʒekts/",
+          "ipa_us": "/ˌduː ˈprɑːdʒekts/",
           "meaning": "làm dự án",
           "example": "I like doing projects."
         },
         {
           "word": "solve maths problems",
           "pos": "phr",
-          "ipa": "/ˌsɒlv ˈmæθs ˌprɒbləmz/",
+          "ipa_uk": "/ˌsɒlv ˈmæθs ˌprɒbləmz/",
+          "ipa_us": "/ˌsɑːlv ˈmæθs ˌprɑːbləmz/",
           "meaning": "giải toán"
         },
         {
           "word": "do puzzles",
           "pos": "phr",
-          "ipa": "/ˌduː ˈpʌzlz/",
+          "ipa_uk": "/ˌduː ˈpʌzlz/",
+          "ipa_us": "/ˌduː ˈpʌzəlz/",
           "meaning": "giải câu đố"
         },
         {
           "word": "read books",
           "pos": "phr",
-          "ipa": "/ˌriːd ˈbʊks/",
+          "ipa_uk": "/ˌriːd ˈbʊks/",
+          "ipa_us": "/ˌriːd ˈbʊks/",
           "meaning": "đọc sách"
         },
         {
           "word": "useful",
           "pos": "adj",
-          "ipa": "/ˈjuːsfl/",
+          "ipa_uk": "/ˈjuːsfl/",
+          "ipa_us": "/ˈjuːsfəl/",
           "meaning": "hữu ích",
           "example": "It's useful."
         },
         {
           "word": "fun",
           "pos": "adj",
-          "ipa": "/fʌn/",
+          "ipa_uk": "/fʌn/",
+          "ipa_us": "/fʌn/",
           "meaning": "vui"
         },
         {
           "word": "interesting",
           "pos": "adj",
-          "ipa": "/ˈɪntrəstɪŋ/",
+          "ipa_uk": "/ˈɪntrəstɪŋ/",
+          "ipa_us": "/ˈɪntrəstɪŋ/",
           "meaning": "thú vị"
         }
       ]
@@ -648,75 +733,87 @@
         {
           "word": "whose",
           "pos": "pron",
-          "ipa": "/huːz/",
+          "ipa_uk": "/huːz/",
+          "ipa_us": "/huːz/",
           "meaning": "của ai",
           "example": "Whose glue stick is this?"
         },
         {
           "word": "glue stick",
           "pos": "n",
-          "ipa": "/ˈɡluː stɪk/",
+          "ipa_uk": "/ˈɡluː stɪk/",
+          "ipa_us": "/ˈɡluː stɪk/",
           "meaning": "keo dán dạng thỏi"
         },
         {
           "word": "school bag",
           "pos": "n",
-          "ipa": "/ˈskuːl bæɡ/",
+          "ipa_uk": "/ˈskuːl bæɡ/",
+          "ipa_us": "/ˈskuːl bæɡ/",
           "meaning": "cặp sách"
         },
         {
           "word": "crayon",
           "pos": "n",
-          "ipa": "/ˈkreɪɒn/",
+          "ipa_uk": "/ˈkreɪɒn/",
+          "ipa_us": "/ˈkreɪɑːn/",
           "meaning": "bút sáp màu"
         },
         {
           "word": "pencil box",
           "pos": "n",
-          "ipa": "/ˈpensl bɒks/",
+          "ipa_uk": "/ˈpensl bɒks/",
+          "ipa_us": "/ˈpensəl bɑːks/",
           "meaning": "hộp bút"
         },
         {
           "word": "pencil",
           "pos": "n",
-          "ipa": "/ˈpensl/",
+          "ipa_uk": "/ˈpensl/",
+          "ipa_us": "/ˈpensəl/",
           "meaning": "bút chì"
         },
         {
           "word": "eraser",
           "pos": "n",
-          "ipa": "/ɪˈreɪzə/",
+          "ipa_uk": "/ɪˈreɪzə/",
+          "ipa_us": "/ɪˈreɪsɚ/",
           "meaning": "cục tẩy"
         },
         {
           "word": "notebook",
           "pos": "n",
-          "ipa": "/ˈnəʊtbʊk/",
+          "ipa_uk": "/ˈnəʊtbʊk/",
+          "ipa_us": "/ˈnoʊtbʊk/",
           "meaning": "vở, sổ ghi chép"
         },
         {
           "word": "next to",
           "pos": "prep",
-          "ipa": "/ˈnekst tə/",
+          "ipa_uk": "/ˈnekst tə/",
+          "ipa_us": "/ˈnekst tə/",
           "meaning": "bên cạnh",
           "example": "The glue is next to the school bag."
         },
         {
           "word": "beside",
           "pos": "prep",
-          "ipa": "/bɪˈsaɪd/",
+          "ipa_uk": "/bɪˈsaɪd/",
+          "ipa_us": "/bɪˈsaɪd/",
           "meaning": "bên cạnh"
         },
         {
           "word": "behind",
           "pos": "prep",
-          "ipa": "/bɪˈhaɪnd/",
+          "ipa_uk": "/bɪˈhaɪnd/",
+          "ipa_us": "/bɪˈhaɪnd/",
           "meaning": "phía sau"
         },
         {
           "word": "in front of",
           "pos": "prep",
-          "ipa": "/ɪn ˈfrʌnt əv/",
+          "ipa_uk": "/ɪn ˈfrʌnt əv/",
+          "ipa_us": "/ɪn ˈfrʌnt əv/",
           "meaning": "phía trước"
         }
       ]
@@ -735,57 +832,66 @@
         {
           "word": "outdoor",
           "pos": "adj",
-          "ipa": "/ˈaʊtdɔː/",
+          "ipa_uk": "/ˈaʊtdɔː/",
+          "ipa_us": "/ˈaʊtdɔːr/",
           "meaning": "ngoài trời"
         },
         {
           "word": "campsite",
           "pos": "n",
-          "ipa": "/ˈkæmpsaɪt/",
+          "ipa_uk": "/ˈkæmpsaɪt/",
+          "ipa_us": "/ˈkæmpsaɪt/",
           "meaning": "khu cắm trại",
           "example": "We were at the campsite."
         },
         {
           "word": "sports centre",
           "pos": "n",
-          "ipa": "/ˈspɔːts ˌsentə/",
+          "ipa_uk": "/ˈspɔːts ˌsentə/",
+          "ipa_us": "/ˈspɔːrts ˌsentɚ/",
           "meaning": "trung tâm thể thao"
         },
         {
           "word": "funfair",
           "pos": "n",
-          "ipa": "/ˈfʌnfeə/",
+          "ipa_uk": "/ˈfʌnfeə/",
+          "ipa_us": "/ˈfʌnfer/",
           "meaning": "khu vui chơi, hội chợ giải trí"
         },
         {
           "word": "zoo",
           "pos": "n",
-          "ipa": "/zuː/",
+          "ipa_uk": "/zuː/",
+          "ipa_us": "/zuː/",
           "meaning": "vườn thú"
         },
         {
           "word": "park",
           "pos": "n",
-          "ipa": "/pɑːk/",
+          "ipa_uk": "/pɑːk/",
+          "ipa_us": "/pɑːrk/",
           "meaning": "công viên"
         },
         {
           "word": "play basketball",
           "pos": "phr",
-          "ipa": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
+          "ipa_uk": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
+          "ipa_us": "/ˌpleɪ ˈbæskətbɑːl/",
           "meaning": "chơi bóng rổ",
           "example": "My brother played basketball at the sports centre."
         },
         {
           "word": "last weekend",
           "pos": "phr",
-          "ipa": "/ˌlɑːst ˌwiːkˈend/",
+          "ipa_uk": "/ˌlɑːst ˌwiːkˈend/",
+          "ipa_us": "/ˌlæst ˈwiːkend/",
           "meaning": "cuối tuần trước"
         },
         {
           "word": "yesterday",
           "pos": "adv",
-          "ipa": "/ˈjestədeɪ/",
+          "ipa_uk": "/ˈjestədeɪ/",
+          "ipa_us": "/ˈjestɚdeɪ/",
           "meaning": "hôm qua"
         }
       ]
@@ -804,44 +910,51 @@
         {
           "word": "school trip",
           "pos": "n",
-          "ipa": "/ˈskuːl trɪp/",
+          "ipa_uk": "/ˈskuːl trɪp/",
+          "ipa_us": "/ˈskuːl trɪp/",
           "meaning": "chuyến đi của trường"
         },
         {
           "word": "visit",
           "pos": "v",
-          "ipa": "/ˈvɪzɪt/",
+          "ipa_uk": "/ˈvɪzɪt/",
+          "ipa_us": "/ˈvɪzɪt/",
           "meaning": "thăm, tham quan",
           "example": "We visited a farm near our school."
         },
         {
           "word": "farm",
           "pos": "n",
-          "ipa": "/fɑːm/",
+          "ipa_uk": "/fɑːm/",
+          "ipa_us": "/fɑːrm/",
           "meaning": "trang trại"
         },
         {
           "word": "Bai Dinh Pagoda",
           "pos": "n",
-          "ipa": "/ˌbaɪ ˈdɪn pəˈɡəʊdə/",
+          "ipa_uk": "/ˌbaɪ ˈdɪn pəˈɡəʊdə/",
+          "ipa_us": "/ˌbaɪ ˈdɪn pəˈɡoʊdə/",
           "meaning": "chùa Bái Đính"
         },
         {
           "word": "Ba Na Hills",
           "pos": "n",
-          "ipa": "/ˌbɑː ˈnɑː ˈhɪlz/",
+          "ipa_uk": "/ˌbɑː ˈnɑː ˈhɪlz/",
+          "ipa_us": "/ˌbɑː ˈnɑː ˈhɪlz/",
           "meaning": "Bà Nà Hills"
         },
         {
           "word": "Hoan Kiem Lake",
           "pos": "n",
-          "ipa": "/ˌhwɑːn ˈkiːm ˈleɪk/",
+          "ipa_uk": "/ˌhwɑːn ˈkiːm ˈleɪk/",
+          "ipa_us": "/ˌhwɑːn ˈkiːm ˈleɪk/",
           "meaning": "hồ Hoàn Kiếm"
         },
         {
           "word": "take photos",
           "pos": "phr",
-          "ipa": "/ˌteɪk ˈfəʊtəʊz/",
+          "ipa_uk": "/ˌteɪk ˈfəʊtəʊz/",
+          "ipa_us": "/ˌteɪk ˈfoʊtoʊz/",
           "meaning": "chụp ảnh"
         }
       ]
@@ -860,43 +973,50 @@
         {
           "word": "family",
           "pos": "n",
-          "ipa": "/ˈfæməli/",
+          "ipa_uk": "/ˈfæməli/",
+          "ipa_us": "/ˈfæməli/",
           "meaning": "gia đình"
         },
         {
           "word": "beach",
           "pos": "n",
-          "ipa": "/biːtʃ/",
+          "ipa_uk": "/biːtʃ/",
+          "ipa_us": "/biːtʃ/",
           "meaning": "bãi biển"
         },
         {
           "word": "buy souvenirs",
           "pos": "phr",
-          "ipa": "/ˌbaɪ ˌsuːvəˈnɪəz/",
+          "ipa_uk": "/ˌbaɪ ˌsuːvəˈnɪəz/",
+          "ipa_us": "/ˌbaɪ ˌsuːvəˈnɪrz/",
           "meaning": "mua quà lưu niệm"
         },
         {
           "word": "collect seashells",
           "pos": "phr",
-          "ipa": "/kəˌlekt ˈsiːʃelz/",
+          "ipa_uk": "/kəˌlekt ˈsiːʃelz/",
+          "ipa_us": "/kəˌlekt ˈsiːʃelz/",
           "meaning": "nhặt vỏ sò"
         },
         {
           "word": "walk on the beach",
           "pos": "phr",
-          "ipa": "/ˌwɔːk ɒn ðə ˈbiːtʃ/",
+          "ipa_uk": "/ˌwɔːk ɒn ðə ˈbiːtʃ/",
+          "ipa_us": "/ˌwɑːk ɑːn ðə ˈbiːtʃ/",
           "meaning": "đi dạo trên bãi biển"
         },
         {
           "word": "build sandcastles",
           "pos": "phr",
-          "ipa": "/ˌbɪld ˈsændkɑːslz/",
+          "ipa_uk": "/ˌbɪld ˈsændkɑːslz/",
+          "ipa_us": "/ˌbɪld ˈsændkæslz/",
           "meaning": "xây lâu đài cát"
         },
         {
           "word": "swim in the sea",
           "pos": "phr",
-          "ipa": "/ˌswɪm ɪn ðə ˈsiː/",
+          "ipa_uk": "/ˌswɪm ɪn ðə ˈsiː/",
+          "ipa_us": "/ˌswɪm ɪn ðə ˈsiː/",
           "meaning": "bơi ở biển"
         }
       ]
@@ -915,61 +1035,71 @@
         {
           "word": "Tet",
           "pos": "n",
-          "ipa": "/tet/",
+          "ipa_uk": "/tet/",
+          "ipa_us": "/tet/",
           "meaning": "Tết"
         },
         {
           "word": "buy peach blossoms",
           "pos": "phr",
-          "ipa": "/ˌbaɪ ˈpiːtʃ ˌblɒsəmz/",
+          "ipa_uk": "/ˌbaɪ ˈpiːtʃ ˌblɒsəmz/",
+          "ipa_us": "/ˌbaɪ ˈpiːtʃ ˌblɑːsəmz/",
           "meaning": "mua cành đào"
         },
         {
           "word": "make banh chung",
           "pos": "phr",
-          "ipa": "/ˌmeɪk ˌbæn ˈtʃʊŋ/",
+          "ipa_uk": "/ˌmeɪk ˌbæn ˈtʃʊŋ/",
+          "ipa_us": "/ˌmeɪk ˌbæn ˈtʃʌŋ/",
           "meaning": "gói bánh chưng"
         },
         {
           "word": "make spring rolls",
           "pos": "phr",
-          "ipa": "/ˌmeɪk ˈsprɪŋ rəʊlz/",
+          "ipa_uk": "/ˌmeɪk ˈsprɪŋ rəʊlz/",
+          "ipa_us": "/ˌmeɪk ˈsprɪŋ roʊlz/",
           "meaning": "làm nem (chả giò)"
         },
         {
           "word": "New Year party",
           "pos": "n",
-          "ipa": "/ˌnjuː jɪə ˈpɑːti/",
+          "ipa_uk": "/ˌnjuː jɪə ˈpɑːti/",
+          "ipa_us": "/ˌnuː jɪr ˈpɑːrti/",
           "meaning": "tiệc mừng năm mới"
         },
         {
           "word": "fireworks show",
           "pos": "n",
-          "ipa": "/ˈfaɪəwɜːks ʃəʊ/",
+          "ipa_uk": "/ˈfaɪəwɜːks ʃəʊ/",
+          "ipa_us": "/ˈfaɪrwɝːks ʃoʊ/",
           "meaning": "buổi trình diễn pháo hoa"
         },
         {
           "word": "watch fireworks",
           "pos": "phr",
-          "ipa": "/ˌwɒtʃ ˈfaɪəwɜːks/",
+          "ipa_uk": "/ˌwɒtʃ ˈfaɪəwɜːks/",
+          "ipa_us": "/ˌwɑːtʃ ˈfaɪrwɝːks/",
           "meaning": "xem pháo hoa"
         },
         {
           "word": "visit grandparents",
           "pos": "phr",
-          "ipa": "/ˌvɪzɪt ˈɡrænpeərənts/",
+          "ipa_uk": "/ˌvɪzɪt ˈɡrænpeərənts/",
+          "ipa_us": "/ˌvɪzɪt ˈɡrændperənts/",
           "meaning": "thăm ông bà"
         },
         {
           "word": "lucky money",
           "pos": "n",
-          "ipa": "/ˈlʌki ˌmʌni/",
+          "ipa_uk": "/ˈlʌki ˌmʌni/",
+          "ipa_us": "/ˈlʌki ˌmʌni/",
           "meaning": "tiền lì xì"
         },
         {
           "word": "decorate",
           "pos": "v",
-          "ipa": "/ˈdekəreɪt/",
+          "ipa_uk": "/ˈdekəreɪt/",
+          "ipa_us": "/ˈdekəreɪt/",
           "meaning": "trang trí"
         }
       ]
@@ -988,49 +1118,57 @@
         {
           "word": "special day",
           "pos": "n",
-          "ipa": "/ˌspeʃl ˈdeɪ/",
+          "ipa_uk": "/ˌspeʃl ˈdeɪ/",
+          "ipa_us": "/ˌspeʃəl ˈdeɪ/",
           "meaning": "ngày đặc biệt"
         },
         {
           "word": "Mid-Autumn Festival",
           "pos": "n",
-          "ipa": "/ˌmɪd ˈɔːtəm ˈfestɪvl/",
+          "ipa_uk": "/ˌmɪd ˈɔːtəm ˈfestɪvl/",
+          "ipa_us": "/ˌmɪd ˈɑːtəm ˈfestɪvəl/",
           "meaning": "Tết Trung thu"
         },
         {
           "word": "Teachers' Day",
           "pos": "n",
-          "ipa": "/ˈtiːtʃəz deɪ/",
+          "ipa_uk": "/ˈtiːtʃəz deɪ/",
+          "ipa_us": "/ˈtiːtʃɚz deɪ/",
           "meaning": "Ngày Nhà giáo"
         },
         {
           "word": "Children's Day",
           "pos": "n",
-          "ipa": "/ˈtʃɪldrənz deɪ/",
+          "ipa_uk": "/ˈtʃɪldrənz deɪ/",
+          "ipa_us": "/ˈtʃɪldrənz deɪ/",
           "meaning": "Ngày Quốc tế Thiếu nhi"
         },
         {
           "word": "apple juice",
           "pos": "n",
-          "ipa": "/ˈæpl dʒuːs/",
+          "ipa_uk": "/ˈæpl dʒuːs/",
+          "ipa_us": "/ˈæpəl dʒuːs/",
           "meaning": "nước ép táo"
         },
         {
           "word": "milk tea",
           "pos": "n",
-          "ipa": "/ˌmɪlk ˈtiː/",
+          "ipa_uk": "/ˌmɪlk ˈtiː/",
+          "ipa_us": "/ˌmɪlk ˈtiː/",
           "meaning": "trà sữa"
         },
         {
           "word": "burger",
           "pos": "n",
-          "ipa": "/ˈbɜːɡə/",
+          "ipa_uk": "/ˈbɜːɡə/",
+          "ipa_us": "/ˈbɝːɡɚ/",
           "meaning": "bánh mì kẹp thịt"
         },
         {
           "word": "pizza",
           "pos": "n",
-          "ipa": "/ˈpiːtsə/",
+          "ipa_uk": "/ˈpiːtsə/",
+          "ipa_us": "/ˈpiːtsə/",
           "meaning": "bánh pi-da"
         }
       ]
@@ -1049,49 +1187,57 @@
         {
           "word": "healthy",
           "pos": "adj",
-          "ipa": "/ˈhelθi/",
+          "ipa_uk": "/ˈhelθi/",
+          "ipa_us": "/ˈhelθi/",
           "meaning": "khỏe mạnh, tốt cho sức khỏe"
         },
         {
           "word": "do morning exercise",
           "pos": "phr",
-          "ipa": "/ˌduː ˌmɔːnɪŋ ˈeksəsaɪz/",
+          "ipa_uk": "/ˌduː ˌmɔːnɪŋ ˈeksəsaɪz/",
+          "ipa_us": "/ˌduː ˌmɔːrnɪŋ ˈeksɚsaɪz/",
           "meaning": "tập thể dục buổi sáng"
         },
         {
           "word": "do yoga",
           "pos": "phr",
-          "ipa": "/ˌduː ˈjəʊɡə/",
+          "ipa_uk": "/ˌduː ˈjəʊɡə/",
+          "ipa_us": "/ˌduː ˈjoʊɡə/",
           "meaning": "tập yoga"
         },
         {
           "word": "play sports",
           "pos": "phr",
-          "ipa": "/ˌpleɪ ˈspɔːts/",
+          "ipa_uk": "/ˌpleɪ ˈspɔːts/",
+          "ipa_us": "/ˌpleɪ ˈspɔːrts/",
           "meaning": "chơi thể thao"
         },
         {
           "word": "drink fresh juice",
           "pos": "phr",
-          "ipa": "/ˌdrɪŋk ˌfreʃ ˈdʒuːs/",
+          "ipa_uk": "/ˌdrɪŋk ˌfreʃ ˈdʒuːs/",
+          "ipa_us": "/ˌdrɪŋk ˌfreʃ ˈdʒuːs/",
           "meaning": "uống nước ép tươi"
         },
         {
           "word": "once a week",
           "pos": "phr",
-          "ipa": "/ˌwʌns ə ˈwiːk/",
+          "ipa_uk": "/ˌwʌns ə ˈwiːk/",
+          "ipa_us": "/ˌwʌns ə ˈwiːk/",
           "meaning": "một lần một tuần"
         },
         {
           "word": "twice a week",
           "pos": "phr",
-          "ipa": "/ˌtwaɪs ə ˈwiːk/",
+          "ipa_uk": "/ˌtwaɪs ə ˈwiːk/",
+          "ipa_us": "/ˌtwaɪs ə ˈwiːk/",
           "meaning": "hai lần một tuần"
         },
         {
           "word": "three times a week",
           "pos": "phr",
-          "ipa": "/ˌθriː ˌtaɪmz ə ˈwiːk/",
+          "ipa_uk": "/ˌθriː ˌtaɪmz ə ˈwiːk/",
+          "ipa_us": "/ˌθriː ˌtaɪmz ə ˈwiːk/",
           "meaning": "ba lần một tuần",
           "example": "I do yoga three times a week."
         }
@@ -1111,61 +1257,71 @@
         {
           "word": "health",
           "pos": "n",
-          "ipa": "/helθ/",
+          "ipa_uk": "/helθ/",
+          "ipa_us": "/helθ/",
           "meaning": "sức khỏe"
         },
         {
           "word": "headache",
           "pos": "n",
-          "ipa": "/ˈhedeɪk/",
+          "ipa_uk": "/ˈhedeɪk/",
+          "ipa_us": "/ˈhedeɪk/",
           "meaning": "đau đầu"
         },
         {
           "word": "sore throat",
           "pos": "n",
-          "ipa": "/ˌsɔː ˈθrəʊt/",
+          "ipa_uk": "/ˌsɔː ˈθrəʊt/",
+          "ipa_us": "/ˌsɔːr ˈθroʊt/",
           "meaning": "đau họng"
         },
         {
           "word": "stomach ache",
           "pos": "n",
-          "ipa": "/ˈstʌmək eɪk/",
+          "ipa_uk": "/ˈstʌmək eɪk/",
+          "ipa_us": "/ˈstʌmək eɪk/",
           "meaning": "đau bụng"
         },
         {
           "word": "toothache",
           "pos": "n",
-          "ipa": "/ˈtuːθeɪk/",
+          "ipa_uk": "/ˈtuːθeɪk/",
+          "ipa_us": "/ˈtuːθeɪk/",
           "meaning": "đau răng"
         },
         {
           "word": "fever",
           "pos": "n",
-          "ipa": "/ˈfiːvə/",
+          "ipa_uk": "/ˈfiːvə/",
+          "ipa_us": "/ˈfiːvɚ/",
           "meaning": "sốt"
         },
         {
           "word": "drink warm water",
           "pos": "phr",
-          "ipa": "/ˌdrɪŋk ˌwɔːm ˈwɔːtə/",
+          "ipa_uk": "/ˌdrɪŋk ˌwɔːm ˈwɔːtə/",
+          "ipa_us": "/ˌdrɪŋk ˌwɔːrm ˈwɑːtɚ/",
           "meaning": "uống nước ấm"
         },
         {
           "word": "go to the dentist",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ tə ðə ˈdentɪst/",
+          "ipa_uk": "/ˌɡəʊ tə ðə ˈdentɪst/",
+          "ipa_us": "/ˌɡoʊ tə ðə ˈdentɪst/",
           "meaning": "đi khám nha sĩ"
         },
         {
           "word": "go to the doctor",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ tə ðə ˈdɒktə/",
+          "ipa_uk": "/ˌɡəʊ tə ðə ˈdɒktə/",
+          "ipa_us": "/ˌɡoʊ tə ðə ˈdɑːktɚ/",
           "meaning": "đi khám bác sĩ"
         },
         {
           "word": "have a rest",
           "pos": "phr",
-          "ipa": "/ˌhæv ə ˈrest/",
+          "ipa_uk": "/ˌhæv ə ˈrest/",
+          "ipa_us": "/ˌhæv ə ˈrest/",
           "meaning": "nghỉ ngơi",
           "example": "You should have a rest."
         }
@@ -1185,80 +1341,93 @@
         {
           "word": "season",
           "pos": "n",
-          "ipa": "/ˈsiːzn/",
+          "ipa_uk": "/ˈsiːzn/",
+          "ipa_us": "/ˈsiːzən/",
           "meaning": "mùa"
         },
         {
           "word": "spring",
           "pos": "n",
-          "ipa": "/sprɪŋ/",
+          "ipa_uk": "/sprɪŋ/",
+          "ipa_us": "/sprɪŋ/",
           "meaning": "mùa xuân"
         },
         {
           "word": "summer",
           "pos": "n",
-          "ipa": "/ˈsʌmə/",
+          "ipa_uk": "/ˈsʌmə/",
+          "ipa_us": "/ˈsʌmɚ/",
           "meaning": "mùa hè"
         },
         {
           "word": "autumn",
           "pos": "n",
-          "ipa": "/ˈɔːtəm/",
+          "ipa_uk": "/ˈɔːtəm/",
+          "ipa_us": "/ˈɑːtəm/",
           "meaning": "mùa thu"
         },
         {
           "word": "winter",
           "pos": "n",
-          "ipa": "/ˈwɪntə/",
+          "ipa_uk": "/ˈwɪntə/",
+          "ipa_us": "/ˈwɪntɚ/",
           "meaning": "mùa đông"
         },
         {
           "word": "weather",
           "pos": "n",
-          "ipa": "/ˈweðə/",
+          "ipa_uk": "/ˈweðə/",
+          "ipa_us": "/ˈweðɚ/",
           "meaning": "thời tiết",
           "example": "What's the weather like in summer?"
         },
         {
           "word": "weather forecast",
           "pos": "n",
-          "ipa": "/ˈweðə ˌfɔːkɑːst/",
+          "ipa_uk": "/ˈweðə ˌfɔːkɑːst/",
+          "ipa_us": "/ˈweðɚ ˌfɔːrkæst/",
           "meaning": "dự báo thời tiết"
         },
         {
           "word": "hot",
           "pos": "adj",
-          "ipa": "/hɒt/",
+          "ipa_uk": "/hɒt/",
+          "ipa_us": "/hɑːt/",
           "meaning": "nóng"
         },
         {
           "word": "warm",
           "pos": "adj",
-          "ipa": "/wɔːm/",
+          "ipa_uk": "/wɔːm/",
+          "ipa_us": "/wɔːrm/",
           "meaning": "ấm áp"
         },
         {
           "word": "cool",
           "pos": "adj",
-          "ipa": "/kuːl/",
+          "ipa_uk": "/kuːl/",
+          "ipa_us": "/kuːl/",
           "meaning": "mát mẻ"
         },
         {
           "word": "cold",
           "pos": "adj",
-          "ipa": "/kəʊld/",
+          "ipa_uk": "/kəʊld/",
+          "ipa_us": "/koʊld/",
           "meaning": "lạnh"
         },
         {
           "word": "dry",
           "pos": "adj",
-          "ipa": "/draɪ/",
+          "ipa_uk": "/draɪ/",
+          "ipa_us": "/draɪ/",
           "meaning": "khô"
         },
         {
           "word": "rainy",
           "pos": "adj",
-          "ipa": "/ˈreɪni/",
+          "ipa_uk": "/ˈreɪni/",
+          "ipa_us": "/ˈreɪni/",
           "meaning": "có mưa"
         }
       ]
@@ -1277,61 +1446,71 @@
         {
           "word": "story",
           "pos": "n",
-          "ipa": "/ˈstɔːri/",
+          "ipa_uk": "/ˈstɔːri/",
+          "ipa_us": "/ˈstɔːri/",
           "meaning": "câu chuyện"
         },
         {
           "word": "ant",
           "pos": "n",
-          "ipa": "/ænt/",
+          "ipa_uk": "/ænt/",
+          "ipa_us": "/ænt/",
           "meaning": "con kiến"
         },
         {
           "word": "grasshopper",
           "pos": "n",
-          "ipa": "/ˈɡrɑːshɒpə/",
+          "ipa_uk": "/ˈɡrɑːshɒpə/",
+          "ipa_us": "/ˈɡræshɑːpɚ/",
           "meaning": "con châu chấu"
         },
         {
           "word": "crow",
           "pos": "n",
-          "ipa": "/krəʊ/",
+          "ipa_uk": "/krəʊ/",
+          "ipa_us": "/kroʊ/",
           "meaning": "con quạ"
         },
         {
           "word": "fox",
           "pos": "n",
-          "ipa": "/fɒks/",
+          "ipa_uk": "/fɒks/",
+          "ipa_us": "/fɑːks/",
           "meaning": "con cáo"
         },
         {
           "word": "tortoise",
           "pos": "n",
-          "ipa": "/ˈtɔːtəs/",
+          "ipa_uk": "/ˈtɔːtəs/",
+          "ipa_us": "/ˈtɔːrtəs/",
           "meaning": "con rùa"
         },
         {
           "word": "hare",
           "pos": "n",
-          "ipa": "/heə/",
+          "ipa_uk": "/heə/",
+          "ipa_us": "/her/",
           "meaning": "con thỏ rừng"
         },
         {
           "word": "Snow White",
           "pos": "n",
-          "ipa": "/ˌsnəʊ ˈwaɪt/",
+          "ipa_uk": "/ˌsnəʊ ˈwaɪt/",
+          "ipa_us": "/ˌsnoʊ ˈwaɪt/",
           "meaning": "nàng Bạch Tuyết"
         },
         {
           "word": "cook well",
           "pos": "phr",
-          "ipa": "/ˌkʊk ˈwel/",
+          "ipa_uk": "/ˌkʊk ˈwel/",
+          "ipa_us": "/ˌkʊk ˈwel/",
           "meaning": "nấu ăn ngon"
         },
         {
           "word": "work hard",
           "pos": "phr",
-          "ipa": "/ˌwɜːk ˈhɑːd/",
+          "ipa_uk": "/ˌwɜːk ˈhɑːd/",
+          "ipa_us": "/ˌwɝːk ˈhɑːrd/",
           "meaning": "làm việc chăm chỉ"
         }
       ]
@@ -1350,49 +1529,57 @@
         {
           "word": "means of transport",
           "pos": "n",
-          "ipa": "/ˌmiːnz əv ˈtrænspɔːt/",
+          "ipa_uk": "/ˌmiːnz əv ˈtrænspɔːt/",
+          "ipa_us": "/ˌmiːnz əv ˈtrænspɔːrt/",
           "meaning": "phương tiện giao thông"
         },
         {
           "word": "by bicycle",
           "pos": "phr",
-          "ipa": "/baɪ ˈbaɪsɪkl/",
+          "ipa_uk": "/baɪ ˈbaɪsɪkl/",
+          "ipa_us": "/baɪ ˈbaɪsɪkəl/",
           "meaning": "bằng xe đạp"
         },
         {
           "word": "by bus",
           "pos": "phr",
-          "ipa": "/baɪ ˈbʌs/",
+          "ipa_uk": "/baɪ ˈbʌs/",
+          "ipa_us": "/baɪ ˈbʌs/",
           "meaning": "bằng xe buýt"
         },
         {
           "word": "by taxi",
           "pos": "phr",
-          "ipa": "/baɪ ˈtæksi/",
+          "ipa_uk": "/baɪ ˈtæksi/",
+          "ipa_us": "/baɪ ˈtæksi/",
           "meaning": "bằng taxi"
         },
         {
           "word": "by train",
           "pos": "phr",
-          "ipa": "/baɪ ˈtreɪn/",
+          "ipa_uk": "/baɪ ˈtreɪn/",
+          "ipa_us": "/baɪ ˈtreɪn/",
           "meaning": "bằng tàu hỏa"
         },
         {
           "word": "by plane",
           "pos": "phr",
-          "ipa": "/baɪ ˈpleɪn/",
+          "ipa_uk": "/baɪ ˈpleɪn/",
+          "ipa_us": "/baɪ ˈpleɪn/",
           "meaning": "bằng máy bay"
         },
         {
           "word": "by motorbike",
           "pos": "phr",
-          "ipa": "/baɪ ˈməʊtəbaɪk/",
+          "ipa_uk": "/baɪ ˈməʊtəbaɪk/",
+          "ipa_us": "/baɪ ˈmoʊtɚbaɪk/",
           "meaning": "bằng xe máy"
         },
         {
           "word": "by boat",
           "pos": "phr",
-          "ipa": "/baɪ ˈbəʊt/",
+          "ipa_uk": "/baɪ ˈbəʊt/",
+          "ipa_us": "/baɪ ˈboʊt/",
           "meaning": "bằng thuyền"
         }
       ]
@@ -1410,49 +1597,57 @@
         {
           "word": "place of interest",
           "pos": "n",
-          "ipa": "/ˌpleɪs əv ˈɪntrəst/",
+          "ipa_uk": "/ˌpleɪs əv ˈɪntrəst/",
+          "ipa_us": "/ˌpleɪs əv ˈɪntrəst/",
           "meaning": "địa điểm tham quan"
         },
         {
           "word": "museum",
           "pos": "n",
-          "ipa": "/mjuˈziːəm/",
+          "ipa_uk": "/mjuˈziːəm/",
+          "ipa_us": "/mjuːˈziːəm/",
           "meaning": "bảo tàng"
         },
         {
           "word": "pagoda",
           "pos": "n",
-          "ipa": "/pəˈɡəʊdə/",
+          "ipa_uk": "/pəˈɡəʊdə/",
+          "ipa_us": "/pəˈɡoʊdə/",
           "meaning": "ngôi chùa"
         },
         {
           "word": "temple",
           "pos": "n",
-          "ipa": "/ˈtempl/",
+          "ipa_uk": "/ˈtempl/",
+          "ipa_us": "/ˈtempəl/",
           "meaning": "ngôi đền"
         },
         {
           "word": "bridge",
           "pos": "n",
-          "ipa": "/brɪdʒ/",
+          "ipa_uk": "/brɪdʒ/",
+          "ipa_us": "/brɪdʒ/",
           "meaning": "cây cầu"
         },
         {
           "word": "market",
           "pos": "n",
-          "ipa": "/ˈmɑːkɪt/",
+          "ipa_uk": "/ˈmɑːkɪt/",
+          "ipa_us": "/ˈmɑːrkɪt/",
           "meaning": "chợ"
         },
         {
           "word": "famous",
           "pos": "adj",
-          "ipa": "/ˈfeɪməs/",
+          "ipa_uk": "/ˈfeɪməs/",
+          "ipa_us": "/ˈfeɪməs/",
           "meaning": "nổi tiếng"
         },
         {
           "word": "beautiful",
           "pos": "adj",
-          "ipa": "/ˈbjuːtɪfl/",
+          "ipa_uk": "/ˈbjuːtɪfl/",
+          "ipa_us": "/ˈbjuːtəfəl/",
           "meaning": "đẹp"
         }
       ]
@@ -1470,43 +1665,50 @@
         {
           "word": "summer holiday",
           "pos": "n",
-          "ipa": "/ˌsʌmə ˈhɒlədeɪ/",
+          "ipa_uk": "/ˌsʌmə ˈhɒlədeɪ/",
+          "ipa_us": "/ˌsʌmɚ ˈhɑːlədeɪ/",
           "meaning": "kỳ nghỉ hè"
         },
         {
           "word": "beach",
           "pos": "n",
-          "ipa": "/biːtʃ/",
+          "ipa_uk": "/biːtʃ/",
+          "ipa_us": "/biːtʃ/",
           "meaning": "bãi biển"
         },
         {
           "word": "mountain",
           "pos": "n",
-          "ipa": "/ˈmaʊntən/",
+          "ipa_uk": "/ˈmaʊntən/",
+          "ipa_us": "/ˈmaʊntən/",
           "meaning": "núi"
         },
         {
           "word": "countryside",
           "pos": "n",
-          "ipa": "/ˈkʌntrisaɪd/",
+          "ipa_uk": "/ˈkʌntrisaɪd/",
+          "ipa_us": "/ˈkʌntrisaɪd/",
           "meaning": "vùng nông thôn"
         },
         {
           "word": "go camping",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈkæmpɪŋ/",
+          "ipa_uk": "/ˌɡəʊ ˈkæmpɪŋ/",
+          "ipa_us": "/ˌɡoʊ ˈkæmpɪŋ/",
           "meaning": "đi cắm trại"
         },
         {
           "word": "go swimming",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈswɪmɪŋ/",
+          "ipa_uk": "/ˌɡəʊ ˈswɪmɪŋ/",
+          "ipa_us": "/ˌɡoʊ ˈswɪmɪŋ/",
           "meaning": "đi bơi"
         },
         {
           "word": "take photos",
           "pos": "phr",
-          "ipa": "/ˌteɪk ˈfəʊtəʊz/",
+          "ipa_uk": "/ˌteɪk ˈfəʊtəʊz/",
+          "ipa_us": "/ˌteɪk ˈfoʊtoʊz/",
           "meaning": "chụp ảnh"
         }
       ]

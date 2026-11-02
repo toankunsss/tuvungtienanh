@@ -26,7 +26,7 @@
             "type": "array",
             "items": {
               "type": "object",
-              "required": ["word", "pos", "ipa", "meaning"],
+              "required": ["word", "pos", "ipa_uk", "ipa_us", "meaning"],
               "additionalProperties": false,
               "properties": {
                 "word": { "type": "string" },
@@ -34,7 +34,10 @@
                   "enum": ["n", "v", "adj", "adv", "prep", "conj", "pron", "det", "num",
                            "exclam", "phr", "phr v", "idiom", "modal v", "aux v"]
                 },
-                "ipa": { "type": "string", "pattern": "^/[^/]+/$" },
+                "ipa_uk": { "type": "string", "pattern": "^/[^/]+/$", "description": "British IPA (Cambridge/Oxford UK style)" },
+                "ipa_us": { "type": "string", "pattern": "^/[^/]+/$", "description": "American IPA (Cambridge US style, from CMU dict)" },
+                "audio_uk": { "type": "string", "description": "Relative path to British-accent MP3" },
+                "audio_us": { "type": "string", "description": "Relative path to American-accent MP3" },
                 "meaning": { "type": "string" },
                 "example": { "type": "string" }
               }

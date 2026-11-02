@@ -14,7 +14,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DIST = ROOT / "dist"
-FIELDS = ["grade", "unit", "unit_title", "status", "word", "pos", "ipa", "meaning", "example"]
+FIELDS = ["grade", "unit", "unit_title", "status", "word", "pos", "ipa_uk", "ipa_us",
+          "audio_uk", "audio_us", "meaning", "example"]
 
 
 def main() -> None:
@@ -31,7 +32,9 @@ def main() -> None:
                 rows.append({
                     "grade": g["grade"], "unit": u["unit"], "unit_title": u["title"],
                     "status": u["status"],
-                    "word": w["word"], "pos": w["pos"], "ipa": w["ipa"],
+                    "word": w["word"], "pos": w["pos"],
+                    "ipa_uk": w["ipa_uk"], "ipa_us": w["ipa_us"],
+                    "audio_uk": w.get("audio_uk", ""), "audio_us": w.get("audio_us", ""),
                     "meaning": w["meaning"], "example": w.get("example", ""),
                 })
             gstat["units"].append({"unit": u["unit"], "title": u["title"],

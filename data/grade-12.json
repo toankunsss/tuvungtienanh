@@ -21,206 +21,240 @@
         {
           "word": "account",
           "pos": "n",
-          "ipa": "/əˈkaʊnt/",
+          "ipa_uk": "/əˈkaʊnt/",
+          "ipa_us": "/əˈkaʊnt/",
           "meaning": "bản tường thuật, lời kể"
         },
         {
           "word": "achievement",
           "pos": "n",
-          "ipa": "/əˈtʃiːvmənt/",
+          "ipa_uk": "/əˈtʃiːvmənt/",
+          "ipa_us": "/əˈtʃiːvmənt/",
           "meaning": "thành tựu"
         },
         {
           "word": "admire",
           "pos": "v",
-          "ipa": "/ədˈmaɪə(r)/",
+          "ipa_uk": "/ədˈmaɪə(r)/",
+          "ipa_us": "/ædˈmaɪr/",
           "meaning": "ngưỡng mộ",
           "example": "We all admire her courage."
         },
         {
           "word": "adopt",
           "pos": "v",
-          "ipa": "/əˈdɒpt/",
+          "ipa_uk": "/əˈdɒpt/",
+          "ipa_us": "/əˈdɑːpt/",
           "meaning": "nhận nuôi"
         },
         {
           "word": "ambitious",
           "pos": "adj",
-          "ipa": "/æmˈbɪʃəs/",
+          "ipa_uk": "/æmˈbɪʃəs/",
+          "ipa_us": "/æmˈbɪʃəs/",
           "meaning": "có hoài bão, tham vọng"
         },
         {
           "word": "animated",
           "pos": "adj",
-          "ipa": "/ˈænɪmeɪtɪd/",
+          "ipa_uk": "/ˈænɪmeɪtɪd/",
+          "ipa_us": "/ˈænəmeɪtɪd/",
           "meaning": "(phim) hoạt hình"
         },
         {
           "word": "army",
           "pos": "n",
-          "ipa": "/ˈɑːmi/",
+          "ipa_uk": "/ˈɑːmi/",
+          "ipa_us": "/ˈɑːrmi/",
           "meaning": "quân đội"
         },
         {
           "word": "attack",
           "pos": "n",
-          "ipa": "/əˈtæk/",
+          "ipa_uk": "/əˈtæk/",
+          "ipa_us": "/əˈtæk/",
           "meaning": "cuộc tấn công"
         },
         {
           "word": "battle",
           "pos": "n",
-          "ipa": "/ˈbætl/",
+          "ipa_uk": "/ˈbætl/",
+          "ipa_us": "/ˈbætəl/",
           "meaning": "trận đánh"
         },
         {
           "word": "biography",
           "pos": "n",
-          "ipa": "/baɪˈɒɡrəfi/",
+          "ipa_uk": "/baɪˈɒɡrəfi/",
+          "ipa_us": "/baɪˈɑːɡrəfi/",
           "meaning": "tiểu sử"
         },
         {
           "word": "biological",
           "pos": "adj",
-          "ipa": "/ˌbaɪəˈlɒdʒɪkl/",
+          "ipa_uk": "/ˌbaɪəˈlɒdʒɪkl/",
+          "ipa_us": "/ˌbaɪəˈlɑːdʒɪkəl/",
           "meaning": "(cha mẹ) ruột, thuộc về sinh học"
         },
         {
           "word": "bond",
           "pos": "n",
-          "ipa": "/bɒnd/",
+          "ipa_uk": "/bɒnd/",
+          "ipa_us": "/bɑːnd/",
           "meaning": "mối gắn kết"
         },
         {
           "word": "dedication",
           "pos": "n",
-          "ipa": "/ˌdedɪˈkeɪʃn/",
+          "ipa_uk": "/ˌdedɪˈkeɪʃn/",
+          "ipa_us": "/ˌdedəˈkeɪʃən/",
           "meaning": "sự cống hiến, tận tụy"
         },
         {
           "word": "defeat",
           "pos": "v",
-          "ipa": "/dɪˈfiːt/",
+          "ipa_uk": "/dɪˈfiːt/",
+          "ipa_us": "/dɪˈfiːt/",
           "meaning": "đánh bại"
         },
         {
           "word": "determination",
           "pos": "n",
-          "ipa": "/dɪˌtɜːmɪˈneɪʃn/",
+          "ipa_uk": "/dɪˌtɜːmɪˈneɪʃn/",
+          "ipa_us": "/dɪˌtɝːməˈneɪʃən/",
           "meaning": "sự quyết tâm"
         },
         {
           "word": "devote",
           "pos": "v",
-          "ipa": "/dɪˈvəʊt/",
+          "ipa_uk": "/dɪˈvəʊt/",
+          "ipa_us": "/dɪˈvoʊt/",
           "meaning": "cống hiến, hiến dâng"
         },
         {
           "word": "diary",
           "pos": "n",
-          "ipa": "/ˈdaɪəri/",
+          "ipa_uk": "/ˈdaɪəri/",
+          "ipa_us": "/ˈdaɪɚi/",
           "meaning": "nhật ký"
         },
         {
           "word": "distinguished",
           "pos": "adj",
-          "ipa": "/dɪˈstɪŋɡwɪʃt/",
+          "ipa_uk": "/dɪˈstɪŋɡwɪʃt/",
+          "ipa_us": "/dɪˈstɪŋɡwɪʃt/",
           "meaning": "xuất sắc, lỗi lạc"
         },
         {
           "word": "duty",
           "pos": "n",
-          "ipa": "/ˈdjuːti/",
+          "ipa_uk": "/ˈdjuːti/",
+          "ipa_us": "/ˈduːti/",
           "meaning": "nhiệm vụ, bổn phận"
         },
         {
           "word": "enemy",
           "pos": "n",
-          "ipa": "/ˈenəmi/",
+          "ipa_uk": "/ˈenəmi/",
+          "ipa_us": "/ˈenəmi/",
           "meaning": "kẻ thù, quân địch"
         },
         {
           "word": "field hospital",
           "pos": "n",
-          "ipa": "/ˈfiːld hɒspɪtl/",
+          "ipa_uk": "/ˈfiːld hɒspɪtl/",
+          "ipa_us": "/ˈfiːld ˌhɑːspɪtəl/",
           "meaning": "bệnh viện dã chiến"
         },
         {
           "word": "figure",
           "pos": "n",
-          "ipa": "/ˈfɪɡə(r)/",
+          "ipa_uk": "/ˈfɪɡə(r)/",
+          "ipa_us": "/ˈfɪɡjɚ/",
           "meaning": "nhân vật"
         },
         {
           "word": "genius",
           "pos": "n",
-          "ipa": "/ˈdʒiːniəs/",
+          "ipa_uk": "/ˈdʒiːniəs/",
+          "ipa_us": "/ˈdʒiːnjəs/",
           "meaning": "thiên tài"
         },
         {
           "word": "hero",
           "pos": "n",
-          "ipa": "/ˈhɪərəʊ/",
+          "ipa_uk": "/ˈhɪərəʊ/",
+          "ipa_us": "/ˈhɪroʊ/",
           "meaning": "anh hùng"
         },
         {
           "word": "legend",
           "pos": "n",
-          "ipa": "/ˈledʒənd/",
+          "ipa_uk": "/ˈledʒənd/",
+          "ipa_us": "/ˈledʒənd/",
           "meaning": "huyền thoại"
         },
         {
           "word": "marriage",
           "pos": "n",
-          "ipa": "/ˈmærɪdʒ/",
+          "ipa_uk": "/ˈmærɪdʒ/",
+          "ipa_us": "/ˈmerɪdʒ/",
           "meaning": "hôn nhân"
         },
         {
           "word": "military",
           "pos": "adj",
-          "ipa": "/ˈmɪlətri/",
+          "ipa_uk": "/ˈmɪlətri/",
+          "ipa_us": "/ˈmɪləteri/",
           "meaning": "thuộc về quân sự"
         },
         {
           "word": "reputation",
           "pos": "n",
-          "ipa": "/ˌrepjuˈteɪʃn/",
+          "ipa_uk": "/ˌrepjuˈteɪʃn/",
+          "ipa_us": "/ˌrepjəˈteɪʃən/",
           "meaning": "danh tiếng"
         },
         {
           "word": "resistance war",
           "pos": "n",
-          "ipa": "/rɪˈzɪstəns wɔː(r)/",
+          "ipa_uk": "/rɪˈzɪstəns wɔː(r)/",
+          "ipa_us": "/rɪˈzɪstəns wɔːr/",
           "meaning": "cuộc kháng chiến"
         },
         {
           "word": "respectable",
           "pos": "adj",
-          "ipa": "/rɪˈspektəbl/",
+          "ipa_uk": "/rɪˈspektəbl/",
+          "ipa_us": "/rɪˈspektəbəl/",
           "meaning": "đáng kính"
         },
         {
           "word": "surgeon",
           "pos": "n",
-          "ipa": "/ˈsɜːdʒən/",
+          "ipa_uk": "/ˈsɜːdʒən/",
+          "ipa_us": "/ˈsɝːdʒən/",
           "meaning": "bác sĩ phẫu thuật"
         },
         {
           "word": "talented",
           "pos": "adj",
-          "ipa": "/ˈtæləntɪd/",
+          "ipa_uk": "/ˈtæləntɪd/",
+          "ipa_us": "/ˈtæləntɪd/",
           "meaning": "tài năng"
         },
         {
           "word": "volunteer",
           "pos": "v",
-          "ipa": "/ˌvɒlənˈtɪə(r)/",
+          "ipa_uk": "/ˌvɒlənˈtɪə(r)/",
+          "ipa_us": "/ˌvɑːlənˈtɪr/",
           "meaning": "tình nguyện"
         },
         {
           "word": "waver",
           "pos": "v",
-          "ipa": "/ˈweɪvə(r)/",
+          "ipa_uk": "/ˈweɪvə(r)/",
+          "ipa_us": "/ˈweɪvɚ/",
           "meaning": "dao động, nao núng"
         }
       ]
@@ -241,188 +275,219 @@
         {
           "word": "appreciate",
           "pos": "v",
-          "ipa": "/əˈpriːʃieɪt/",
+          "ipa_uk": "/əˈpriːʃieɪt/",
+          "ipa_us": "/əˈpriːʃieɪt/",
           "meaning": "trân trọng, đánh giá cao"
         },
         {
           "word": "blend",
           "pos": "v",
-          "ipa": "/blend/",
+          "ipa_uk": "/blend/",
+          "ipa_us": "/blend/",
           "meaning": "pha trộn, hòa trộn"
         },
         {
           "word": "booth",
           "pos": "n",
-          "ipa": "/buːð/",
+          "ipa_uk": "/buːð/",
+          "ipa_us": "/buːθ/",
           "meaning": "gian hàng"
         },
         {
           "word": "celebrate",
           "pos": "v",
-          "ipa": "/ˈselɪbreɪt/",
+          "ipa_uk": "/ˈselɪbreɪt/",
+          "ipa_us": "/ˈseləbreɪt/",
           "meaning": "kỷ niệm, tổ chức (lễ)"
         },
         {
           "word": "costume",
           "pos": "n",
-          "ipa": "/ˈkɒstjuːm/",
+          "ipa_uk": "/ˈkɒstjuːm/",
+          "ipa_us": "/ˈkɑːstuːm/",
           "meaning": "trang phục"
         },
         {
           "word": "cross-cultural",
           "pos": "adj",
-          "ipa": "/ˌkrɒs ˈkʌltʃərəl/",
+          "ipa_uk": "/ˌkrɒs ˈkʌltʃərəl/",
+          "ipa_us": "/ˌkrɑːs ˈkʌltʃɚəl/",
           "meaning": "giao thoa văn hóa, liên văn hóa"
         },
         {
           "word": "cuisine",
           "pos": "n",
-          "ipa": "/kwɪˈziːn/",
+          "ipa_uk": "/kwɪˈziːn/",
+          "ipa_us": "/kwɪˈziːn/",
           "meaning": "ẩm thực"
         },
         {
           "word": "cultural",
           "pos": "adj",
-          "ipa": "/ˈkʌltʃərəl/",
+          "ipa_uk": "/ˈkʌltʃərəl/",
+          "ipa_us": "/ˈkʌltʃɚəl/",
           "meaning": "thuộc về văn hóa"
         },
         {
           "word": "culture shock",
           "pos": "n",
-          "ipa": "/ˈkʌltʃə ʃɒk/",
+          "ipa_uk": "/ˈkʌltʃə ʃɒk/",
+          "ipa_us": "/ˈkʌltʃɚ ʃɑːk/",
           "meaning": "sốc văn hóa"
         },
         {
           "word": "custom",
           "pos": "n",
-          "ipa": "/ˈkʌstəm/",
+          "ipa_uk": "/ˈkʌstəm/",
+          "ipa_us": "/ˈkʌstəm/",
           "meaning": "phong tục"
         },
         {
           "word": "discrimination",
           "pos": "n",
-          "ipa": "/dɪˌskrɪmɪˈneɪʃn/",
+          "ipa_uk": "/dɪˌskrɪmɪˈneɪʃn/",
+          "ipa_us": "/dɪˌskrɪməˈneɪʃən/",
           "meaning": "sự phân biệt đối xử"
         },
         {
           "word": "diverse",
           "pos": "adj",
-          "ipa": "/daɪˈvɜːs/",
+          "ipa_uk": "/daɪˈvɜːs/",
+          "ipa_us": "/daɪˈvɝːs/",
           "meaning": "đa dạng"
         },
         {
           "word": "diversity",
           "pos": "n",
-          "ipa": "/daɪˈvɜːsəti/",
+          "ipa_uk": "/daɪˈvɜːsəti/",
+          "ipa_us": "/daɪˈvɝːsɪti/",
           "meaning": "sự đa dạng"
         },
         {
           "word": "festivity",
           "pos": "n",
-          "ipa": "/feˈstɪvəti/",
+          "ipa_uk": "/feˈstɪvəti/",
+          "ipa_us": "/feˈstɪvəti/",
           "meaning": "lễ hội, hoạt động vui chơi ngày hội"
         },
         {
           "word": "heritage",
           "pos": "n",
-          "ipa": "/ˈherɪtɪdʒ/",
+          "ipa_uk": "/ˈherɪtɪdʒ/",
+          "ipa_us": "/ˈherɪtɪdʒ/",
           "meaning": "di sản"
         },
         {
           "word": "identity",
           "pos": "n",
-          "ipa": "/aɪˈdentəti/",
+          "ipa_uk": "/aɪˈdentəti/",
+          "ipa_us": "/aɪˈdentɪtiː/",
           "meaning": "bản sắc"
         },
         {
           "word": "integration",
           "pos": "n",
-          "ipa": "/ˌɪntɪˈɡreɪʃn/",
+          "ipa_uk": "/ˌɪntɪˈɡreɪʃn/",
+          "ipa_us": "/ˌɪntəˈɡreɪʃən/",
           "meaning": "sự hội nhập"
         },
         {
           "word": "keep up with",
           "pos": "phr v",
-          "ipa": "/ˌkiːp ˈʌp wɪð/",
+          "ipa_uk": "/ˌkiːp ˈʌp wɪð/",
+          "ipa_us": "/ˌkiːp ˈʌp wɪð/",
           "meaning": "theo kịp"
         },
         {
           "word": "lifestyle",
           "pos": "n",
-          "ipa": "/ˈlaɪfstaɪl/",
+          "ipa_uk": "/ˈlaɪfstaɪl/",
+          "ipa_us": "/ˈlaɪfstaɪl/",
           "meaning": "lối sống"
         },
         {
           "word": "migrate",
           "pos": "v",
-          "ipa": "/maɪˈɡreɪt/",
+          "ipa_uk": "/maɪˈɡreɪt/",
+          "ipa_us": "/ˈmaɪɡreɪt/",
           "meaning": "di cư"
         },
         {
           "word": "migration",
           "pos": "n",
-          "ipa": "/maɪˈɡreɪʃn/",
+          "ipa_uk": "/maɪˈɡreɪʃn/",
+          "ipa_us": "/maɪˈɡreɪʃən/",
           "meaning": "sự di cư"
         },
         {
           "word": "multicultural",
           "pos": "adj",
-          "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+          "ipa_uk": "/ˌmʌltiˈkʌltʃərəl/",
+          "ipa_us": "/ˌmʌltiˈkʌltʃɚəl/",
           "meaning": "đa văn hóa",
           "example": "We live in a multicultural world."
         },
         {
           "word": "multilingual",
           "pos": "adj",
-          "ipa": "/ˌmʌltiˈlɪŋɡwəl/",
+          "ipa_uk": "/ˌmʌltiˈlɪŋɡwəl/",
+          "ipa_us": "/ˌmʌltiˈlɪŋwəl/",
           "meaning": "đa ngôn ngữ"
         },
         {
           "word": "reflect",
           "pos": "v",
-          "ipa": "/rɪˈflekt/",
+          "ipa_uk": "/rɪˈflekt/",
+          "ipa_us": "/rɪˈflekt/",
           "meaning": "phản ánh"
         },
         {
           "word": "souvenir",
           "pos": "n",
-          "ipa": "/ˌsuːvəˈnɪə(r)/",
+          "ipa_uk": "/ˌsuːvəˈnɪə(r)/",
+          "ipa_us": "/ˌsuːvəˈnɪr/",
           "meaning": "quà lưu niệm"
         },
         {
           "word": "specialty",
           "pos": "n",
-          "ipa": "/ˈspeʃəlti/",
+          "ipa_uk": "/ˈspeʃəlti/",
+          "ipa_us": "/ˈspeʃəlti/",
           "meaning": "đặc sản"
         },
         {
           "word": "spicy",
           "pos": "adj",
-          "ipa": "/ˈspaɪsi/",
+          "ipa_uk": "/ˈspaɪsi/",
+          "ipa_us": "/ˈspaɪsi/",
           "meaning": "cay"
         },
         {
           "word": "staple",
           "pos": "n",
-          "ipa": "/ˈsteɪpl/",
+          "ipa_uk": "/ˈsteɪpl/",
+          "ipa_us": "/ˈsteɪpəl/",
           "meaning": "lương thực chính, thực phẩm chủ yếu"
         },
         {
           "word": "traditional",
           "pos": "adj",
-          "ipa": "/trəˈdɪʃənl/",
+          "ipa_uk": "/trəˈdɪʃənl/",
+          "ipa_us": "/trəˈdɪʃənəl/",
           "meaning": "truyền thống"
         },
         {
           "word": "trend",
           "pos": "n",
-          "ipa": "/trend/",
+          "ipa_uk": "/trend/",
+          "ipa_us": "/trend/",
           "meaning": "xu hướng"
         },
         {
           "word": "world-famous",
           "pos": "adj",
-          "ipa": "/ˌwɜːld ˈfeɪməs/",
+          "ipa_uk": "/ˌwɜːld ˈfeɪməs/",
+          "ipa_us": "/ˌwɝːld ˈfeɪməs/",
           "meaning": "nổi tiếng thế giới"
         }
       ]
@@ -437,61 +502,71 @@
         {
           "word": "green living",
           "pos": "n",
-          "ipa": "/ˌɡriːn ˈlɪvɪŋ/",
+          "ipa_uk": "/ˌɡriːn ˈlɪvɪŋ/",
+          "ipa_us": "/ˌɡriːn ˈlɪvɪŋ/",
           "meaning": "lối sống xanh"
         },
         {
           "word": "carbon footprint",
           "pos": "n",
-          "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+          "ipa_uk": "/ˌkɑːbən ˈfʊtprɪnt/",
+          "ipa_us": "/ˌkɑːrbən ˈfʊtprɪnt/",
           "meaning": "lượng khí thải các-bon"
         },
         {
           "word": "compost",
           "pos": "n",
-          "ipa": "/ˈkɒmpɒst/",
+          "ipa_uk": "/ˈkɒmpɒst/",
+          "ipa_us": "/ˈkɑːmpoʊst/",
           "meaning": "phân hữu cơ, phân trộn"
         },
         {
           "word": "eco-friendly",
           "pos": "adj",
-          "ipa": "/ˌiːkəʊ ˈfrendli/",
+          "ipa_uk": "/ˌiːkəʊ ˈfrendli/",
+          "ipa_us": "/ˌiːkoʊ ˈfrendli/",
           "meaning": "thân thiện với môi trường"
         },
         {
           "word": "landfill",
           "pos": "n",
-          "ipa": "/ˈlændfɪl/",
+          "ipa_uk": "/ˈlændfɪl/",
+          "ipa_us": "/ˈlændfɪl/",
           "meaning": "bãi chôn lấp rác"
         },
         {
           "word": "litter",
           "pos": "n",
-          "ipa": "/ˈlɪtə(r)/",
+          "ipa_uk": "/ˈlɪtə(r)/",
+          "ipa_us": "/ˈlɪtɚ/",
           "meaning": "rác (vứt bừa bãi)"
         },
         {
           "word": "recycle",
           "pos": "v",
-          "ipa": "/ˌriːˈsaɪkl/",
+          "ipa_uk": "/ˌriːˈsaɪkl/",
+          "ipa_us": "/riˈsaɪkəl/",
           "meaning": "tái chế"
         },
         {
           "word": "reusable",
           "pos": "adj",
-          "ipa": "/ˌriːˈjuːzəbl/",
+          "ipa_uk": "/ˌriːˈjuːzəbl/",
+          "ipa_us": "/riˈuːzəbəl/",
           "meaning": "có thể tái sử dụng"
         },
         {
           "word": "single-use",
           "pos": "adj",
-          "ipa": "/ˌsɪŋɡl ˈjuːs/",
+          "ipa_uk": "/ˌsɪŋɡl ˈjuːs/",
+          "ipa_us": "/ˌsɪŋɡəl ˈjuːs/",
           "meaning": "dùng một lần"
         },
         {
           "word": "sustainable",
           "pos": "adj",
-          "ipa": "/səˈsteɪnəbl/",
+          "ipa_uk": "/səˈsteɪnəbl/",
+          "ipa_us": "/səˈsteɪnəbəl/",
           "meaning": "bền vững"
         }
       ]
@@ -506,61 +581,71 @@
         {
           "word": "urbanisation",
           "pos": "n",
-          "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+          "ipa_uk": "/ˌɜːbənaɪˈzeɪʃn/",
+          "ipa_us": "/ˌɝːbənəˈzeɪʃn/",
           "meaning": "sự đô thị hóa"
         },
         {
           "word": "urban",
           "pos": "adj",
-          "ipa": "/ˈɜːbən/",
+          "ipa_uk": "/ˈɜːbən/",
+          "ipa_us": "/ˈɝːbən/",
           "meaning": "thuộc đô thị"
         },
         {
           "word": "rural",
           "pos": "adj",
-          "ipa": "/ˈrʊərəl/",
+          "ipa_uk": "/ˈrʊərəl/",
+          "ipa_us": "/ˈrʊrəl/",
           "meaning": "thuộc nông thôn"
         },
         {
           "word": "agricultural",
           "pos": "adj",
-          "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+          "ipa_uk": "/ˌæɡrɪˈkʌltʃərəl/",
+          "ipa_us": "/ˌæɡrɪˈkʌltʃɚəl/",
           "meaning": "thuộc về nông nghiệp"
         },
         {
           "word": "slum",
           "pos": "n",
-          "ipa": "/slʌm/",
+          "ipa_uk": "/slʌm/",
+          "ipa_us": "/slʌm/",
           "meaning": "khu ổ chuột"
         },
         {
           "word": "sanitation",
           "pos": "n",
-          "ipa": "/ˌsænɪˈteɪʃn/",
+          "ipa_uk": "/ˌsænɪˈteɪʃn/",
+          "ipa_us": "/ˌsænɪˈteɪʃən/",
           "meaning": "hệ thống vệ sinh"
         },
         {
           "word": "overcrowded",
           "pos": "adj",
-          "ipa": "/ˌəʊvəˈkraʊdɪd/",
+          "ipa_uk": "/ˌəʊvəˈkraʊdɪd/",
+          "ipa_us": "/ˈoʊvɚkraʊdɪd/",
           "meaning": "quá đông đúc"
         },
         {
           "word": "infrastructure",
           "pos": "n",
-          "ipa": "/ˈɪnfrəstrʌktʃə(r)/",
+          "ipa_uk": "/ˈɪnfrəstrʌktʃə(r)/",
+          "ipa_us": "/ˌɪnfrəˈstrʌktʃɚ/",
           "meaning": "cơ sở hạ tầng"
         },
         {
           "word": "migrate",
           "pos": "v",
-          "ipa": "/maɪˈɡreɪt/",
+          "ipa_uk": "/maɪˈɡreɪt/",
+          "ipa_us": "/ˈmaɪɡreɪt/",
           "meaning": "di cư"
         },
         {
           "word": "unemployment",
           "pos": "n",
-          "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+          "ipa_uk": "/ˌʌnɪmˈplɔɪmənt/",
+          "ipa_us": "/ˌʌnɪmˈplɔɪmənt/",
           "meaning": "tình trạng thất nghiệp"
         }
       ]
@@ -575,61 +660,71 @@
         {
           "word": "applicant",
           "pos": "n",
-          "ipa": "/ˈæplɪkənt/",
+          "ipa_uk": "/ˈæplɪkənt/",
+          "ipa_us": "/ˈæplɪkənt/",
           "meaning": "người nộp đơn, ứng viên"
         },
         {
           "word": "candidate",
           "pos": "n",
-          "ipa": "/ˈkændɪdət/",
+          "ipa_uk": "/ˈkændɪdət/",
+          "ipa_us": "/ˈkændɪdeɪt/",
           "meaning": "ứng viên"
         },
         {
           "word": "colleague",
           "pos": "n",
-          "ipa": "/ˈkɒliːɡ/",
+          "ipa_uk": "/ˈkɒliːɡ/",
+          "ipa_us": "/ˈkɑːliɡ/",
           "meaning": "đồng nghiệp"
         },
         {
           "word": "CV",
           "pos": "n",
-          "ipa": "/ˌsiː ˈviː/",
+          "ipa_uk": "/ˌsiː ˈviː/",
+          "ipa_us": "/ˌsiː ˈviː/",
           "meaning": "sơ yếu lý lịch"
         },
         {
           "word": "employer",
           "pos": "n",
-          "ipa": "/ɪmˈplɔɪə(r)/",
+          "ipa_uk": "/ɪmˈplɔɪə(r)/",
+          "ipa_us": "/ɪmˈplɔɪɚ/",
           "meaning": "người sử dụng lao động"
         },
         {
           "word": "employee",
           "pos": "n",
-          "ipa": "/ɪmˈplɔɪiː/",
+          "ipa_uk": "/ɪmˈplɔɪiː/",
+          "ipa_us": "/ɪmˈplɔɪi/",
           "meaning": "người lao động, nhân viên"
         },
         {
           "word": "full-time",
           "pos": "adj",
-          "ipa": "/ˌfʊl ˈtaɪm/",
+          "ipa_uk": "/ˌfʊl ˈtaɪm/",
+          "ipa_us": "/ˌfʊl ˈtaɪm/",
           "meaning": "toàn thời gian"
         },
         {
           "word": "part-time",
           "pos": "adj",
-          "ipa": "/ˌpɑːt ˈtaɪm/",
+          "ipa_uk": "/ˌpɑːt ˈtaɪm/",
+          "ipa_us": "/ˌpɑːrt ˈtaɪm/",
           "meaning": "bán thời gian"
         },
         {
           "word": "interview",
           "pos": "n",
-          "ipa": "/ˈɪntəvjuː/",
+          "ipa_uk": "/ˈɪntəvjuː/",
+          "ipa_us": "/ˈɪntɚvjuː/",
           "meaning": "cuộc phỏng vấn"
         },
         {
           "word": "recruit",
           "pos": "v",
-          "ipa": "/rɪˈkruːt/",
+          "ipa_uk": "/rɪˈkruːt/",
+          "ipa_us": "/rɪˈkruːt/",
           "meaning": "tuyển dụng"
         }
       ]
@@ -644,55 +739,64 @@
         {
           "word": "artificial intelligence",
           "pos": "n",
-          "ipa": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+          "ipa_uk": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
+          "ipa_us": "/ˌɑːrtəˌfɪʃəl ˌɪnˈtelədʒəns/",
           "meaning": "trí tuệ nhân tạo"
         },
         {
           "word": "algorithm",
           "pos": "n",
-          "ipa": "/ˈælɡərɪðəm/",
+          "ipa_uk": "/ˈælɡərɪðəm/",
+          "ipa_us": "/ˈælɡərɪðəm/",
           "meaning": "thuật toán"
         },
         {
           "word": "chatbot",
           "pos": "n",
-          "ipa": "/ˈtʃætbɒt/",
+          "ipa_uk": "/ˈtʃætbɒt/",
+          "ipa_us": "/ˈtʃætbɑːt/",
           "meaning": "chương trình trò chuyện tự động"
         },
         {
           "word": "data",
           "pos": "n",
-          "ipa": "/ˈdeɪtə/",
+          "ipa_uk": "/ˈdeɪtə/",
+          "ipa_us": "/ˈdeɪtə/",
           "meaning": "dữ liệu"
         },
         {
           "word": "facial recognition",
           "pos": "n",
-          "ipa": "/ˌfeɪʃl rekəɡˈnɪʃn/",
+          "ipa_uk": "/ˌfeɪʃl rekəɡˈnɪʃn/",
+          "ipa_us": "/ˌfeɪʃəl ˌrekəɡˈnɪʃən/",
           "meaning": "nhận diện khuôn mặt"
         },
         {
           "word": "machine learning",
           "pos": "n",
-          "ipa": "/məˈʃiːn lɜːnɪŋ/",
+          "ipa_uk": "/məˈʃiːn lɜːnɪŋ/",
+          "ipa_us": "/məˈʃiːn ˌlɝːnɪŋ/",
           "meaning": "học máy"
         },
         {
           "word": "robot",
           "pos": "n",
-          "ipa": "/ˈrəʊbɒt/",
+          "ipa_uk": "/ˈrəʊbɒt/",
+          "ipa_us": "/ˈroʊbɑːt/",
           "meaning": "người máy"
         },
         {
           "word": "virtual assistant",
           "pos": "n",
-          "ipa": "/ˌvɜːtʃuəl əˈsɪstənt/",
+          "ipa_uk": "/ˌvɜːtʃuəl əˈsɪstənt/",
+          "ipa_us": "/ˌvɝːtʃuəl əˈsɪstənt/",
           "meaning": "trợ lý ảo"
         },
         {
           "word": "automate",
           "pos": "v",
-          "ipa": "/ˈɔːtəmeɪt/",
+          "ipa_uk": "/ˈɔːtəmeɪt/",
+          "ipa_us": "/ˈɑːtəmeɪt/",
           "meaning": "tự động hóa"
         }
       ]
@@ -707,55 +811,64 @@
         {
           "word": "mass media",
           "pos": "n",
-          "ipa": "/ˌmæs ˈmiːdiə/",
+          "ipa_uk": "/ˌmæs ˈmiːdiə/",
+          "ipa_us": "/ˌmæs ˈmiːdiə/",
           "meaning": "phương tiện truyền thông đại chúng"
         },
         {
           "word": "audience",
           "pos": "n",
-          "ipa": "/ˈɔːdiəns/",
+          "ipa_uk": "/ˈɔːdiəns/",
+          "ipa_us": "/ˈɑːdiəns/",
           "meaning": "khán giả, độc giả"
         },
         {
           "word": "broadcast",
           "pos": "v",
-          "ipa": "/ˈbrɔːdkɑːst/",
+          "ipa_uk": "/ˈbrɔːdkɑːst/",
+          "ipa_us": "/ˈbrɑːdkæst/",
           "meaning": "phát sóng"
         },
         {
           "word": "journalist",
           "pos": "n",
-          "ipa": "/ˈdʒɜːnəlɪst/",
+          "ipa_uk": "/ˈdʒɜːnəlɪst/",
+          "ipa_us": "/ˈdʒɝːnəlɪst/",
           "meaning": "nhà báo"
         },
         {
           "word": "fake news",
           "pos": "n",
-          "ipa": "/ˌfeɪk ˈnjuːz/",
+          "ipa_uk": "/ˌfeɪk ˈnjuːz/",
+          "ipa_us": "/ˌfeɪk ˈnuːz/",
           "meaning": "tin giả"
         },
         {
           "word": "advertisement",
           "pos": "n",
-          "ipa": "/ədˈvɜːtɪsmənt/",
+          "ipa_uk": "/ədˈvɜːtɪsmənt/",
+          "ipa_us": "/ædˈvɝːtəzmənt/",
           "meaning": "quảng cáo"
         },
         {
           "word": "podcast",
           "pos": "n",
-          "ipa": "/ˈpɒdkɑːst/",
+          "ipa_uk": "/ˈpɒdkɑːst/",
+          "ipa_us": "/ˈpɑːdkæst/",
           "meaning": "chương trình phát thanh trực tuyến"
         },
         {
           "word": "publish",
           "pos": "v",
-          "ipa": "/ˈpʌblɪʃ/",
+          "ipa_uk": "/ˈpʌblɪʃ/",
+          "ipa_us": "/ˈpʌblɪʃ/",
           "meaning": "xuất bản, đăng tải"
         },
         {
           "word": "social media",
           "pos": "n",
-          "ipa": "/ˌsəʊʃl ˈmiːdiə/",
+          "ipa_uk": "/ˌsəʊʃl ˈmiːdiə/",
+          "ipa_us": "/ˌsoʊʃəl ˈmiːdiə/",
           "meaning": "mạng xã hội"
         }
       ]
@@ -770,61 +883,71 @@
         {
           "word": "wildlife",
           "pos": "n",
-          "ipa": "/ˈwaɪldlaɪf/",
+          "ipa_uk": "/ˈwaɪldlaɪf/",
+          "ipa_us": "/ˈwaɪldlaɪf/",
           "meaning": "động vật hoang dã"
         },
         {
           "word": "conservation",
           "pos": "n",
-          "ipa": "/ˌkɒnsəˈveɪʃn/",
+          "ipa_uk": "/ˌkɒnsəˈveɪʃn/",
+          "ipa_us": "/ˌkɑːnsɚˈveɪʃən/",
           "meaning": "sự bảo tồn"
         },
         {
           "word": "endangered",
           "pos": "adj",
-          "ipa": "/ɪnˈdeɪndʒəd/",
+          "ipa_uk": "/ɪnˈdeɪndʒəd/",
+          "ipa_us": "/ɪnˈdeɪndʒɚd/",
           "meaning": "có nguy cơ tuyệt chủng"
         },
         {
           "word": "extinct",
           "pos": "adj",
-          "ipa": "/ɪkˈstɪŋkt/",
+          "ipa_uk": "/ɪkˈstɪŋkt/",
+          "ipa_us": "/ɪkˈstɪŋkt/",
           "meaning": "tuyệt chủng"
         },
         {
           "word": "habitat",
           "pos": "n",
-          "ipa": "/ˈhæbɪtæt/",
+          "ipa_uk": "/ˈhæbɪtæt/",
+          "ipa_us": "/ˈhæbətæt/",
           "meaning": "môi trường sống"
         },
         {
           "word": "poaching",
           "pos": "n",
-          "ipa": "/ˈpəʊtʃɪŋ/",
+          "ipa_uk": "/ˈpəʊtʃɪŋ/",
+          "ipa_us": "/ˈpoʊtʃɪŋ/",
           "meaning": "sự săn trộm"
         },
         {
           "word": "poacher",
           "pos": "n",
-          "ipa": "/ˈpəʊtʃə(r)/",
+          "ipa_uk": "/ˈpəʊtʃə(r)/",
+          "ipa_us": "/ˈpoʊtʃɚ/",
           "meaning": "kẻ săn trộm"
         },
         {
           "word": "species",
           "pos": "n",
-          "ipa": "/ˈspiːʃiːz/",
+          "ipa_uk": "/ˈspiːʃiːz/",
+          "ipa_us": "/ˈspiːʃiz/",
           "meaning": "loài"
         },
         {
           "word": "captivity",
           "pos": "n",
-          "ipa": "/kæpˈtɪvəti/",
+          "ipa_uk": "/kæpˈtɪvəti/",
+          "ipa_us": "/kæpˈtɪvəti/",
           "meaning": "tình trạng bị nuôi nhốt"
         },
         {
           "word": "illegal",
           "pos": "adj",
-          "ipa": "/ɪˈliːɡl/",
+          "ipa_uk": "/ɪˈliːɡl/",
+          "ipa_us": "/ˌɪˈliːɡəl/",
           "meaning": "bất hợp pháp"
         }
       ]
@@ -839,43 +962,50 @@
         {
           "word": "career path",
           "pos": "n",
-          "ipa": "/kəˈrɪə pɑːθ/",
+          "ipa_uk": "/kəˈrɪə pɑːθ/",
+          "ipa_us": "/kəˈrɪr pæθ/",
           "meaning": "con đường sự nghiệp"
         },
         {
           "word": "career counsellor",
           "pos": "n",
-          "ipa": "/kəˈrɪə kaʊnsələ(r)/",
+          "ipa_uk": "/kəˈrɪə kaʊnsələ(r)/",
+          "ipa_us": "/kəˈrɪr ˌkaʊnsəlɚ/",
           "meaning": "người tư vấn hướng nghiệp"
         },
         {
           "word": "aptitude",
           "pos": "n",
-          "ipa": "/ˈæptɪtjuːd/",
+          "ipa_uk": "/ˈæptɪtjuːd/",
+          "ipa_us": "/ˈæptətuːd/",
           "meaning": "năng khiếu, khả năng"
         },
         {
           "word": "vocational",
           "pos": "adj",
-          "ipa": "/vəʊˈkeɪʃənl/",
+          "ipa_uk": "/vəʊˈkeɪʃənl/",
+          "ipa_us": "/voʊˈkeɪʃənəl/",
           "meaning": "thuộc về hướng nghiệp, dạy nghề"
         },
         {
           "word": "qualification",
           "pos": "n",
-          "ipa": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "ipa_uk": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "ipa_us": "/ˌkwɑːləfəˈkeɪʃən/",
           "meaning": "bằng cấp, trình độ"
         },
         {
           "word": "personality",
           "pos": "n",
-          "ipa": "/ˌpɜːsəˈnæləti/",
+          "ipa_uk": "/ˌpɜːsəˈnæləti/",
+          "ipa_us": "/ˌpɝːsəˈnælɪti/",
           "meaning": "tính cách"
         },
         {
           "word": "apprenticeship",
           "pos": "n",
-          "ipa": "/əˈprentɪʃɪp/",
+          "ipa_uk": "/əˈprentɪʃɪp/",
+          "ipa_us": "/əˈprentəsʃɪp/",
           "meaning": "thời gian học việc"
         }
       ]
@@ -890,43 +1020,50 @@
         {
           "word": "lifelong learning",
           "pos": "n",
-          "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+          "ipa_uk": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
+          "ipa_us": "/ˌlaɪˌflɑːŋ ˈlɝːnɪŋ/",
           "meaning": "học tập suốt đời"
         },
         {
           "word": "self-motivated",
           "pos": "adj",
-          "ipa": "/ˌself ˈməʊtɪveɪtɪd/",
+          "ipa_uk": "/ˌself ˈməʊtɪveɪtɪd/",
+          "ipa_us": "/ˌself ˈmoʊtəveɪtəd/",
           "meaning": "tự tạo động lực"
         },
         {
           "word": "self-directed",
           "pos": "adj",
-          "ipa": "/ˌself dəˈrektɪd/",
+          "ipa_uk": "/ˌself dəˈrektɪd/",
+          "ipa_us": "/ˌself dəˈrektɪd/",
           "meaning": "tự định hướng"
         },
         {
           "word": "acquire",
           "pos": "v",
-          "ipa": "/əˈkwaɪə(r)/",
+          "ipa_uk": "/əˈkwaɪə(r)/",
+          "ipa_us": "/əˈkwaɪɚ/",
           "meaning": "đạt được, tiếp thu"
         },
         {
           "word": "knowledge",
           "pos": "n",
-          "ipa": "/ˈnɒlɪdʒ/",
+          "ipa_uk": "/ˈnɒlɪdʒ/",
+          "ipa_us": "/ˈnɑːlɪdʒ/",
           "meaning": "kiến thức"
         },
         {
           "word": "online course",
           "pos": "n",
-          "ipa": "/ˌɒnlaɪn ˈkɔːs/",
+          "ipa_uk": "/ˌɒnlaɪn ˈkɔːs/",
+          "ipa_us": "/ˌɑːnlaɪn ˈkɔːrs/",
           "meaning": "khóa học trực tuyến"
         },
         {
           "word": "learner",
           "pos": "n",
-          "ipa": "/ˈlɜːnə(r)/",
+          "ipa_uk": "/ˈlɜːnə(r)/",
+          "ipa_us": "/ˈlɝːnɚ/",
           "meaning": "người học"
         }
       ]

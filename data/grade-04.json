@@ -20,98 +20,112 @@
         {
           "word": "friend",
           "pos": "n",
-          "ipa": "/frend/",
+          "ipa_uk": "/frend/",
+          "ipa_us": "/frend/",
           "meaning": "bạn, bạn bè",
           "example": "This is my friend Mary."
         },
         {
           "word": "America",
           "pos": "n",
-          "ipa": "/əˈmerɪkə/",
+          "ipa_uk": "/əˈmerɪkə/",
+          "ipa_us": "/əˈmerɪkə/",
           "meaning": "nước Mỹ",
           "example": "I'm from America."
         },
         {
           "word": "Australia",
           "pos": "n",
-          "ipa": "/ɒˈstreɪliə/",
+          "ipa_uk": "/ɒˈstreɪliə/",
+          "ipa_us": "/ɑːˈstreɪljə/",
           "meaning": "nước Úc",
           "example": "She's from Australia."
         },
         {
           "word": "Japan",
           "pos": "n",
-          "ipa": "/dʒəˈpæn/",
+          "ipa_uk": "/dʒəˈpæn/",
+          "ipa_us": "/dʒəˈpæn/",
           "meaning": "nước Nhật Bản",
           "example": "Mai is from Japan."
         },
         {
           "word": "Malaysia",
           "pos": "n",
-          "ipa": "/məˈleɪziə/",
+          "ipa_uk": "/məˈleɪziə/",
+          "ipa_us": "/məˈleɪʒə/",
           "meaning": "nước Ma-lai-xi-a",
           "example": "I'm from Malaysia."
         },
         {
           "word": "Thailand",
           "pos": "n",
-          "ipa": "/ˈtaɪlænd/",
+          "ipa_uk": "/ˈtaɪlænd/",
+          "ipa_us": "/ˈtaɪlænd/",
           "meaning": "nước Thái Lan",
           "example": "He's from Thailand."
         },
         {
           "word": "Viet Nam",
           "pos": "n",
-          "ipa": "/ˌvjet ˈnæm/",
+          "ipa_uk": "/ˌvjet ˈnæm/",
+          "ipa_us": "/viˌet ˈnæm/",
           "meaning": "Việt Nam",
           "example": "I'm from Viet Nam."
         },
         {
           "word": "Vietnamese",
           "pos": "adj",
-          "ipa": "/ˌvjetnəˈmiːz/",
+          "ipa_uk": "/ˌvjetnəˈmiːz/",
+          "ipa_us": "/viˌetnəˈmiːz/",
           "meaning": "(người) Việt Nam",
           "example": "I'm Vietnamese."
         },
         {
           "word": "American",
           "pos": "adj",
-          "ipa": "/əˈmerɪkən/",
+          "ipa_uk": "/əˈmerɪkən/",
+          "ipa_us": "/əˈmerɪkən/",
           "meaning": "(người) Mỹ",
           "example": "He's American."
         },
         {
           "word": "Australian",
           "pos": "adj",
-          "ipa": "/ɒˈstreɪliən/",
+          "ipa_uk": "/ɒˈstreɪliən/",
+          "ipa_us": "/ɑːˈstreɪljən/",
           "meaning": "(người) Úc",
           "example": "She's Australian."
         },
         {
           "word": "Japanese",
           "pos": "adj",
-          "ipa": "/ˌdʒæpəˈniːz/",
+          "ipa_uk": "/ˌdʒæpəˈniːz/",
+          "ipa_us": "/ˌdʒæpəˈniːz/",
           "meaning": "(người) Nhật Bản",
           "example": "I'm Japanese."
         },
         {
           "word": "Malaysian",
           "pos": "adj",
-          "ipa": "/məˈleɪziən/",
+          "ipa_uk": "/məˈleɪziən/",
+          "ipa_us": "/məˈleɪʒən/",
           "meaning": "(người) Ma-lai-xi-a",
           "example": "She's Malaysian."
         },
         {
           "word": "where are you from?",
           "pos": "phr",
-          "ipa": "/ˌweər ɑː juː ˈfrɒm/",
+          "ipa_uk": "/ˌweər ɑː juː ˈfrɒm/",
+          "ipa_us": "/ˌwer ɑːr juː ˈfrʌm/",
           "meaning": "bạn đến từ đâu?",
           "example": "Where are you from? – I'm from Australia."
         },
         {
           "word": "what nationality are you?",
           "pos": "phr",
-          "ipa": "/ˌwɒt ˌnæʃəˈnæləti ɑː juː/",
+          "ipa_uk": "/ˌwɒt ˌnæʃəˈnæləti ɑː juː/",
+          "ipa_us": "/ˌwʌt ˌnæʃəˈnæləti ɑːr juː/",
           "meaning": "bạn là người nước nào?",
           "example": "What nationality are you? – I'm Vietnamese."
         }
@@ -133,63 +147,72 @@
         {
           "word": "time",
           "pos": "n",
-          "ipa": "/taɪm/",
+          "ipa_uk": "/taɪm/",
+          "ipa_us": "/taɪm/",
           "meaning": "thời gian, giờ",
           "example": "What time is it?"
         },
         {
           "word": "o'clock",
           "pos": "adv",
-          "ipa": "/əˈklɒk/",
+          "ipa_uk": "/əˈklɒk/",
+          "ipa_us": "/əˈklɑːk/",
           "meaning": "(giờ) đúng",
           "example": "It's seven o'clock."
         },
         {
           "word": "fifteen",
           "pos": "num",
-          "ipa": "/ˌfɪfˈtiːn/",
+          "ipa_uk": "/ˌfɪfˈtiːn/",
+          "ipa_us": "/fɪfˈtiːn/",
           "meaning": "mười lăm",
           "example": "It's seven fifteen."
         },
         {
           "word": "thirty",
           "pos": "num",
-          "ipa": "/ˈθɜːti/",
+          "ipa_uk": "/ˈθɜːti/",
+          "ipa_us": "/ˈθɝːti/",
           "meaning": "ba mươi",
           "example": "It's six thirty."
         },
         {
           "word": "what time is it?",
           "pos": "phr",
-          "ipa": "/ˌwɒt ˈtaɪm ɪz ɪt/",
+          "ipa_uk": "/ˌwɒt ˈtaɪm ɪz ɪt/",
+          "ipa_us": "/ˌwʌt ˈtaɪm ɪz ɪt/",
           "meaning": "mấy giờ rồi?",
           "example": "What time is it? – It's ten thirty."
         },
         {
           "word": "get up",
           "pos": "phr v",
-          "ipa": "/ˌɡet ˈʌp/",
+          "ipa_uk": "/ˌɡet ˈʌp/",
+          "ipa_us": "/ˌɡet ˈʌp/",
           "meaning": "thức dậy",
           "example": "I get up at six fifteen."
         },
         {
           "word": "have breakfast",
           "pos": "phr",
-          "ipa": "/ˌhæv ˈbrekfəst/",
+          "ipa_uk": "/ˌhæv ˈbrekfəst/",
+          "ipa_us": "/ˌhæv ˈbrekfəst/",
           "meaning": "ăn sáng",
           "example": "I have breakfast at seven fifteen."
         },
         {
           "word": "go to bed",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ tə ˈbed/",
+          "ipa_uk": "/ˌɡəʊ tə ˈbed/",
+          "ipa_us": "/ˌɡoʊ tə ˈbed/",
           "meaning": "đi ngủ",
           "example": "I go to bed at nine thirty."
         },
         {
           "word": "what time do you ...?",
           "pos": "phr",
-          "ipa": "/ˌwɒt ˈtaɪm də juː/",
+          "ipa_uk": "/ˌwɒt ˈtaɪm də juː/",
+          "ipa_us": "/ˌwʌt ˈtaɪm duː juː .../",
           "meaning": "bạn ... lúc mấy giờ?",
           "example": "What time do you go to bed?"
         }
@@ -209,99 +232,114 @@
         {
           "word": "week",
           "pos": "n",
-          "ipa": "/wiːk/",
+          "ipa_uk": "/wiːk/",
+          "ipa_us": "/wiːk/",
           "meaning": "tuần"
         },
         {
           "word": "Monday",
           "pos": "n",
-          "ipa": "/ˈmʌndeɪ/",
+          "ipa_uk": "/ˈmʌndeɪ/",
+          "ipa_us": "/ˈmʌndeɪ/",
           "meaning": "thứ Hai",
           "example": "I go to school on Monday."
         },
         {
           "word": "Tuesday",
           "pos": "n",
-          "ipa": "/ˈtjuːzdeɪ/",
+          "ipa_uk": "/ˈtjuːzdeɪ/",
+          "ipa_us": "/ˈtuːzdeɪ/",
           "meaning": "thứ Ba"
         },
         {
           "word": "Wednesday",
           "pos": "n",
-          "ipa": "/ˈwenzdeɪ/",
+          "ipa_uk": "/ˈwenzdeɪ/",
+          "ipa_us": "/ˈwenzdeɪ/",
           "meaning": "thứ Tư"
         },
         {
           "word": "Thursday",
           "pos": "n",
-          "ipa": "/ˈθɜːzdeɪ/",
+          "ipa_uk": "/ˈθɜːzdeɪ/",
+          "ipa_us": "/ˈθɝːzdeɪ/",
           "meaning": "thứ Năm"
         },
         {
           "word": "Friday",
           "pos": "n",
-          "ipa": "/ˈfraɪdeɪ/",
+          "ipa_uk": "/ˈfraɪdeɪ/",
+          "ipa_us": "/ˈfraɪdeɪ/",
           "meaning": "thứ Sáu"
         },
         {
           "word": "Saturday",
           "pos": "n",
-          "ipa": "/ˈsætədeɪ/",
+          "ipa_uk": "/ˈsætədeɪ/",
+          "ipa_us": "/ˈsætɚdeɪ/",
           "meaning": "thứ Bảy"
         },
         {
           "word": "Sunday",
           "pos": "n",
-          "ipa": "/ˈsʌndeɪ/",
+          "ipa_uk": "/ˈsʌndeɪ/",
+          "ipa_us": "/ˈsʌndeɪ/",
           "meaning": "Chủ nhật",
           "example": "I watch TV on Sundays."
         },
         {
           "word": "weekend",
           "pos": "n",
-          "ipa": "/ˌwiːkˈend/",
+          "ipa_uk": "/ˌwiːkˈend/",
+          "ipa_us": "/ˈwiːkend/",
           "meaning": "cuối tuần",
           "example": "I listen to music at the weekend."
         },
         {
           "word": "go to school",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ tə ˈskuːl/",
+          "ipa_uk": "/ˌɡəʊ tə ˈskuːl/",
+          "ipa_us": "/ˌɡoʊ tə ˈskuːl/",
           "meaning": "đi học",
           "example": "I go to school from Monday to Friday."
         },
         {
           "word": "study at school",
           "pos": "phr",
-          "ipa": "/ˌstʌdi ət ˈskuːl/",
+          "ipa_uk": "/ˌstʌdi ət ˈskuːl/",
+          "ipa_us": "/ˌstʌdi æt ˈskuːl/",
           "meaning": "học ở trường",
           "example": "I study at school on Mondays."
         },
         {
           "word": "do housework",
           "pos": "phr",
-          "ipa": "/ˌduː ˈhaʊswɜːk/",
+          "ipa_uk": "/ˌduː ˈhaʊswɜːk/",
+          "ipa_us": "/ˌduː ˈhaʊswɝːk/",
           "meaning": "làm việc nhà",
           "example": "I do housework on Saturdays."
         },
         {
           "word": "listen to music",
           "pos": "phr",
-          "ipa": "/ˌlɪsn tə ˈmjuːzɪk/",
+          "ipa_uk": "/ˌlɪsn tə ˈmjuːzɪk/",
+          "ipa_us": "/ˌlɪsən tə ˈmjuːzɪk/",
           "meaning": "nghe nhạc",
           "example": "I listen to music on Sundays."
         },
         {
           "word": "watch TV",
           "pos": "phr",
-          "ipa": "/ˌwɒtʃ ˌtiː ˈviː/",
+          "ipa_uk": "/ˌwɒtʃ ˌtiː ˈviː/",
+          "ipa_us": "/ˌwɑːtʃ ˌtiː ˈviː/",
           "meaning": "xem ti vi",
           "example": "I watch TV on Sundays."
         },
         {
           "word": "what do you do on ...?",
           "pos": "phr",
-          "ipa": "/ˌwɒt də juː ˈduː ɒn/",
+          "ipa_uk": "/ˌwɒt də juː ˈduː ɒn/",
+          "ipa_us": "/ˌwʌt duː juː ˈduː ɑːn .../",
           "meaning": "bạn làm gì vào (thứ) ...?",
           "example": "What do you do on Saturdays?"
         }
@@ -322,137 +360,158 @@
         {
           "word": "birthday",
           "pos": "n",
-          "ipa": "/ˈbɜːθdeɪ/",
+          "ipa_uk": "/ˈbɜːθdeɪ/",
+          "ipa_us": "/ˈbɝːθdeɪ/",
           "meaning": "sinh nhật",
           "example": "When's your birthday?"
         },
         {
           "word": "party",
           "pos": "n",
-          "ipa": "/ˈpɑːti/",
+          "ipa_uk": "/ˈpɑːti/",
+          "ipa_us": "/ˈpɑːrti/",
           "meaning": "bữa tiệc",
           "example": "Welcome to my birthday party."
         },
         {
           "word": "January",
           "pos": "n",
-          "ipa": "/ˈdʒænjuəri/",
+          "ipa_uk": "/ˈdʒænjuəri/",
+          "ipa_us": "/ˈdʒænjueri/",
           "meaning": "tháng Một",
           "example": "My birthday is in January."
         },
         {
           "word": "February",
           "pos": "n",
-          "ipa": "/ˈfebruəri/",
+          "ipa_uk": "/ˈfebruəri/",
+          "ipa_us": "/ˈfebrueri/",
           "meaning": "tháng Hai",
           "example": "It's in February."
         },
         {
           "word": "March",
           "pos": "n",
-          "ipa": "/mɑːtʃ/",
+          "ipa_uk": "/mɑːtʃ/",
+          "ipa_us": "/mɑːrtʃ/",
           "meaning": "tháng Ba"
         },
         {
           "word": "April",
           "pos": "n",
-          "ipa": "/ˈeɪprəl/",
+          "ipa_uk": "/ˈeɪprəl/",
+          "ipa_us": "/ˈeɪprəl/",
           "meaning": "tháng Tư"
         },
         {
           "word": "May",
           "pos": "n",
-          "ipa": "/meɪ/",
+          "ipa_uk": "/meɪ/",
+          "ipa_us": "/meɪ/",
           "meaning": "tháng Năm"
         },
         {
           "word": "June",
           "pos": "n",
-          "ipa": "/dʒuːn/",
+          "ipa_uk": "/dʒuːn/",
+          "ipa_us": "/dʒuːn/",
           "meaning": "tháng Sáu"
         },
         {
           "word": "July",
           "pos": "n",
-          "ipa": "/dʒuˈlaɪ/",
+          "ipa_uk": "/dʒuˈlaɪ/",
+          "ipa_us": "/ˌdʒuːˈlaɪ/",
           "meaning": "tháng Bảy"
         },
         {
           "word": "August",
           "pos": "n",
-          "ipa": "/ˈɔːɡəst/",
+          "ipa_uk": "/ˈɔːɡəst/",
+          "ipa_us": "/ˈɑːɡəst/",
           "meaning": "tháng Tám"
         },
         {
           "word": "September",
           "pos": "n",
-          "ipa": "/sepˈtembə(r)/",
+          "ipa_uk": "/sepˈtembə(r)/",
+          "ipa_us": "/sepˈtembɚ/",
           "meaning": "tháng Chín"
         },
         {
           "word": "October",
           "pos": "n",
-          "ipa": "/ɒkˈtəʊbə(r)/",
+          "ipa_uk": "/ɒkˈtəʊbə(r)/",
+          "ipa_us": "/ɑːkˈtoʊbɚ/",
           "meaning": "tháng Mười"
         },
         {
           "word": "November",
           "pos": "n",
-          "ipa": "/nəʊˈvembə(r)/",
+          "ipa_uk": "/nəʊˈvembə(r)/",
+          "ipa_us": "/noʊˈvembɚ/",
           "meaning": "tháng Mười một"
         },
         {
           "word": "December",
           "pos": "n",
-          "ipa": "/dɪˈsembə(r)/",
+          "ipa_uk": "/dɪˈsembə(r)/",
+          "ipa_us": "/dɪˈsembɚ/",
           "meaning": "tháng Mười hai"
         },
         {
           "word": "water",
           "pos": "n",
-          "ipa": "/ˈwɔːtə(r)/",
+          "ipa_uk": "/ˈwɔːtə(r)/",
+          "ipa_us": "/ˈwɑːtɚ/",
           "meaning": "nước",
           "example": "I want some water."
         },
         {
           "word": "lemonade",
           "pos": "n",
-          "ipa": "/ˌleməˈneɪd/",
+          "ipa_uk": "/ˌleməˈneɪd/",
+          "ipa_us": "/ˌleməˈneɪd/",
           "meaning": "nước chanh",
           "example": "I want some lemonade."
         },
         {
           "word": "juice",
           "pos": "n",
-          "ipa": "/dʒuːs/",
+          "ipa_uk": "/dʒuːs/",
+          "ipa_us": "/dʒuːs/",
           "meaning": "nước ép",
           "example": "I'd like some orange juice."
         },
         {
           "word": "grapes",
           "pos": "n",
-          "ipa": "/ɡreɪps/",
+          "ipa_uk": "/ɡreɪps/",
+          "ipa_us": "/ɡreɪps/",
           "meaning": "quả nho",
           "example": "I want some grapes."
         },
         {
           "word": "chips",
           "pos": "n",
-          "ipa": "/tʃɪps/",
+          "ipa_uk": "/tʃɪps/",
+          "ipa_us": "/tʃɪps/",
           "meaning": "khoai tây chiên",
           "example": "My favourite party food is chips."
         },
         {
           "word": "when's your birthday?",
           "pos": "phr",
-          "ipa": "/ˌwenz jɔː ˈbɜːθdeɪ/",
+          "ipa_uk": "/ˌwenz jɔː ˈbɜːθdeɪ/",
+          "ipa_us": "/ˌwenz jɔːr ˈbɝːθdeɪ/",
           "meaning": "sinh nhật của bạn vào khi nào?",
           "example": "When's your birthday? – It's in March."
         },
         {
           "word": "what do you want to drink?",
           "pos": "phr",
-          "ipa": "/ˌwɒt də juː ˈwɒnt tə ˈdrɪŋk/",
+          "ipa_uk": "/ˌwɒt də juː ˈwɒnt tə ˈdrɪŋk/",
+          "ipa_us": "/ˌwʌt duː juː ˈwɑːnt tə ˈdrɪŋk/",
           "meaning": "bạn muốn uống gì?",
           "example": "What do you want to drink? – I want some water."
         }
@@ -473,63 +532,72 @@
         {
           "word": "can",
           "pos": "modal v",
-          "ipa": "/kæn/",
+          "ipa_uk": "/kæn/",
+          "ipa_us": "/kæn/",
           "meaning": "có thể",
           "example": "I can swim."
         },
         {
           "word": "cook",
           "pos": "v",
-          "ipa": "/kʊk/",
+          "ipa_uk": "/kʊk/",
+          "ipa_us": "/kʊk/",
           "meaning": "nấu ăn",
           "example": "My sister can cook."
         },
         {
           "word": "swim",
           "pos": "v",
-          "ipa": "/swɪm/",
+          "ipa_uk": "/swɪm/",
+          "ipa_us": "/swɪm/",
           "meaning": "bơi",
           "example": "Can you swim? – Yes, I can."
         },
         {
           "word": "sing",
           "pos": "v",
-          "ipa": "/sɪŋ/",
+          "ipa_uk": "/sɪŋ/",
+          "ipa_us": "/sɪŋ/",
           "meaning": "hát",
           "example": "I can sing."
         },
         {
           "word": "draw",
           "pos": "v",
-          "ipa": "/drɔː/",
+          "ipa_uk": "/drɔː/",
+          "ipa_us": "/drɑː/",
           "meaning": "vẽ",
           "example": "She can draw."
         },
         {
           "word": "play the piano",
           "pos": "phr",
-          "ipa": "/ˌpleɪ ðə piˈænəʊ/",
+          "ipa_uk": "/ˌpleɪ ðə piˈænəʊ/",
+          "ipa_us": "/ˌpleɪ ðə piˈænoʊ/",
           "meaning": "chơi đàn pi-a-nô",
           "example": "Can you play the piano?"
         },
         {
           "word": "play table tennis",
           "pos": "phr",
-          "ipa": "/ˌpleɪ ˈteɪbl tenɪs/",
+          "ipa_uk": "/ˌpleɪ ˈteɪbl tenɪs/",
+          "ipa_us": "/ˌpleɪ ˈteɪbəl ˌtenɪs/",
           "meaning": "chơi bóng bàn",
           "example": "He can play table tennis."
         },
         {
           "word": "ride a bike",
           "pos": "phr",
-          "ipa": "/ˌraɪd ə ˈbaɪk/",
+          "ipa_uk": "/ˌraɪd ə ˈbaɪk/",
+          "ipa_us": "/ˌraɪd ə ˈbaɪk/",
           "meaning": "đi xe đạp",
           "example": "I can ride a bike."
         },
         {
           "word": "can you ...?",
           "pos": "phr",
-          "ipa": "/ˈkæn juː/",
+          "ipa_uk": "/ˈkæn juː/",
+          "ipa_us": "/ˈkæn juː .../",
           "meaning": "bạn có thể ... không?",
           "example": "Can you cook? – No, I can't."
         }
@@ -550,62 +618,71 @@
         {
           "word": "school facilities",
           "pos": "n",
-          "ipa": "/ˈskuːl fəˈsɪlətiz/",
+          "ipa_uk": "/ˈskuːl fəˈsɪlətiz/",
+          "ipa_us": "/ˈskuːl fəˈsɪlətiz/",
           "meaning": "cơ sở vật chất của trường"
         },
         {
           "word": "city",
           "pos": "n",
-          "ipa": "/ˈsɪti/",
+          "ipa_uk": "/ˈsɪti/",
+          "ipa_us": "/ˈsɪti/",
           "meaning": "thành phố",
           "example": "My school is in the city."
         },
         {
           "word": "town",
           "pos": "n",
-          "ipa": "/taʊn/",
+          "ipa_uk": "/taʊn/",
+          "ipa_us": "/taʊn/",
           "meaning": "thị trấn",
           "example": "It's in the town."
         },
         {
           "word": "village",
           "pos": "n",
-          "ipa": "/ˈvɪlɪdʒ/",
+          "ipa_uk": "/ˈvɪlɪdʒ/",
+          "ipa_us": "/ˈvɪlɪdʒ/",
           "meaning": "làng quê",
           "example": "It's in the village."
         },
         {
           "word": "mountains",
           "pos": "n",
-          "ipa": "/ˈmaʊntənz/",
+          "ipa_uk": "/ˈmaʊntənz/",
+          "ipa_us": "/ˈmaʊntənz/",
           "meaning": "vùng núi",
           "example": "My school is in the mountains."
         },
         {
           "word": "building",
           "pos": "n",
-          "ipa": "/ˈbɪldɪŋ/",
+          "ipa_uk": "/ˈbɪldɪŋ/",
+          "ipa_us": "/ˈbɪldɪŋ/",
           "meaning": "tòa nhà",
           "example": "There are two buildings."
         },
         {
           "word": "computer room",
           "pos": "n",
-          "ipa": "/kəmˈpjuːtə ruːm/",
+          "ipa_uk": "/kəmˈpjuːtə ruːm/",
+          "ipa_us": "/kəmˈpjuːtɚ ruːm/",
           "meaning": "phòng máy tính",
           "example": "There is a computer room."
         },
         {
           "word": "garden",
           "pos": "n",
-          "ipa": "/ˈɡɑːdn/",
+          "ipa_uk": "/ˈɡɑːdn/",
+          "ipa_us": "/ˈɡɑːrdən/",
           "meaning": "khu vườn",
           "example": "There is a garden with many flowers."
         },
         {
           "word": "where's your school?",
           "pos": "phr",
-          "ipa": "/ˌweəz jɔː ˈskuːl/",
+          "ipa_uk": "/ˌweəz jɔː ˈskuːl/",
+          "ipa_us": "/ˌwerz jɔːr ˈskuːl/",
           "meaning": "trường của bạn ở đâu?",
           "example": "Where's your school? – It's in the village."
         }
@@ -627,70 +704,80 @@
         {
           "word": "timetable",
           "pos": "n",
-          "ipa": "/ˈtaɪmteɪbl/",
+          "ipa_uk": "/ˈtaɪmteɪbl/",
+          "ipa_us": "/ˈtaɪmteɪbəl/",
           "meaning": "thời khóa biểu",
           "example": "Look at our timetable."
         },
         {
           "word": "subject",
           "pos": "n",
-          "ipa": "/ˈsʌbdʒɪkt/",
+          "ipa_uk": "/ˈsʌbdʒɪkt/",
+          "ipa_us": "/ˈsʌbdʒɪkt/",
           "meaning": "môn học",
           "example": "What subjects do you have today?"
         },
         {
           "word": "art",
           "pos": "n",
-          "ipa": "/ɑːt/",
+          "ipa_uk": "/ɑːt/",
+          "ipa_us": "/ɑːrt/",
           "meaning": "môn Mỹ thuật",
           "example": "I have art on Tuesdays."
         },
         {
           "word": "English",
           "pos": "n",
-          "ipa": "/ˈɪŋɡlɪʃ/",
+          "ipa_uk": "/ˈɪŋɡlɪʃ/",
+          "ipa_us": "/ˈɪŋɡlɪʃ/",
           "meaning": "môn Tiếng Anh",
           "example": "I have English and Vietnamese."
         },
         {
           "word": "maths",
           "pos": "n",
-          "ipa": "/mæθs/",
+          "ipa_uk": "/mæθs/",
+          "ipa_us": "/mæθs/",
           "meaning": "môn Toán",
           "example": "We have maths today."
         },
         {
           "word": "music",
           "pos": "n",
-          "ipa": "/ˈmjuːzɪk/",
+          "ipa_uk": "/ˈmjuːzɪk/",
+          "ipa_us": "/ˈmjuːzɪk/",
           "meaning": "môn Âm nhạc",
           "example": "Do you have music on Thursdays?"
         },
         {
           "word": "science",
           "pos": "n",
-          "ipa": "/ˈsaɪəns/",
+          "ipa_uk": "/ˈsaɪəns/",
+          "ipa_us": "/ˈsaɪəns/",
           "meaning": "môn Khoa học",
           "example": "I have science today."
         },
         {
           "word": "Vietnamese",
           "pos": "n",
-          "ipa": "/ˌvjetnəˈmiːz/",
+          "ipa_uk": "/ˌvjetnəˈmiːz/",
+          "ipa_us": "/viˌetnəˈmiːz/",
           "meaning": "môn Tiếng Việt",
           "example": "I have Vietnamese on Mondays."
         },
         {
           "word": "today",
           "pos": "adv",
-          "ipa": "/təˈdeɪ/",
+          "ipa_uk": "/təˈdeɪ/",
+          "ipa_us": "/təˈdeɪ/",
           "meaning": "hôm nay",
           "example": "What subjects do you have today?"
         },
         {
           "word": "what subjects do you have today?",
           "pos": "phr",
-          "ipa": "/ˌwɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/",
+          "ipa_uk": "/ˌwɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/",
+          "ipa_us": "/ˌwʌt ˈsʌbdʒɪkts duː juː hæv təˈdeɪ/",
           "meaning": "hôm nay bạn có những môn học nào?",
           "example": "What subjects do you have today? – I have maths and English."
         }
@@ -711,77 +798,88 @@
         {
           "word": "favourite",
           "pos": "adj",
-          "ipa": "/ˈfeɪvərɪt/",
+          "ipa_uk": "/ˈfeɪvərɪt/",
+          "ipa_us": "/ˈfeɪvɚɪt/",
           "meaning": "yêu thích nhất",
           "example": "My favourite subject is art."
         },
         {
           "word": "subject",
           "pos": "n",
-          "ipa": "/ˈsʌbdʒɪkt/",
+          "ipa_uk": "/ˈsʌbdʒɪkt/",
+          "ipa_us": "/ˈsʌbdʒɪkt/",
           "meaning": "môn học",
           "example": "What's your favourite subject?"
         },
         {
           "word": "art",
           "pos": "n",
-          "ipa": "/ɑːt/",
+          "ipa_uk": "/ɑːt/",
+          "ipa_us": "/ɑːrt/",
           "meaning": "môn Mỹ thuật",
           "example": "I like art."
         },
         {
           "word": "IT",
           "pos": "n",
-          "ipa": "/ˌaɪ ˈtiː/",
+          "ipa_uk": "/ˌaɪ ˈtiː/",
+          "ipa_us": "/ˌaɪ ˈtiː/",
           "meaning": "môn Tin học",
           "example": "My favourite subject is IT."
         },
         {
           "word": "PE",
           "pos": "n",
-          "ipa": "/ˌpiː ˈiː/",
+          "ipa_uk": "/ˌpiː ˈiː/",
+          "ipa_us": "/ˌpiː ˈiː/",
           "meaning": "môn Giáo dục thể chất",
           "example": "I like PE."
         },
         {
           "word": "Vietnamese",
           "pos": "n",
-          "ipa": "/ˌvjetnəˈmiːz/",
+          "ipa_uk": "/ˌvjetnəˈmiːz/",
+          "ipa_us": "/viˌetnəˈmiːz/",
           "meaning": "môn Tiếng Việt",
           "example": "My favourite subjects are Vietnamese and English."
         },
         {
           "word": "painter",
           "pos": "n",
-          "ipa": "/ˈpeɪntə(r)/",
+          "ipa_uk": "/ˈpeɪntə(r)/",
+          "ipa_us": "/ˈpeɪntɚ/",
           "meaning": "họa sĩ",
           "example": "I want to be a painter."
         },
         {
           "word": "because",
           "pos": "conj",
-          "ipa": "/bɪˈkɒz/",
+          "ipa_uk": "/bɪˈkɒz/",
+          "ipa_us": "/bɪˈkɑːz/",
           "meaning": "bởi vì",
           "example": "I like art because I want to be a painter."
         },
         {
           "word": "every day",
           "pos": "phr",
-          "ipa": "/ˌevri ˈdeɪ/",
+          "ipa_uk": "/ˌevri ˈdeɪ/",
+          "ipa_us": "/ˌevri ˈdeɪ/",
           "meaning": "hằng ngày",
           "example": "I have Vietnamese every day."
         },
         {
           "word": "twice",
           "pos": "adv",
-          "ipa": "/twaɪs/",
+          "ipa_uk": "/twaɪs/",
+          "ipa_us": "/twaɪs/",
           "meaning": "hai lần",
           "example": "I have IT twice a week."
         },
         {
           "word": "what's your favourite subject?",
           "pos": "phr",
-          "ipa": "/ˌwɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/",
+          "ipa_uk": "/ˌwɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/",
+          "ipa_us": "/ˌwʌts jɔːr ˈfeɪvɚɪt ˈsʌbdʒɪkt/",
           "meaning": "môn học yêu thích của bạn là gì?",
           "example": "What's your favourite subject? – It's maths."
         }
@@ -802,81 +900,93 @@
         {
           "word": "sports day",
           "pos": "n",
-          "ipa": "/ˈspɔːts deɪ/",
+          "ipa_uk": "/ˈspɔːts deɪ/",
+          "ipa_us": "/ˈspɔːrts deɪ/",
           "meaning": "ngày hội thể thao",
           "example": "Our sports day is in October."
         },
         {
           "word": "basketball",
           "pos": "n",
-          "ipa": "/ˈbɑːskɪtbɔːl/",
+          "ipa_uk": "/ˈbɑːskɪtbɔːl/",
+          "ipa_us": "/ˈbæskətbɑːl/",
           "meaning": "bóng rổ",
           "example": "We play basketball on sports day."
         },
         {
           "word": "football",
           "pos": "n",
-          "ipa": "/ˈfʊtbɔːl/",
+          "ipa_uk": "/ˈfʊtbɔːl/",
+          "ipa_us": "/ˈfʊtbɑːl/",
           "meaning": "bóng đá",
           "example": "They play football."
         },
         {
           "word": "roller skate",
           "pos": "v",
-          "ipa": "/ˈrəʊlə skeɪt/",
+          "ipa_uk": "/ˈrəʊlə skeɪt/",
+          "ipa_us": "/ˈroʊlɚ skeɪt/",
           "meaning": "trượt pa-tanh",
           "example": "She can roller skate."
         },
         {
           "word": "April",
           "pos": "n",
-          "ipa": "/ˈeɪprəl/",
+          "ipa_uk": "/ˈeɪprəl/",
+          "ipa_us": "/ˈeɪprəl/",
           "meaning": "tháng Tư",
           "example": "Is your sports day in April?"
         },
         {
           "word": "May",
           "pos": "n",
-          "ipa": "/meɪ/",
+          "ipa_uk": "/meɪ/",
+          "ipa_us": "/meɪ/",
           "meaning": "tháng Năm",
           "example": "It's in May."
         },
         {
           "word": "June",
           "pos": "n",
-          "ipa": "/dʒuːn/",
+          "ipa_uk": "/dʒuːn/",
+          "ipa_us": "/dʒuːn/",
           "meaning": "tháng Sáu",
           "example": "Is your sports day in June?"
         },
         {
           "word": "September",
           "pos": "n",
-          "ipa": "/sepˈtembə(r)/",
+          "ipa_uk": "/sepˈtembə(r)/",
+          "ipa_us": "/sepˈtembɚ/",
           "meaning": "tháng Chín"
         },
         {
           "word": "October",
           "pos": "n",
-          "ipa": "/ɒkˈtəʊbə(r)/",
+          "ipa_uk": "/ɒkˈtəʊbə(r)/",
+          "ipa_us": "/ɑːkˈtoʊbɚ/",
           "meaning": "tháng Mười",
           "example": "Our sports day is in October."
         },
         {
           "word": "November",
           "pos": "n",
-          "ipa": "/nəʊˈvembə(r)/",
+          "ipa_uk": "/nəʊˈvembə(r)/",
+          "ipa_us": "/noʊˈvembɚ/",
           "meaning": "tháng Mười một"
         },
         {
           "word": "December",
           "pos": "n",
-          "ipa": "/dɪˈsembə(r)/",
+          "ipa_uk": "/dɪˈsembə(r)/",
+          "ipa_us": "/dɪˈsembɚ/",
           "meaning": "tháng Mười hai"
         },
         {
           "word": "when's your sports day?",
           "pos": "phr",
-          "ipa": "/ˌwenz jɔː ˈspɔːts deɪ/",
+          "ipa_uk": "/ˌwenz jɔː ˈspɔːts deɪ/",
+          "ipa_us": "/ˌwenz jɔːr ˈspɔːrts deɪ/",
           "meaning": "ngày hội thể thao của bạn vào khi nào?",
           "example": "When's your sports day? – It's in November."
         }
@@ -892,41 +1002,47 @@
         {
           "word": "summer holiday",
           "pos": "n",
-          "ipa": "/ˌsʌmə ˈhɒlədeɪ/",
+          "ipa_uk": "/ˌsʌmə ˈhɒlədeɪ/",
+          "ipa_us": "/ˌsʌmɚ ˈhɑːlədeɪ/",
           "meaning": "kỳ nghỉ hè"
         },
         {
           "word": "last summer",
           "pos": "phr",
-          "ipa": "/ˌlɑːst ˈsʌmə(r)/",
+          "ipa_uk": "/ˌlɑːst ˈsʌmə(r)/",
+          "ipa_us": "/ˌlæst ˈsʌmɚ/",
           "meaning": "mùa hè năm ngoái",
           "example": "Where were you last summer?"
         },
         {
           "word": "beach",
           "pos": "n",
-          "ipa": "/biːtʃ/",
+          "ipa_uk": "/biːtʃ/",
+          "ipa_us": "/biːtʃ/",
           "meaning": "bãi biển",
           "example": "I was at the beach."
         },
         {
           "word": "countryside",
           "pos": "n",
-          "ipa": "/ˈkʌntrisaɪd/",
+          "ipa_uk": "/ˈkʌntrisaɪd/",
+          "ipa_us": "/ˈkʌntrisaɪd/",
           "meaning": "vùng nông thôn",
           "example": "I was in the countryside."
         },
         {
           "word": "campsite",
           "pos": "n",
-          "ipa": "/ˈkæmpsaɪt/",
+          "ipa_uk": "/ˈkæmpsaɪt/",
+          "ipa_us": "/ˈkæmpsaɪt/",
           "meaning": "khu cắm trại",
           "example": "I was at a campsite."
         },
         {
           "word": "where were you ...?",
           "pos": "phr",
-          "ipa": "/ˈweə wɜː juː/",
+          "ipa_uk": "/ˈweə wɜː juː/",
+          "ipa_us": "/ˈwer wɝː juː .../",
           "meaning": "bạn đã ở đâu ...?",
           "example": "Where were you last summer?"
         }
@@ -942,55 +1058,63 @@
         {
           "word": "home",
           "pos": "n",
-          "ipa": "/həʊm/",
+          "ipa_uk": "/həʊm/",
+          "ipa_us": "/hoʊm/",
           "meaning": "nhà, tổ ấm"
         },
         {
           "word": "live",
           "pos": "v",
-          "ipa": "/lɪv/",
+          "ipa_uk": "/lɪv/",
+          "ipa_us": "/lɪv/",
           "meaning": "sống",
           "example": "I live in a big house."
         },
         {
           "word": "street",
           "pos": "n",
-          "ipa": "/striːt/",
+          "ipa_uk": "/striːt/",
+          "ipa_us": "/striːt/",
           "meaning": "đường phố",
           "example": "I live in Tran Phu Street."
         },
         {
           "word": "road",
           "pos": "n",
-          "ipa": "/rəʊd/",
+          "ipa_uk": "/rəʊd/",
+          "ipa_us": "/roʊd/",
           "meaning": "con đường",
           "example": "It's on a quiet road."
         },
         {
           "word": "busy",
           "pos": "adj",
-          "ipa": "/ˈbɪzi/",
+          "ipa_uk": "/ˈbɪzi/",
+          "ipa_us": "/ˈbɪzi/",
           "meaning": "đông đúc, nhộn nhịp",
           "example": "The street is busy."
         },
         {
           "word": "quiet",
           "pos": "adj",
-          "ipa": "/ˈkwaɪət/",
+          "ipa_uk": "/ˈkwaɪət/",
+          "ipa_us": "/ˈkwaɪət/",
           "meaning": "yên tĩnh",
           "example": "The road is quiet."
         },
         {
           "word": "noisy",
           "pos": "adj",
-          "ipa": "/ˈnɔɪzi/",
+          "ipa_uk": "/ˈnɔɪzi/",
+          "ipa_us": "/ˈnɔɪzi/",
           "meaning": "ồn ào",
           "example": "The street is noisy."
         },
         {
           "word": "where do you live?",
           "pos": "phr",
-          "ipa": "/ˌweə də juː ˈlɪv/",
+          "ipa_uk": "/ˌweə də juː ˈlɪv/",
+          "ipa_us": "/ˌwer duː juː ˈlɪv/",
           "meaning": "bạn sống ở đâu?",
           "example": "Where do you live? – I live in Hai Ba Trung Street."
         }
@@ -1006,69 +1130,79 @@
         {
           "word": "job",
           "pos": "n",
-          "ipa": "/dʒɒb/",
+          "ipa_uk": "/dʒɒb/",
+          "ipa_us": "/dʒɑːb/",
           "meaning": "nghề nghiệp, công việc"
         },
         {
           "word": "farmer",
           "pos": "n",
-          "ipa": "/ˈfɑːmə(r)/",
+          "ipa_uk": "/ˈfɑːmə(r)/",
+          "ipa_us": "/ˈfɑːrmɚ/",
           "meaning": "nông dân",
           "example": "He's a farmer."
         },
         {
           "word": "nurse",
           "pos": "n",
-          "ipa": "/nɜːs/",
+          "ipa_uk": "/nɜːs/",
+          "ipa_us": "/nɝːs/",
           "meaning": "y tá",
           "example": "She's a nurse."
         },
         {
           "word": "office worker",
           "pos": "n",
-          "ipa": "/ˈɒfɪs wɜːkə(r)/",
+          "ipa_uk": "/ˈɒfɪs wɜːkə(r)/",
+          "ipa_us": "/ˈɑːfɪs ˌwɝːkɚ/",
           "meaning": "nhân viên văn phòng",
           "example": "My mother is an office worker."
         },
         {
           "word": "worker",
           "pos": "n",
-          "ipa": "/ˈwɜːkə(r)/",
+          "ipa_uk": "/ˈwɜːkə(r)/",
+          "ipa_us": "/ˈwɝːkɚ/",
           "meaning": "công nhân",
           "example": "He's a worker."
         },
         {
           "word": "farm",
           "pos": "n",
-          "ipa": "/fɑːm/",
+          "ipa_uk": "/fɑːm/",
+          "ipa_us": "/fɑːrm/",
           "meaning": "trang trại",
           "example": "He works on a farm."
         },
         {
           "word": "hospital",
           "pos": "n",
-          "ipa": "/ˈhɒspɪtl/",
+          "ipa_uk": "/ˈhɒspɪtl/",
+          "ipa_us": "/ˈhɑːspɪtəl/",
           "meaning": "bệnh viện",
           "example": "She works in a hospital."
         },
         {
           "word": "office",
           "pos": "n",
-          "ipa": "/ˈɒfɪs/",
+          "ipa_uk": "/ˈɒfɪs/",
+          "ipa_us": "/ˈɑːfɪs/",
           "meaning": "văn phòng",
           "example": "She works in an office."
         },
         {
           "word": "factory",
           "pos": "n",
-          "ipa": "/ˈfæktri/",
+          "ipa_uk": "/ˈfæktri/",
+          "ipa_us": "/ˈfæktɚi/",
           "meaning": "nhà máy",
           "example": "He works in a factory."
         },
         {
           "word": "where does he work?",
           "pos": "phr",
-          "ipa": "/ˌweə dəz hi ˈwɜːk/",
+          "ipa_uk": "/ˌweə dəz hi ˈwɜːk/",
+          "ipa_us": "/ˌwer dəz hiː ˈwɝːk/",
           "meaning": "anh ấy làm việc ở đâu?",
           "example": "Where does he work? – He works in a factory."
         }
@@ -1084,55 +1218,63 @@
         {
           "word": "appearance",
           "pos": "n",
-          "ipa": "/əˈpɪərəns/",
+          "ipa_uk": "/əˈpɪərəns/",
+          "ipa_us": "/əˈpɪrəns/",
           "meaning": "ngoại hình"
         },
         {
           "word": "tall",
           "pos": "adj",
-          "ipa": "/tɔːl/",
+          "ipa_uk": "/tɔːl/",
+          "ipa_us": "/tɑːl/",
           "meaning": "cao",
           "example": "He's tall."
         },
         {
           "word": "short",
           "pos": "adj",
-          "ipa": "/ʃɔːt/",
+          "ipa_uk": "/ʃɔːt/",
+          "ipa_us": "/ʃɔːrt/",
           "meaning": "thấp; ngắn",
           "example": "She has short hair."
         },
         {
           "word": "slim",
           "pos": "adj",
-          "ipa": "/slɪm/",
+          "ipa_uk": "/slɪm/",
+          "ipa_us": "/slɪm/",
           "meaning": "mảnh khảnh, thon thả",
           "example": "She's slim."
         },
         {
           "word": "big",
           "pos": "adj",
-          "ipa": "/bɪɡ/",
+          "ipa_uk": "/bɪɡ/",
+          "ipa_us": "/bɪɡ/",
           "meaning": "to, lớn",
           "example": "He's big."
         },
         {
           "word": "long",
           "pos": "adj",
-          "ipa": "/lɒŋ/",
+          "ipa_uk": "/lɒŋ/",
+          "ipa_us": "/lɑːŋ/",
           "meaning": "dài",
           "example": "She has long hair."
         },
         {
           "word": "hair",
           "pos": "n",
-          "ipa": "/heə(r)/",
+          "ipa_uk": "/heə(r)/",
+          "ipa_us": "/her/",
           "meaning": "tóc",
           "example": "She has long hair."
         },
         {
           "word": "what does he look like?",
           "pos": "phr",
-          "ipa": "/ˌwɒt dəz hi ˈlʊk laɪk/",
+          "ipa_uk": "/ˌwɒt dəz hi ˈlʊk laɪk/",
+          "ipa_us": "/ˌwʌt dəz hiː ˈlʊk laɪk/",
           "meaning": "anh ấy trông như thế nào?",
           "example": "What does he look like? – He's tall."
         }
@@ -1148,49 +1290,56 @@
         {
           "word": "morning",
           "pos": "n",
-          "ipa": "/ˈmɔːnɪŋ/",
+          "ipa_uk": "/ˈmɔːnɪŋ/",
+          "ipa_us": "/ˈmɔːrnɪŋ/",
           "meaning": "buổi sáng",
           "example": "What do you do in the morning?"
         },
         {
           "word": "afternoon",
           "pos": "n",
-          "ipa": "/ˌɑːftəˈnuːn/",
+          "ipa_uk": "/ˌɑːftəˈnuːn/",
+          "ipa_us": "/ˌæftɚˈnuːn/",
           "meaning": "buổi chiều",
           "example": "I do my homework in the afternoon."
         },
         {
           "word": "evening",
           "pos": "n",
-          "ipa": "/ˈiːvnɪŋ/",
+          "ipa_uk": "/ˈiːvnɪŋ/",
+          "ipa_us": "/ˈiːvnɪŋ/",
           "meaning": "buổi tối",
           "example": "I watch TV in the evening."
         },
         {
           "word": "wash the clothes",
           "pos": "phr",
-          "ipa": "/ˌwɒʃ ðə ˈkləʊðz/",
+          "ipa_uk": "/ˌwɒʃ ðə ˈkləʊðz/",
+          "ipa_us": "/ˌwɑːʃ ðə ˈkloʊðz/",
           "meaning": "giặt quần áo",
           "example": "My mother washes the clothes."
         },
         {
           "word": "wash the dishes",
           "pos": "phr",
-          "ipa": "/ˌwɒʃ ðə ˈdɪʃɪz/",
+          "ipa_uk": "/ˌwɒʃ ðə ˈdɪʃɪz/",
+          "ipa_us": "/ˌwɑːʃ ðə ˈdɪʃɪz/",
           "meaning": "rửa bát",
           "example": "I wash the dishes in the evening."
         },
         {
           "word": "cook dinner",
           "pos": "phr",
-          "ipa": "/ˌkʊk ˈdɪnə(r)/",
+          "ipa_uk": "/ˌkʊk ˈdɪnə(r)/",
+          "ipa_us": "/ˌkʊk ˈdɪnɚ/",
           "meaning": "nấu bữa tối",
           "example": "My father cooks dinner."
         },
         {
           "word": "do homework",
           "pos": "phr",
-          "ipa": "/ˌduː ˈhəʊmwɜːk/",
+          "ipa_uk": "/ˌduː ˈhəʊmwɜːk/",
+          "ipa_us": "/ˌduː ˈhoʊmwɝːk/",
           "meaning": "làm bài tập về nhà",
           "example": "I do homework in the afternoon."
         }
@@ -1208,49 +1357,56 @@
         {
           "word": "weekend",
           "pos": "n",
-          "ipa": "/ˌwiːkˈend/",
+          "ipa_uk": "/ˌwiːkˈend/",
+          "ipa_us": "/ˈwiːkend/",
           "meaning": "cuối tuần",
           "example": "What does your father do at the weekend?"
         },
         {
           "word": "go shopping",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈʃɒpɪŋ/",
+          "ipa_uk": "/ˌɡəʊ ˈʃɒpɪŋ/",
+          "ipa_us": "/ˌɡoʊ ˈʃɑːpɪŋ/",
           "meaning": "đi mua sắm",
           "example": "My mother goes shopping."
         },
         {
           "word": "go fishing",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈfɪʃɪŋ/",
+          "ipa_uk": "/ˌɡəʊ ˈfɪʃɪŋ/",
+          "ipa_us": "/ˌɡoʊ ˈfɪʃɪŋ/",
           "meaning": "đi câu cá",
           "example": "My father goes fishing."
         },
         {
           "word": "go swimming",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈswɪmɪŋ/",
+          "ipa_uk": "/ˌɡəʊ ˈswɪmɪŋ/",
+          "ipa_us": "/ˌɡoʊ ˈswɪmɪŋ/",
           "meaning": "đi bơi",
           "example": "My brother goes swimming."
         },
         {
           "word": "cinema",
           "pos": "n",
-          "ipa": "/ˈsɪnəmə/",
+          "ipa_uk": "/ˈsɪnəmə/",
+          "ipa_us": "/ˈsɪnəmə/",
           "meaning": "rạp chiếu phim",
           "example": "She's at the cinema."
         },
         {
           "word": "swimming pool",
           "pos": "n",
-          "ipa": "/ˈswɪmɪŋ puːl/",
+          "ipa_uk": "/ˈswɪmɪŋ puːl/",
+          "ipa_us": "/ˈswɪmɪŋ puːl/",
           "meaning": "bể bơi",
           "example": "He's at the swimming pool."
         },
         {
           "word": "shopping centre",
           "pos": "n",
-          "ipa": "/ˈʃɒpɪŋ sentə(r)/",
+          "ipa_uk": "/ˈʃɒpɪŋ sentə(r)/",
+          "ipa_us": "/ˈʃɑːpɪŋ ˌsentɚ/",
           "meaning": "trung tâm mua sắm",
           "example": "She's at the shopping centre."
         }
@@ -1266,56 +1422,64 @@
         {
           "word": "weather",
           "pos": "n",
-          "ipa": "/ˈweðə(r)/",
+          "ipa_uk": "/ˈweðə(r)/",
+          "ipa_us": "/ˈweðɚ/",
           "meaning": "thời tiết",
           "example": "What's the weather like today?"
         },
         {
           "word": "sunny",
           "pos": "adj",
-          "ipa": "/ˈsʌni/",
+          "ipa_uk": "/ˈsʌni/",
+          "ipa_us": "/ˈsʌni/",
           "meaning": "có nắng",
           "example": "It's sunny."
         },
         {
           "word": "rainy",
           "pos": "adj",
-          "ipa": "/ˈreɪni/",
+          "ipa_uk": "/ˈreɪni/",
+          "ipa_us": "/ˈreɪni/",
           "meaning": "có mưa",
           "example": "It's rainy."
         },
         {
           "word": "windy",
           "pos": "adj",
-          "ipa": "/ˈwɪndi/",
+          "ipa_uk": "/ˈwɪndi/",
+          "ipa_us": "/ˈwɪndi/",
           "meaning": "có gió",
           "example": "It's windy."
         },
         {
           "word": "cloudy",
           "pos": "adj",
-          "ipa": "/ˈklaʊdi/",
+          "ipa_uk": "/ˈklaʊdi/",
+          "ipa_us": "/ˈklaʊdi/",
           "meaning": "có mây",
           "example": "It's cloudy."
         },
         {
           "word": "hot",
           "pos": "adj",
-          "ipa": "/hɒt/",
+          "ipa_uk": "/hɒt/",
+          "ipa_us": "/hɑːt/",
           "meaning": "nóng",
           "example": "It's hot."
         },
         {
           "word": "cold",
           "pos": "adj",
-          "ipa": "/kəʊld/",
+          "ipa_uk": "/kəʊld/",
+          "ipa_us": "/koʊld/",
           "meaning": "lạnh",
           "example": "It's cold."
         },
         {
           "word": "what's the weather like?",
           "pos": "phr",
-          "ipa": "/ˌwɒts ðə ˈweðə laɪk/",
+          "ipa_uk": "/ˌwɒts ðə ˈweðə laɪk/",
+          "ipa_us": "/ˌwʌts ðə ˈweðɚ laɪk/",
           "meaning": "thời tiết thế nào?",
           "example": "What's the weather like? – It's sunny."
         }
@@ -1331,56 +1495,64 @@
         {
           "word": "city",
           "pos": "n",
-          "ipa": "/ˈsɪti/",
+          "ipa_uk": "/ˈsɪti/",
+          "ipa_us": "/ˈsɪti/",
           "meaning": "thành phố",
           "example": "I live in the city."
         },
         {
           "word": "go straight",
           "pos": "phr",
-          "ipa": "/ˌɡəʊ ˈstreɪt/",
+          "ipa_uk": "/ˌɡəʊ ˈstreɪt/",
+          "ipa_us": "/ˌɡoʊ ˈstreɪt/",
           "meaning": "đi thẳng",
           "example": "Go straight."
         },
         {
           "word": "turn left",
           "pos": "phr",
-          "ipa": "/ˌtɜːn ˈleft/",
+          "ipa_uk": "/ˌtɜːn ˈleft/",
+          "ipa_us": "/ˌtɝːn ˈleft/",
           "meaning": "rẽ trái",
           "example": "Turn left."
         },
         {
           "word": "turn right",
           "pos": "phr",
-          "ipa": "/ˌtɜːn ˈraɪt/",
+          "ipa_uk": "/ˌtɜːn ˈraɪt/",
+          "ipa_us": "/ˌtɝːn ˈraɪt/",
           "meaning": "rẽ phải",
           "example": "Turn right."
         },
         {
           "word": "next to",
           "pos": "prep",
-          "ipa": "/ˈnekst tə/",
+          "ipa_uk": "/ˈnekst tə/",
+          "ipa_us": "/ˈnekst tə/",
           "meaning": "bên cạnh",
           "example": "It's next to the cinema."
         },
         {
           "word": "opposite",
           "pos": "prep",
-          "ipa": "/ˈɒpəzɪt/",
+          "ipa_uk": "/ˈɒpəzɪt/",
+          "ipa_us": "/ˈɑːpəzət/",
           "meaning": "đối diện",
           "example": "It's opposite the park."
         },
         {
           "word": "bookshop",
           "pos": "n",
-          "ipa": "/ˈbʊkʃɒp/",
+          "ipa_uk": "/ˈbʊkʃɒp/",
+          "ipa_us": "/ˈbʊkʃɑːp/",
           "meaning": "hiệu sách",
           "example": "Where's the bookshop?"
         },
         {
           "word": "supermarket",
           "pos": "n",
-          "ipa": "/ˈsuːpəmɑːkɪt/",
+          "ipa_uk": "/ˈsuːpəmɑːkɪt/",
+          "ipa_us": "/ˈsuːpɚmɑːrkɪt/",
           "meaning": "siêu thị",
           "example": "The supermarket is next to the bookshop."
         }
@@ -1396,56 +1568,64 @@
         {
           "word": "shopping centre",
           "pos": "n",
-          "ipa": "/ˈʃɒpɪŋ sentə(r)/",
+          "ipa_uk": "/ˈʃɒpɪŋ sentə(r)/",
+          "ipa_us": "/ˈʃɑːpɪŋ ˌsentɚ/",
           "meaning": "trung tâm mua sắm",
           "example": "Let's go to the shopping centre."
         },
         {
           "word": "floor",
           "pos": "n",
-          "ipa": "/flɔː(r)/",
+          "ipa_uk": "/flɔː(r)/",
+          "ipa_us": "/flɔːr/",
           "meaning": "tầng",
           "example": "It's on the second floor."
         },
         {
           "word": "T-shirt",
           "pos": "n",
-          "ipa": "/ˈtiː ʃɜːt/",
+          "ipa_uk": "/ˈtiː ʃɜːt/",
+          "ipa_us": "/ˈtiː ʃɝːt/",
           "meaning": "áo phông",
           "example": "How much is the T-shirt?"
         },
         {
           "word": "jacket",
           "pos": "n",
-          "ipa": "/ˈdʒækɪt/",
+          "ipa_uk": "/ˈdʒækɪt/",
+          "ipa_us": "/ˈdʒækɪt/",
           "meaning": "áo khoác",
           "example": "How much is the jacket?"
         },
         {
           "word": "skirt",
           "pos": "n",
-          "ipa": "/skɜːt/",
+          "ipa_uk": "/skɜːt/",
+          "ipa_us": "/skɝːt/",
           "meaning": "chân váy",
           "example": "I like this skirt."
         },
         {
           "word": "jeans",
           "pos": "n",
-          "ipa": "/dʒiːnz/",
+          "ipa_uk": "/dʒiːnz/",
+          "ipa_us": "/dʒiːnz/",
           "meaning": "quần bò",
           "example": "How much are the jeans?"
         },
         {
           "word": "how much is ...?",
           "pos": "phr",
-          "ipa": "/ˌhaʊ ˈmʌtʃ ɪz/",
+          "ipa_uk": "/ˌhaʊ ˈmʌtʃ ɪz/",
+          "ipa_us": "/ˌhaʊ ˈmʌtʃ ɪz .../",
           "meaning": "... giá bao nhiêu?",
           "example": "How much is the T-shirt? – It's 90,000 dong."
         },
         {
           "word": "dong",
           "pos": "n",
-          "ipa": "/dɒŋ/",
+          "ipa_uk": "/dɒŋ/",
+          "ipa_us": "/dɑːŋ/",
           "meaning": "đồng (tiền Việt Nam)",
           "example": "It's 50,000 dong."
         }
@@ -1463,49 +1643,56 @@
         {
           "word": "animal",
           "pos": "n",
-          "ipa": "/ˈænɪml/",
+          "ipa_uk": "/ˈænɪml/",
+          "ipa_us": "/ˈænəməl/",
           "meaning": "động vật, con vật",
           "example": "What animal is it?"
         },
         {
           "word": "giraffe",
           "pos": "n",
-          "ipa": "/dʒəˈrɑːf/",
+          "ipa_uk": "/dʒəˈrɑːf/",
+          "ipa_us": "/dʒəˈræf/",
           "meaning": "con hươu cao cổ",
           "example": "It's a giraffe."
         },
         {
           "word": "crocodile",
           "pos": "n",
-          "ipa": "/ˈkrɒkədaɪl/",
+          "ipa_uk": "/ˈkrɒkədaɪl/",
+          "ipa_us": "/ˈkrɑːkədaɪl/",
           "meaning": "con cá sấu",
           "example": "It's a crocodile."
         },
         {
           "word": "lion",
           "pos": "n",
-          "ipa": "/ˈlaɪən/",
+          "ipa_uk": "/ˈlaɪən/",
+          "ipa_us": "/ˈlaɪən/",
           "meaning": "con sư tử",
           "example": "It's a lion."
         },
         {
           "word": "zebra",
           "pos": "n",
-          "ipa": "/ˈzebrə/",
+          "ipa_uk": "/ˈzebrə/",
+          "ipa_us": "/ˈziːbrə/",
           "meaning": "con ngựa vằn",
           "example": "It's a zebra."
         },
         {
           "word": "climb",
           "pos": "v",
-          "ipa": "/klaɪm/",
+          "ipa_uk": "/klaɪm/",
+          "ipa_us": "/klaɪm/",
           "meaning": "leo, trèo",
           "example": "Monkeys can climb."
         },
         {
           "word": "swim",
           "pos": "v",
-          "ipa": "/swɪm/",
+          "ipa_uk": "/swɪm/",
+          "ipa_us": "/swɪm/",
           "meaning": "bơi",
           "example": "Crocodiles can swim."
         }
@@ -1523,42 +1710,48 @@
         {
           "word": "summer camp",
           "pos": "n",
-          "ipa": "/ˈsʌmə kæmp/",
+          "ipa_uk": "/ˈsʌmə kæmp/",
+          "ipa_us": "/ˈsʌmɚ kæmp/",
           "meaning": "trại hè",
           "example": "We're at summer camp."
         },
         {
           "word": "tent",
           "pos": "n",
-          "ipa": "/tent/",
+          "ipa_uk": "/tent/",
+          "ipa_us": "/tent/",
           "meaning": "cái lều",
           "example": "They're putting up a tent."
         },
         {
           "word": "campfire",
           "pos": "n",
-          "ipa": "/ˈkæmpfaɪə(r)/",
+          "ipa_uk": "/ˈkæmpfaɪə(r)/",
+          "ipa_us": "/ˈkæmpfaɪɚ/",
           "meaning": "lửa trại",
           "example": "We're singing around the campfire."
         },
         {
           "word": "put up a tent",
           "pos": "phr",
-          "ipa": "/ˌpʊt ʌp ə ˈtent/",
+          "ipa_uk": "/ˌpʊt ʌp ə ˈtent/",
+          "ipa_us": "/ˌpʊt ʌp ə ˈtent/",
           "meaning": "dựng lều",
           "example": "They're putting up a tent."
         },
         {
           "word": "play tug of war",
           "pos": "phr",
-          "ipa": "/ˌpleɪ ˌtʌɡ əv ˈwɔː(r)/",
+          "ipa_uk": "/ˌpleɪ ˌtʌɡ əv ˈwɔː(r)/",
+          "ipa_us": "/ˌpleɪ ˌtʌɡ əv ˈwɔːr/",
           "meaning": "chơi kéo co",
           "example": "They're playing tug of war."
         },
         {
           "word": "what are they doing?",
           "pos": "phr",
-          "ipa": "/ˌwɒt ɑː ðeɪ ˈduːɪŋ/",
+          "ipa_uk": "/ˌwɒt ɑː ðeɪ ˈduːɪŋ/",
+          "ipa_us": "/ˌwʌt ɑːr ðeɪ ˈduːɪŋ/",
           "meaning": "họ đang làm gì?",
           "example": "What are they doing? – They're playing tug of war."
         }

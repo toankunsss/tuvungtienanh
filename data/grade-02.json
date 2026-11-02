@@ -18,28 +18,32 @@
         {
           "word": "pasta",
           "pos": "n",
-          "ipa": "/ˈpæstə/",
+          "ipa_uk": "/ˈpæstə/",
+          "ipa_us": "/ˈpɑːstə/",
           "meaning": "mì ống",
           "example": "The pasta is yummy."
         },
         {
           "word": "pizza",
           "pos": "n",
-          "ipa": "/ˈpiːtsə/",
+          "ipa_uk": "/ˈpiːtsə/",
+          "ipa_us": "/ˈpiːtsə/",
           "meaning": "bánh pizza",
           "example": "The pizza is yummy."
         },
         {
           "word": "popcorn",
           "pos": "n",
-          "ipa": "/ˈpɒpkɔːn/",
+          "ipa_uk": "/ˈpɒpkɔːn/",
+          "ipa_us": "/ˈpɑːpkɔːrn/",
           "meaning": "bỏng ngô",
           "example": "The popcorn is yummy."
         },
         {
           "word": "yummy",
           "pos": "adj",
-          "ipa": "/ˈjʌmi/",
+          "ipa_uk": "/ˈjʌmi/",
+          "ipa_us": "/ˈjʌmi/",
           "meaning": "ngon",
           "example": "The pizza is yummy."
         }
@@ -60,35 +64,40 @@
         {
           "word": "bike",
           "pos": "n",
-          "ipa": "/baɪk/",
+          "ipa_uk": "/baɪk/",
+          "ipa_us": "/baɪk/",
           "meaning": "xe đạp",
           "example": "He is riding a bike."
         },
         {
           "word": "kite",
           "pos": "n",
-          "ipa": "/kaɪt/",
+          "ipa_uk": "/kaɪt/",
+          "ipa_us": "/kaɪt/",
           "meaning": "con diều",
           "example": "She is flying a kite."
         },
         {
           "word": "kitten",
           "pos": "n",
-          "ipa": "/ˈkɪtn/",
+          "ipa_uk": "/ˈkɪtn/",
+          "ipa_us": "/ˈkɪtən/",
           "meaning": "mèo con",
           "example": "This is a kitten."
         },
         {
           "word": "fly",
           "pos": "v",
-          "ipa": "/flaɪ/",
+          "ipa_uk": "/flaɪ/",
+          "ipa_us": "/flaɪ/",
           "meaning": "thả (diều); bay",
           "example": "Is she flying a kite?"
         },
         {
           "word": "ride",
           "pos": "v",
-          "ipa": "/raɪd/",
+          "ipa_uk": "/raɪd/",
+          "ipa_us": "/raɪd/",
           "meaning": "đi (xe đạp), cưỡi",
           "example": "He is riding a bike."
         }
@@ -108,35 +117,40 @@
         {
           "word": "sail",
           "pos": "n",
-          "ipa": "/seɪl/",
+          "ipa_uk": "/seɪl/",
+          "ipa_us": "/seɪl/",
           "meaning": "cánh buồm",
           "example": "Look at the sail."
         },
         {
           "word": "sand",
           "pos": "n",
-          "ipa": "/sænd/",
+          "ipa_uk": "/sænd/",
+          "ipa_us": "/sænd/",
           "meaning": "cát",
           "example": "Look at the sand."
         },
         {
           "word": "sea",
           "pos": "n",
-          "ipa": "/siː/",
+          "ipa_uk": "/siː/",
+          "ipa_us": "/siː/",
           "meaning": "biển",
           "example": "Look at the sea."
         },
         {
           "word": "seaside",
           "pos": "n",
-          "ipa": "/ˈsiːsaɪd/",
+          "ipa_uk": "/ˈsiːsaɪd/",
+          "ipa_us": "/ˈsiːsaɪd/",
           "meaning": "bờ biển, vùng biển",
           "example": "We are at the seaside."
         },
         {
           "word": "beach",
           "pos": "n",
-          "ipa": "/biːtʃ/",
+          "ipa_uk": "/biːtʃ/",
+          "ipa_us": "/biːtʃ/",
           "meaning": "bãi biển",
           "example": "I like the beach."
         }
@@ -155,28 +169,32 @@
         {
           "word": "rainbow",
           "pos": "n",
-          "ipa": "/ˈreɪnbəʊ/",
+          "ipa_uk": "/ˈreɪnbəʊ/",
+          "ipa_us": "/ˈreɪnboʊ/",
           "meaning": "cầu vồng",
           "example": "Look at the rainbow."
         },
         {
           "word": "river",
           "pos": "n",
-          "ipa": "/ˈrɪvə(r)/",
+          "ipa_uk": "/ˈrɪvə(r)/",
+          "ipa_us": "/ˈrɪvɚ/",
           "meaning": "dòng sông",
           "example": "Look at the river."
         },
         {
           "word": "road",
           "pos": "n",
-          "ipa": "/rəʊd/",
+          "ipa_uk": "/rəʊd/",
+          "ipa_us": "/roʊd/",
           "meaning": "con đường",
           "example": "Look at the road."
         },
         {
           "word": "countryside",
           "pos": "n",
-          "ipa": "/ˈkʌntrisaɪd/",
+          "ipa_uk": "/ˈkʌntrisaɪd/",
+          "ipa_us": "/ˈkʌntrisaɪd/",
           "meaning": "nông thôn, miền quê",
           "example": "We are in the countryside."
         }
@@ -195,28 +213,32 @@
         {
           "word": "question",
           "pos": "n",
-          "ipa": "/ˈkwestʃən/",
+          "ipa_uk": "/ˈkwestʃən/",
+          "ipa_us": "/ˈkwestʃən/",
           "meaning": "câu hỏi",
           "example": "This is a question."
         },
         {
           "word": "quiz",
           "pos": "n",
-          "ipa": "/kwɪz/",
+          "ipa_uk": "/kwɪz/",
+          "ipa_us": "/kwɪz/",
           "meaning": "câu đố, bài kiểm tra ngắn",
           "example": "This is a quiz."
         },
         {
           "word": "square",
           "pos": "n",
-          "ipa": "/skweə(r)/",
+          "ipa_uk": "/skweə(r)/",
+          "ipa_us": "/skwer/",
           "meaning": "hình vuông",
           "example": "This is a square."
         },
         {
           "word": "classroom",
           "pos": "n",
-          "ipa": "/ˈklɑːsruːm/",
+          "ipa_uk": "/ˈklɑːsruːm/",
+          "ipa_us": "/ˈklæsruːm/",
           "meaning": "lớp học",
           "example": "We are in the classroom."
         }
@@ -235,28 +257,32 @@
         {
           "word": "box",
           "pos": "n",
-          "ipa": "/bɒks/",
+          "ipa_uk": "/bɒks/",
+          "ipa_us": "/bɑːks/",
           "meaning": "cái hộp, cái thùng",
           "example": "This is a box of apples."
         },
         {
           "word": "fox",
           "pos": "n",
-          "ipa": "/fɒks/",
+          "ipa_uk": "/fɒks/",
+          "ipa_us": "/fɑːks/",
           "meaning": "con cáo",
           "example": "This is a fox."
         },
         {
           "word": "ox",
           "pos": "n",
-          "ipa": "/ɒks/",
+          "ipa_uk": "/ɒks/",
+          "ipa_us": "/ɑːks/",
           "meaning": "con bò đực",
           "example": "This is an ox."
         },
         {
           "word": "farm",
           "pos": "n",
-          "ipa": "/fɑːm/",
+          "ipa_uk": "/fɑːm/",
+          "ipa_us": "/fɑːrm/",
           "meaning": "nông trại",
           "example": "We are on the farm."
         }
@@ -275,28 +301,32 @@
         {
           "word": "jam",
           "pos": "n",
-          "ipa": "/dʒæm/",
+          "ipa_uk": "/dʒæm/",
+          "ipa_us": "/dʒæm/",
           "meaning": "mứt",
           "example": "I like jam."
         },
         {
           "word": "jelly",
           "pos": "n",
-          "ipa": "/ˈdʒeli/",
+          "ipa_uk": "/ˈdʒeli/",
+          "ipa_us": "/ˈdʒeli/",
           "meaning": "thạch",
           "example": "I like jelly."
         },
         {
           "word": "juice",
           "pos": "n",
-          "ipa": "/dʒuːs/",
+          "ipa_uk": "/dʒuːs/",
+          "ipa_us": "/dʒuːs/",
           "meaning": "nước ép, nước hoa quả",
           "example": "I like juice."
         },
         {
           "word": "kitchen",
           "pos": "n",
-          "ipa": "/ˈkɪtʃɪn/",
+          "ipa_uk": "/ˈkɪtʃɪn/",
+          "ipa_us": "/ˈkɪtʃən/",
           "meaning": "nhà bếp",
           "example": "We are in the kitchen."
         }
@@ -314,21 +344,24 @@
         {
           "word": "van",
           "pos": "n",
-          "ipa": "/væn/",
+          "ipa_uk": "/væn/",
+          "ipa_us": "/væn/",
           "meaning": "xe tải nhỏ",
           "example": "Look at the van."
         },
         {
           "word": "village",
           "pos": "n",
-          "ipa": "/ˈvɪlɪdʒ/",
+          "ipa_uk": "/ˈvɪlɪdʒ/",
+          "ipa_us": "/ˈvɪlɪdʒ/",
           "meaning": "ngôi làng",
           "example": "This is my village."
         },
         {
           "word": "volleyball",
           "pos": "n",
-          "ipa": "/ˈvɒlibɔːl/",
+          "ipa_uk": "/ˈvɒlibɔːl/",
+          "ipa_us": "/ˈvɑːlibɑːl/",
           "meaning": "bóng chuyền",
           "example": "They are playing volleyball."
         }
@@ -348,35 +381,40 @@
         {
           "word": "yams",
           "pos": "n",
-          "ipa": "/jæmz/",
+          "ipa_uk": "/jæmz/",
+          "ipa_us": "/jæmz/",
           "meaning": "khoai mỡ, khoai lang",
           "example": "I want some yams."
         },
         {
           "word": "yoghurt",
           "pos": "n",
-          "ipa": "/ˈjɒɡət/",
+          "ipa_uk": "/ˈjɒɡət/",
+          "ipa_us": "/ˈjoʊɡɚt/",
           "meaning": "sữa chua",
           "example": "I want some yoghurt."
         },
         {
           "word": "yo-yo",
           "pos": "n",
-          "ipa": "/ˈjəʊ jəʊ/",
+          "ipa_uk": "/ˈjəʊ jəʊ/",
+          "ipa_us": "/ˈjoʊ joʊ/",
           "meaning": "con quay yo-yo",
           "example": "I want a yo-yo."
         },
         {
           "word": "grocery store",
           "pos": "n",
-          "ipa": "/ˈɡrəʊsəri stɔː(r)/",
+          "ipa_uk": "/ˈɡrəʊsəri stɔː(r)/",
+          "ipa_us": "/ˈɡroʊsɚi stɔːr/",
           "meaning": "cửa hàng tạp hóa",
           "example": "We are in the grocery store."
         },
         {
           "word": "want",
           "pos": "v",
-          "ipa": "/wɒnt/",
+          "ipa_uk": "/wɒnt/",
+          "ipa_us": "/wɑːnt/",
           "meaning": "muốn",
           "example": "What do you want?"
         }
@@ -396,21 +434,24 @@
         {
           "word": "zebra",
           "pos": "n",
-          "ipa": "/ˈzebrə/",
+          "ipa_uk": "/ˈzebrə/",
+          "ipa_us": "/ˈziːbrə/",
           "meaning": "con ngựa vằn",
           "example": "Look at the zebra."
         },
         {
           "word": "zebu",
           "pos": "n",
-          "ipa": "/ˈziːbuː/",
+          "ipa_uk": "/ˈziːbuː/",
+          "ipa_us": "/ˈziːbuː/",
           "meaning": "con bò u",
           "example": "Look at the zebu."
         },
         {
           "word": "zoo",
           "pos": "n",
-          "ipa": "/zuː/",
+          "ipa_uk": "/zuː/",
+          "ipa_us": "/zuː/",
           "meaning": "vườn thú",
           "example": "We are at the zoo."
         }
@@ -429,28 +470,32 @@
         {
           "word": "drive",
           "pos": "v",
-          "ipa": "/draɪv/",
+          "ipa_uk": "/draɪv/",
+          "ipa_us": "/draɪv/",
           "meaning": "lái (xe)",
           "example": "She is driving a car."
         },
         {
           "word": "ride",
           "pos": "v",
-          "ipa": "/raɪd/",
+          "ipa_uk": "/raɪd/",
+          "ipa_us": "/raɪd/",
           "meaning": "đi (xe đạp), cưỡi",
           "example": "He is riding a bike."
         },
         {
           "word": "slide",
           "pos": "v",
-          "ipa": "/slaɪd/",
+          "ipa_uk": "/slaɪd/",
+          "ipa_us": "/slaɪd/",
           "meaning": "trượt (cầu trượt)",
           "example": "They are sliding."
         },
         {
           "word": "playground",
           "pos": "n",
-          "ipa": "/ˈpleɪɡraʊnd/",
+          "ipa_uk": "/ˈpleɪɡraʊnd/",
+          "ipa_us": "/ˈpleɪɡraʊnd/",
           "meaning": "sân chơi",
           "example": "We are in the playground."
         }
@@ -469,28 +514,32 @@
         {
           "word": "cake",
           "pos": "n",
-          "ipa": "/keɪk/",
+          "ipa_uk": "/keɪk/",
+          "ipa_us": "/keɪk/",
           "meaning": "bánh ngọt",
           "example": "I like cake."
         },
         {
           "word": "grapes",
           "pos": "n",
-          "ipa": "/ɡreɪps/",
+          "ipa_uk": "/ɡreɪps/",
+          "ipa_us": "/ɡreɪps/",
           "meaning": "quả nho",
           "example": "I like grapes."
         },
         {
           "word": "table",
           "pos": "n",
-          "ipa": "/ˈteɪbl/",
+          "ipa_uk": "/ˈteɪbl/",
+          "ipa_us": "/ˈteɪbəl/",
           "meaning": "cái bàn",
           "example": "This is a table."
         },
         {
           "word": "café",
           "pos": "n",
-          "ipa": "/ˈkæfeɪ/",
+          "ipa_uk": "/ˈkæfeɪ/",
+          "ipa_us": "/kæˈfeɪ/",
           "meaning": "quán cà phê",
           "example": "We are at the café."
         }
@@ -509,35 +558,40 @@
         {
           "word": "eleven",
           "pos": "num",
-          "ipa": "/ɪˈlevn/",
+          "ipa_uk": "/ɪˈlevn/",
+          "ipa_us": "/ɪˈlevən/",
           "meaning": "số mười một",
           "example": "I can count to eleven."
         },
         {
           "word": "thirteen",
           "pos": "num",
-          "ipa": "/ˌθɜːˈtiːn/",
+          "ipa_uk": "/ˌθɜːˈtiːn/",
+          "ipa_us": "/ˌθɝːˈtiːn/",
           "meaning": "số mười ba",
           "example": "Thirteen."
         },
         {
           "word": "fourteen",
           "pos": "num",
-          "ipa": "/ˌfɔːˈtiːn/",
+          "ipa_uk": "/ˌfɔːˈtiːn/",
+          "ipa_us": "/ˌfɔːrˈtiːn/",
           "meaning": "số mười bốn",
           "example": "Fourteen."
         },
         {
           "word": "fifteen",
           "pos": "num",
-          "ipa": "/ˌfɪfˈtiːn/",
+          "ipa_uk": "/ˌfɪfˈtiːn/",
+          "ipa_us": "/fɪfˈtiːn/",
           "meaning": "số mười lăm",
           "example": "Fifteen."
         },
         {
           "word": "maths",
           "pos": "n",
-          "ipa": "/mæθs/",
+          "ipa_uk": "/mæθs/",
+          "ipa_us": "/mæθs/",
           "meaning": "môn toán",
           "example": "We are in the maths class."
         }
@@ -556,28 +610,32 @@
         {
           "word": "brother",
           "pos": "n",
-          "ipa": "/ˈbrʌðə(r)/",
+          "ipa_uk": "/ˈbrʌðə(r)/",
+          "ipa_us": "/ˈbrʌðɚ/",
           "meaning": "anh trai; em trai",
           "example": "This is my brother."
         },
         {
           "word": "sister",
           "pos": "n",
-          "ipa": "/ˈsɪstə(r)/",
+          "ipa_uk": "/ˈsɪstə(r)/",
+          "ipa_us": "/ˈsɪstɚ/",
           "meaning": "chị gái; em gái",
           "example": "This is my sister."
         },
         {
           "word": "grandmother",
           "pos": "n",
-          "ipa": "/ˈɡrænmʌðə(r)/",
+          "ipa_uk": "/ˈɡrænmʌðə(r)/",
+          "ipa_us": "/ˈɡrændmʌðɚ/",
           "meaning": "bà",
           "example": "This is my grandmother."
         },
         {
           "word": "home",
           "pos": "n",
-          "ipa": "/həʊm/",
+          "ipa_uk": "/həʊm/",
+          "ipa_us": "/hoʊm/",
           "meaning": "nhà",
           "example": "We are at home."
         }
@@ -597,28 +655,32 @@
         {
           "word": "shirt",
           "pos": "n",
-          "ipa": "/ʃɜːt/",
+          "ipa_uk": "/ʃɜːt/",
+          "ipa_us": "/ʃɝːt/",
           "meaning": "áo sơ mi",
           "example": "This is a shirt."
         },
         {
           "word": "shoes",
           "pos": "n",
-          "ipa": "/ʃuːz/",
+          "ipa_uk": "/ʃuːz/",
+          "ipa_us": "/ʃuːz/",
           "meaning": "đôi giày",
           "example": "These are shoes."
         },
         {
           "word": "shorts",
           "pos": "n",
-          "ipa": "/ʃɔːts/",
+          "ipa_uk": "/ʃɔːts/",
+          "ipa_us": "/ʃɔːrts/",
           "meaning": "quần soóc, quần đùi",
           "example": "These are shorts."
         },
         {
           "word": "clothes shop",
           "pos": "n",
-          "ipa": "/ˈkləʊðz ʃɒp/",
+          "ipa_uk": "/ˈkləʊðz ʃɒp/",
+          "ipa_us": "/ˈkloʊðz ʃɑːp/",
           "meaning": "cửa hàng quần áo",
           "example": "We are in the clothes shop."
         }
@@ -638,28 +700,32 @@
         {
           "word": "tent",
           "pos": "n",
-          "ipa": "/tent/",
+          "ipa_uk": "/tent/",
+          "ipa_us": "/tent/",
           "meaning": "cái lều",
           "example": "This is a tent."
         },
         {
           "word": "teapot",
           "pos": "n",
-          "ipa": "/ˈtiːpɒt/",
+          "ipa_uk": "/ˈtiːpɒt/",
+          "ipa_us": "/ˈtiːpɑːt/",
           "meaning": "ấm pha trà",
           "example": "This is a teapot."
         },
         {
           "word": "blanket",
           "pos": "n",
-          "ipa": "/ˈblæŋkɪt/",
+          "ipa_uk": "/ˈblæŋkɪt/",
+          "ipa_us": "/ˈblæŋkɪt/",
           "meaning": "cái chăn",
           "example": "This is a blanket."
         },
         {
           "word": "campsite",
           "pos": "n",
-          "ipa": "/ˈkæmpsaɪt/",
+          "ipa_uk": "/ˈkæmpsaɪt/",
+          "ipa_us": "/ˈkæmpsaɪt/",
           "meaning": "khu cắm trại",
           "example": "We are at the campsite."
         }
