@@ -1,0 +1,1742 @@
+{
+  "grade": 3,
+  "series": "Global Success",
+  "book_title": "Tiếng Anh 3 – Global Success",
+  "publisher": "NXB Giáo dục Việt Nam",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Hello",
+      "title_vi": "Xin chào",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-1-hello.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-1-hello.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-1-hello.jsp"
+      ],
+      "words": [
+        {
+          "word": "hello",
+          "pos": "exclam",
+          "ipa": "/həˈləʊ/",
+          "meaning": "xin chào",
+          "example": "Hello, I'm Mary."
+        },
+        {
+          "word": "hi",
+          "pos": "exclam",
+          "ipa": "/haɪ/",
+          "meaning": "chào (thân mật)",
+          "example": "Hi, Ben. I'm Mai."
+        },
+        {
+          "word": "goodbye",
+          "pos": "exclam",
+          "ipa": "/ˌɡʊdˈbaɪ/",
+          "meaning": "tạm biệt",
+          "example": "Goodbye, Lucy."
+        },
+        {
+          "word": "bye",
+          "pos": "exclam",
+          "ipa": "/baɪ/",
+          "meaning": "tạm biệt (thân mật)",
+          "example": "Bye, Mai."
+        },
+        {
+          "word": "how are you?",
+          "pos": "phr",
+          "ipa": "/ˌhaʊ ˈɑː juː/",
+          "meaning": "bạn có khỏe không?",
+          "example": "How are you, Nam?"
+        },
+        {
+          "word": "fine",
+          "pos": "adj",
+          "ipa": "/faɪn/",
+          "meaning": "khỏe, ổn",
+          "example": "I'm fine, thank you."
+        },
+        {
+          "word": "thank you",
+          "pos": "phr",
+          "ipa": "/ˈθæŋk juː/",
+          "meaning": "cảm ơn",
+          "example": "Fine, thank you."
+        },
+        {
+          "word": "I'm",
+          "pos": "phr",
+          "ipa": "/aɪm/",
+          "meaning": "tôi là, mình là",
+          "example": "I'm Ben."
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Our names",
+      "title_vi": "Tên của chúng mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-2-our-names.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-2-our-names.jsp",
+        "https://hoatieu.vn/de-cuong-on-tap-hoc-ki-1-tieng-anh-3-global-success-243119",
+        "https://thpt-hoangvanthu.ninhbinh.edu.vn/wp-content/uploads/2026/04/f56d1878-29a4-4b43-9e92-7cb568d4a3ce.pdf"
+      ],
+      "words": [
+        {
+          "word": "name",
+          "pos": "n",
+          "ipa": "/neɪm/",
+          "meaning": "tên",
+          "example": "What's your name?"
+        },
+        {
+          "word": "what's your name?",
+          "pos": "phr",
+          "ipa": "/ˌwɒts jɔː ˈneɪm/",
+          "meaning": "bạn tên là gì?",
+          "example": "What's your name? – My name's Linh."
+        },
+        {
+          "word": "my name's",
+          "pos": "phr",
+          "ipa": "/maɪ ˈneɪmz/",
+          "meaning": "tên mình là",
+          "example": "My name's Bill."
+        },
+        {
+          "word": "his",
+          "pos": "det",
+          "ipa": "/hɪz/",
+          "meaning": "của anh ấy, của bạn ấy (nam)",
+          "example": "His name is Ben."
+        },
+        {
+          "word": "her",
+          "pos": "det",
+          "ipa": "/hɜː(r)/",
+          "meaning": "của chị ấy, của bạn ấy (nữ)",
+          "example": "Her name is Mary."
+        },
+        {
+          "word": "how old are you?",
+          "pos": "phr",
+          "ipa": "/ˌhaʊ ˈəʊld ɑː juː/",
+          "meaning": "bạn bao nhiêu tuổi?",
+          "example": "How old are you? – I'm eight."
+        },
+        {
+          "word": "years old",
+          "pos": "phr",
+          "ipa": "/ˈjɪəz əʊld/",
+          "meaning": "... tuổi",
+          "example": "I'm eight years old."
+        },
+        {
+          "word": "one",
+          "pos": "num",
+          "ipa": "/wʌn/",
+          "meaning": "một",
+          "example": "One, two, three."
+        },
+        {
+          "word": "two",
+          "pos": "num",
+          "ipa": "/tuː/",
+          "meaning": "hai"
+        },
+        {
+          "word": "three",
+          "pos": "num",
+          "ipa": "/θriː/",
+          "meaning": "ba"
+        },
+        {
+          "word": "four",
+          "pos": "num",
+          "ipa": "/fɔː(r)/",
+          "meaning": "bốn"
+        },
+        {
+          "word": "five",
+          "pos": "num",
+          "ipa": "/faɪv/",
+          "meaning": "năm"
+        },
+        {
+          "word": "six",
+          "pos": "num",
+          "ipa": "/sɪks/",
+          "meaning": "sáu"
+        },
+        {
+          "word": "seven",
+          "pos": "num",
+          "ipa": "/ˈsevn/",
+          "meaning": "bảy"
+        },
+        {
+          "word": "eight",
+          "pos": "num",
+          "ipa": "/eɪt/",
+          "meaning": "tám",
+          "example": "I'm eight years old."
+        },
+        {
+          "word": "nine",
+          "pos": "num",
+          "ipa": "/naɪn/",
+          "meaning": "chín"
+        },
+        {
+          "word": "ten",
+          "pos": "num",
+          "ipa": "/ten/",
+          "meaning": "mười",
+          "example": "I'm ten years old."
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Our friends",
+      "title_vi": "Bạn bè của chúng mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-3-our-friends.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-3-our-friends.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-3-our-friends.jsp"
+      ],
+      "words": [
+        {
+          "word": "friend",
+          "pos": "n",
+          "ipa": "/frend/",
+          "meaning": "bạn, bạn bè",
+          "example": "This is my friend."
+        },
+        {
+          "word": "this",
+          "pos": "pron",
+          "ipa": "/ðɪs/",
+          "meaning": "đây, cái này, người này",
+          "example": "This is Mary."
+        },
+        {
+          "word": "that",
+          "pos": "pron",
+          "ipa": "/ðæt/",
+          "meaning": "kia, cái kia, người kia",
+          "example": "That is my friend."
+        },
+        {
+          "word": "is this ...?",
+          "pos": "phr",
+          "ipa": "/ɪz ˈðɪs/",
+          "meaning": "đây có phải là ... không?",
+          "example": "Is this Lucy?"
+        },
+        {
+          "word": "is that ...?",
+          "pos": "phr",
+          "ipa": "/ɪz ˈðæt/",
+          "meaning": "kia có phải là ... không?",
+          "example": "Is that Minh?"
+        },
+        {
+          "word": "yes, it is",
+          "pos": "phr",
+          "ipa": "/ˌjes ɪt ˈɪz/",
+          "meaning": "vâng, đúng vậy",
+          "example": "Is that Minh? – Yes, it is."
+        },
+        {
+          "word": "no, it isn't",
+          "pos": "phr",
+          "ipa": "/ˌnəʊ ɪt ˈɪznt/",
+          "meaning": "không, không phải",
+          "example": "Is that Ben? – No, it isn't."
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Our bodies",
+      "title_vi": "Cơ thể của chúng mình",
+      "sources": [
+        "https://storage-vnportal.vnpt.vn/qnm-ubnd/6407/TAILIEUCUALAI/E3 Unit 4 lesson 1.pdf",
+        "https://vietjack.com/tieng-anh-3-kn/unit-4-lesson-1-lop-3.jsp",
+        "https://vietjack.com/giao-an-tieng-anh-3/unit-4-lesson-1-lop-3-kntt.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-4-our-bodies.jsp"
+      ],
+      "words": [
+        {
+          "word": "body",
+          "pos": "n",
+          "ipa": "/ˈbɒdi/",
+          "meaning": "cơ thể"
+        },
+        {
+          "word": "face",
+          "pos": "n",
+          "ipa": "/feɪs/",
+          "meaning": "khuôn mặt",
+          "example": "It's a face."
+        },
+        {
+          "word": "hand",
+          "pos": "n",
+          "ipa": "/hænd/",
+          "meaning": "bàn tay",
+          "example": "Touch your hand."
+        },
+        {
+          "word": "ear",
+          "pos": "n",
+          "ipa": "/ɪə(r)/",
+          "meaning": "tai",
+          "example": "It's an ear."
+        },
+        {
+          "word": "eye",
+          "pos": "n",
+          "ipa": "/aɪ/",
+          "meaning": "mắt",
+          "example": "It's an eye."
+        },
+        {
+          "word": "nose",
+          "pos": "n",
+          "ipa": "/nəʊz/",
+          "meaning": "mũi",
+          "example": "It's a nose."
+        },
+        {
+          "word": "mouth",
+          "pos": "n",
+          "ipa": "/maʊθ/",
+          "meaning": "miệng",
+          "example": "It's a mouth."
+        },
+        {
+          "word": "open",
+          "pos": "v",
+          "ipa": "/ˈəʊpən/",
+          "meaning": "mở",
+          "example": "Open your mouth."
+        },
+        {
+          "word": "touch",
+          "pos": "v",
+          "ipa": "/tʌtʃ/",
+          "meaning": "chạm vào, sờ vào",
+          "example": "Touch your nose."
+        },
+        {
+          "word": "what's this?",
+          "pos": "phr",
+          "ipa": "/ˌwɒts ˈðɪs/",
+          "meaning": "đây là cái gì?",
+          "example": "What's this? – It's a hand."
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "My hobbies",
+      "title_vi": "Sở thích của mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-5-my-hobbies.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-5-our-bobbies.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-5-my-hobbies.jsp",
+        "https://loigiaihay.com/tieng-anh-lop-3-unit-5-lesson-1-trang-34-global-success-a108075.html"
+      ],
+      "words": [
+        {
+          "word": "hobby",
+          "pos": "n",
+          "ipa": "/ˈhɒbi/",
+          "meaning": "sở thích",
+          "example": "What's your hobby?"
+        },
+        {
+          "word": "dancing",
+          "pos": "n",
+          "ipa": "/ˈdɑːnsɪŋ/",
+          "meaning": "nhảy múa",
+          "example": "My hobby is dancing."
+        },
+        {
+          "word": "drawing",
+          "pos": "n",
+          "ipa": "/ˈdrɔːɪŋ/",
+          "meaning": "vẽ (bằng bút chì)",
+          "example": "I like drawing."
+        },
+        {
+          "word": "painting",
+          "pos": "n",
+          "ipa": "/ˈpeɪntɪŋ/",
+          "meaning": "vẽ tranh, tô màu",
+          "example": "It's painting."
+        },
+        {
+          "word": "singing",
+          "pos": "n",
+          "ipa": "/ˈsɪŋɪŋ/",
+          "meaning": "ca hát",
+          "example": "My hobby is singing."
+        },
+        {
+          "word": "swimming",
+          "pos": "n",
+          "ipa": "/ˈswɪmɪŋ/",
+          "meaning": "bơi lội",
+          "example": "I like swimming."
+        },
+        {
+          "word": "running",
+          "pos": "n",
+          "ipa": "/ˈrʌnɪŋ/",
+          "meaning": "chạy bộ",
+          "example": "It's running."
+        },
+        {
+          "word": "cooking",
+          "pos": "n",
+          "ipa": "/ˈkʊkɪŋ/",
+          "meaning": "nấu ăn",
+          "example": "My hobby is cooking."
+        },
+        {
+          "word": "walking",
+          "pos": "n",
+          "ipa": "/ˈwɔːkɪŋ/",
+          "meaning": "đi bộ",
+          "example": "I like walking."
+        },
+        {
+          "word": "what's your hobby?",
+          "pos": "phr",
+          "ipa": "/ˌwɒts jɔː ˈhɒbi/",
+          "meaning": "sở thích của bạn là gì?",
+          "example": "What's your hobby? – It's swimming."
+        },
+        {
+          "word": "like",
+          "pos": "v",
+          "ipa": "/laɪk/",
+          "meaning": "thích",
+          "example": "I like drawing."
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Our school",
+      "title_vi": "Trường của chúng mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-6-our-school.jsp",
+        "https://loigiaihay.com/tieng-anh-lop-3-unit-6-lesson-1-trang-44-global-success-a108080.html",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-6-our-school.jsp",
+        "https://zim.vn/bai-tap-bo-tro-tieng-anh-3-global-success"
+      ],
+      "words": [
+        {
+          "word": "school",
+          "pos": "n",
+          "ipa": "/skuːl/",
+          "meaning": "trường học",
+          "example": "Is this our school?"
+        },
+        {
+          "word": "classroom",
+          "pos": "n",
+          "ipa": "/ˈklɑːsruːm/",
+          "meaning": "lớp học, phòng học",
+          "example": "This is our classroom."
+        },
+        {
+          "word": "library",
+          "pos": "n",
+          "ipa": "/ˈlaɪbrəri/",
+          "meaning": "thư viện",
+          "example": "Is this our library?"
+        },
+        {
+          "word": "playground",
+          "pos": "n",
+          "ipa": "/ˈpleɪɡraʊnd/",
+          "meaning": "sân chơi",
+          "example": "That's our playground."
+        },
+        {
+          "word": "computer room",
+          "pos": "n",
+          "ipa": "/kəmˈpjuːtə ruːm/",
+          "meaning": "phòng máy tính",
+          "example": "Let's go to the computer room."
+        },
+        {
+          "word": "music room",
+          "pos": "n",
+          "ipa": "/ˈmjuːzɪk ruːm/",
+          "meaning": "phòng âm nhạc",
+          "example": "This is the music room."
+        },
+        {
+          "word": "art room",
+          "pos": "n",
+          "ipa": "/ˈɑːt ruːm/",
+          "meaning": "phòng mỹ thuật",
+          "example": "Is that the art room?"
+        },
+        {
+          "word": "our",
+          "pos": "det",
+          "ipa": "/ˈaʊə(r)/",
+          "meaning": "của chúng mình",
+          "example": "This is our school."
+        }
+      ]
+    },
+    {
+      "unit": 7,
+      "title": "Classroom instructions",
+      "title_vi": "Hiệu lệnh trong lớp học",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-7-lesson-1-lop-3.jsp",
+        "https://loigiaihay.com/tieng-anh-lop-3-unit-7-lesson-2-trang-52-global-success-a108084.html",
+        "https://vietjack.com/giao-an-tieng-anh-3/unit-7-lesson-2-lop-3-kntt.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-7-classroom-instructions.jsp"
+      ],
+      "words": [
+        {
+          "word": "stand up",
+          "pos": "phr v",
+          "ipa": "/ˌstænd ˈʌp/",
+          "meaning": "đứng lên",
+          "example": "Stand up, please!"
+        },
+        {
+          "word": "sit down",
+          "pos": "phr v",
+          "ipa": "/ˌsɪt ˈdaʊn/",
+          "meaning": "ngồi xuống",
+          "example": "Sit down, please!"
+        },
+        {
+          "word": "open your book",
+          "pos": "phr",
+          "ipa": "/ˌəʊpən jɔː ˈbʊk/",
+          "meaning": "mở sách ra",
+          "example": "Open your book, please!"
+        },
+        {
+          "word": "close your book",
+          "pos": "phr",
+          "ipa": "/ˌkləʊz jɔː ˈbʊk/",
+          "meaning": "gấp sách lại",
+          "example": "Close your book, please!"
+        },
+        {
+          "word": "be quiet",
+          "pos": "phr",
+          "ipa": "/ˌbi ˈkwaɪət/",
+          "meaning": "giữ trật tự",
+          "example": "Be quiet, please!"
+        },
+        {
+          "word": "come in",
+          "pos": "phr v",
+          "ipa": "/ˌkʌm ˈɪn/",
+          "meaning": "đi vào",
+          "example": "May I come in?"
+        },
+        {
+          "word": "go out",
+          "pos": "phr v",
+          "ipa": "/ˌɡəʊ ˈaʊt/",
+          "meaning": "đi ra ngoài",
+          "example": "May I go out?"
+        },
+        {
+          "word": "speak",
+          "pos": "v",
+          "ipa": "/spiːk/",
+          "meaning": "nói",
+          "example": "May I speak Vietnamese?"
+        },
+        {
+          "word": "please",
+          "pos": "adv",
+          "ipa": "/pliːz/",
+          "meaning": "làm ơn, xin vui lòng",
+          "example": "Sit down, please."
+        },
+        {
+          "word": "may I ...?",
+          "pos": "phr",
+          "ipa": "/ˈmeɪ aɪ/",
+          "meaning": "em có thể ... không ạ?",
+          "example": "May I open the book?"
+        },
+        {
+          "word": "yes, you can",
+          "pos": "phr",
+          "ipa": "/ˌjes juː ˈkæn/",
+          "meaning": "được, em có thể",
+          "example": "May I come in? – Yes, you can."
+        },
+        {
+          "word": "no, you can't",
+          "pos": "phr",
+          "ipa": "/ˌnəʊ juː ˈkɑːnt/",
+          "meaning": "không, em không thể",
+          "example": "May I go out? – No, you can't."
+        }
+      ]
+    },
+    {
+      "unit": 8,
+      "title": "My school things",
+      "title_vi": "Đồ dùng học tập của mình",
+      "sources": [
+        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-8-my-school-things-global-success-co-dap-an-a130588.html",
+        "https://vietjack.com/tieng-anh-3-kn/unit-8-my-school-things.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-8-my-school-things.jsp"
+      ],
+      "words": [
+        {
+          "word": "book",
+          "pos": "n",
+          "ipa": "/bʊk/",
+          "meaning": "quyển sách",
+          "example": "I have a book."
+        },
+        {
+          "word": "notebook",
+          "pos": "n",
+          "ipa": "/ˈnəʊtbʊk/",
+          "meaning": "quyển vở",
+          "example": "I have a notebook."
+        },
+        {
+          "word": "pen",
+          "pos": "n",
+          "ipa": "/pen/",
+          "meaning": "bút mực",
+          "example": "I have a pen."
+        },
+        {
+          "word": "pencil case",
+          "pos": "n",
+          "ipa": "/ˈpensl keɪs/",
+          "meaning": "hộp bút",
+          "example": "I have a pencil case."
+        },
+        {
+          "word": "eraser",
+          "pos": "n",
+          "ipa": "/ɪˈreɪzə(r)/",
+          "meaning": "cục tẩy",
+          "example": "I have an eraser."
+        },
+        {
+          "word": "ruler",
+          "pos": "n",
+          "ipa": "/ˈruːlə(r)/",
+          "meaning": "thước kẻ",
+          "example": "This is my ruler."
+        },
+        {
+          "word": "school bag",
+          "pos": "n",
+          "ipa": "/ˈskuːl bæɡ/",
+          "meaning": "cặp sách",
+          "example": "I have a school bag."
+        },
+        {
+          "word": "have",
+          "pos": "v",
+          "ipa": "/hæv/",
+          "meaning": "có",
+          "example": "I have a notebook."
+        }
+      ]
+    },
+    {
+      "unit": 9,
+      "title": "Colours",
+      "title_vi": "Màu sắc",
+      "sources": [
+        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-9-ngu-phap-global-success-co-dap-an-a130591.html",
+        "https://vietjack.com/tieng-anh-3-kn/unit-9-colours.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-9-colours.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-9-colours.jsp"
+      ],
+      "words": [
+        {
+          "word": "colour",
+          "pos": "n",
+          "ipa": "/ˈkʌlə(r)/",
+          "meaning": "màu sắc",
+          "example": "What colour is it?"
+        },
+        {
+          "word": "red",
+          "pos": "adj",
+          "ipa": "/red/",
+          "meaning": "màu đỏ",
+          "example": "It's red."
+        },
+        {
+          "word": "blue",
+          "pos": "adj",
+          "ipa": "/bluː/",
+          "meaning": "màu xanh dương",
+          "example": "It's blue."
+        },
+        {
+          "word": "green",
+          "pos": "adj",
+          "ipa": "/ɡriːn/",
+          "meaning": "màu xanh lá cây",
+          "example": "It's green."
+        },
+        {
+          "word": "yellow",
+          "pos": "adj",
+          "ipa": "/ˈjeləʊ/",
+          "meaning": "màu vàng",
+          "example": "It's yellow."
+        },
+        {
+          "word": "white",
+          "pos": "adj",
+          "ipa": "/waɪt/",
+          "meaning": "màu trắng",
+          "example": "It's white."
+        },
+        {
+          "word": "black",
+          "pos": "adj",
+          "ipa": "/blæk/",
+          "meaning": "màu đen",
+          "example": "They're black."
+        },
+        {
+          "word": "brown",
+          "pos": "adj",
+          "ipa": "/braʊn/",
+          "meaning": "màu nâu",
+          "example": "It's brown."
+        },
+        {
+          "word": "orange",
+          "pos": "adj",
+          "ipa": "/ˈɒrɪndʒ/",
+          "meaning": "màu cam",
+          "example": "They're orange."
+        },
+        {
+          "word": "what colour is it?",
+          "pos": "phr",
+          "ipa": "/ˌwɒt ˈkʌlər ɪz ɪt/",
+          "meaning": "nó màu gì?",
+          "example": "What colour is it? – It's red."
+        },
+        {
+          "word": "what colour are they?",
+          "pos": "phr",
+          "ipa": "/ˌwɒt ˈkʌlər ɑː ðeɪ/",
+          "meaning": "chúng màu gì?",
+          "example": "What colour are they? – They're blue."
+        }
+      ]
+    },
+    {
+      "unit": 10,
+      "title": "Break time activities",
+      "title_vi": "Hoạt động giờ ra chơi",
+      "sources": [
+        "https://loigiaihay.com/tieng-anh-lop-3-unit-10-lesson-1-trang-68-global-success-a108095.html",
+        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-10-ngu-phap-global-success-co-dap-an-a130593.html",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-10-break-time-activities.jsp"
+      ],
+      "words": [
+        {
+          "word": "break time",
+          "pos": "n",
+          "ipa": "/ˈbreɪk taɪm/",
+          "meaning": "giờ ra chơi",
+          "example": "I play chess at break time."
+        },
+        {
+          "word": "play chess",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈtʃes/",
+          "meaning": "chơi cờ vua",
+          "example": "I play chess at break time."
+        },
+        {
+          "word": "play volleyball",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈvɒlibɔːl/",
+          "meaning": "chơi bóng chuyền",
+          "example": "We play volleyball."
+        },
+        {
+          "word": "play basketball",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
+          "meaning": "chơi bóng rổ",
+          "example": "I play basketball at break time."
+        },
+        {
+          "word": "play badminton",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈbædmɪntən/",
+          "meaning": "chơi cầu lông",
+          "example": "We play badminton."
+        },
+        {
+          "word": "play football",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈfʊtbɔːl/",
+          "meaning": "chơi bóng đá",
+          "example": "I play football at break time."
+        },
+        {
+          "word": "play table tennis",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈteɪbl tenɪs/",
+          "meaning": "chơi bóng bàn",
+          "example": "We play table tennis."
+        },
+        {
+          "word": "chat with friends",
+          "pos": "phr",
+          "ipa": "/ˌtʃæt wɪð ˈfrendz/",
+          "meaning": "trò chuyện với bạn bè",
+          "example": "I chat with my friends."
+        },
+        {
+          "word": "do word puzzles",
+          "pos": "phr",
+          "ipa": "/ˌduː ˈwɜːd pʌzlz/",
+          "meaning": "chơi giải ô chữ",
+          "example": "I do word puzzles at break time."
+        },
+        {
+          "word": "what do you do at break time?",
+          "pos": "phr",
+          "ipa": "/ˌwɒt də juː ˈduː ət ˈbreɪk taɪm/",
+          "meaning": "bạn làm gì vào giờ ra chơi?"
+        }
+      ]
+    },
+    {
+      "unit": 11,
+      "title": "My family",
+      "title_vi": "Gia đình của mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-11-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-11-my-family.jsp",
+        "https://hoatieu.vn/de-cuong-on-tap-hoc-ki-2-tieng-anh-3-global-success-230925"
+      ],
+      "words": [
+        {
+          "word": "family",
+          "pos": "n",
+          "ipa": "/ˈfæməli/",
+          "meaning": "gia đình",
+          "example": "This is my family."
+        },
+        {
+          "word": "grandfather",
+          "pos": "n",
+          "ipa": "/ˈɡrænfɑːðə(r)/",
+          "meaning": "ông",
+          "example": "It's my grandfather."
+        },
+        {
+          "word": "grandmother",
+          "pos": "n",
+          "ipa": "/ˈɡrænmʌðə(r)/",
+          "meaning": "bà",
+          "example": "That's my grandmother."
+        },
+        {
+          "word": "father",
+          "pos": "n",
+          "ipa": "/ˈfɑːðə(r)/",
+          "meaning": "bố",
+          "example": "Who's that? – It's my father."
+        },
+        {
+          "word": "mother",
+          "pos": "n",
+          "ipa": "/ˈmʌðə(r)/",
+          "meaning": "mẹ",
+          "example": "Who's that? – It's my mother."
+        },
+        {
+          "word": "brother",
+          "pos": "n",
+          "ipa": "/ˈbrʌðə(r)/",
+          "meaning": "anh trai, em trai",
+          "example": "It's my brother."
+        },
+        {
+          "word": "sister",
+          "pos": "n",
+          "ipa": "/ˈsɪstə(r)/",
+          "meaning": "chị gái, em gái",
+          "example": "It's my sister."
+        },
+        {
+          "word": "man",
+          "pos": "n",
+          "ipa": "/mæn/",
+          "meaning": "người đàn ông",
+          "example": "Who's the man?"
+        },
+        {
+          "word": "woman",
+          "pos": "n",
+          "ipa": "/ˈwʊmən/",
+          "meaning": "người phụ nữ",
+          "example": "Who's the woman?"
+        },
+        {
+          "word": "photo",
+          "pos": "n",
+          "ipa": "/ˈfəʊtəʊ/",
+          "meaning": "bức ảnh",
+          "example": "Look at this photo."
+        },
+        {
+          "word": "who",
+          "pos": "pron",
+          "ipa": "/huː/",
+          "meaning": "ai",
+          "example": "Who's that?"
+        },
+        {
+          "word": "who's that?",
+          "pos": "phr",
+          "ipa": "/ˌhuːz ˈðæt/",
+          "meaning": "kia là ai?",
+          "example": "Who's that? – It's my brother."
+        },
+        {
+          "word": "nineteen",
+          "pos": "num",
+          "ipa": "/ˌnaɪnˈtiːn/",
+          "meaning": "mười chín",
+          "example": "My sister is nineteen."
+        }
+      ]
+    },
+    {
+      "unit": 12,
+      "title": "Jobs",
+      "title_vi": "Nghề nghiệp",
+      "sources": [
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-12-jobs.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-12-jobs.jsp"
+      ],
+      "words": [
+        {
+          "word": "job",
+          "pos": "n",
+          "ipa": "/dʒɒb/",
+          "meaning": "nghề nghiệp, công việc",
+          "example": "What's his job?"
+        },
+        {
+          "word": "doctor",
+          "pos": "n",
+          "ipa": "/ˈdɒktə(r)/",
+          "meaning": "bác sĩ",
+          "example": "She's a doctor."
+        },
+        {
+          "word": "nurse",
+          "pos": "n",
+          "ipa": "/nɜːs/",
+          "meaning": "y tá",
+          "example": "My mother is a nurse."
+        },
+        {
+          "word": "farmer",
+          "pos": "n",
+          "ipa": "/ˈfɑːmə(r)/",
+          "meaning": "nông dân",
+          "example": "He's a farmer."
+        },
+        {
+          "word": "cook",
+          "pos": "n",
+          "ipa": "/kʊk/",
+          "meaning": "đầu bếp",
+          "example": "My father is a cook."
+        },
+        {
+          "word": "singer",
+          "pos": "n",
+          "ipa": "/ˈsɪŋə(r)/",
+          "meaning": "ca sĩ",
+          "example": "She's a singer."
+        }
+      ]
+    },
+    {
+      "unit": 13,
+      "title": "My house",
+      "title_vi": "Ngôi nhà của mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-1-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-2-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-3-lop-3.jsp",
+        "https://www.vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-13-grammar.jsp"
+      ],
+      "words": [
+        {
+          "word": "house",
+          "pos": "n",
+          "ipa": "/haʊs/",
+          "meaning": "ngôi nhà",
+          "example": "This is my house."
+        },
+        {
+          "word": "living room",
+          "pos": "n",
+          "ipa": "/ˈlɪvɪŋ ruːm/",
+          "meaning": "phòng khách",
+          "example": "Where's the living room?"
+        },
+        {
+          "word": "kitchen",
+          "pos": "n",
+          "ipa": "/ˈkɪtʃɪn/",
+          "meaning": "nhà bếp",
+          "example": "The kitchen is there."
+        },
+        {
+          "word": "bedroom",
+          "pos": "n",
+          "ipa": "/ˈbedruːm/",
+          "meaning": "phòng ngủ",
+          "example": "Where's the bedroom? – It's here."
+        },
+        {
+          "word": "bathroom",
+          "pos": "n",
+          "ipa": "/ˈbɑːθruːm/",
+          "meaning": "phòng tắm",
+          "example": "Where's the bathroom?"
+        },
+        {
+          "word": "here",
+          "pos": "adv",
+          "ipa": "/hɪə(r)/",
+          "meaning": "ở đây",
+          "example": "It's here."
+        },
+        {
+          "word": "there",
+          "pos": "adv",
+          "ipa": "/ðeə(r)/",
+          "meaning": "ở đằng kia",
+          "example": "It's there."
+        },
+        {
+          "word": "table",
+          "pos": "n",
+          "ipa": "/ˈteɪbl/",
+          "meaning": "cái bàn",
+          "example": "Where are the tables?"
+        },
+        {
+          "word": "chair",
+          "pos": "n",
+          "ipa": "/tʃeə(r)/",
+          "meaning": "cái ghế",
+          "example": "They're in the living room."
+        },
+        {
+          "word": "where's the ...?",
+          "pos": "phr",
+          "ipa": "/ˈweəz ðə/",
+          "meaning": "... ở đâu?",
+          "example": "Where's the kitchen?"
+        },
+        {
+          "word": "where are the ...?",
+          "pos": "phr",
+          "ipa": "/ˈweər ɑː ðə/",
+          "meaning": "những ... ở đâu?",
+          "example": "Where are the chairs?"
+        }
+      ]
+    },
+    {
+      "unit": 14,
+      "title": "My bedroom",
+      "title_vi": "Phòng ngủ của mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-1-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-2-lop-3.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-14-my-bedroom.jsp"
+      ],
+      "words": [
+        {
+          "word": "bedroom",
+          "pos": "n",
+          "ipa": "/ˈbedruːm/",
+          "meaning": "phòng ngủ",
+          "example": "This is my bedroom."
+        },
+        {
+          "word": "bed",
+          "pos": "n",
+          "ipa": "/bed/",
+          "meaning": "cái giường",
+          "example": "There's a bed in the room."
+        },
+        {
+          "word": "desk",
+          "pos": "n",
+          "ipa": "/desk/",
+          "meaning": "bàn học",
+          "example": "There's a desk."
+        },
+        {
+          "word": "lamp",
+          "pos": "n",
+          "ipa": "/læmp/",
+          "meaning": "đèn bàn",
+          "example": "There are two lamps."
+        },
+        {
+          "word": "window",
+          "pos": "n",
+          "ipa": "/ˈwɪndəʊ/",
+          "meaning": "cửa sổ",
+          "example": "There are two windows."
+        },
+        {
+          "word": "door",
+          "pos": "n",
+          "ipa": "/dɔː(r)/",
+          "meaning": "cửa ra vào",
+          "example": "The door is big."
+        },
+        {
+          "word": "chair",
+          "pos": "n",
+          "ipa": "/tʃeə(r)/",
+          "meaning": "cái ghế",
+          "example": "The chairs are new."
+        },
+        {
+          "word": "big",
+          "pos": "adj",
+          "ipa": "/bɪɡ/",
+          "meaning": "to, lớn",
+          "example": "The door is big."
+        },
+        {
+          "word": "small",
+          "pos": "adj",
+          "ipa": "/smɔːl/",
+          "meaning": "nhỏ",
+          "example": "The windows are small."
+        },
+        {
+          "word": "new",
+          "pos": "adj",
+          "ipa": "/njuː/",
+          "meaning": "mới",
+          "example": "The chair is new."
+        },
+        {
+          "word": "old",
+          "pos": "adj",
+          "ipa": "/əʊld/",
+          "meaning": "cũ",
+          "example": "The desk is old."
+        },
+        {
+          "word": "there's",
+          "pos": "phr",
+          "ipa": "/ðeəz/",
+          "meaning": "có (một)",
+          "example": "There's a bed in the room."
+        },
+        {
+          "word": "there are",
+          "pos": "phr",
+          "ipa": "/ðeər ɑː(r)/",
+          "meaning": "có (nhiều)",
+          "example": "There are two windows."
+        }
+      ]
+    },
+    {
+      "unit": 15,
+      "title": "At the dining table",
+      "title_vi": "Bên bàn ăn",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-1-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-2-lop-3.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-15-at-the-dining-table.jsp"
+      ],
+      "words": [
+        {
+          "word": "dining table",
+          "pos": "n",
+          "ipa": "/ˈdaɪnɪŋ teɪbl/",
+          "meaning": "bàn ăn"
+        },
+        {
+          "word": "beans",
+          "pos": "n",
+          "ipa": "/biːnz/",
+          "meaning": "đậu",
+          "example": "Would you like some beans?"
+        },
+        {
+          "word": "bread",
+          "pos": "n",
+          "ipa": "/bred/",
+          "meaning": "bánh mì",
+          "example": "I'd like some bread."
+        },
+        {
+          "word": "chicken",
+          "pos": "n",
+          "ipa": "/ˈtʃɪkɪn/",
+          "meaning": "thịt gà",
+          "example": "I'd like some chicken, please."
+        },
+        {
+          "word": "egg",
+          "pos": "n",
+          "ipa": "/eɡ/",
+          "meaning": "quả trứng",
+          "example": "I'd like some eggs, please."
+        },
+        {
+          "word": "fish",
+          "pos": "n",
+          "ipa": "/fɪʃ/",
+          "meaning": "cá",
+          "example": "Would you like some fish?"
+        },
+        {
+          "word": "meat",
+          "pos": "n",
+          "ipa": "/miːt/",
+          "meaning": "thịt",
+          "example": "Would you like some meat?"
+        },
+        {
+          "word": "rice",
+          "pos": "n",
+          "ipa": "/raɪs/",
+          "meaning": "cơm, gạo",
+          "example": "I'd like some rice."
+        },
+        {
+          "word": "milk",
+          "pos": "n",
+          "ipa": "/mɪlk/",
+          "meaning": "sữa",
+          "example": "Would you like some milk?"
+        },
+        {
+          "word": "juice",
+          "pos": "n",
+          "ipa": "/dʒuːs/",
+          "meaning": "nước ép",
+          "example": "Would you like some juice?"
+        },
+        {
+          "word": "water",
+          "pos": "n",
+          "ipa": "/ˈwɔːtə(r)/",
+          "meaning": "nước",
+          "example": "I'd like some water."
+        },
+        {
+          "word": "would you like some ...?",
+          "pos": "phr",
+          "ipa": "/wʊd juː ˈlaɪk səm/",
+          "meaning": "bạn có muốn dùng một ít ... không?",
+          "example": "Would you like some juice? – Yes, please."
+        },
+        {
+          "word": "yes, please",
+          "pos": "phr",
+          "ipa": "/ˌjes ˈpliːz/",
+          "meaning": "vâng, cho mình xin",
+          "example": "Would you like some beans? – Yes, please."
+        },
+        {
+          "word": "no, thanks",
+          "pos": "phr",
+          "ipa": "/ˌnəʊ ˈθæŋks/",
+          "meaning": "không, cảm ơn",
+          "example": "Would you like some fish? – No, thanks."
+        },
+        {
+          "word": "what would you like to eat?",
+          "pos": "phr",
+          "ipa": "/ˌwɒt wʊd juː ˈlaɪk tə ˈiːt/",
+          "meaning": "bạn muốn ăn gì?",
+          "example": "What would you like to eat? – I'd like some eggs."
+        }
+      ]
+    },
+    {
+      "unit": 16,
+      "title": "My pets",
+      "title_vi": "Thú cưng của mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-16-my-pets.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-16-my-pets.jsp",
+        "https://loigiaihay.com/tieng-anh-lop-3-unit-16-lesson-3-trang-44-global-success-a108186.html"
+      ],
+      "words": [
+        {
+          "word": "pet",
+          "pos": "n",
+          "ipa": "/pet/",
+          "meaning": "thú cưng",
+          "example": "How many pets do you have?"
+        },
+        {
+          "word": "dog",
+          "pos": "n",
+          "ipa": "/dɒɡ/",
+          "meaning": "con chó",
+          "example": "I have two dogs."
+        },
+        {
+          "word": "cat",
+          "pos": "n",
+          "ipa": "/kæt/",
+          "meaning": "con mèo",
+          "example": "I have a cat."
+        },
+        {
+          "word": "bird",
+          "pos": "n",
+          "ipa": "/bɜːd/",
+          "meaning": "con chim",
+          "example": "I have some birds."
+        },
+        {
+          "word": "rabbit",
+          "pos": "n",
+          "ipa": "/ˈræbɪt/",
+          "meaning": "con thỏ",
+          "example": "I have three rabbits."
+        },
+        {
+          "word": "parrot",
+          "pos": "n",
+          "ipa": "/ˈpærət/",
+          "meaning": "con vẹt",
+          "example": "How many parrots do you have?"
+        },
+        {
+          "word": "goldfish",
+          "pos": "n",
+          "ipa": "/ˈɡəʊldfɪʃ/",
+          "meaning": "cá vàng",
+          "example": "I have two goldfish."
+        },
+        {
+          "word": "turtle",
+          "pos": "n",
+          "ipa": "/ˈtɜːtl/",
+          "meaning": "con rùa",
+          "example": "I have a turtle."
+        },
+        {
+          "word": "many",
+          "pos": "det",
+          "ipa": "/ˈmeni/",
+          "meaning": "nhiều",
+          "example": "I have many birds."
+        },
+        {
+          "word": "some",
+          "pos": "det",
+          "ipa": "/sʌm/",
+          "meaning": "một vài, một ít",
+          "example": "I have some parrots."
+        },
+        {
+          "word": "how many ... do you have?",
+          "pos": "phr",
+          "ipa": "/ˌhaʊ ˈmeni ... də juː ˈhæv/",
+          "meaning": "bạn có bao nhiêu ...?",
+          "example": "How many dogs do you have?"
+        }
+      ]
+    },
+    {
+      "unit": 17,
+      "title": "Our toys",
+      "title_vi": "Đồ chơi của chúng mình",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-17-our-toys.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-17-lesson-1-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-17-lesson-2-lop-3.jsp"
+      ],
+      "words": [
+        {
+          "word": "toy",
+          "pos": "n",
+          "ipa": "/tɔɪ/",
+          "meaning": "đồ chơi",
+          "example": "These are our toys."
+        },
+        {
+          "word": "doll",
+          "pos": "n",
+          "ipa": "/dɒl/",
+          "meaning": "búp bê",
+          "example": "She has a doll."
+        },
+        {
+          "word": "teddy bear",
+          "pos": "n",
+          "ipa": "/ˈtedi beə(r)/",
+          "meaning": "gấu bông",
+          "example": "He has a teddy bear."
+        },
+        {
+          "word": "robot",
+          "pos": "n",
+          "ipa": "/ˈrəʊbɒt/",
+          "meaning": "người máy, rô-bốt",
+          "example": "I have a robot."
+        },
+        {
+          "word": "ball",
+          "pos": "n",
+          "ipa": "/bɔːl/",
+          "meaning": "quả bóng",
+          "example": "He has two balls."
+        },
+        {
+          "word": "kite",
+          "pos": "n",
+          "ipa": "/kaɪt/",
+          "meaning": "con diều",
+          "example": "She has a kite."
+        },
+        {
+          "word": "car",
+          "pos": "n",
+          "ipa": "/kɑː(r)/",
+          "meaning": "ô tô",
+          "example": "He has a car."
+        },
+        {
+          "word": "plane",
+          "pos": "n",
+          "ipa": "/pleɪn/",
+          "meaning": "máy bay",
+          "example": "He has three planes."
+        },
+        {
+          "word": "ship",
+          "pos": "n",
+          "ipa": "/ʃɪp/",
+          "meaning": "tàu thủy",
+          "example": "They have two ships."
+        },
+        {
+          "word": "train",
+          "pos": "n",
+          "ipa": "/treɪn/",
+          "meaning": "tàu hỏa",
+          "example": "They have four trains."
+        },
+        {
+          "word": "truck",
+          "pos": "n",
+          "ipa": "/trʌk/",
+          "meaning": "xe tải",
+          "example": "They have five trucks."
+        }
+      ]
+    },
+    {
+      "unit": 18,
+      "title": "Playing and doing",
+      "title_vi": "Chơi và làm",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-18-playing-and-doing.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-18-lesson-2-lop-3.jsp",
+        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-18-playing-and-doing.jsp"
+      ],
+      "words": [
+        {
+          "word": "what are you doing?",
+          "pos": "phr",
+          "ipa": "/ˌwɒt ɑː juː ˈduːɪŋ/",
+          "meaning": "bạn đang làm gì?",
+          "example": "What are you doing? – I'm reading."
+        },
+        {
+          "word": "play basketball",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
+          "meaning": "chơi bóng rổ",
+          "example": "I'm playing basketball."
+        },
+        {
+          "word": "draw a picture",
+          "pos": "phr",
+          "ipa": "/ˌdrɔː ə ˈpɪktʃə(r)/",
+          "meaning": "vẽ tranh",
+          "example": "I'm drawing a picture."
+        },
+        {
+          "word": "watch TV",
+          "pos": "phr",
+          "ipa": "/ˌwɒtʃ ˌtiː ˈviː/",
+          "meaning": "xem ti vi",
+          "example": "I'm watching TV."
+        },
+        {
+          "word": "listen to music",
+          "pos": "phr",
+          "ipa": "/ˌlɪsn tə ˈmjuːzɪk/",
+          "meaning": "nghe nhạc",
+          "example": "I'm listening to music."
+        },
+        {
+          "word": "dance",
+          "pos": "v",
+          "ipa": "/dɑːns/",
+          "meaning": "nhảy, múa",
+          "example": "She's dancing."
+        },
+        {
+          "word": "read",
+          "pos": "v",
+          "ipa": "/riːd/",
+          "meaning": "đọc",
+          "example": "He's reading."
+        },
+        {
+          "word": "sing",
+          "pos": "v",
+          "ipa": "/sɪŋ/",
+          "meaning": "hát",
+          "example": "They're singing."
+        },
+        {
+          "word": "write",
+          "pos": "v",
+          "ipa": "/raɪt/",
+          "meaning": "viết",
+          "example": "I'm writing."
+        },
+        {
+          "word": "music room",
+          "pos": "n",
+          "ipa": "/ˈmjuːzɪk ruːm/",
+          "meaning": "phòng âm nhạc",
+          "example": "I'm in the music room."
+        }
+      ]
+    },
+    {
+      "unit": 19,
+      "title": "Outdoor activities",
+      "title_vi": "Hoạt động ngoài trời",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-19-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-19-lesson-2-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-19-outdoor-activities.jsp"
+      ],
+      "words": [
+        {
+          "word": "outdoor activity",
+          "pos": "n",
+          "ipa": "/ˌaʊtdɔːr ækˈtɪvəti/",
+          "meaning": "hoạt động ngoài trời"
+        },
+        {
+          "word": "cycle",
+          "pos": "v",
+          "ipa": "/ˈsaɪkl/",
+          "meaning": "đạp xe",
+          "example": "She's cycling."
+        },
+        {
+          "word": "fly a kite",
+          "pos": "phr",
+          "ipa": "/ˌflaɪ ə ˈkaɪt/",
+          "meaning": "thả diều",
+          "example": "He's flying a kite."
+        },
+        {
+          "word": "skate",
+          "pos": "v",
+          "ipa": "/skeɪt/",
+          "meaning": "trượt pa-tanh",
+          "example": "He's skating."
+        },
+        {
+          "word": "skip",
+          "pos": "v",
+          "ipa": "/skɪp/",
+          "meaning": "nhảy dây",
+          "example": "She's skipping."
+        },
+        {
+          "word": "walk",
+          "pos": "v",
+          "ipa": "/wɔːk/",
+          "meaning": "đi bộ",
+          "example": "They're walking."
+        },
+        {
+          "word": "run",
+          "pos": "v",
+          "ipa": "/rʌn/",
+          "meaning": "chạy",
+          "example": "He's running."
+        },
+        {
+          "word": "play football",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈfʊtbɔːl/",
+          "meaning": "chơi bóng đá",
+          "example": "They're playing football."
+        },
+        {
+          "word": "play badminton",
+          "pos": "phr",
+          "ipa": "/ˌpleɪ ˈbædmɪntən/",
+          "meaning": "chơi cầu lông",
+          "example": "She's playing badminton."
+        },
+        {
+          "word": "what's he doing?",
+          "pos": "phr",
+          "ipa": "/ˌwɒts hi ˈduːɪŋ/",
+          "meaning": "bạn ấy (nam) đang làm gì?",
+          "example": "What's he doing? – He's skating."
+        },
+        {
+          "word": "what's she doing?",
+          "pos": "phr",
+          "ipa": "/ˌwɒts ʃi ˈduːɪŋ/",
+          "meaning": "bạn ấy (nữ) đang làm gì?",
+          "example": "What's she doing? – She's cycling."
+        }
+      ]
+    },
+    {
+      "unit": 20,
+      "title": "At the zoo",
+      "title_vi": "Ở vườn thú",
+      "sources": [
+        "https://vietjack.com/tieng-anh-3-kn/unit-20-at-the-zoo.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-1-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-2-lop-3.jsp",
+        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-3-lop-3.jsp"
+      ],
+      "words": [
+        {
+          "word": "zoo",
+          "pos": "n",
+          "ipa": "/zuː/",
+          "meaning": "vườn thú",
+          "example": "We're at the zoo."
+        },
+        {
+          "word": "tiger",
+          "pos": "n",
+          "ipa": "/ˈtaɪɡə(r)/",
+          "meaning": "con hổ",
+          "example": "I can see a tiger."
+        },
+        {
+          "word": "horse",
+          "pos": "n",
+          "ipa": "/hɔːs/",
+          "meaning": "con ngựa",
+          "example": "I can see a horse."
+        },
+        {
+          "word": "monkey",
+          "pos": "n",
+          "ipa": "/ˈmʌŋki/",
+          "meaning": "con khỉ",
+          "example": "The monkey is swinging."
+        },
+        {
+          "word": "peacock",
+          "pos": "n",
+          "ipa": "/ˈpiːkɒk/",
+          "meaning": "con công",
+          "example": "I can see a peacock."
+        },
+        {
+          "word": "elephant",
+          "pos": "n",
+          "ipa": "/ˈelɪfənt/",
+          "meaning": "con voi",
+          "example": "The elephant is counting."
+        },
+        {
+          "word": "parrot",
+          "pos": "n",
+          "ipa": "/ˈpærət/",
+          "meaning": "con vẹt",
+          "example": "The parrot is dancing."
+        },
+        {
+          "word": "climb",
+          "pos": "v",
+          "ipa": "/klaɪm/",
+          "meaning": "leo, trèo",
+          "example": "The monkey is climbing."
+        },
+        {
+          "word": "count",
+          "pos": "v",
+          "ipa": "/kaʊnt/",
+          "meaning": "đếm",
+          "example": "The elephant is counting."
+        },
+        {
+          "word": "dance",
+          "pos": "v",
+          "ipa": "/dɑːns/",
+          "meaning": "nhảy múa",
+          "example": "The peacock is dancing."
+        },
+        {
+          "word": "swing",
+          "pos": "v",
+          "ipa": "/swɪŋ/",
+          "meaning": "đu, đung đưa",
+          "example": "The monkey is swinging."
+        }
+      ]
+    }
+  ]
+}
