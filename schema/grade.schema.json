@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Global Success – vocabulary of one grade",
+  "type": "object",
+  "required": ["grade", "series", "book_title", "publisher", "units"],
+  "properties": {
+    "grade": { "type": "integer", "minimum": 1, "maximum": 12 },
+    "series": { "const": "Global Success" },
+    "book_title": { "type": "string" },
+    "publisher": { "type": "string" },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["unit", "title", "title_vi", "sources", "words"],
+        "properties": {
+          "unit": { "type": "integer", "minimum": 1 },
+          "title": { "type": "string" },
+          "title_vi": { "type": "string" },
+          "sources": { "type": "array", "items": { "type": "string" } },
+          "words": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["word", "pos", "ipa", "meaning"],
+              "additionalProperties": false,
+              "properties": {
+                "word": { "type": "string" },
+                "pos": {
+                  "enum": ["n", "v", "adj", "adv", "prep", "conj", "pron", "det", "num",
+                           "exclam", "phr", "phr v", "idiom", "modal v", "aux v"]
+                },
+                "ipa": { "type": "string", "pattern": "^/[^/]+/$" },
+                "meaning": { "type": "string" },
+                "example": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
