@@ -18,8 +18,8 @@
           "title": { "type": "string" },
           "title_vi": { "type": "string" },
           "status": {
-            "enum": ["sourced", "unverified"],
-            "description": "sourced: word list confirmed by the listed sources; unverified: draft not yet checked against sources"
+            "enum": ["official", "sourced", "unverified"],
+            "description": "official: word list taken from the student's book (SGK) glossary/lesson pages; sourced: confirmed by third-party sources; unverified: draft not yet checked"
           },
           "sources": { "type": "array", "items": { "type": "string" } },
           "words": {
