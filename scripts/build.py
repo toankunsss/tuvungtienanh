@@ -15,7 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DIST = ROOT / "dist"
 FIELDS = ["grade", "unit", "unit_title", "status", "word", "pos", "ipa_uk", "ipa_us",
-          "audio_uk", "audio_us", "meaning", "example"]
+          "audio_uk", "audio_us", "meaning", "example", "example_vi"]
 
 
 def main() -> None:
@@ -36,6 +36,7 @@ def main() -> None:
                     "ipa_uk": w["ipa_uk"], "ipa_us": w["ipa_us"],
                     "audio_uk": w.get("audio_uk", ""), "audio_us": w.get("audio_us", ""),
                     "meaning": w["meaning"], "example": w.get("example", ""),
+                    "example_vi": w.get("example_vi", ""),
                 })
             gstat["units"].append({"unit": u["unit"], "title": u["title"],
                                    "status": u["status"], "words": len(u["words"])})

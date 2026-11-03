@@ -39,7 +39,8 @@
                 "audio_uk": { "type": "string", "description": "Relative path to British-accent MP3" },
                 "audio_us": { "type": "string", "description": "Relative path to American-accent MP3" },
                 "meaning": { "type": "string" },
-                "example": { "type": "string" }
+                "example": { "type": "string" },
+                "example_vi": { "type": "string", "description": "Vietnamese translation of example" }
               }
             }
           }

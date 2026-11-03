@@ -87,8 +87,10 @@ def check_grade(grade: int) -> list[str]:
                     err(f"{tag}: {word!r} {key} file missing: {w[key]}")
             if not w.get("meaning", "").strip():
                 err(f"{tag}: {word!r} has no meaning")
+            if bool(w.get("example")) != bool(w.get("example_vi")):
+                err(f"{tag}: {word!r} needs both example and example_vi")
             extra = set(w) - {"word", "pos", "ipa_uk", "ipa_us", "audio_uk", "audio_us",
-                              "meaning", "example"}
+                              "meaning", "example", "example_vi"}
             if extra:
                 err(f"{tag}: {word!r} has unexpected keys {sorted(extra)}")
     return errs
