@@ -212,8 +212,9 @@ def main() -> int:
                 nw["audio_uk"] = f"audio/uk/{slug}.mp3"
                 nw["audio_us"] = f"audio/us/{slug}.mp3"
                 nw["meaning"] = w["meaning"]
-                if "example" in w:
-                    nw["example"] = w["example"]
+                for k in ("example", "example_vi"):
+                    if k in w:
+                        nw[k] = w[k]
                 new.append(nw)
             unit["words"] = new
         path.write_text(json.dumps(doc, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

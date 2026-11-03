@@ -201,7 +201,7 @@ def main() -> int:
                     us = w.get("ipa_us", "")
                 # rebuild with a stable key order
                 nw = {"word": w["word"], "pos": w["pos"], "ipa_uk": uk, "ipa_us": us}
-                for k in ("audio_uk", "audio_us", "meaning", "example"):
+                for k in ("audio_uk", "audio_us", "meaning", "example", "example_vi"):
                     if k in w:
                         nw[k] = w[k]
                 new_words.append(nw)
