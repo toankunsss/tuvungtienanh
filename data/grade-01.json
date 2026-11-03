@@ -26,6 +26,8 @@
           "pos": "n",
           "ipa_uk": "/bɔːl/",
           "ipa_us": "/bɑːl/",
+          "audio_uk": "audio/uk/ball.mp3",
+          "audio_us": "audio/us/ball.mp3",
           "meaning": "quả bóng",
           "example": "This is a ball.",
           "example_vi": "Đây là quả bóng."
@@ -35,6 +37,8 @@
           "pos": "n",
           "ipa_uk": "/baɪk/",
           "ipa_us": "/baɪk/",
+          "audio_uk": "audio/uk/bike.mp3",
+          "audio_us": "audio/us/bike.mp3",
           "meaning": "xe đạp",
           "example": "This is a bike.",
           "example_vi": "Đây là chiếc xe đạp."
@@ -44,6 +48,8 @@
           "pos": "n",
           "ipa_uk": "/bʊk/",
           "ipa_us": "/bʊk/",
+          "audio_uk": "audio/uk/book.mp3",
+          "audio_us": "audio/us/book.mp3",
           "meaning": "quyển sách",
           "example": "This is a book.",
           "example_vi": "Đây là quyển sách."
@@ -83,6 +89,8 @@
           "pos": "n",
           "ipa_uk": "/keɪk/",
           "ipa_us": "/keɪk/",
+          "audio_uk": "audio/uk/cake.mp3",
+          "audio_us": "audio/us/cake.mp3",
           "meaning": "bánh ngọt",
           "example": "I have a cake.",
           "example_vi": "Mình có một cái bánh ngọt."
@@ -92,6 +100,8 @@
           "pos": "n",
           "ipa_uk": "/kɑː(r)/",
           "ipa_us": "/kɑːr/",
+          "audio_uk": "audio/uk/car.mp3",
+          "audio_us": "audio/us/car.mp3",
           "meaning": "ô tô",
           "example": "I have a car.",
           "example_vi": "Mình có một chiếc ô tô."
@@ -101,6 +111,8 @@
           "pos": "n",
           "ipa_uk": "/kæt/",
           "ipa_us": "/kæt/",
+          "audio_uk": "audio/uk/cat.mp3",
+          "audio_us": "audio/us/cat.mp3",
           "meaning": "con mèo",
           "example": "I have a cat.",
           "example_vi": "Mình có một con mèo."
@@ -110,6 +122,8 @@
           "pos": "n",
           "ipa_uk": "/kʌp/",
           "ipa_us": "/kʌp/",
+          "audio_uk": "audio/uk/cup.mp3",
+          "audio_us": "audio/us/cup.mp3",
           "meaning": "cái cốc, cái tách",
           "example": "I have a cup.",
           "example_vi": "Mình có một cái cốc."
@@ -145,6 +159,8 @@
           "pos": "n",
           "ipa_uk": "/ˈæpl/",
           "ipa_us": "/ˈæpəl/",
+          "audio_uk": "audio/uk/apple.mp3",
+          "audio_us": "audio/us/apple.mp3",
           "meaning": "quả táo",
           "example": "I have an apple.",
           "example_vi": "Mình có một quả táo."
@@ -154,6 +170,8 @@
           "pos": "n",
           "ipa_uk": "/bæɡ/",
           "ipa_us": "/bæɡ/",
+          "audio_uk": "audio/uk/bag.mp3",
+          "audio_us": "audio/us/bag.mp3",
           "meaning": "cái túi, cái cặp",
           "example": "I have a bag.",
           "example_vi": "Mình có một cái túi."
@@ -163,6 +181,8 @@
           "pos": "n",
           "ipa_uk": "/kæn/",
           "ipa_us": "/kæn/",
+          "audio_uk": "audio/uk/can.mp3",
+          "audio_us": "audio/us/can.mp3",
           "meaning": "cái lon",
           "example": "I have a can.",
           "example_vi": "Mình có một cái lon."
@@ -172,6 +192,8 @@
           "pos": "n",
           "ipa_uk": "/hæt/",
           "ipa_us": "/hæt/",
+          "audio_uk": "audio/uk/hat.mp3",
+          "audio_us": "audio/us/hat.mp3",
           "meaning": "cái mũ",
           "example": "I have a hat.",
           "example_vi": "Mình có một cái mũ."
@@ -207,6 +229,8 @@
           "pos": "n",
           "ipa_uk": "/desk/",
           "ipa_us": "/desk/",
+          "audio_uk": "audio/uk/desk.mp3",
+          "audio_us": "audio/us/desk.mp3",
           "meaning": "cái bàn học",
           "example": "This is a desk.",
           "example_vi": "Đây là cái bàn học."
@@ -216,6 +240,8 @@
           "pos": "n",
           "ipa_uk": "/dɒɡ/",
           "ipa_us": "/dɑːɡ/",
+          "audio_uk": "audio/uk/dog.mp3",
+          "audio_us": "audio/us/dog.mp3",
           "meaning": "con chó",
           "example": "The dog is near the door.",
           "example_vi": "Con chó ở gần cửa ra vào."
@@ -225,6 +251,8 @@
           "pos": "n",
           "ipa_uk": "/dɔː(r)/",
           "ipa_us": "/dɔːr/",
+          "audio_uk": "audio/uk/door.mp3",
+          "audio_us": "audio/us/door.mp3",
           "meaning": "cửa ra vào",
           "example": "This is a door.",
           "example_vi": "Đây là cửa ra vào."
@@ -234,6 +262,8 @@
           "pos": "n",
           "ipa_uk": "/dʌk/",
           "ipa_us": "/dʌk/",
+          "audio_uk": "audio/uk/duck.mp3",
+          "audio_us": "audio/us/duck.mp3",
           "meaning": "con vịt",
           "example": "This is a duck.",
           "example_vi": "Đây là con vịt."
@@ -273,6 +303,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtʃɪkɪn/",
           "ipa_us": "/ˈtʃɪkən/",
+          "audio_uk": "audio/uk/chicken.mp3",
+          "audio_us": "audio/us/chicken.mp3",
           "meaning": "thịt gà",
           "example": "I like chicken.",
           "example_vi": "Mình thích thịt gà."
@@ -282,6 +314,8 @@
           "pos": "n",
           "ipa_uk": "/tʃɪps/",
           "ipa_us": "/tʃɪps/",
+          "audio_uk": "audio/uk/chips.mp3",
+          "audio_us": "audio/us/chips.mp3",
           "meaning": "khoai tây chiên",
           "example": "I like chips.",
           "example_vi": "Mình thích khoai tây chiên."
@@ -291,6 +325,8 @@
           "pos": "n",
           "ipa_uk": "/fɪʃ/",
           "ipa_us": "/fɪʃ/",
+          "audio_uk": "audio/uk/fish.mp3",
+          "audio_us": "audio/us/fish.mp3",
           "meaning": "cá",
           "example": "I like fish.",
           "example_vi": "Mình thích cá."
@@ -300,6 +336,8 @@
           "pos": "n",
           "ipa_uk": "/mɪlk/",
           "ipa_us": "/mɪlk/",
+          "audio_uk": "audio/uk/milk.mp3",
+          "audio_us": "audio/us/milk.mp3",
           "meaning": "sữa",
           "example": "I like milk.",
           "example_vi": "Mình thích sữa."
@@ -335,6 +373,8 @@
           "pos": "n",
           "ipa_uk": "/bel/",
           "ipa_us": "/bel/",
+          "audio_uk": "audio/uk/bell.mp3",
+          "audio_us": "audio/us/bell.mp3",
           "meaning": "cái chuông",
           "example": "This is a red bell.",
           "example_vi": "Đây là một cái chuông màu đỏ."
@@ -344,6 +384,8 @@
           "pos": "n",
           "ipa_uk": "/pen/",
           "ipa_us": "/pen/",
+          "audio_uk": "audio/uk/pen.mp3",
+          "audio_us": "audio/us/pen.mp3",
           "meaning": "bút mực",
           "example": "This is a pen.",
           "example_vi": "Đây là cái bút mực."
@@ -353,6 +395,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpensl/",
           "ipa_us": "/ˈpensəl/",
+          "audio_uk": "audio/uk/pencil.mp3",
+          "audio_us": "audio/us/pencil.mp3",
           "meaning": "bút chì",
           "example": "This is a pencil.",
           "example_vi": "Đây là cái bút chì."
@@ -362,6 +406,8 @@
           "pos": "adj",
           "ipa_uk": "/red/",
           "ipa_us": "/red/",
+          "audio_uk": "audio/uk/red.mp3",
+          "audio_us": "audio/us/red.mp3",
           "meaning": "màu đỏ",
           "example": "The pen is red.",
           "example_vi": "Cái bút có màu đỏ."
@@ -397,6 +443,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɡɑːdn/",
           "ipa_us": "/ˈɡɑːrdən/",
+          "audio_uk": "audio/uk/garden.mp3",
+          "audio_us": "audio/us/garden.mp3",
           "meaning": "khu vườn",
           "example": "There's a garden.",
           "example_vi": "Có một khu vườn."
@@ -406,6 +454,8 @@
           "pos": "n",
           "ipa_uk": "/ɡeɪt/",
           "ipa_us": "/ɡeɪt/",
+          "audio_uk": "audio/uk/gate.mp3",
+          "audio_us": "audio/us/gate.mp3",
           "meaning": "cái cổng",
           "example": "There's a gate.",
           "example_vi": "Có một cái cổng."
@@ -415,6 +465,8 @@
           "pos": "n",
           "ipa_uk": "/ɡɜːl/",
           "ipa_us": "/ɡɝːl/",
+          "audio_uk": "audio/uk/girl.mp3",
+          "audio_us": "audio/us/girl.mp3",
           "meaning": "cô bé, bé gái",
           "example": "There's a girl.",
           "example_vi": "Có một cô bé."
@@ -424,6 +476,8 @@
           "pos": "n",
           "ipa_uk": "/ɡəʊt/",
           "ipa_us": "/ɡoʊt/",
+          "audio_uk": "audio/uk/goat.mp3",
+          "audio_us": "audio/us/goat.mp3",
           "meaning": "con dê",
           "example": "There's a goat.",
           "example_vi": "Có một con dê."
@@ -459,6 +513,8 @@
           "pos": "n",
           "ipa_uk": "/heə(r)/",
           "ipa_us": "/her/",
+          "audio_uk": "audio/uk/hair.mp3",
+          "audio_us": "audio/us/hair.mp3",
           "meaning": "tóc",
           "example": "This is my hair.",
           "example_vi": "Đây là tóc của mình."
@@ -468,6 +524,8 @@
           "pos": "n",
           "ipa_uk": "/hænd/",
           "ipa_us": "/hænd/",
+          "audio_uk": "audio/uk/hand.mp3",
+          "audio_us": "audio/us/hand.mp3",
           "meaning": "bàn tay",
           "example": "This is my hand.",
           "example_vi": "Đây là bàn tay của mình."
@@ -477,6 +535,8 @@
           "pos": "n",
           "ipa_uk": "/hed/",
           "ipa_us": "/hed/",
+          "audio_uk": "audio/uk/head.mp3",
+          "audio_us": "audio/us/head.mp3",
           "meaning": "cái đầu",
           "example": "This is my head.",
           "example_vi": "Đây là cái đầu của mình."
@@ -486,6 +546,8 @@
           "pos": "n",
           "ipa_uk": "/hɔːs/",
           "ipa_us": "/hɔːrs/",
+          "audio_uk": "audio/uk/horse.mp3",
+          "audio_us": "audio/us/horse.mp3",
           "meaning": "con ngựa",
           "example": "This is a horse.",
           "example_vi": "Đây là con ngựa."
@@ -521,6 +583,8 @@
           "pos": "n",
           "ipa_uk": "/klɒks/",
           "ipa_us": "/klɑːks/",
+          "audio_uk": "audio/uk/clocks.mp3",
+          "audio_us": "audio/us/clocks.mp3",
           "meaning": "những chiếc đồng hồ",
           "example": "How many clocks? Two.",
           "example_vi": "Có bao nhiêu cái đồng hồ? Hai cái."
@@ -530,6 +594,8 @@
           "pos": "n",
           "ipa_uk": "/lɒks/",
           "ipa_us": "/lɑːks/",
+          "audio_uk": "audio/uk/locks.mp3",
+          "audio_us": "audio/us/locks.mp3",
           "meaning": "những cái ổ khóa",
           "example": "How many locks? Three.",
           "example_vi": "Có bao nhiêu cái ổ khóa? Ba cái."
@@ -539,6 +605,8 @@
           "pos": "n",
           "ipa_uk": "/mɒps/",
           "ipa_us": "/mɑːps/",
+          "audio_uk": "audio/uk/mops.mp3",
+          "audio_us": "audio/us/mops.mp3",
           "meaning": "những cây lau nhà",
           "example": "How many mops? Four.",
           "example_vi": "Có bao nhiêu cây lau nhà? Bốn cây."
@@ -548,6 +616,8 @@
           "pos": "n",
           "ipa_uk": "/pɒts/",
           "ipa_us": "/pɑːts/",
+          "audio_uk": "audio/uk/pots.mp3",
+          "audio_us": "audio/us/pots.mp3",
           "meaning": "những cái nồi",
           "example": "How many pots? Two.",
           "example_vi": "Có bao nhiêu cái nồi? Hai cái."
@@ -583,6 +653,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmæŋɡəʊ/",
           "ipa_us": "/ˈmæŋɡoʊ/",
+          "audio_uk": "audio/uk/mango.mp3",
+          "audio_us": "audio/us/mango.mp3",
           "meaning": "quả xoài",
           "example": "This is a mango.",
           "example_vi": "Đây là quả xoài."
@@ -592,6 +664,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌŋki/",
           "ipa_us": "/ˈmʌŋki/",
+          "audio_uk": "audio/uk/monkey.mp3",
+          "audio_us": "audio/us/monkey.mp3",
           "meaning": "con khỉ",
           "example": "I can see a monkey.",
           "example_vi": "Mình nhìn thấy một con khỉ."
@@ -601,6 +675,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌðə(r)/",
           "ipa_us": "/ˈmʌðɚ/",
+          "audio_uk": "audio/uk/mother.mp3",
+          "audio_us": "audio/us/mother.mp3",
           "meaning": "mẹ",
           "example": "That's my mother.",
           "example_vi": "Đó là mẹ của mình."
@@ -610,6 +686,8 @@
           "pos": "n",
           "ipa_uk": "/maʊs/",
           "ipa_us": "/maʊs/",
+          "audio_uk": "audio/uk/mouse.mp3",
+          "audio_us": "audio/us/mouse.mp3",
           "meaning": "con chuột",
           "example": "I can see a mouse.",
           "example_vi": "Mình nhìn thấy một con chuột."
@@ -645,6 +723,8 @@
           "pos": "n",
           "ipa_uk": "/bʌs/",
           "ipa_us": "/bʌs/",
+          "audio_uk": "audio/uk/bus.mp3",
+          "audio_us": "audio/us/bus.mp3",
           "meaning": "xe buýt",
           "example": "This is a bus.",
           "example_vi": "Đây là xe buýt."
@@ -654,6 +734,8 @@
           "pos": "v",
           "ipa_uk": "/ˈrʌnɪŋ/",
           "ipa_us": "/ˈrʌnɪŋ/",
+          "audio_uk": "audio/uk/running.mp3",
+          "audio_us": "audio/us/running.mp3",
           "meaning": "đang chạy (run: chạy)",
           "example": "She's running.",
           "example_vi": "Cô ấy đang chạy."
@@ -663,6 +745,8 @@
           "pos": "n",
           "ipa_uk": "/sʌn/",
           "ipa_us": "/sʌn/",
+          "audio_uk": "audio/uk/sun.mp3",
+          "audio_us": "audio/us/sun.mp3",
           "meaning": "mặt trời",
           "example": "This is the sun.",
           "example_vi": "Đây là mặt trời."
@@ -672,6 +756,8 @@
           "pos": "n",
           "ipa_uk": "/trʌk/",
           "ipa_us": "/trʌk/",
+          "audio_uk": "audio/uk/truck.mp3",
+          "audio_us": "audio/us/truck.mp3",
           "meaning": "xe tải",
           "example": "This is a truck.",
           "example_vi": "Đây là xe tải."
@@ -707,6 +793,8 @@
           "pos": "n",
           "ipa_uk": "/leɪk/",
           "ipa_us": "/leɪk/",
+          "audio_uk": "audio/uk/lake.mp3",
+          "audio_us": "audio/us/lake.mp3",
           "meaning": "cái hồ",
           "example": "This is a lake.",
           "example_vi": "Đây là cái hồ."
@@ -716,6 +804,8 @@
           "pos": "n",
           "ipa_uk": "/liːf/",
           "ipa_us": "/liːf/",
+          "audio_uk": "audio/uk/leaf.mp3",
+          "audio_us": "audio/us/leaf.mp3",
           "meaning": "chiếc lá",
           "example": "The leaf is falling.",
           "example_vi": "Chiếc lá đang rơi."
@@ -725,6 +815,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlemənz/",
           "ipa_us": "/ˈlemənz/",
+          "audio_uk": "audio/uk/lemons.mp3",
+          "audio_us": "audio/us/lemons.mp3",
           "meaning": "những quả chanh vàng",
           "example": "Look at the lemons.",
           "example_vi": "Hãy nhìn những quả chanh kìa."
@@ -760,6 +852,8 @@
           "pos": "n",
           "ipa_uk": "/bəˈnɑːnəz/",
           "ipa_us": "/bəˈnænəz/",
+          "audio_uk": "audio/uk/bananas.mp3",
+          "audio_us": "audio/us/bananas.mp3",
           "meaning": "những quả chuối",
           "example": "He's having bananas.",
           "example_vi": "Cậu ấy đang ăn chuối."
@@ -769,6 +863,8 @@
           "pos": "n",
           "ipa_uk": "/ˈnuːdlz/",
           "ipa_us": "/ˈnuːdəlz/",
+          "audio_uk": "audio/uk/noodles.mp3",
+          "audio_us": "audio/us/noodles.mp3",
           "meaning": "mì, bún, phở (sợi)",
           "example": "I like noodles.",
           "example_vi": "Mình thích ăn mì."
@@ -778,6 +874,8 @@
           "pos": "n",
           "ipa_uk": "/nʌts/",
           "ipa_us": "/nʌts/",
+          "audio_uk": "audio/uk/nuts.mp3",
+          "audio_us": "audio/us/nuts.mp3",
           "meaning": "các loại hạt (lạc, điều...)",
           "example": "She's having nuts.",
           "example_vi": "Cô ấy đang ăn các loại hạt."
@@ -813,6 +911,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtedi beə(r)/",
           "ipa_us": "/ˈtedi ber/",
+          "audio_uk": "audio/uk/teddy-bear.mp3",
+          "audio_us": "audio/us/teddy-bear.mp3",
           "meaning": "gấu bông",
           "example": "I have a teddy bear.",
           "example_vi": "Mình có một chú gấu bông."
@@ -822,6 +922,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtaɪɡə(r)/",
           "ipa_us": "/ˈtaɪɡɚ/",
+          "audio_uk": "audio/uk/tiger.mp3",
+          "audio_us": "audio/us/tiger.mp3",
           "meaning": "con hổ",
           "example": "I can see a tiger.",
           "example_vi": "Mình nhìn thấy một con hổ."
@@ -831,6 +933,8 @@
           "pos": "n",
           "ipa_uk": "/tɒp/",
           "ipa_us": "/tɑːp/",
+          "audio_uk": "audio/uk/top.mp3",
+          "audio_us": "audio/us/top.mp3",
           "meaning": "con quay",
           "example": "The top is spinning.",
           "example_vi": "Con quay đang quay."
@@ -840,6 +944,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtɜːtl/",
           "ipa_us": "/ˈtɝːtəl/",
+          "audio_uk": "audio/uk/turtle.mp3",
+          "audio_us": "audio/us/turtle.mp3",
           "meaning": "con rùa",
           "example": "I can see a turtle.",
           "example_vi": "Mình nhìn thấy một con rùa."
@@ -875,6 +981,8 @@
           "pos": "n",
           "ipa_uk": "/feɪs/",
           "ipa_us": "/feɪs/",
+          "audio_uk": "audio/uk/face.mp3",
+          "audio_us": "audio/us/face.mp3",
           "meaning": "khuôn mặt",
           "example": "Point to your face.",
           "example_vi": "Hãy chỉ vào khuôn mặt của em."
@@ -884,6 +992,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːðə(r)/",
           "ipa_us": "/ˈfɑːðɚ/",
+          "audio_uk": "audio/uk/father.mp3",
+          "audio_us": "audio/us/father.mp3",
           "meaning": "bố, cha",
           "example": "This is my father.",
           "example_vi": "Đây là bố của mình."
@@ -893,6 +1003,8 @@
           "pos": "n",
           "ipa_uk": "/fʊt/",
           "ipa_us": "/fʊt/",
+          "audio_uk": "audio/uk/foot.mp3",
+          "audio_us": "audio/us/foot.mp3",
           "meaning": "bàn chân",
           "example": "Point to your foot.",
           "example_vi": "Hãy chỉ vào bàn chân của em."
@@ -902,6 +1014,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfʊtbɔːl/",
           "ipa_us": "/ˈfʊtbɑːl/",
+          "audio_uk": "audio/uk/football.mp3",
+          "audio_us": "audio/us/football.mp3",
           "meaning": "bóng đá; quả bóng đá",
           "example": "I like football.",
           "example_vi": "Mình thích bóng đá."
@@ -937,6 +1051,8 @@
           "pos": "v",
           "ipa_uk": "/wɒʃ/",
           "ipa_us": "/wɑːʃ/",
+          "audio_uk": "audio/uk/wash.mp3",
+          "audio_us": "audio/us/wash.mp3",
           "meaning": "rửa, giặt",
           "example": "Wendy is washing.",
           "example_vi": "Wendy đang rửa tay."
@@ -946,6 +1062,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɔːtə(r)/",
           "ipa_us": "/ˈwɑːtɚ/",
+          "audio_uk": "audio/uk/water.mp3",
+          "audio_us": "audio/us/water.mp3",
           "meaning": "nước",
           "example": "This is water.",
           "example_vi": "Đây là nước."
@@ -955,6 +1073,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɪndəʊ/",
           "ipa_us": "/ˈwɪndoʊ/",
+          "audio_uk": "audio/uk/window.mp3",
+          "audio_us": "audio/us/window.mp3",
           "meaning": "cửa sổ",
           "example": "This is a window.",
           "example_vi": "Đây là cửa sổ."

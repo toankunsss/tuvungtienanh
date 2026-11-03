@@ -263,6 +263,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbenɪfɪt/",
           "ipa_us": "/ˈbenəfɪt/",
+          "audio_uk": "audio/uk/benefit.mp3",
+          "audio_us": "audio/us/benefit.mp3",
           "meaning": "lợi ích",
           "example": "Gardening has many benefits for our health.",
           "example_vi": "Làm vườn có nhiều lợi ích cho sức khỏe của chúng ta."
@@ -272,6 +274,8 @@
           "pos": "n",
           "ipa_uk": "/məˈtʃʊərəti/",
           "ipa_us": "/məˈtʃʊrəti/",
+          "audio_uk": "audio/uk/maturity.mp3",
+          "audio_us": "audio/us/maturity.mp3",
           "meaning": "sự trưởng thành",
           "example": "Looking after plants helps children develop maturity.",
           "example_vi": "Chăm sóc cây giúp trẻ em phát triển sự trưởng thành."
@@ -281,6 +285,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈvæljuəbl/",
           "ipa_us": "/ˈvæljuːbəl/",
+          "audio_uk": "audio/uk/valuable.mp3",
+          "audio_us": "audio/us/valuable.mp3",
           "meaning": "quý giá",
           "example": "Some old coins in his collection are very valuable.",
           "example_vi": "Một vài đồng xu cổ trong bộ sưu tập của anh ấy rất quý giá."
@@ -290,6 +296,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪnsekt/",
           "ipa_us": "/ˈɪnsekt/",
+          "audio_uk": "audio/uk/insect.mp3",
+          "audio_us": "audio/us/insect.mp3",
           "meaning": "côn trùng",
           "example": "My brother likes watching insects in the garden.",
           "example_vi": "Em trai tôi thích ngắm côn trùng trong vườn."
@@ -420,8 +428,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfiːvə(r)/",
           "ipa_us": "/ˈfiːvɚ/",
-          "audio_uk": "audio/uk/fever-n.mp3",
-          "audio_us": "audio/us/fever-n.mp3",
+          "audio_uk": "audio/uk/fever.mp3",
+          "audio_us": "audio/us/fever.mp3",
           "meaning": "sốt",
           "example": "She stayed home because she had a fever.",
           "example_vi": "Cô ấy ở nhà vì bị sốt."
@@ -574,6 +582,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈkʌləd/",
           "ipa_us": "/ˈkʌlɚd/",
+          "audio_uk": "audio/uk/coloured.mp3",
+          "audio_us": "audio/us/coloured.mp3",
           "meaning": "có màu",
           "example": "Eat more coloured vegetables to stay healthy.",
           "example_vi": "Hãy ăn nhiều rau có màu hơn để giữ sức khỏe."
@@ -742,8 +752,8 @@
           "pos": "phr v",
           "ipa_uk": "/pɪk ˈʌp/",
           "ipa_us": "/pɪk ˈʌp/",
-          "audio_uk": "audio/uk/pick-up.mp3",
-          "audio_us": "audio/us/pick-up.mp3",
+          "audio_uk": "audio/uk/pick-up-phr-v.mp3",
+          "audio_us": "audio/us/pick-up-phr-v.mp3",
           "meaning": "nhặt lên",
           "example": "We pick up litter in the park.",
           "example_vi": "Chúng tôi nhặt rác ở công viên."
@@ -808,6 +818,8 @@
           "pos": "v",
           "ipa_uk": "/ɪksˈtʃeɪndʒ/",
           "ipa_us": "/ɪksˈtʃeɪndʒ/",
+          "audio_uk": "audio/uk/exchange.mp3",
+          "audio_us": "audio/us/exchange.mp3",
           "meaning": "trao đổi",
           "example": "Our club exchanges old books for new ones.",
           "example_vi": "Câu lạc bộ của chúng tôi đổi sách cũ lấy sách mới."
@@ -817,6 +829,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈvaɪd/",
           "ipa_us": "/prəˈvaɪd/",
+          "audio_uk": "audio/uk/provide.mp3",
+          "audio_us": "audio/us/provide.mp3",
           "meaning": "cung cấp",
           "example": "Volunteers provide food for homeless people.",
           "example_vi": "Các tình nguyện viên cung cấp thức ăn cho người vô gia cư."
@@ -826,6 +840,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɔːfənɪdʒ/",
           "ipa_us": "/ˈɔːrfənədʒ/",
+          "audio_uk": "audio/uk/orphanage.mp3",
+          "audio_us": "audio/us/orphanage.mp3",
           "meaning": "trại trẻ mồ côi",
           "example": "We visited an orphanage and gave the children books.",
           "example_vi": "Chúng tôi đã thăm một trại trẻ mồ côi và tặng sách cho các em."
@@ -835,6 +851,8 @@
           "pos": "n",
           "ipa_uk": "/ˌrʊərəl ˈeəriə/",
           "ipa_us": "/ˌrʊrəl ˈeriə/",
+          "audio_uk": "audio/uk/rural-area.mp3",
+          "audio_us": "audio/us/rural-area.mp3",
           "meaning": "vùng nông thôn",
           "example": "They taught English to children in rural areas.",
           "example_vi": "Họ dạy tiếng Anh cho trẻ em ở vùng nông thôn."
@@ -844,6 +862,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtiːneɪdʒə(r)/",
           "ipa_us": "/ˈtiːneɪdʒɚ/",
+          "audio_uk": "audio/uk/teenager.mp3",
+          "audio_us": "audio/us/teenager.mp3",
           "meaning": "thanh thiếu niên",
           "example": "Many teenagers do volunteer work in their free time.",
           "example_vi": "Nhiều thanh thiếu niên làm công việc tình nguyện vào thời gian rảnh."
@@ -853,6 +873,8 @@
           "pos": "adj",
           "ipa_uk": "/praʊd/",
           "ipa_us": "/praʊd/",
+          "audio_uk": "audio/uk/proud.mp3",
+          "audio_us": "audio/us/proud.mp3",
           "meaning": "tự hào",
           "example": "We are proud of our community project.",
           "example_vi": "Chúng tôi tự hào về dự án cộng đồng của mình."
@@ -862,6 +884,8 @@
           "pos": "n",
           "ipa_uk": "/kəˈmjuːnəti/",
           "ipa_us": "/kəˈmjuːnəti/",
+          "audio_uk": "audio/uk/community.mp3",
+          "audio_us": "audio/us/community.mp3",
           "meaning": "cộng đồng",
           "example": "Everyone in our community helped clean the park.",
           "example_vi": "Mọi người trong cộng đồng chúng tôi đã giúp dọn dẹp công viên."
@@ -1116,6 +1140,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpɔːtreɪt/",
           "ipa_us": "/ˈpɔːrtrət/",
+          "audio_uk": "audio/uk/portrait.mp3",
+          "audio_us": "audio/us/portrait.mp3",
           "meaning": "bức chân dung",
           "example": "She painted a portrait of her grandmother.",
           "example_vi": "Cô ấy đã vẽ một bức chân dung bà của mình."
@@ -1125,6 +1151,8 @@
           "pos": "v",
           "ipa_uk": "/əˈrɪdʒɪneɪt/",
           "ipa_us": "/əˈrɪdʒəneɪt/",
+          "audio_uk": "audio/uk/originate.mp3",
+          "audio_us": "audio/us/originate.mp3",
           "meaning": "bắt nguồn, khởi nguồn",
           "example": "Water puppetry originated in the Red River Delta.",
           "example_vi": "Múa rối nước bắt nguồn từ đồng bằng sông Hồng."
@@ -1134,6 +1162,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkærəktə(r)/",
           "ipa_us": "/ˈkerɪktɚ/",
+          "audio_uk": "audio/uk/character-n.mp3",
+          "audio_us": "audio/us/character-n.mp3",
           "meaning": "nhân vật",
           "example": "The puppet characters tell stories about village life.",
           "example_vi": "Các nhân vật rối kể những câu chuyện về cuộc sống làng quê."
@@ -1143,6 +1173,8 @@
           "pos": "v",
           "ipa_uk": "/kənˈtrəʊl/",
           "ipa_us": "/kənˈtroʊl/",
+          "audio_uk": "audio/uk/control.mp3",
+          "audio_us": "audio/us/control.mp3",
           "meaning": "điều khiển",
           "example": "The artists control the puppets from behind a screen.",
           "example_vi": "Các nghệ nhân điều khiển con rối từ phía sau tấm mành."
@@ -1397,6 +1429,8 @@
           "pos": "n",
           "ipa_uk": "/ˈresəpi/",
           "ipa_us": "/ˈresəpi/",
+          "audio_uk": "audio/uk/recipe.mp3",
+          "audio_us": "audio/us/recipe.mp3",
           "meaning": "công thức nấu ăn",
           "example": "My mum taught me her recipe for spring rolls.",
           "example_vi": "Mẹ tôi đã dạy tôi công thức làm nem rán của bà."
@@ -1406,6 +1440,8 @@
           "pos": "n",
           "ipa_uk": "/brɒθ/",
           "ipa_us": "/brɑːθ/",
+          "audio_uk": "audio/uk/broth.mp3",
+          "audio_us": "audio/us/broth.mp3",
           "meaning": "nước dùng, nước lèo",
           "example": "The broth of beef noodle soup takes hours to cook.",
           "example_vi": "Nước dùng của phở bò phải nấu trong nhiều giờ."
@@ -1610,6 +1646,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈrɔɪəl/",
           "ipa_us": "/ˈrɔɪəl/",
+          "audio_uk": "audio/uk/royal.mp3",
+          "audio_us": "audio/us/royal.mp3",
           "meaning": "thuộc hoàng gia",
           "example": "Many royal family members studied at the Imperial Academy.",
           "example_vi": "Nhiều thành viên hoàng gia đã học ở Quốc Tử Giám."
@@ -1619,6 +1657,8 @@
           "pos": "n",
           "ipa_uk": "/ˈskɒlə(r)/",
           "ipa_us": "/ˈskɑːlɚ/",
+          "audio_uk": "audio/uk/scholar.mp3",
+          "audio_us": "audio/us/scholar.mp3",
           "meaning": "học giả",
           "example": "Famous scholars taught at the first university in Viet Nam.",
           "example_vi": "Các học giả nổi tiếng đã dạy ở trường đại học đầu tiên của Việt Nam."
@@ -1628,6 +1668,8 @@
           "pos": "v",
           "ipa_uk": "/səˈraʊnd/",
           "ipa_us": "/səˈraʊnd/",
+          "audio_uk": "audio/uk/surround.mp3",
+          "audio_us": "audio/us/surround.mp3",
           "meaning": "bao quanh",
           "example": "Tall trees surround the old school.",
           "example_vi": "Những cây cao bao quanh ngôi trường cũ."
@@ -1870,6 +1912,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsaɪkl leɪn/",
           "ipa_us": "/ˈsaɪkəl leɪn/",
+          "audio_uk": "audio/uk/cycle-lane.mp3",
+          "audio_us": "audio/us/cycle-lane.mp3",
           "meaning": "làn đường xe đạp",
           "example": "You should ride your bike in the cycle lane.",
           "example_vi": "Bạn nên đi xe đạp trong làn đường dành cho xe đạp."
@@ -1879,6 +1923,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪɡnəl/",
           "ipa_us": "/ˈsɪɡnəl/",
+          "audio_uk": "audio/uk/signal.mp3",
+          "audio_us": "audio/us/signal.mp3",
           "meaning": "tín hiệu, dấu hiệu",
           "example": "Always give a signal before you turn left.",
           "example_vi": "Luôn ra tín hiệu trước khi rẽ trái."
@@ -1888,6 +1934,8 @@
           "pos": "n",
           "ipa_uk": "/pleɪn/",
           "ipa_us": "/pleɪn/",
+          "audio_uk": "audio/uk/plane.mp3",
+          "audio_us": "audio/us/plane.mp3",
           "meaning": "máy bay",
           "example": "We went to Da Nang by plane last summer.",
           "example_vi": "Mùa hè năm ngoái chúng tôi đi Đà Nẵng bằng máy bay."
@@ -1897,6 +1945,8 @@
           "pos": "n",
           "ipa_uk": "/bəʊt/",
           "ipa_us": "/boʊt/",
+          "audio_uk": "audio/uk/boat.mp3",
+          "audio_us": "audio/us/boat.mp3",
           "meaning": "thuyền, tàu",
           "example": "People in the Mekong Delta often travel by boat.",
           "example_vi": "Người dân ở đồng bằng sông Cửu Long thường đi lại bằng thuyền."
@@ -2118,6 +2168,8 @@
           "pos": "adj",
           "ipa_uk": "/dʌl/",
           "ipa_us": "/dʌl/",
+          "audio_uk": "audio/uk/dull.mp3",
+          "audio_us": "audio/us/dull.mp3",
           "meaning": "buồn tẻ, chán",
           "example": "The film was so dull that I fell asleep.",
           "example_vi": "Bộ phim chán đến mức tôi ngủ quên."
@@ -2127,6 +2179,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪnˈdʒɔɪəbl/",
           "ipa_us": "/ˌenˈdʒɔɪəbəl/",
+          "audio_uk": "audio/uk/enjoyable.mp3",
+          "audio_us": "audio/us/enjoyable.mp3",
           "meaning": "thú vị, thích thú",
           "example": "We had an enjoyable evening at the cinema.",
           "example_vi": "Chúng tôi đã có một buổi tối thú vị ở rạp chiếu phim."
@@ -2136,6 +2190,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfæntəsi/",
           "ipa_us": "/ˈfæntəsi/",
+          "audio_uk": "audio/uk/fantasy.mp3",
+          "audio_us": "audio/us/fantasy.mp3",
           "meaning": "phim giả tưởng, kỳ ảo",
           "example": "Harry Potter is my favourite fantasy film.",
           "example_vi": "Harry Potter là bộ phim giả tưởng yêu thích của tôi."
@@ -2145,6 +2201,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌst siː/",
           "ipa_us": "/ˈmʌst siː/",
+          "audio_uk": "audio/uk/must-see.mp3",
+          "audio_us": "audio/us/must-see.mp3",
           "meaning": "bộ phim nhất định phải xem",
           "example": "Critics say this new film is a must-see.",
           "example_vi": "Các nhà phê bình nói bộ phim mới này nhất định phải xem."
@@ -2154,6 +2212,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpəʊstə(r)/",
           "ipa_us": "/ˈpoʊstɚ/",
+          "audio_uk": "audio/uk/poster.mp3",
+          "audio_us": "audio/us/poster.mp3",
           "meaning": "áp phích",
           "example": "I saw a poster for the film at school.",
           "example_vi": "Tôi đã thấy áp phích của bộ phim ở trường."
@@ -2163,6 +2223,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈskeəri/",
           "ipa_us": "/ˈskeri/",
+          "audio_uk": "audio/uk/scary.mp3",
+          "audio_us": "audio/us/scary.mp3",
           "meaning": "đáng sợ",
           "example": "The horror film was too scary for my sister.",
           "example_vi": "Bộ phim kinh dị quá đáng sợ đối với em gái tôi."
@@ -2172,6 +2234,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɜːveɪ/",
           "ipa_us": "/ˈsɝːveɪ/",
+          "audio_uk": "audio/uk/survey.mp3",
+          "audio_us": "audio/us/survey.mp3",
           "meaning": "cuộc khảo sát",
           "example": "We did a survey about our classmates' favourite films.",
           "example_vi": "Chúng tôi đã làm khảo sát về những bộ phim yêu thích của các bạn cùng lớp."
@@ -2181,6 +2245,8 @@
           "pos": "n",
           "ipa_uk": "/twɪn/",
           "ipa_us": "/twɪn/",
+          "audio_uk": "audio/uk/twin.mp3",
+          "audio_us": "audio/us/twin.mp3",
           "meaning": "anh/chị/em sinh đôi",
           "example": "The story is about twins who live in different countries.",
           "example_vi": "Câu chuyện kể về cặp sinh đôi sống ở hai quốc gia khác nhau."
@@ -2190,6 +2256,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈvaɪələnt/",
           "ipa_us": "/ˈvaɪələnt/",
+          "audio_uk": "audio/uk/violent.mp3",
+          "audio_us": "audio/us/violent.mp3",
           "meaning": "bạo lực",
           "example": "Children shouldn't watch violent films.",
           "example_vi": "Trẻ em không nên xem phim bạo lực."
@@ -2199,6 +2267,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwɪzəd/",
           "ipa_us": "/ˈwɪzɚd/",
+          "audio_uk": "audio/uk/wizard.mp3",
+          "audio_us": "audio/us/wizard.mp3",
           "meaning": "phù thủy (nam)",
           "example": "Harry Potter is a young wizard at a magic school.",
           "example_vi": "Harry Potter là một phù thủy trẻ ở trường phép thuật."
@@ -2457,6 +2527,8 @@
           "pos": "adj",
           "ipa_uk": "/dʌtʃ/",
           "ipa_us": "/dʌtʃ/",
+          "audio_uk": "audio/uk/dutch.mp3",
+          "audio_us": "audio/us/dutch.mp3",
           "meaning": "thuộc về Hà Lan; người Hà Lan",
           "example": "Dutch people celebrate the Tulip Festival every spring.",
           "example_vi": "Người Hà Lan tổ chức Lễ hội hoa tulip vào mỗi mùa xuân."
@@ -2466,6 +2538,8 @@
           "pos": "n",
           "ipa_uk": "/ðə ˈneðələndz/",
           "ipa_us": "/ðə ˈneðɚləndz/",
+          "audio_uk": "audio/uk/the-netherlands.mp3",
+          "audio_us": "audio/us/the-netherlands.mp3",
           "meaning": "nước Hà Lan",
           "example": "The Netherlands is famous for its tulips and windmills.",
           "example_vi": "Hà Lan nổi tiếng với hoa tulip và cối xay gió."
@@ -2475,6 +2549,8 @@
           "pos": "n",
           "ipa_uk": "/prɒˈsperəti/",
           "ipa_us": "/prɑːˈsperəti/",
+          "audio_uk": "audio/uk/prosperity.mp3",
+          "audio_us": "audio/us/prosperity.mp3",
           "meaning": "sự thịnh vượng",
           "example": "People hope for good luck and prosperity in the new year.",
           "example_vi": "Mọi người mong có may mắn và thịnh vượng trong năm mới."
@@ -2484,6 +2560,8 @@
           "pos": "v",
           "ipa_uk": "/ˈfiːtʃə(r)/",
           "ipa_us": "/ˈfiːtʃɚ/",
+          "audio_uk": "audio/uk/feature.mp3",
+          "audio_us": "audio/us/feature.mp3",
           "meaning": "có, trình diễn đặc biệt",
           "example": "The festival features many colourful floats and music.",
           "example_vi": "Lễ hội có nhiều xe hoa rực rỡ sắc màu và âm nhạc."
@@ -2493,6 +2571,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfaɪəwɜːks dɪspleɪ/",
           "ipa_us": "/ˈfaɪrwɝːks dɪˌspleɪ/",
+          "audio_uk": "audio/uk/fireworks-display.mp3",
+          "audio_us": "audio/us/fireworks-display.mp3",
           "meaning": "màn bắn pháo hoa",
           "example": "We watched a fireworks display on New Year's Eve.",
           "example_vi": "Chúng tôi đã xem màn bắn pháo hoa vào đêm giao thừa."
@@ -2762,6 +2842,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈdjuːs/",
           "ipa_us": "/prəˈduːs/",
+          "audio_uk": "audio/uk/produce.mp3",
+          "audio_us": "audio/us/produce.mp3",
           "meaning": "sản xuất, tạo ra",
           "example": "Solar panels produce electricity from sunlight.",
           "example_vi": "Tấm pin mặt trời tạo ra điện từ ánh sáng mặt trời."
@@ -2771,6 +2853,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈpleɪs/",
           "ipa_us": "/ɚˈpleɪs/",
+          "audio_uk": "audio/uk/replace.mp3",
+          "audio_us": "audio/us/replace.mp3",
           "meaning": "thay thế",
           "example": "We should replace old light bulbs with energy-saving ones.",
           "example_vi": "Chúng ta nên thay bóng đèn cũ bằng bóng đèn tiết kiệm năng lượng."
@@ -2969,6 +3053,8 @@
           "pos": "v",
           "ipa_uk": "/ˈpedl/",
           "ipa_us": "/ˈpedəl/",
+          "audio_uk": "audio/uk/pedal.mp3",
+          "audio_us": "audio/us/pedal.mp3",
           "meaning": "đạp (xe đạp)",
           "example": "You don't need to pedal this electric bike.",
           "example_vi": "Bạn không cần đạp chiếc xe đạp điện này."
@@ -2978,6 +3064,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfʌŋkʃn/",
           "ipa_us": "/ˈfʌŋkʃən/",
+          "audio_uk": "audio/uk/function.mp3",
+          "audio_us": "audio/us/function.mp3",
           "meaning": "chức năng",
           "example": "This flying car has an autopilot function.",
           "example_vi": "Chiếc ô tô bay này có chức năng lái tự động."
@@ -3230,6 +3318,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkəʊstlaɪn/",
           "ipa_us": "/ˈkoʊstlaɪn/",
+          "audio_uk": "audio/uk/coastline.mp3",
+          "audio_us": "audio/us/coastline.mp3",
           "meaning": "đường bờ biển",
           "example": "Australia has a very long and beautiful coastline.",
           "example_vi": "Úc có đường bờ biển rất dài và đẹp."
@@ -3239,6 +3329,8 @@
           "pos": "n",
           "ipa_uk": "/ˈaɪlənd ˈkʌntri/",
           "ipa_us": "/ˈaɪlənd ˈkʌntri/",
+          "audio_uk": "audio/uk/island-country.mp3",
+          "audio_us": "audio/us/island-country.mp3",
           "meaning": "đảo quốc",
           "example": "New Zealand is an island country in the Pacific Ocean.",
           "example_vi": "New Zealand là một đảo quốc ở Thái Bình Dương."
@@ -3248,6 +3340,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlændskeɪp/",
           "ipa_us": "/ˈlændskeɪp/",
+          "audio_uk": "audio/uk/landscape.mp3",
+          "audio_us": "audio/us/landscape.mp3",
           "meaning": "phong cảnh",
           "example": "Scotland is famous for its green landscape.",
           "example_vi": "Scotland nổi tiếng với phong cảnh xanh tươi."
@@ -3257,6 +3351,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtaʊə(r)/",
           "ipa_us": "/ˈtaʊɚ/",
+          "audio_uk": "audio/uk/tower.mp3",
+          "audio_us": "audio/us/tower.mp3",
           "meaning": "tháp",
           "example": "We visited the Tower of London last summer.",
           "example_vi": "Mùa hè năm ngoái chúng tôi đã tham quan Tháp London."
@@ -3266,6 +3362,8 @@
           "pos": "adj",
           "ipa_uk": "/hɪˈstɒrɪk/",
           "ipa_us": "/hɪˈstɔːrɪk/",
+          "audio_uk": "audio/uk/historic.mp3",
+          "audio_us": "audio/us/historic.mp3",
           "meaning": "có tính lịch sử, cổ kính",
           "example": "Edinburgh has many historic buildings and castles.",
           "example_vi": "Edinburgh có nhiều công trình và lâu đài cổ kính."
@@ -3275,6 +3373,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈneɪtɪv/",
           "ipa_us": "/ˈneɪtɪv/",
+          "audio_uk": "audio/uk/native.mp3",
+          "audio_us": "audio/us/native.mp3",
           "meaning": "bản xứ, bản địa",
           "example": "English is the native language of most Americans.",
           "example_vi": "Tiếng Anh là tiếng mẹ đẻ của hầu hết người Mỹ."

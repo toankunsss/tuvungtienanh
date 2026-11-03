@@ -122,27 +122,36 @@ def agrees(engine: str, ours: str, multiword: bool) -> bool:
 
 
 def collect() -> dict:
-    """slug -> {word, ipa_uk, ipa_us}; the same word with a different IPA gets a pos suffix."""
+    """slug -> {word, ipa_uk, ipa_us}. The same word with a different pronunciation gets
+    a suffixed slug (word-pos, word-pos-2, ...)."""
     entries: dict[str, dict] = {}
     for path in sorted(DATA.glob("grade-*.json")):
         for unit in json.loads(path.read_text(encoding="utf-8"))["units"]:
             for w in unit["words"]:
-                slug = slugify(w["word"])
-                cur = entries.get(slug)
-                if cur and (cur["ipa_uk"], cur["ipa_us"]) != (w["ipa_uk"], w["ipa_us"]) \
-                        and cur["word"] == w["word"]:
-                    slug = f"{slug}-{slugify(w['pos'])}"
+                for slug in candidate_slugs(w):
                     cur = entries.get(slug)
-                if cur is None:
-                    entries[slug] = {"word": w["word"], "ipa_uk": w["ipa_uk"], "ipa_us": w["ipa_us"]}
+                    if cur is None:
+                        entries[slug] = {"word": w["word"], "ipa_uk": w["ipa_uk"], "ipa_us": w["ipa_us"]}
+                        break
+                    if (cur["word"], cur["ipa_uk"], cur["ipa_us"]) == (w["word"], w["ipa_uk"], w["ipa_us"]):
+                        break
     return entries
 
 
-def slug_for(entries: dict, w: dict) -> str:
+def candidate_slugs(w: dict):
     base = slugify(w["word"])
-    for slug in (base, f"{base}-{slugify(w['pos'])}"):
+    yield base
+    yield f"{base}-{slugify(w['pos'])}"
+    for i in range(2, 50):
+        yield f"{base}-{slugify(w['pos'])}-{i}"
+
+
+def slug_for(entries: dict, w: dict) -> str:
+    for slug in candidate_slugs(w):
         e = entries.get(slug)
-        if e and (e["ipa_uk"], e["ipa_us"]) == (w["ipa_uk"], w["ipa_us"]):
+        if e is None:
+            break
+        if (e["word"], e["ipa_uk"], e["ipa_us"]) == (w["word"], w["ipa_uk"], w["ipa_us"]):
             return slug
     raise KeyError(w["word"])
 

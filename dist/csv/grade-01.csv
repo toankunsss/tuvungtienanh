@@ -1,84 +1,61 @@
 ﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
-1,1,In the school playground,sourced,ball,n,/bɔːl/,/bɑːl/,audio/uk/ball.mp3,audio/us/ball.mp3,quả bóng,This is a ball.,Đây là quả bóng.
-1,1,In the school playground,sourced,bike,n,/baɪk/,/baɪk/,audio/uk/bike.mp3,audio/us/bike.mp3,xe đạp,This is a bike.,Đây là chiếc xe đạp.
-1,1,In the school playground,sourced,book,n,/bʊk/,/bʊk/,audio/uk/book.mp3,audio/us/book.mp3,quyển sách,This is a book.,Đây là quyển sách.
-1,1,In the school playground,sourced,school playground,n,/ˌskuːl ˈpleɪɡraʊnd/,/ˌskuːl ˈpleɪɡraʊnd/,audio/uk/school-playground.mp3,audio/us/school-playground.mp3,sân chơi trường học,We are in the school playground.,Chúng mình đang ở sân chơi của trường.
-1,2,In the dining room,sourced,cake,n,/keɪk/,/keɪk/,audio/uk/cake.mp3,audio/us/cake.mp3,bánh ngọt,I have a cake.,Mình có một cái bánh ngọt.
-1,2,In the dining room,sourced,car,n,/kɑː(r)/,/kɑːr/,audio/uk/car.mp3,audio/us/car.mp3,ô tô,I have a car.,Mình có một chiếc ô tô.
-1,2,In the dining room,sourced,cat,n,/kæt/,/kæt/,audio/uk/cat.mp3,audio/us/cat.mp3,con mèo,I have a cat.,Mình có một con mèo.
-1,2,In the dining room,sourced,cup,n,/kʌp/,/kʌp/,audio/uk/cup.mp3,audio/us/cup.mp3,"cái cốc, cái tách",I have a cup.,Mình có một cái cốc.
-1,2,In the dining room,sourced,dining room,n,/ˈdaɪnɪŋ ruːm/,/ˈdaɪnɪŋ ruːm/,audio/uk/dining-room.mp3,audio/us/dining-room.mp3,phòng ăn,This is the dining room.,Đây là phòng ăn.
-1,2,In the dining room,sourced,have,v,/hæv/,/hæv/,audio/uk/have.mp3,audio/us/have.mp3,có,I have a cat.,Mình có một con mèo.
-1,3,At the street market,sourced,apple,n,/ˈæpl/,/ˈæpəl/,audio/uk/apple.mp3,audio/us/apple.mp3,quả táo,I have an apple.,Mình có một quả táo.
-1,3,At the street market,sourced,bag,n,/bæɡ/,/bæɡ/,audio/uk/bag.mp3,audio/us/bag.mp3,"cái túi, cái cặp",I have a bag.,Mình có một cái túi.
-1,3,At the street market,sourced,can,n,/kæn/,/kæn/,audio/uk/can.mp3,audio/us/can.mp3,cái lon,I have a can.,Mình có một cái lon.
-1,3,At the street market,sourced,hat,n,/hæt/,/hæt/,audio/uk/hat.mp3,audio/us/hat.mp3,cái mũ,I have a hat.,Mình có một cái mũ.
-1,3,At the street market,sourced,street market,n,/ˌstriːt ˈmɑːkɪt/,/ˌstriːt ˈmɑːrkɪt/,audio/uk/street-market.mp3,audio/us/street-market.mp3,chợ đường phố,We are at the street market.,Chúng mình đang ở chợ đường phố.
-1,4,In the bedroom,sourced,bedroom,n,/ˈbedruːm/,/ˈbedruːm/,audio/uk/bedroom.mp3,audio/us/bedroom.mp3,phòng ngủ,This is my bedroom.,Đây là phòng ngủ của mình.
-1,4,In the bedroom,sourced,desk,n,/desk/,/desk/,audio/uk/desk.mp3,audio/us/desk.mp3,cái bàn học,This is a desk.,Đây là cái bàn học.
-1,4,In the bedroom,sourced,dog,n,/dɒɡ/,/dɑːɡ/,audio/uk/dog.mp3,audio/us/dog.mp3,con chó,The dog is near the door.,Con chó ở gần cửa ra vào.
-1,4,In the bedroom,sourced,door,n,/dɔː(r)/,/dɔːr/,audio/uk/door.mp3,audio/us/door.mp3,cửa ra vào,This is a door.,Đây là cửa ra vào.
-1,4,In the bedroom,sourced,duck,n,/dʌk/,/dʌk/,audio/uk/duck.mp3,audio/us/duck.mp3,con vịt,This is a duck.,Đây là con vịt.
-1,4,In the bedroom,sourced,near,prep,/nɪə(r)/,/nɪr/,audio/uk/near.mp3,audio/us/near.mp3,"gần, ở gần",The duck is near the desk.,Con vịt ở gần cái bàn học.
-1,5,At the fish and chip shop,sourced,chicken,n,/ˈtʃɪkɪn/,/ˈtʃɪkən/,audio/uk/chicken.mp3,audio/us/chicken.mp3,thịt gà,I like chicken.,Mình thích thịt gà.
-1,5,At the fish and chip shop,sourced,chips,n,/tʃɪps/,/tʃɪps/,audio/uk/chips.mp3,audio/us/chips.mp3,khoai tây chiên,I like chips.,Mình thích khoai tây chiên.
-1,5,At the fish and chip shop,sourced,fish,n,/fɪʃ/,/fɪʃ/,audio/uk/fish.mp3,audio/us/fish.mp3,cá,I like fish.,Mình thích cá.
-1,5,At the fish and chip shop,sourced,milk,n,/mɪlk/,/mɪlk/,audio/uk/milk.mp3,audio/us/milk.mp3,sữa,I like milk.,Mình thích sữa.
-1,5,At the fish and chip shop,sourced,fish and chips,n,/ˌfɪʃ ən ˈtʃɪps/,/ˌfɪʃ ənd ˈtʃɪps/,audio/uk/fish-and-chips.mp3,audio/us/fish-and-chips.mp3,cá và khoai tây chiên,I like fish and chips.,Mình thích món cá và khoai tây chiên.
-1,5,At the fish and chip shop,sourced,shop,n,/ʃɒp/,/ʃɑːp/,audio/uk/shop.mp3,audio/us/shop.mp3,cửa hàng,This is a fish and chip shop.,Đây là cửa hàng bán cá và khoai tây chiên.
-1,5,At the fish and chip shop,sourced,like,v,/laɪk/,/laɪk/,audio/uk/like.mp3,audio/us/like.mp3,thích,I like milk.,Mình thích sữa.
-1,6,In the classroom,sourced,bell,n,/bel/,/bel/,audio/uk/bell.mp3,audio/us/bell.mp3,cái chuông,This is a red bell.,Đây là một cái chuông màu đỏ.
-1,6,In the classroom,sourced,pen,n,/pen/,/pen/,audio/uk/pen.mp3,audio/us/pen.mp3,bút mực,This is a pen.,Đây là cái bút mực.
-1,6,In the classroom,sourced,pencil,n,/ˈpensl/,/ˈpensəl/,audio/uk/pencil.mp3,audio/us/pencil.mp3,bút chì,This is a pencil.,Đây là cái bút chì.
-1,6,In the classroom,sourced,red,adj,/red/,/red/,audio/uk/red.mp3,audio/us/red.mp3,màu đỏ,The pen is red.,Cái bút có màu đỏ.
-1,6,In the classroom,sourced,board,n,/bɔːd/,/bɔːrd/,audio/uk/board.mp3,audio/us/board.mp3,cái bảng,Look at the board.,Hãy nhìn lên bảng.
-1,6,In the classroom,sourced,classroom,n,/ˈklɑːsruːm/,/ˈklæsruːm/,audio/uk/classroom.mp3,audio/us/classroom.mp3,lớp học,This is my classroom.,Đây là lớp học của mình.
-1,6,In the classroom,sourced,drawing,n,/ˈdrɔːɪŋ/,/ˈdrɑːɪŋ/,audio/uk/drawing.mp3,audio/us/drawing.mp3,"bức vẽ, tranh vẽ",This is my drawing.,Đây là bức vẽ của mình.
-1,7,In the garden,sourced,garden,n,/ˈɡɑːdn/,/ˈɡɑːrdən/,audio/uk/garden.mp3,audio/us/garden.mp3,khu vườn,There's a garden.,Có một khu vườn.
-1,7,In the garden,sourced,gate,n,/ɡeɪt/,/ɡeɪt/,audio/uk/gate.mp3,audio/us/gate.mp3,cái cổng,There's a gate.,Có một cái cổng.
-1,7,In the garden,sourced,girl,n,/ɡɜːl/,/ɡɝːl/,audio/uk/girl.mp3,audio/us/girl.mp3,"cô bé, bé gái",There's a girl.,Có một cô bé.
-1,7,In the garden,sourced,goat,n,/ɡəʊt/,/ɡoʊt/,audio/uk/goat.mp3,audio/us/goat.mp3,con dê,There's a goat.,Có một con dê.
-1,7,In the garden,sourced,there is,phr,/ðeər ɪz/,/ðer ɪz/,audio/uk/there-is.mp3,audio/us/there-is.mp3,có (một cái gì đó ở đâu),There's a gate.,Có một cái cổng.
-1,8,In the park,sourced,hair,n,/heə(r)/,/her/,audio/uk/hair.mp3,audio/us/hair.mp3,tóc,This is my hair.,Đây là tóc của mình.
-1,8,In the park,sourced,hand,n,/hænd/,/hænd/,audio/uk/hand.mp3,audio/us/hand.mp3,bàn tay,This is my hand.,Đây là bàn tay của mình.
-1,8,In the park,sourced,head,n,/hed/,/hed/,audio/uk/head.mp3,audio/us/head.mp3,cái đầu,This is my head.,Đây là cái đầu của mình.
-1,8,In the park,sourced,horse,n,/hɔːs/,/hɔːrs/,audio/uk/horse.mp3,audio/us/horse.mp3,con ngựa,This is a horse.,Đây là con ngựa.
-1,9,In the shop,sourced,clock,n,/klɒk/,/klɑːk/,audio/uk/clock.mp3,audio/us/clock.mp3,đồng hồ (treo tường),This is a clock.,Đây là cái đồng hồ.
-1,9,In the shop,sourced,lock,n,/lɒk/,/lɑːk/,audio/uk/lock.mp3,audio/us/lock.mp3,ổ khóa,This is a lock.,Đây là cái ổ khóa.
-1,9,In the shop,sourced,mop,n,/mɒp/,/mɑːp/,audio/uk/mop.mp3,audio/us/mop.mp3,cây lau nhà,This is a mop.,Đây là cây lau nhà.
-1,9,In the shop,sourced,pot,n,/pɒt/,/pɑːt/,audio/uk/pot.mp3,audio/us/pot.mp3,cái nồi,This is my pot.,Đây là cái nồi của mình.
-1,9,In the shop,sourced,shop,n,/ʃɒp/,/ʃɑːp/,audio/uk/shop.mp3,audio/us/shop.mp3,cửa hàng,We are in the shop.,Chúng mình đang ở trong cửa hàng.
-1,10,At the zoo,sourced,mango,n,/ˈmæŋɡəʊ/,/ˈmæŋɡoʊ/,audio/uk/mango.mp3,audio/us/mango.mp3,quả xoài,This is a mango.,Đây là quả xoài.
-1,10,At the zoo,sourced,monkey,n,/ˈmʌŋki/,/ˈmʌŋki/,audio/uk/monkey.mp3,audio/us/monkey.mp3,con khỉ,I can see a monkey.,Mình nhìn thấy một con khỉ.
-1,10,At the zoo,sourced,mouse,n,/maʊs/,/maʊs/,audio/uk/mouse.mp3,audio/us/mouse.mp3,con chuột,I can see a mouse.,Mình nhìn thấy một con chuột.
-1,10,At the zoo,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,We are at the zoo.,Chúng mình đang ở vườn thú.
-1,11,At the bus stop,sourced,bus,n,/bʌs/,/bʌs/,audio/uk/bus.mp3,audio/us/bus.mp3,xe buýt,This is a bus.,Đây là xe buýt.
-1,11,At the bus stop,sourced,run,v,/rʌn/,/rʌn/,audio/uk/run.mp3,audio/us/run.mp3,chạy,The boy is running.,Cậu bé đang chạy.
-1,11,At the bus stop,sourced,sun,n,/sʌn/,/sʌn/,audio/uk/sun.mp3,audio/us/sun.mp3,mặt trời,This is the sun.,Đây là mặt trời.
-1,11,At the bus stop,sourced,truck,n,/trʌk/,/trʌk/,audio/uk/truck.mp3,audio/us/truck.mp3,xe tải,This is a truck.,Đây là xe tải.
-1,11,At the bus stop,sourced,bus stop,n,/ˈbʌs stɒp/,/ˈbʌs stɑːp/,audio/uk/bus-stop.mp3,audio/us/bus-stop.mp3,trạm dừng xe buýt,We are at the bus stop.,Chúng mình đang ở trạm xe buýt.
-1,11,At the bus stop,sourced,boy,n,/bɔɪ/,/bɔɪ/,audio/uk/boy.mp3,audio/us/boy.mp3,"cậu bé, bé trai",The boy is running.,Cậu bé đang chạy.
-1,11,At the bus stop,sourced,move,v,/muːv/,/muːv/,audio/uk/move.mp3,audio/us/move.mp3,"chuyển động, di chuyển",The bus is moving.,Xe buýt đang chạy.
-1,12,At the lake,sourced,lake,n,/leɪk/,/leɪk/,audio/uk/lake.mp3,audio/us/lake.mp3,cái hồ,This is a lake.,Đây là cái hồ.
-1,12,At the lake,sourced,leaf,n,/liːf/,/liːf/,audio/uk/leaf.mp3,audio/us/leaf.mp3,chiếc lá,The leaf is falling.,Chiếc lá đang rơi.
-1,12,At the lake,sourced,lemon,n,/ˈlemən/,/ˈlemən/,audio/uk/lemon.mp3,audio/us/lemon.mp3,quả chanh vàng,This is a lemon.,Đây là quả chanh vàng.
-1,12,At the lake,sourced,fall,v,/fɔːl/,/fɑːl/,audio/uk/fall.mp3,audio/us/fall.mp3,rơi,The leaves are falling.,Những chiếc lá đang rơi.
-1,13,In the school canteen,sourced,canteen,n,/kænˈtiːn/,/kænˈtiːn/,audio/uk/canteen.mp3,audio/us/canteen.mp3,"căng tin, nhà ăn",We are in the school canteen.,Chúng mình đang ở căng tin của trường.
-1,13,In the school canteen,sourced,banana,n,/bəˈnɑːnə/,/bəˈnænə/,audio/uk/banana.mp3,audio/us/banana.mp3,quả chuối,I like bananas.,Mình thích chuối.
-1,13,In the school canteen,sourced,noodles,n,/ˈnuːdlz/,/ˈnuːdəlz/,audio/uk/noodles.mp3,audio/us/noodles.mp3,"mì, bún, phở (sợi)",I like noodles.,Mình thích ăn mì.
-1,13,In the school canteen,sourced,nut,n,/nʌt/,/nʌt/,audio/uk/nut.mp3,audio/us/nut.mp3,"hạt (lạc, điều...)",I like nuts.,Mình thích ăn các loại hạt.
-1,14,In the toy shop,sourced,teddy bear,n,/ˈtedi beə(r)/,/ˈtedi ber/,audio/uk/teddy-bear.mp3,audio/us/teddy-bear.mp3,gấu bông,I have a teddy bear.,Mình có một chú gấu bông.
-1,14,In the toy shop,sourced,tiger,n,/ˈtaɪɡə(r)/,/ˈtaɪɡɚ/,audio/uk/tiger.mp3,audio/us/tiger.mp3,con hổ (đồ chơi),I can see a tiger.,Mình nhìn thấy một con hổ.
-1,14,In the toy shop,sourced,top,n,/tɒp/,/tɑːp/,audio/uk/top.mp3,audio/us/top.mp3,con quay,The top is spinning.,Con quay đang quay.
-1,14,In the toy shop,sourced,toy shop,n,/ˈtɔɪ ʃɒp/,/ˈtɔɪ ʃɑːp/,audio/uk/toy-shop.mp3,audio/us/toy-shop.mp3,cửa hàng đồ chơi,We are in the toy shop.,Chúng mình đang ở cửa hàng đồ chơi.
-1,15,At the football match,sourced,face,n,/feɪs/,/feɪs/,audio/uk/face.mp3,audio/us/face.mp3,khuôn mặt,Point to your face.,Hãy chỉ vào khuôn mặt của em.
-1,15,At the football match,sourced,father,n,/ˈfɑːðə(r)/,/ˈfɑːðɚ/,audio/uk/father.mp3,audio/us/father.mp3,"bố, cha",This is my father.,Đây là bố của mình.
-1,15,At the football match,sourced,foot,n,/fʊt/,/fʊt/,audio/uk/foot.mp3,audio/us/foot.mp3,bàn chân,Point to your foot.,Hãy chỉ vào bàn chân của em.
-1,15,At the football match,sourced,football,n,/ˈfʊtbɔːl/,/ˈfʊtbɑːl/,audio/uk/football.mp3,audio/us/football.mp3,bóng đá; quả bóng đá,I like football.,Mình thích bóng đá.
-1,15,At the football match,sourced,match,n,/mætʃ/,/mætʃ/,audio/uk/match.mp3,audio/us/match.mp3,trận đấu,We watch a football match.,Chúng mình xem một trận bóng đá.
-1,15,At the football match,sourced,point,v,/pɔɪnt/,/pɔɪnt/,audio/uk/point.mp3,audio/us/point.mp3,chỉ (vào),Point to your face.,Hãy chỉ vào khuôn mặt của em.
-1,15,At the football match,sourced,watch,v,/wɒtʃ/,/wɑːtʃ/,audio/uk/watch.mp3,audio/us/watch.mp3,xem,We watch football.,Chúng mình xem bóng đá.
-1,16,At home,sourced,home,n,/həʊm/,/hoʊm/,audio/uk/home.mp3,audio/us/home.mp3,nhà,We are at home.,Chúng mình đang ở nhà.
-1,16,At home,sourced,wash,v,/wɒʃ/,/wɑːʃ/,audio/uk/wash.mp3,audio/us/wash.mp3,"rửa, giặt",Wendy is washing.,Wendy đang rửa tay.
-1,16,At home,sourced,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,audio/uk/water.mp3,audio/us/water.mp3,nước,This is water.,Đây là nước.
-1,16,At home,sourced,window,n,/ˈwɪndəʊ/,/ˈwɪndoʊ/,audio/uk/window.mp3,audio/us/window.mp3,cửa sổ,This is a window.,Đây là cửa sổ.
+1,1,In the school playground,official,ball,n,/bɔːl/,/bɑːl/,audio/uk/ball.mp3,audio/us/ball.mp3,quả bóng,This is a ball.,Đây là quả bóng.
+1,1,In the school playground,official,bike,n,/baɪk/,/baɪk/,audio/uk/bike.mp3,audio/us/bike.mp3,xe đạp,This is a bike.,Đây là chiếc xe đạp.
+1,1,In the school playground,official,book,n,/bʊk/,/bʊk/,audio/uk/book.mp3,audio/us/book.mp3,quyển sách,This is a book.,Đây là quyển sách.
+1,2,In the dining room,official,cake,n,/keɪk/,/keɪk/,audio/uk/cake.mp3,audio/us/cake.mp3,bánh ngọt,I have a cake.,Mình có một cái bánh ngọt.
+1,2,In the dining room,official,car,n,/kɑː(r)/,/kɑːr/,audio/uk/car.mp3,audio/us/car.mp3,ô tô,I have a car.,Mình có một chiếc ô tô.
+1,2,In the dining room,official,cat,n,/kæt/,/kæt/,audio/uk/cat.mp3,audio/us/cat.mp3,con mèo,I have a cat.,Mình có một con mèo.
+1,2,In the dining room,official,cup,n,/kʌp/,/kʌp/,audio/uk/cup.mp3,audio/us/cup.mp3,"cái cốc, cái tách",I have a cup.,Mình có một cái cốc.
+1,3,At the street market,official,apple,n,/ˈæpl/,/ˈæpəl/,audio/uk/apple.mp3,audio/us/apple.mp3,quả táo,I have an apple.,Mình có một quả táo.
+1,3,At the street market,official,bag,n,/bæɡ/,/bæɡ/,audio/uk/bag.mp3,audio/us/bag.mp3,"cái túi, cái cặp",I have a bag.,Mình có một cái túi.
+1,3,At the street market,official,can,n,/kæn/,/kæn/,audio/uk/can.mp3,audio/us/can.mp3,cái lon,I have a can.,Mình có một cái lon.
+1,3,At the street market,official,hat,n,/hæt/,/hæt/,audio/uk/hat.mp3,audio/us/hat.mp3,cái mũ,I have a hat.,Mình có một cái mũ.
+1,4,In the bedroom,official,desk,n,/desk/,/desk/,audio/uk/desk.mp3,audio/us/desk.mp3,cái bàn học,This is a desk.,Đây là cái bàn học.
+1,4,In the bedroom,official,dog,n,/dɒɡ/,/dɑːɡ/,audio/uk/dog.mp3,audio/us/dog.mp3,con chó,The dog is near the door.,Con chó ở gần cửa ra vào.
+1,4,In the bedroom,official,door,n,/dɔː(r)/,/dɔːr/,audio/uk/door.mp3,audio/us/door.mp3,cửa ra vào,This is a door.,Đây là cửa ra vào.
+1,4,In the bedroom,official,duck,n,/dʌk/,/dʌk/,audio/uk/duck.mp3,audio/us/duck.mp3,con vịt,This is a duck.,Đây là con vịt.
+1,5,At the fish and chip shop,official,chicken,n,/ˈtʃɪkɪn/,/ˈtʃɪkən/,audio/uk/chicken.mp3,audio/us/chicken.mp3,thịt gà,I like chicken.,Mình thích thịt gà.
+1,5,At the fish and chip shop,official,chips,n,/tʃɪps/,/tʃɪps/,audio/uk/chips.mp3,audio/us/chips.mp3,khoai tây chiên,I like chips.,Mình thích khoai tây chiên.
+1,5,At the fish and chip shop,official,fish,n,/fɪʃ/,/fɪʃ/,audio/uk/fish.mp3,audio/us/fish.mp3,cá,I like fish.,Mình thích cá.
+1,5,At the fish and chip shop,official,milk,n,/mɪlk/,/mɪlk/,audio/uk/milk.mp3,audio/us/milk.mp3,sữa,I like milk.,Mình thích sữa.
+1,6,In the classroom,official,bell,n,/bel/,/bel/,audio/uk/bell.mp3,audio/us/bell.mp3,cái chuông,This is a red bell.,Đây là một cái chuông màu đỏ.
+1,6,In the classroom,official,pen,n,/pen/,/pen/,audio/uk/pen.mp3,audio/us/pen.mp3,bút mực,This is a pen.,Đây là cái bút mực.
+1,6,In the classroom,official,pencil,n,/ˈpensl/,/ˈpensəl/,audio/uk/pencil.mp3,audio/us/pencil.mp3,bút chì,This is a pencil.,Đây là cái bút chì.
+1,6,In the classroom,official,red,adj,/red/,/red/,audio/uk/red.mp3,audio/us/red.mp3,màu đỏ,The pen is red.,Cái bút có màu đỏ.
+1,7,In the garden,official,garden,n,/ˈɡɑːdn/,/ˈɡɑːrdən/,audio/uk/garden.mp3,audio/us/garden.mp3,khu vườn,There's a garden.,Có một khu vườn.
+1,7,In the garden,official,gate,n,/ɡeɪt/,/ɡeɪt/,audio/uk/gate.mp3,audio/us/gate.mp3,cái cổng,There's a gate.,Có một cái cổng.
+1,7,In the garden,official,girl,n,/ɡɜːl/,/ɡɝːl/,audio/uk/girl.mp3,audio/us/girl.mp3,"cô bé, bé gái",There's a girl.,Có một cô bé.
+1,7,In the garden,official,goat,n,/ɡəʊt/,/ɡoʊt/,audio/uk/goat.mp3,audio/us/goat.mp3,con dê,There's a goat.,Có một con dê.
+1,8,In the park,official,hair,n,/heə(r)/,/her/,audio/uk/hair.mp3,audio/us/hair.mp3,tóc,This is my hair.,Đây là tóc của mình.
+1,8,In the park,official,hand,n,/hænd/,/hænd/,audio/uk/hand.mp3,audio/us/hand.mp3,bàn tay,This is my hand.,Đây là bàn tay của mình.
+1,8,In the park,official,head,n,/hed/,/hed/,audio/uk/head.mp3,audio/us/head.mp3,cái đầu,This is my head.,Đây là cái đầu của mình.
+1,8,In the park,official,horse,n,/hɔːs/,/hɔːrs/,audio/uk/horse.mp3,audio/us/horse.mp3,con ngựa,This is a horse.,Đây là con ngựa.
+1,9,In the shop,official,clocks,n,/klɒks/,/klɑːks/,audio/uk/clocks.mp3,audio/us/clocks.mp3,những chiếc đồng hồ,How many clocks? Two.,Có bao nhiêu cái đồng hồ? Hai cái.
+1,9,In the shop,official,locks,n,/lɒks/,/lɑːks/,audio/uk/locks.mp3,audio/us/locks.mp3,những cái ổ khóa,How many locks? Three.,Có bao nhiêu cái ổ khóa? Ba cái.
+1,9,In the shop,official,mops,n,/mɒps/,/mɑːps/,audio/uk/mops.mp3,audio/us/mops.mp3,những cây lau nhà,How many mops? Four.,Có bao nhiêu cây lau nhà? Bốn cây.
+1,9,In the shop,official,pots,n,/pɒts/,/pɑːts/,audio/uk/pots.mp3,audio/us/pots.mp3,những cái nồi,How many pots? Two.,Có bao nhiêu cái nồi? Hai cái.
+1,10,At the zoo,official,mango,n,/ˈmæŋɡəʊ/,/ˈmæŋɡoʊ/,audio/uk/mango.mp3,audio/us/mango.mp3,quả xoài,This is a mango.,Đây là quả xoài.
+1,10,At the zoo,official,monkey,n,/ˈmʌŋki/,/ˈmʌŋki/,audio/uk/monkey.mp3,audio/us/monkey.mp3,con khỉ,I can see a monkey.,Mình nhìn thấy một con khỉ.
+1,10,At the zoo,official,mother,n,/ˈmʌðə(r)/,/ˈmʌðɚ/,audio/uk/mother.mp3,audio/us/mother.mp3,mẹ,That's my mother.,Đó là mẹ của mình.
+1,10,At the zoo,official,mouse,n,/maʊs/,/maʊs/,audio/uk/mouse.mp3,audio/us/mouse.mp3,con chuột,I can see a mouse.,Mình nhìn thấy một con chuột.
+1,11,At the bus stop,official,bus,n,/bʌs/,/bʌs/,audio/uk/bus.mp3,audio/us/bus.mp3,xe buýt,This is a bus.,Đây là xe buýt.
+1,11,At the bus stop,official,running,v,/ˈrʌnɪŋ/,/ˈrʌnɪŋ/,audio/uk/running.mp3,audio/us/running.mp3,đang chạy (run: chạy),She's running.,Cô ấy đang chạy.
+1,11,At the bus stop,official,sun,n,/sʌn/,/sʌn/,audio/uk/sun.mp3,audio/us/sun.mp3,mặt trời,This is the sun.,Đây là mặt trời.
+1,11,At the bus stop,official,truck,n,/trʌk/,/trʌk/,audio/uk/truck.mp3,audio/us/truck.mp3,xe tải,This is a truck.,Đây là xe tải.
+1,12,At the lake,official,lake,n,/leɪk/,/leɪk/,audio/uk/lake.mp3,audio/us/lake.mp3,cái hồ,This is a lake.,Đây là cái hồ.
+1,12,At the lake,official,leaf,n,/liːf/,/liːf/,audio/uk/leaf.mp3,audio/us/leaf.mp3,chiếc lá,The leaf is falling.,Chiếc lá đang rơi.
+1,12,At the lake,official,lemons,n,/ˈlemənz/,/ˈlemənz/,audio/uk/lemons.mp3,audio/us/lemons.mp3,những quả chanh vàng,Look at the lemons.,Hãy nhìn những quả chanh kìa.
+1,13,In the school canteen,official,bananas,n,/bəˈnɑːnəz/,/bəˈnænəz/,audio/uk/bananas.mp3,audio/us/bananas.mp3,những quả chuối,He's having bananas.,Cậu ấy đang ăn chuối.
+1,13,In the school canteen,official,noodles,n,/ˈnuːdlz/,/ˈnuːdəlz/,audio/uk/noodles.mp3,audio/us/noodles.mp3,"mì, bún, phở (sợi)",I like noodles.,Mình thích ăn mì.
+1,13,In the school canteen,official,nuts,n,/nʌts/,/nʌts/,audio/uk/nuts.mp3,audio/us/nuts.mp3,"các loại hạt (lạc, điều...)",She's having nuts.,Cô ấy đang ăn các loại hạt.
+1,14,In the toy shop,official,teddy bear,n,/ˈtedi beə(r)/,/ˈtedi ber/,audio/uk/teddy-bear.mp3,audio/us/teddy-bear.mp3,gấu bông,I have a teddy bear.,Mình có một chú gấu bông.
+1,14,In the toy shop,official,tiger,n,/ˈtaɪɡə(r)/,/ˈtaɪɡɚ/,audio/uk/tiger.mp3,audio/us/tiger.mp3,con hổ,I can see a tiger.,Mình nhìn thấy một con hổ.
+1,14,In the toy shop,official,top,n,/tɒp/,/tɑːp/,audio/uk/top.mp3,audio/us/top.mp3,con quay,The top is spinning.,Con quay đang quay.
+1,14,In the toy shop,official,turtle,n,/ˈtɜːtl/,/ˈtɝːtəl/,audio/uk/turtle.mp3,audio/us/turtle.mp3,con rùa,I can see a turtle.,Mình nhìn thấy một con rùa.
+1,15,At the football match,official,face,n,/feɪs/,/feɪs/,audio/uk/face.mp3,audio/us/face.mp3,khuôn mặt,Point to your face.,Hãy chỉ vào khuôn mặt của em.
+1,15,At the football match,official,father,n,/ˈfɑːðə(r)/,/ˈfɑːðɚ/,audio/uk/father.mp3,audio/us/father.mp3,"bố, cha",This is my father.,Đây là bố của mình.
+1,15,At the football match,official,foot,n,/fʊt/,/fʊt/,audio/uk/foot.mp3,audio/us/foot.mp3,bàn chân,Point to your foot.,Hãy chỉ vào bàn chân của em.
+1,15,At the football match,official,football,n,/ˈfʊtbɔːl/,/ˈfʊtbɑːl/,audio/uk/football.mp3,audio/us/football.mp3,bóng đá; quả bóng đá,I like football.,Mình thích bóng đá.
+1,16,At home,official,wash,v,/wɒʃ/,/wɑːʃ/,audio/uk/wash.mp3,audio/us/wash.mp3,"rửa, giặt",Wendy is washing.,Wendy đang rửa tay.
+1,16,At home,official,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,audio/uk/water.mp3,audio/us/water.mp3,nước,This is water.,Đây là nước.
+1,16,At home,official,window,n,/ˈwɪndəʊ/,/ˈwɪndoʊ/,audio/uk/window.mp3,audio/us/window.mp3,cửa sổ,This is a window.,Đây là cửa sổ.

@@ -20,6 +20,8 @@
           "pos": "n",
           "ipa_uk": "/ˌæntɪbaɪˈɒtɪk/",
           "ipa_us": "/ˌæntaɪbaɪˈɑːtɪk/",
+          "audio_uk": "audio/uk/antibiotic.mp3",
+          "audio_us": "audio/us/antibiotic.mp3",
           "meaning": "thuốc kháng sinh",
           "example": "The doctor gave me antibiotics to treat the infection.",
           "example_vi": "Bác sĩ đã kê cho tôi thuốc kháng sinh để điều trị nhiễm trùng."
@@ -29,6 +31,8 @@
           "pos": "n",
           "ipa_uk": "/bækˈtɪəriə/",
           "ipa_us": "/bækˈtɪriə/",
+          "audio_uk": "audio/uk/bacteria.mp3",
+          "audio_us": "audio/us/bacteria.mp3",
           "meaning": "vi khuẩn",
           "example": "Washing your hands regularly helps to remove harmful bacteria.",
           "example_vi": "Rửa tay thường xuyên giúp loại bỏ vi khuẩn có hại."
@@ -38,6 +42,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈbælənst/",
           "ipa_us": "/ˈbælənst/",
+          "audio_uk": "audio/uk/balanced.mp3",
+          "audio_us": "audio/us/balanced.mp3",
           "meaning": "cân đối, cân bằng",
           "example": "A balanced lifestyle includes healthy food, regular exercise and enough sleep.",
           "example_vi": "Một lối sống cân bằng bao gồm thực phẩm lành mạnh, tập thể dục đều đặn và ngủ đủ giấc."
@@ -47,6 +53,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkʊkbʊk/",
           "ipa_us": "/ˈkʊkbʊk/",
+          "audio_uk": "audio/uk/cookbook.mp3",
+          "audio_us": "audio/us/cookbook.mp3",
           "meaning": "sách hướng dẫn nấu ăn",
           "example": "My grandmother's cookbook is full of healthy recipes for the whole family.",
           "example_vi": "Cuốn sách hướng dẫn nấu ăn của bà tôi có rất nhiều công thức nấu ăn tốt cho sức khoẻ của cả gia đình."
@@ -56,6 +64,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌkʌt ˈdaʊn ɒn/",
           "ipa_us": "/ˌkʌt ˈdaʊn ɑːn/",
+          "audio_uk": "audio/uk/cut-down-on-phr-v.mp3",
+          "audio_us": "audio/us/cut-down-on-phr-v.mp3",
           "meaning": "cắt giảm",
           "example": "You should cut down on sugar.",
           "example_vi": "Bạn nên cắt giảm lượng đường."
@@ -65,6 +75,8 @@
           "pos": "n",
           "ipa_uk": "/daɪˈæmɪtə(r)/",
           "ipa_us": "/daɪˈæmətɚ/",
+          "audio_uk": "audio/uk/diameter.mp3",
+          "audio_us": "audio/us/diameter.mp3",
           "meaning": "đường kính",
           "example": "Most bacteria are less than one micrometre in diameter.",
           "example_vi": "Hầu hết vi khuẩn có đường kính nhỏ hơn một micromet."
@@ -74,6 +86,8 @@
           "pos": "n",
           "ipa_uk": "/dɪˈziːz/",
           "ipa_us": "/dɪˈziːz/",
+          "audio_uk": "audio/uk/disease.mp3",
+          "audio_us": "audio/us/disease.mp3",
           "meaning": "bệnh",
           "example": "Eating healthy food and exercising regularly can help prevent many diseases.",
           "example_vi": "Ăn uống lành mạnh và tập thể dục đều đặn có thể giúp phòng ngừa nhiều bệnh."
@@ -83,6 +97,8 @@
           "pos": "n",
           "ipa_uk": "/ˈenədʒi/",
           "ipa_us": "/ˈenɚdʒi/",
+          "audio_uk": "audio/uk/energy.mp3",
+          "audio_us": "audio/us/energy.mp3",
           "meaning": "năng lượng",
           "example": "A good breakfast gives you enough energy for the whole morning.",
           "example_vi": "Một bữa sáng đầy đủ cung cấp cho bạn đủ năng lượng cho cả buổi sáng."
@@ -92,6 +108,8 @@
           "pos": "v",
           "ipa_uk": "/ɪnˈkwaɪə(r)/",
           "ipa_us": "/ɪnˈkwaɪɚ/",
+          "audio_uk": "audio/uk/enquire.mp3",
+          "audio_us": "audio/us/enquire.mp3",
           "meaning": "hỏi",
           "example": "I phoned the clinic to enquire about the opening hours.",
           "example_vi": "Tôi gọi điện đến phòng khám để hỏi về giờ mở cửa."
@@ -101,6 +119,8 @@
           "pos": "v",
           "ipa_uk": "/ɪɡˈzæmɪn/",
           "ipa_us": "/ɪɡˈzæmɪn/",
+          "audio_uk": "audio/uk/examine.mp3",
+          "audio_us": "audio/us/examine.mp3",
           "meaning": "kiểm tra, khám (sức khoẻ)",
           "example": "The doctor examined my throat and said I had a mild infection.",
           "example_vi": "Bác sĩ đã khám họng cho tôi và nói rằng tôi bị nhiễm trùng nhẹ."
@@ -110,6 +130,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɪtnəs/",
           "ipa_us": "/ˈfɪtnəs/",
+          "audio_uk": "audio/uk/fitness.mp3",
+          "audio_us": "audio/us/fitness.mp3",
           "meaning": "sự khoẻ khoắn",
           "example": "Swimming is a great way to improve your fitness.",
           "example_vi": "Bơi lội là một cách tuyệt vời để nâng cao thể lực."
@@ -119,6 +141,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfuːd ˌpɔɪzənɪŋ/",
           "ipa_us": "/ˈfuːd ˌpɔɪzənɪŋ/",
+          "audio_uk": "audio/uk/food-poisoning.mp3",
+          "audio_us": "audio/us/food-poisoning.mp3",
           "meaning": "ngộ độc thức ăn",
           "example": "Several students got food poisoning after eating at a street stall.",
           "example_vi": "Một vài học sinh đã bị ngộ độc thực phẩm sau khi ăn ở một quán vỉa hè."
@@ -128,6 +152,8 @@
           "pos": "n",
           "ipa_uk": "/dʒɜːm/",
           "ipa_us": "/dʒɝːm/",
+          "audio_uk": "audio/uk/germ.mp3",
+          "audio_us": "audio/us/germ.mp3",
           "meaning": "vi trùng",
           "example": "Germs can spread easily if you don't wash your hands before meals.",
           "example_vi": "Vi trùng có thể lây lan dễ dàng nếu bạn không rửa tay trước bữa ăn."
@@ -137,6 +163,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌɡɪv ˈʌp/",
           "ipa_us": "/ˌɡɪv ˈʌp/",
+          "audio_uk": "audio/uk/give-up.mp3",
+          "audio_us": "audio/us/give-up.mp3",
           "meaning": "từ bỏ",
           "example": "My father gave up smoking to protect his health.",
           "example_vi": "Bố tôi đã bỏ thuốc lá để bảo vệ sức khỏe."
@@ -146,6 +174,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪlnəs/",
           "ipa_us": "/ˈɪlnəs/",
+          "audio_uk": "audio/uk/illness.mp3",
+          "audio_us": "audio/us/illness.mp3",
           "meaning": "sự ốm đau",
           "example": "He missed two weeks of school because of a serious illness.",
           "example_vi": "Cậu ấy đã nghỉ học hai tuần vì một trận ốm nặng."
@@ -155,6 +185,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈfekʃn/",
           "ipa_us": "/ˌɪnˈfekʃən/",
+          "audio_uk": "audio/uk/infection.mp3",
+          "audio_us": "audio/us/infection.mp3",
           "meaning": "sự lây nhiễm",
           "example": "Clean the cut carefully to prevent infection.",
           "example_vi": "Hãy làm sạch vết cắt cẩn thận để tránh nhiễm trùng."
@@ -164,6 +196,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈɡriːdiənt/",
           "ipa_us": "/ˌɪnˈɡriːdiənt/",
+          "audio_uk": "audio/uk/ingredient.mp3",
+          "audio_us": "audio/us/ingredient.mp3",
           "meaning": "thành phần, nguyên liệu",
           "example": "Fresh vegetables are the main ingredients of this healthy salad.",
           "example_vi": "Rau tươi là nguyên liệu chính của món salad tốt cho sức khỏe này."
@@ -173,6 +207,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪf ɪkˌspektənsi/",
           "ipa_us": "/ˈlaɪf ɪkˌspektənsi/",
+          "audio_uk": "audio/uk/life-expectancy.mp3",
+          "audio_us": "audio/us/life-expectancy.mp3",
           "meaning": "tuổi thọ",
           "example": "Life expectancy has increased in many countries.",
           "example_vi": "Tuổi thọ đã tăng lên ở nhiều quốc gia."
@@ -182,6 +218,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌsl/",
           "ipa_us": "/ˈmʌsəl/",
+          "audio_uk": "audio/uk/muscle.mp3",
+          "audio_us": "audio/us/muscle.mp3",
           "meaning": "cơ bắp",
           "example": "Regular exercise helps build strong muscles and bones.",
           "example_vi": "Tập thể dục đều đặn giúp cơ bắp và xương chắc khỏe."
@@ -191,6 +229,8 @@
           "pos": "n",
           "ipa_uk": "/ˈnjuːtriənt/",
           "ipa_us": "/ˈnuːtriənt/",
+          "audio_uk": "audio/uk/nutrient.mp3",
+          "audio_us": "audio/us/nutrient.mp3",
           "meaning": "chất dinh dưỡng",
           "example": "Fruit and vegetables provide many important nutrients for the body.",
           "example_vi": "Trái cây và rau củ cung cấp nhiều chất dinh dưỡng quan trọng cho cơ thể."
@@ -200,6 +240,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɔːɡənɪzəm/",
           "ipa_us": "/ˈɔːrɡənɪzəm/",
+          "audio_uk": "audio/uk/organism.mp3",
+          "audio_us": "audio/us/organism.mp3",
           "meaning": "sinh vật, thực thể sống",
           "example": "Bacteria are tiny organisms that can live almost anywhere.",
           "example_vi": "Vi khuẩn là những sinh vật nhỏ bé có thể sống ở hầu như mọi nơi."
@@ -209,6 +251,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpres ʌp/",
           "ipa_us": "/ˈpres ʌp/",
+          "audio_uk": "audio/uk/press-up.mp3",
+          "audio_us": "audio/us/press-up.mp3",
           "meaning": "động tác chống đẩy",
           "example": "He does fifty press-ups every morning to stay strong.",
           "example_vi": "Mỗi sáng anh ấy chống đẩy năm mươi cái để giữ cơ thể khỏe mạnh."
@@ -218,6 +262,8 @@
           "pos": "adv",
           "ipa_uk": "/ˈprɒpəli/",
           "ipa_us": "/ˈprɑːpɚli/",
+          "audio_uk": "audio/uk/properly.mp3",
+          "audio_us": "audio/us/properly.mp3",
           "meaning": "một cách điều độ, hợp lí",
           "example": "If you don't eat properly, you will feel tired all the time.",
           "example_vi": "Nếu bạn không ăn uống điều độ, bạn sẽ luôn cảm thấy mệt mỏi."
@@ -227,6 +273,8 @@
           "pos": "n",
           "ipa_uk": "/ˈresəpi/",
           "ipa_us": "/ˈresəpi/",
+          "audio_uk": "audio/uk/recipe.mp3",
+          "audio_us": "audio/us/recipe.mp3",
           "meaning": "công thức nấu ăn",
           "example": "My mother found a healthy recipe for vegetable soup online.",
           "example_vi": "Mẹ tôi đã tìm được một công thức nấu súp rau tốt cho sức khỏe trên mạng."
@@ -236,6 +284,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈreɡjələ(r)/",
           "ipa_us": "/ˈreɡjəlɚ/",
+          "audio_uk": "audio/uk/regular.mp3",
+          "audio_us": "audio/us/regular.mp3",
           "meaning": "đều đặn, thường xuyên",
           "example": "Regular check-ups can help detect health problems early.",
           "example_vi": "Khám sức khỏe định kỳ có thể giúp phát hiện sớm các vấn đề sức khỏe."
@@ -245,6 +295,8 @@
           "pos": "n",
           "ipa_uk": "/spred/",
           "ipa_us": "/spred/",
+          "audio_uk": "audio/uk/spread.mp3",
+          "audio_us": "audio/us/spread.mp3",
           "meaning": "sự lây lan",
           "example": "Washing your hands often can help stop the spread of germs.",
           "example_vi": "Rửa tay thường xuyên có thể giúp ngăn chặn sự lây lan của vi trùng."
@@ -254,6 +306,8 @@
           "pos": "n",
           "ipa_uk": "/ˈstɑː ˌdʒʌmp/",
           "ipa_us": "/ˈstɑːr ˌdʒʌmp/",
+          "audio_uk": "audio/uk/star-jump.mp3",
+          "audio_us": "audio/us/star-jump.mp3",
           "meaning": "động tác nhảy dang tay chân",
           "example": "Our PE teacher asked us to do twenty star jumps to warm up.",
           "example_vi": "Thầy giáo thể dục yêu cầu chúng tôi làm hai mươi động tác nhảy dang tay chân để khởi động."
@@ -263,6 +317,8 @@
           "pos": "n",
           "ipa_uk": "/streŋθ/",
           "ipa_us": "/streŋθ/",
+          "audio_uk": "audio/uk/strength.mp3",
+          "audio_us": "audio/us/strength.mp3",
           "meaning": "sức mạnh",
           "example": "Weight training can increase your strength and fitness.",
           "example_vi": "Tập tạ có thể tăng cường sức mạnh và thể lực của bạn."
@@ -272,6 +328,8 @@
           "pos": "v",
           "ipa_uk": "/ˈsʌfə(r)/",
           "ipa_us": "/ˈsʌfɚ/",
+          "audio_uk": "audio/uk/suffer.mp3",
+          "audio_us": "audio/us/suffer.mp3",
           "meaning": "chịu đựng",
           "example": "Many people suffer from back pain because they sit for too long.",
           "example_vi": "Nhiều người bị đau lưng vì ngồi quá lâu."
@@ -281,6 +339,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtriːtmənt/",
           "ipa_us": "/ˈtriːtmənt/",
+          "audio_uk": "audio/uk/treatment.mp3",
+          "audio_us": "audio/us/treatment.mp3",
           "meaning": "cách điều trị",
           "example": "The patient is receiving treatment for a lung infection.",
           "example_vi": "Bệnh nhân đang được điều trị nhiễm trùng phổi."
@@ -290,6 +350,8 @@
           "pos": "n",
           "ipa_uk": "/tjuːˌbɜːkjuˈləʊsɪs/",
           "ipa_us": "/tuːˌbɝːkjuːˈloʊsəs/",
+          "audio_uk": "audio/uk/tuberculosis.mp3",
+          "audio_us": "audio/us/tuberculosis.mp3",
           "meaning": "bệnh lao phổi",
           "example": "Tuberculosis is a serious disease that mainly affects the lungs.",
           "example_vi": "Bệnh lao là một bệnh nghiêm trọng chủ yếu ảnh hưởng đến phổi."
@@ -299,6 +361,8 @@
           "pos": "n",
           "ipa_uk": "/ˈvaɪrəs/",
           "ipa_us": "/ˈvaɪrəs/",
+          "audio_uk": "audio/uk/virus.mp3",
+          "audio_us": "audio/us/virus.mp3",
           "meaning": "vi-rút",
           "example": "Antibiotics cannot kill viruses, so they don't work against the flu.",
           "example_vi": "Thuốc kháng sinh không thể tiêu diệt vi-rút nên chúng không có tác dụng với bệnh cúm."
@@ -308,6 +372,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌwɜːk ˈaʊt/",
           "ipa_us": "/ˌwɝːk ˈaʊt/",
+          "audio_uk": "audio/uk/work-out-phr-v.mp3",
+          "audio_us": "audio/us/work-out-phr-v.mp3",
           "meaning": "tập thể dục",
           "example": "I work out at the gym three times a week.",
           "example_vi": "Tôi tập thể dục ở phòng gym ba lần một tuần."
@@ -330,6 +396,8 @@
           "pos": "v",
           "ipa_uk": "/əˈdæpt/",
           "ipa_us": "/əˈdæpt/",
+          "audio_uk": "audio/uk/adapt.mp3",
+          "audio_us": "audio/us/adapt.mp3",
           "meaning": "thích nghi, thay đổi cho phù hợp",
           "example": "Older people sometimes find it hard to adapt to new technology.",
           "example_vi": "Người lớn tuổi đôi khi thấy khó thích nghi với công nghệ mới."
@@ -339,6 +407,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɑːɡjumənt/",
           "ipa_us": "/ˈɑːrɡjəmənt/",
+          "audio_uk": "audio/uk/argument.mp3",
+          "audio_us": "audio/us/argument.mp3",
           "meaning": "tranh luận, tranh cãi",
           "example": "I had an argument with my parents about my curfew.",
           "example_vi": "Tôi đã cãi nhau với bố mẹ về giờ phải về nhà."
@@ -348,6 +418,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkærəktəˈrɪstɪk/",
           "ipa_us": "/ˌkerəktəˈrɪstɪk/",
+          "audio_uk": "audio/uk/characteristic.mp3",
+          "audio_us": "audio/us/characteristic.mp3",
           "meaning": "đặc tính, đặc điểm",
           "example": "Being independent is a common characteristic of Generation Z.",
           "example_vi": "Tính độc lập là một đặc điểm phổ biến của thế hệ Z."
@@ -357,6 +429,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒnflɪkt/",
           "ipa_us": "/ˈkɑːnflɪkt/",
+          "audio_uk": "audio/uk/conflict.mp3",
+          "audio_us": "audio/us/conflict.mp3",
           "meaning": "sự xung đột, va chạm",
           "example": "Different opinions on lifestyle often lead to conflicts between parents and children.",
           "example_vi": "Những quan điểm khác nhau về lối sống thường dẫn đến mâu thuẫn giữa bố mẹ và con cái."
@@ -366,6 +440,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈkjʊəriəs/",
           "ipa_us": "/ˈkjʊriəs/",
+          "audio_uk": "audio/uk/curious.mp3",
+          "audio_us": "audio/us/curious.mp3",
           "meaning": "tò mò, muốn tìm hiểu",
           "example": "Teenagers are naturally curious about new trends.",
           "example_vi": "Thanh thiếu niên vốn tò mò về những xu hướng mới."
@@ -375,6 +451,8 @@
           "pos": "n",
           "ipa_uk": "/ˌdɪdʒɪtl ˈneɪtɪv/",
           "ipa_us": "/ˌdɪdʒɪtəl ˈneɪtɪv/",
+          "audio_uk": "audio/uk/digital-native.mp3",
+          "audio_us": "audio/us/digital-native.mp3",
           "meaning": "người được sinh ra ở thời đại công nghệ và Internet",
           "example": "As digital natives, young people learn new apps very quickly.",
           "example_vi": "Là những người sinh ra trong thời đại kỹ thuật số, giới trẻ học cách dùng ứng dụng mới rất nhanh."
@@ -384,6 +462,8 @@
           "pos": "n",
           "ipa_uk": "/ɪkˈspɪəriəns/",
           "ipa_us": "/ɪkˈspɪriəns/",
+          "audio_uk": "audio/uk/experience.mp3",
+          "audio_us": "audio/us/experience.mp3",
           "meaning": "trải nghiệm",
           "example": "My grandparents often share their life experiences with me.",
           "example_vi": "Ông bà tôi thường chia sẻ những trải nghiệm sống của họ với tôi."
@@ -393,6 +473,8 @@
           "pos": "n",
           "ipa_uk": "/ɪkˌstendɪd ˈfæməli/",
           "ipa_us": "/ɪkˌstendɪd ˈfæməli/",
+          "audio_uk": "audio/uk/extended-family.mp3",
+          "audio_us": "audio/us/extended-family.mp3",
           "meaning": "gia đình đa thế hệ, đại gia đình",
           "example": "I live in an extended family with my parents, grandparents and an uncle.",
           "example_vi": "Tôi sống trong một đại gia đình gồm bố mẹ, ông bà và một người chú."
@@ -402,6 +484,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfriːdəm/",
           "ipa_us": "/ˈfriːdəm/",
+          "audio_uk": "audio/uk/freedom.mp3",
+          "audio_us": "audio/us/freedom.mp3",
           "meaning": "sự tự do",
           "example": "Teenagers often want more freedom to make their own decisions.",
           "example_vi": "Thanh thiếu niên thường muốn có nhiều tự do hơn để tự đưa ra quyết định."
@@ -411,6 +495,8 @@
           "pos": "n",
           "ipa_uk": "/ˌdʒenəˈreɪʃn ɡæp/",
           "ipa_us": "/ˌdʒenəˈreɪʃən ɡæp/",
+          "audio_uk": "audio/uk/generation-gap.mp3",
+          "audio_us": "audio/us/generation-gap.mp3",
           "meaning": "khoảng cách giữa các thế hệ",
           "example": "The generation gap can cause conflicts in families.",
           "example_vi": "Khoảng cách thế hệ có thể gây ra mâu thuẫn trong gia đình."
@@ -420,6 +506,8 @@
           "pos": "v",
           "ipa_uk": "/ˈhaɪə(r)/",
           "ipa_us": "/ˈhaɪɚ/",
+          "audio_uk": "audio/uk/hire.mp3",
+          "audio_us": "audio/us/hire.mp3",
           "meaning": "thuê nhân công, thuê người làm",
           "example": "My parents hired a tutor to help me with maths.",
           "example_vi": "Bố mẹ tôi đã thuê một gia sư để giúp tôi học toán."
@@ -429,6 +517,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɒnəsti/",
           "ipa_us": "/ˈɑːnəsti/",
+          "audio_uk": "audio/uk/honesty.mp3",
+          "audio_us": "audio/us/honesty.mp3",
           "meaning": "tính trung thực, tính chân thật",
           "example": "My grandparents believe that honesty is the most important value.",
           "example_vi": "Ông bà tôi tin rằng sự trung thực là giá trị quan trọng nhất."
@@ -438,6 +528,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
           "ipa_us": "/ˌɪndɪvɪˈduːəlɪzəm/",
+          "audio_uk": "audio/uk/individualism.mp3",
+          "audio_us": "audio/us/individualism.mp3",
           "meaning": "chủ nghĩa cá nhân",
           "example": "Young people today are more influenced by individualism than their grandparents.",
           "example_vi": "Giới trẻ ngày nay chịu ảnh hưởng của chủ nghĩa cá nhân nhiều hơn ông bà họ."
@@ -447,6 +539,8 @@
           "pos": "v",
           "ipa_uk": "/ˈɪnfluəns/",
           "ipa_us": "/ˈɪnfluəns/",
+          "audio_uk": "audio/uk/influence.mp3",
+          "audio_us": "audio/us/influence.mp3",
           "meaning": "gây ảnh hưởng",
           "example": "Social media can strongly influence the way teenagers think.",
           "example_vi": "Mạng xã hội có thể ảnh hưởng mạnh mẽ đến cách thanh thiếu niên suy nghĩ."
@@ -456,6 +550,8 @@
           "pos": "v",
           "ipa_uk": "/ˈlɪmɪt/",
           "ipa_us": "/ˈlɪmət/",
+          "audio_uk": "audio/uk/limit.mp3",
+          "audio_us": "audio/us/limit.mp3",
           "meaning": "giới hạn, hạn chế",
           "example": "My parents limit the time I spend playing video games.",
           "example_vi": "Bố mẹ tôi giới hạn thời gian tôi chơi trò chơi điện tử."
@@ -465,6 +561,8 @@
           "pos": "n",
           "ipa_uk": "/ˌnjuːkliə ˈfæməli/",
           "ipa_us": "/ˌnuːkliɚ ˈfæməli/",
+          "audio_uk": "audio/uk/nuclear-family.mp3",
+          "audio_us": "audio/us/nuclear-family.mp3",
           "meaning": "gia đình hạt nhân, gia đình nhỏ gồm 1-2 thế hệ",
           "example": "Nowadays, more and more people live in nuclear families.",
           "example_vi": "Ngày nay, ngày càng nhiều người sống trong gia đình hạt nhân."
@@ -474,6 +572,8 @@
           "pos": "n",
           "ipa_uk": "/ˈskriːn taɪm/",
           "ipa_us": "/ˈskriːn taɪm/",
+          "audio_uk": "audio/uk/screen-time.mp3",
+          "audio_us": "audio/us/screen-time.mp3",
           "meaning": "thời gian sử dụng thiết bị điện tử",
           "example": "My mother wants me to reduce my screen time to two hours a day.",
           "example_vi": "Mẹ tôi muốn tôi giảm thời gian sử dụng thiết bị điện tử xuống còn hai tiếng mỗi ngày."
@@ -483,6 +583,8 @@
           "pos": "n",
           "ipa_uk": "/ˌsəʊʃl ˈmiːdiə/",
           "ipa_us": "/ˌsoʊʃəl ˈmiːdiə/",
+          "audio_uk": "audio/uk/social-media.mp3",
+          "audio_us": "audio/us/social-media.mp3",
           "meaning": "phương tiện truyền thông mạng xã hội",
           "example": "Teenagers spend a lot of time chatting with friends on social media.",
           "example_vi": "Thanh thiếu niên dành nhiều thời gian trò chuyện với bạn bè trên mạng xã hội."
@@ -492,6 +594,8 @@
           "pos": "n",
           "ipa_uk": "/ˈvæljuː/",
           "ipa_us": "/ˈvæljuː/",
+          "audio_uk": "audio/uk/value.mp3",
+          "audio_us": "audio/us/value.mp3",
           "meaning": "giá trị, coi trọng",
           "example": "Family values are passed down from one generation to the next.",
           "example_vi": "Các giá trị gia đình được truyền từ thế hệ này sang thế hệ khác."
@@ -501,6 +605,8 @@
           "pos": "n",
           "ipa_uk": "/vjuː/",
           "ipa_us": "/vjuː/",
+          "audio_uk": "audio/uk/view.mp3",
+          "audio_us": "audio/us/view.mp3",
           "meaning": "quan điểm",
           "example": "My father and I have different views on what jobs are good.",
           "example_vi": "Bố tôi và tôi có quan điểm khác nhau về những công việc tốt."
@@ -523,6 +629,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɑːtɪkl/",
           "ipa_us": "/ˈɑːrtɪkəl/",
+          "audio_uk": "audio/uk/article.mp3",
+          "audio_us": "audio/us/article.mp3",
           "meaning": "bài báo",
           "example": "I read an interesting article about the cities of the future.",
           "example_vi": "Tôi đã đọc một bài báo thú vị về các thành phố trong tương lai."
@@ -532,6 +640,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɑːd ˌriːdə(r)/",
           "ipa_us": "/ˈkɑːrd ˌriːdɚ/",
+          "audio_uk": "audio/uk/card-reader.mp3",
+          "audio_us": "audio/us/card-reader.mp3",
           "meaning": "thiết bị đọc thẻ",
           "example": "You just need to touch your card on the card reader to enter the station.",
           "example_vi": "Bạn chỉ cần chạm thẻ vào thiết bị đọc thẻ để vào nhà ga."
@@ -541,6 +651,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪti ˌdwelə(r)/",
           "ipa_us": "/ˈsɪti ˌdwelɚ/",
+          "audio_uk": "audio/uk/city-dweller.mp3",
+          "audio_us": "audio/us/city-dweller.mp3",
           "meaning": "người dân thành phố",
           "example": "City dwellers often suffer from noise and air pollution.",
           "example_vi": "Cư dân thành phố thường phải chịu ô nhiễm tiếng ồn và không khí."
@@ -550,6 +662,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsaɪkl pɑːθ/",
           "ipa_us": "/ˈsaɪkəl pæθ/",
+          "audio_uk": "audio/uk/cycle-path.mp3",
+          "audio_us": "audio/us/cycle-path.mp3",
           "meaning": "làn đường dành cho xe đạp",
           "example": "The city plans to build more cycle paths to reduce traffic.",
           "example_vi": "Thành phố dự định xây thêm nhiều đường dành cho xe đạp để giảm lưu lượng giao thông."
@@ -559,6 +673,8 @@
           "pos": "adv",
           "ipa_uk": "/ɪˈfɪʃntli/",
           "ipa_us": "/ɪˈfɪʃəntli/",
+          "audio_uk": "audio/uk/efficiently.mp3",
+          "audio_us": "audio/us/efficiently.mp3",
           "meaning": "có hiệu quả",
           "example": "In smart cities, public transport will run more efficiently.",
           "example_vi": "Ở các thành phố thông minh, giao thông công cộng sẽ vận hành hiệu quả hơn."
@@ -568,6 +684,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈhaɪ raɪz/",
           "ipa_us": "/ˈhaɪ raɪz/",
+          "audio_uk": "audio/uk/high-rise.mp3",
+          "audio_us": "audio/us/high-rise.mp3",
           "meaning": "cao tầng, có nhiều tầng",
           "example": "More high-rise buildings will be built to house the growing population.",
           "example_vi": "Nhiều tòa nhà cao tầng hơn sẽ được xây dựng để đáp ứng nhu cầu nhà ở của dân số ngày càng tăng."
@@ -577,6 +695,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪnfrəstrʌktʃə(r)/",
           "ipa_us": "/ˌɪnfrəˈstrʌktʃɚ/",
+          "audio_uk": "audio/uk/infrastructure.mp3",
+          "audio_us": "audio/us/infrastructure.mp3",
           "meaning": "cơ sở hạ tầng",
           "example": "The government is investing heavily in the city's infrastructure.",
           "example_vi": "Chính phủ đang đầu tư mạnh vào cơ sở hạ tầng của thành phố."
@@ -586,6 +706,8 @@
           "pos": "v",
           "ipa_uk": "/ˌɪntərˈækt/",
           "ipa_us": "/ˌɪntəˈrækt/",
+          "audio_uk": "audio/uk/interact.mp3",
+          "audio_us": "audio/us/interact.mp3",
           "meaning": "tương tác",
           "example": "In smart cities, people will interact with buildings through their phones.",
           "example_vi": "Ở các thành phố thông minh, mọi người sẽ tương tác với các tòa nhà thông qua điện thoại."
@@ -595,6 +717,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈlɪvəbl/",
           "ipa_us": "/ˈlɪvəbl/",
+          "audio_uk": "audio/uk/liveable.mp3",
+          "audio_us": "audio/us/liveable.mp3",
           "meaning": "đáng sống",
           "example": "Green spaces make a city more liveable.",
           "example_vi": "Không gian xanh giúp thành phố trở nên đáng sống hơn."
@@ -604,6 +728,8 @@
           "pos": "n",
           "ipa_uk": "/ˈneɪbəhʊd/",
           "ipa_us": "/ˈneɪbɚhʊd/",
+          "audio_uk": "audio/uk/neighbourhood.mp3",
+          "audio_us": "audio/us/neighbourhood.mp3",
           "meaning": "khu dân cư",
           "example": "There are a lot of parks and green spaces in my neighbourhood.",
           "example_vi": "Khu dân cư của tôi có rất nhiều công viên và không gian xanh."
@@ -613,6 +739,8 @@
           "pos": "v",
           "ipa_uk": "/ˈɒpəreɪt/",
           "ipa_us": "/ˈɑːpəreɪt/",
+          "audio_uk": "audio/uk/operate.mp3",
+          "audio_us": "audio/us/operate.mp3",
           "meaning": "vận hành",
           "example": "The new metro line will start to operate next year.",
           "example_vi": "Tuyến tàu điện ngầm mới sẽ bắt đầu vận hành vào năm sau."
@@ -622,6 +750,8 @@
           "pos": "n",
           "ipa_uk": "/pəˈdestriən/",
           "ipa_us": "/pəˈdestriən/",
+          "audio_uk": "audio/uk/pedestrian.mp3",
+          "audio_us": "audio/us/pedestrian.mp3",
           "meaning": "người đi bộ",
           "example": "Some streets in the city centre are only for pedestrians.",
           "example_vi": "Một số con phố ở trung tâm thành phố chỉ dành cho người đi bộ."
@@ -631,6 +761,8 @@
           "pos": "n",
           "ipa_uk": "/ˈprɪvəsi/",
           "ipa_us": "/ˈpraɪvəsi/",
+          "audio_uk": "audio/uk/privacy.mp3",
+          "audio_us": "audio/us/privacy.mp3",
           "meaning": "sự riêng tư",
           "example": "People living in high-rise buildings may have less privacy.",
           "example_vi": "Những người sống trong các toà nhà cao tầng có thể có ít sự riêng tư hơn."
@@ -640,6 +772,8 @@
           "pos": "n",
           "ipa_uk": "/ˈruːf ɡɑːdn/",
           "ipa_us": "/ˈruːf ˌɡɑːrdən/",
+          "audio_uk": "audio/uk/roof-garden.mp3",
+          "audio_us": "audio/us/roof-garden.mp3",
           "meaning": "vườn trên sân thượng",
           "example": "Residents grow vegetables in the roof garden of their apartment building.",
           "example_vi": "Cư dân trồng rau trong khu vườn trên sân thượng của tòa chung cư."
@@ -649,6 +783,8 @@
           "pos": "n",
           "ipa_uk": "/ˌsens əv kəˈmjuːnəti/",
           "ipa_us": "/ˌsens əv kəˈmjuːnəti/",
+          "audio_uk": "audio/uk/sense-of-community.mp3",
+          "audio_us": "audio/us/sense-of-community.mp3",
           "meaning": "ý thức cộng đồng",
           "example": "Shared gardens help residents develop a sense of community.",
           "example_vi": "Những khu vườn chung giúp cư dân phát triển ý thức cộng đồng."
@@ -658,6 +794,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsensə(r)/",
           "ipa_us": "/ˈsensɚ/",
+          "audio_uk": "audio/uk/sensor.mp3",
+          "audio_us": "audio/us/sensor.mp3",
           "meaning": "cảm biến",
           "example": "Smart sensors will control the traffic lights.",
           "example_vi": "Các cảm biến thông minh sẽ điều khiển đèn giao thông."
@@ -667,6 +805,8 @@
           "pos": "n",
           "ipa_uk": "/ˈskaɪskreɪpə(r)/",
           "ipa_us": "/ˈskaɪskreɪpɚ/",
+          "audio_uk": "audio/uk/skyscraper.mp3",
+          "audio_us": "audio/us/skyscraper.mp3",
           "meaning": "toà nhà chọc trời",
           "example": "The city skyline is full of modern skyscrapers.",
           "example_vi": "Đường chân trời của thành phố dày đặc những tòa nhà chọc trời hiện đại."
@@ -676,6 +816,8 @@
           "pos": "n",
           "ipa_uk": "/ˌsmɑːt ˈsɪti/",
           "ipa_us": "/ˌsmɑːrt ˈsɪti/",
+          "audio_uk": "audio/uk/smart-city.mp3",
+          "audio_us": "audio/us/smart-city.mp3",
           "meaning": "thành phố thông minh",
           "example": "In a smart city, sensors will control traffic lights and street lamps.",
           "example_vi": "Trong một thành phố thông minh, các cảm biến sẽ điều khiển đèn giao thông và đèn đường."
@@ -685,6 +827,8 @@
           "pos": "adj",
           "ipa_uk": "/səˈsteɪnəbl/",
           "ipa_us": "/səˈsteɪnəbəl/",
+          "audio_uk": "audio/uk/sustainable.mp3",
+          "audio_us": "audio/us/sustainable.mp3",
           "meaning": "bền vững",
           "example": "Planners are designing sustainable cities that use less energy.",
           "example_vi": "Các nhà quy hoạch đang thiết kế những thành phố bền vững sử dụng ít năng lượng hơn."
@@ -694,6 +838,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɜːbən ˈsentə(r)/",
           "ipa_us": "/ˌɝːbən ˈsentɚ/",
+          "audio_uk": "audio/uk/urban-centre.mp3",
+          "audio_us": "audio/us/urban-centre.mp3",
           "meaning": "khu đô thị, trung tâm đô thị",
           "example": "More and more people are moving to urban centres to find jobs.",
           "example_vi": "Ngày càng nhiều người chuyển đến các khu đô thị để tìm việc làm."
@@ -716,6 +862,8 @@
           "pos": "v",
           "ipa_uk": "/əˈplaɪ fɔː(r)/",
           "ipa_us": "/əˈplaɪ fɔːr/",
+          "audio_uk": "audio/uk/apply-for.mp3",
+          "audio_us": "audio/us/apply-for.mp3",
           "meaning": "xin việc, ứng cử",
           "example": "She applied for a scholarship to study in Singapore.",
           "example_vi": "Cô ấy đã nộp đơn xin học bổng để du học Singapore."
@@ -725,6 +873,8 @@
           "pos": "n",
           "ipa_uk": "/ˌselɪˈbreɪʃn/",
           "ipa_us": "/ˌseləˈbreɪʃən/",
+          "audio_uk": "audio/uk/celebration.mp3",
+          "audio_us": "audio/us/celebration.mp3",
           "meaning": "lễ kỉ niệm, lễ tổ chức",
           "example": "There was a big celebration for ASEAN's 50th anniversary in 2017.",
           "example_vi": "Đã có một lễ kỉ niệm lớn nhân dịp 50 năm thành lập ASEAN vào năm 2017."
@@ -734,6 +884,8 @@
           "pos": "n",
           "ipa_uk": "/kəˈmjuːnəti/",
           "ipa_us": "/kəˈmjuːnəti/",
+          "audio_uk": "audio/uk/community.mp3",
+          "audio_us": "audio/us/community.mp3",
           "meaning": "cộng đồng",
           "example": "The ASEAN Community was officially established in 2015.",
           "example_vi": "Cộng đồng ASEAN được chính thức thành lập vào năm 2015."
@@ -743,6 +895,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒmplɪmənt/",
           "ipa_us": "/ˈkɑːmpləment/",
+          "audio_uk": "audio/uk/compliment.mp3",
+          "audio_us": "audio/us/compliment.mp3",
           "meaning": "lời khen",
           "example": "She received many compliments on her speech about ASEAN.",
           "example_vi": "Cô ấy nhận được nhiều lời khen về bài phát biểu về ASEAN."
@@ -752,6 +906,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɒntrɪˈbjuːʃn/",
           "ipa_us": "/ˌkɑːntrəˈbjuːʃən/",
+          "audio_uk": "audio/uk/contribution.mp3",
+          "audio_us": "audio/us/contribution.mp3",
           "meaning": "sự đóng góp, cống hiến",
           "example": "Viet Nam has made great contributions to the development of ASEAN.",
           "example_vi": "Việt Nam đã có những đóng góp to lớn cho sự phát triển của ASEAN."
@@ -761,6 +917,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/",
           "ipa_us": "/ˌkʌltʃɚəl ɪksˈtʃeɪndʒ/",
+          "audio_uk": "audio/uk/cultural-exchange.mp3",
+          "audio_us": "audio/us/cultural-exchange.mp3",
           "meaning": "sự trao đổi văn hoá",
           "example": "The cultural exchange helped students learn about other ASEAN countries.",
           "example_vi": "Chuyến giao lưu văn hóa đã giúp học sinh tìm hiểu về các nước ASEAN khác."
@@ -770,6 +928,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈkʌrənt/",
           "ipa_us": "/ˈkɝːənt/",
+          "audio_uk": "audio/uk/current.mp3",
+          "audio_us": "audio/us/current.mp3",
           "meaning": "hiện tại, đương đại",
           "example": "We discussed current issues facing young people in the region.",
           "example_vi": "Chúng tôi đã thảo luận về những vấn đề hiện tại mà giới trẻ trong khu vực đang đối mặt."
@@ -779,6 +939,8 @@
           "pos": "n",
           "ipa_uk": "/dɪˈveləpmənt/",
           "ipa_us": "/dɪˈveləpmənt/",
+          "audio_uk": "audio/uk/development.mp3",
+          "audio_us": "audio/us/development.mp3",
           "meaning": "sự phát triển",
           "example": "ASEAN aims to promote economic development in the region.",
           "example_vi": "ASEAN hướng tới thúc đẩy sự phát triển kinh tế trong khu vực."
@@ -788,6 +950,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈaɪ əʊpənɪŋ/",
           "ipa_us": "/ˈaɪ ˌoʊpənɪŋ/",
+          "audio_uk": "audio/uk/eye-opening.mp3",
+          "audio_us": "audio/us/eye-opening.mp3",
           "meaning": "mở mang tầm mắt",
           "example": "Taking part in the ASEAN youth camp was an eye-opening experience for me.",
           "example_vi": "Tham gia trại hè thanh niên ASEAN là một trải nghiệm mở mang tầm mắt đối với tôi."
@@ -797,6 +961,8 @@
           "pos": "v",
           "ipa_uk": "/ˈɒnə(r)/",
           "ipa_us": "/ˈɑːnɚ/",
+          "audio_uk": "audio/uk/honour.mp3",
+          "audio_us": "audio/us/honour.mp3",
           "meaning": "thể hiện sự kính trọng",
           "example": "The ceremony was held to honour young volunteers from ASEAN countries.",
           "example_vi": "Buổi lễ được tổ chức để thể hiện sự kính trọng với các tình nguyện viên trẻ đến từ các nước ASEAN."
@@ -806,6 +972,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪʃuː/",
           "ipa_us": "/ˈɪʃuː/",
+          "audio_uk": "audio/uk/issue.mp3",
+          "audio_us": "audio/us/issue.mp3",
           "meaning": "vấn đề",
           "example": "Climate change is an important issue for all ASEAN members.",
           "example_vi": "Biến đổi khí hậu là một vấn đề quan trọng đối với tất cả các thành viên ASEAN."
@@ -815,6 +983,8 @@
           "pos": "n",
           "ipa_uk": "/ˈliːdəʃɪp skɪl/",
           "ipa_us": "/ˈliːdɚʃɪp skɪl/",
+          "audio_uk": "audio/uk/leadership-skill.mp3",
+          "audio_us": "audio/us/leadership-skill.mp3",
           "meaning": "kĩ năng lãnh đạo",
           "example": "The programme helps young people develop their leadership skills.",
           "example_vi": "Chương trình giúp người trẻ phát triển kĩ năng lãnh đạo."
@@ -824,6 +994,8 @@
           "pos": "v",
           "ipa_uk": "/ˈlaɪv striːm/",
           "ipa_us": "/ˈlaɪv striːm/",
+          "audio_uk": "audio/uk/live-stream.mp3",
+          "audio_us": "audio/us/live-stream.mp3",
           "meaning": "phát sóng trực tuyến",
           "example": "The opening ceremony of the ASEAN Games was live-streamed online.",
           "example_vi": "Lễ khai mạc Đại hội Thể thao Đông Nam Á được phát sóng trực tuyến."
@@ -833,6 +1005,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpɒlətɪks/",
           "ipa_us": "/ˈpɑːlətɪks/",
+          "audio_uk": "audio/uk/politics.mp3",
+          "audio_us": "audio/us/politics.mp3",
           "meaning": "chính trị",
           "example": "She is interested in politics and wants to become a diplomat.",
           "example_vi": "Cô ấy quan tâm đến chính trị và muốn trở thành nhà ngoại giao."
@@ -842,6 +1016,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈməʊt/",
           "ipa_us": "/prəˈmoʊt/",
+          "audio_uk": "audio/uk/promote.mp3",
+          "audio_us": "audio/us/promote.mp3",
           "meaning": "thúc đẩy, khuyến mại, quảng bá",
           "example": "The programme aims to promote friendship among young people in ASEAN.",
           "example_vi": "Chương trình nhằm thúc đẩy tình hữu nghị giữa thanh niên các nước ASEAN."
@@ -851,6 +1027,8 @@
           "pos": "v",
           "ipa_uk": "/ˈkwɒlɪfaɪ/",
           "ipa_us": "/ˈkwɑːləfaɪ/",
+          "audio_uk": "audio/uk/qualify.mp3",
+          "audio_us": "audio/us/qualify.mp3",
           "meaning": "đủ tiêu chuẩn, đủ khả năng",
           "example": "To qualify for the programme, you must be between 18 and 25 years old.",
           "example_vi": "Để đủ tiêu chuẩn tham gia chương trình, bạn phải từ 18 đến 25 tuổi."
@@ -860,6 +1038,8 @@
           "pos": "n",
           "ipa_uk": "/ˈriːdʒən/",
           "ipa_us": "/ˈriːdʒən/",
+          "audio_uk": "audio/uk/region.mp3",
+          "audio_us": "audio/us/region.mp3",
           "meaning": "vùng",
           "example": "Southeast Asia is a region rich in culture and natural resources.",
           "example_vi": "Đông Nam Á là khu vực giàu văn hóa và tài nguyên thiên nhiên."
@@ -869,6 +1049,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˈleɪʃn/",
           "ipa_us": "/riˈleɪʃən/",
+          "audio_uk": "audio/uk/relation.mp3",
+          "audio_us": "audio/us/relation.mp3",
           "meaning": "mối quan hệ",
           "example": "Viet Nam has good relations with other ASEAN countries.",
           "example_vi": "Việt Nam có mối quan hệ tốt với các nước ASEAN khác."
@@ -878,6 +1060,8 @@
           "pos": "v",
           "ipa_uk": "/ˌreprɪˈzent/",
           "ipa_us": "/ˌreprɪˈzent/",
+          "audio_uk": "audio/uk/represent.mp3",
+          "audio_us": "audio/us/represent.mp3",
           "meaning": "đại diện, tượng trưng",
           "example": "He was chosen to represent Viet Nam at the ASEAN youth conference.",
           "example_vi": "Cậu ấy được chọn để đại diện cho Việt Nam tại hội nghị thanh niên ASEAN."
@@ -887,6 +1071,8 @@
           "pos": "n",
           "ipa_uk": "/ˌreprɪˈzentətɪv/",
           "ipa_us": "/ˌreprɪˈzentətɪv/",
+          "audio_uk": "audio/uk/representative.mp3",
+          "audio_us": "audio/us/representative.mp3",
           "meaning": "người đại diện",
           "example": "A representative from the university answered students' questions about courses.",
           "example_vi": "Một đại diện của trường đại học đã trả lời các câu hỏi của học sinh về các khóa học."
@@ -896,6 +1082,8 @@
           "pos": "v",
           "ipa_uk": "/ˈstreŋθn/",
           "ipa_us": "/ˈstreŋθən/",
+          "audio_uk": "audio/uk/strengthen-v.mp3",
+          "audio_us": "audio/us/strengthen-v.mp3",
           "meaning": "tăng cường, đẩy mạnh",
           "example": "Cultural exchanges help strengthen friendship among ASEAN nations.",
           "example_vi": "Các cuộc giao lưu văn hoá giúp tăng cường tình hữu nghị giữa các quốc gia ASEAN."
@@ -905,6 +1093,8 @@
           "pos": "v",
           "ipa_uk": "/səˈpɔːt/",
           "ipa_us": "/səˈpɔːrt/",
+          "audio_uk": "audio/uk/support.mp3",
+          "audio_us": "audio/us/support.mp3",
           "meaning": "hỗ trợ",
           "example": "ASEAN countries support one another in times of natural disasters.",
           "example_vi": "Các nước ASEAN hỗ trợ lẫn nhau khi xảy ra thiên tai."
@@ -914,6 +1104,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌteɪk ˈpɑːt (ɪn)/",
           "ipa_us": "/ˌteɪk ˈpɑːrt ɪn/",
+          "audio_uk": "audio/uk/take-part-in.mp3",
+          "audio_us": "audio/us/take-part-in.mp3",
           "meaning": "tham gia",
           "example": "Students from ten countries took part in the ASEAN youth festival.",
           "example_vi": "Học sinh từ mười quốc gia đã tham gia ngày hội thanh niên ASEAN."
@@ -923,6 +1115,8 @@
           "pos": "v",
           "ipa_uk": "/ˌvɒlənˈtɪə(r)/",
           "ipa_us": "/ˌvɑːlənˈtɪr/",
+          "audio_uk": "audio/uk/volunteer.mp3",
+          "audio_us": "audio/us/volunteer.mp3",
           "meaning": "tình nguyện, tình nguyện viên",
           "example": "Many students volunteer to help at the ASEAN Games.",
           "example_vi": "Nhiều sinh viên tình nguyện giúp đỡ tại Đại hội Thể thao Đông Nam Á."
@@ -932,6 +1126,8 @@
           "pos": "n",
           "ipa_uk": "/juːθ/",
           "ipa_us": "/juːθ/",
+          "audio_uk": "audio/uk/youth.mp3",
+          "audio_us": "audio/us/youth.mp3",
           "meaning": "tuổi trẻ",
           "example": "The youth of ASEAN play an important role in the region's future.",
           "example_vi": "Tuổi trẻ ASEAN đóng vai trò quan trọng đối với tương lai của khu vực."
@@ -954,6 +1150,8 @@
           "pos": "n",
           "ipa_uk": "/ˈætməsfɪə(r)/",
           "ipa_us": "/ˈætməsfɪr/",
+          "audio_uk": "audio/uk/atmosphere.mp3",
+          "audio_us": "audio/us/atmosphere.mp3",
           "meaning": "khí quyển",
           "example": "Greenhouse gases trap heat in the Earth's atmosphere.",
           "example_vi": "Khí nhà kính giữ nhiệt lại trong bầu khí quyển của Trái Đất."
@@ -963,6 +1161,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbæləns/",
           "ipa_us": "/ˈbæləns/",
+          "audio_uk": "audio/uk/balance.mp3",
+          "audio_us": "audio/us/balance.mp3",
           "meaning": "sự cân bằng",
           "example": "Global warming can upset the balance of nature.",
           "example_vi": "Sự nóng lên toàn cầu có thể làm mất cân bằng tự nhiên."
@@ -972,6 +1172,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɑːbən daɪˈɒksaɪd/",
           "ipa_us": "/ˌkɑːrbən daɪˈɑːksaɪd/",
+          "audio_uk": "audio/uk/carbon-dioxide.mp3",
+          "audio_us": "audio/us/carbon-dioxide.mp3",
           "meaning": "khí cacbonic (CO2)",
           "example": "Burning fossil fuels releases a lot of carbon dioxide.",
           "example_vi": "Việc đốt nhiên liệu hóa thạch thải ra rất nhiều khí CO2."
@@ -981,6 +1183,8 @@
           "pos": "n",
           "ipa_uk": "/kəʊl/",
           "ipa_us": "/koʊl/",
+          "audio_uk": "audio/uk/coal.mp3",
+          "audio_us": "audio/us/coal.mp3",
           "meaning": "than đá",
           "example": "Many power plants still burn coal to produce electricity.",
           "example_vi": "Nhiều nhà máy điện vẫn đốt than đá để sản xuất điện."
@@ -990,6 +1194,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒnsɪkwəns/",
           "ipa_us": "/ˈkɑːnsəkwəns/",
+          "audio_uk": "audio/uk/consequence.mp3",
+          "audio_us": "audio/us/consequence.mp3",
           "meaning": "hậu quả, kết quả",
           "example": "Rising sea levels are one of the consequences of global warming.",
           "example_vi": "Mực nước biển dâng là một trong những hậu quả của sự nóng lên toàn cầu."
@@ -999,6 +1205,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌkʌt ˈdaʊn/",
           "ipa_us": "/ˌkʌt ˈdaʊn/",
+          "audio_uk": "audio/uk/cut-down-phr-v.mp3",
+          "audio_us": "audio/us/cut-down-phr-v.mp3",
           "meaning": "chặt, đốn (cây)",
           "example": "Thousands of trees are cut down every day to make space for farms.",
           "example_vi": "Hàng nghìn cây xanh bị chặt hạ mỗi ngày để lấy đất làm trang trại."
@@ -1008,6 +1216,8 @@
           "pos": "n",
           "ipa_uk": "/ˌdiːˌfɒrɪˈsteɪʃn/",
           "ipa_us": "/dɪˌfɔːrɪˈsteɪʃən/",
+          "audio_uk": "audio/uk/deforestation.mp3",
+          "audio_us": "audio/us/deforestation.mp3",
           "meaning": "sự phá rừng",
           "example": "Deforestation contributes to global warming.",
           "example_vi": "Nạn phá rừng góp phần làm Trái Đất nóng lên."
@@ -1017,6 +1227,8 @@
           "pos": "n",
           "ipa_uk": "/ɪˈmɪʃn/",
           "ipa_us": "/ɪˈmɪʃən/",
+          "audio_uk": "audio/uk/emission-n.mp3",
+          "audio_us": "audio/us/emission-n.mp3",
           "meaning": "sự phát thải",
           "example": "We must reduce carbon emissions to slow down climate change.",
           "example_vi": "Chúng ta phải giảm lượng khí thải các-bon để làm chậm quá trình biến đổi khí hậu."
@@ -1026,6 +1238,8 @@
           "pos": "n",
           "ipa_uk": "/ɪnˈvaɪrənmənt/",
           "ipa_us": "/ɪnˈvaɪrənmənt/",
+          "audio_uk": "audio/uk/environment.mp3",
+          "audio_us": "audio/us/environment.mp3",
           "meaning": "môi trường",
           "example": "We must protect the environment for future generations.",
           "example_vi": "Chúng ta phải bảo vệ môi trường cho các thế hệ tương lai."
@@ -1035,6 +1249,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːmɪŋ/",
           "ipa_us": "/ˈfɑːrmɪŋ/",
+          "audio_uk": "audio/uk/farming.mp3",
+          "audio_us": "audio/us/farming.mp3",
           "meaning": "nghề nông",
           "example": "Farming releases large amounts of methane into the atmosphere.",
           "example_vi": "Nghề nông thải ra một lượng lớn khí methane vào khí quyển."
@@ -1044,6 +1260,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːmlænd/",
           "ipa_us": "/ˈfɑːrmlænd/",
+          "audio_uk": "audio/uk/farmland.mp3",
+          "audio_us": "audio/us/farmland.mp3",
           "meaning": "đất chăn nuôi / trồng trọt",
           "example": "Forests are being cleared to create more farmland.",
           "example_vi": "Rừng đang bị phá để lấy thêm đất nông nghiệp."
@@ -1053,6 +1271,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɒsl fjuːəl/",
           "ipa_us": "/ˈfɑːsəl ˌfjuːəl/",
+          "audio_uk": "audio/uk/fossil-fuel-n.mp3",
+          "audio_us": "audio/us/fossil-fuel-n.mp3",
           "meaning": "nhiên liệu hoá thạch",
           "example": "We should replace fossil fuels with renewable energy.",
           "example_vi": "Chúng ta nên thay thế nhiên liệu hóa thạch bằng năng lượng tái tạo."
@@ -1062,6 +1282,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɡləʊbl ˈwɔːmɪŋ/",
           "ipa_us": "/ˌɡloʊbəl ˈwɔːrmɪŋ/",
+          "audio_uk": "audio/uk/global-warming.mp3",
+          "audio_us": "audio/us/global-warming.mp3",
           "meaning": "sự nóng lên toàn cầu",
           "example": "Global warming is caused mainly by human activities.",
           "example_vi": "Sự nóng lên toàn cầu chủ yếu do các hoạt động của con người gây ra."
@@ -1071,6 +1293,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈhiːt træpɪŋ/",
           "ipa_us": "/ˈhiːt ˌtræpɪŋ/",
+          "audio_uk": "audio/uk/heat-trapping.mp3",
+          "audio_us": "audio/us/heat-trapping.mp3",
           "meaning": "giữ nhiệt",
           "example": "Methane is a powerful heat-trapping gas.",
           "example_vi": "Mê-tan là một loại khí giữ nhiệt rất mạnh."
@@ -1080,6 +1304,8 @@
           "pos": "n",
           "ipa_uk": "/ˌhjuːmən ækˈtɪvəti/",
           "ipa_us": "/ˌhjuːmən ækˈtɪvəti/",
+          "audio_uk": "audio/uk/human-activity.mp3",
+          "audio_us": "audio/us/human-activity.mp3",
           "meaning": "hoạt động của con người",
           "example": "Human activities such as burning coal increase greenhouse gases.",
           "example_vi": "Các hoạt động của con người như đốt than đá làm tăng lượng khí nhà kính."
@@ -1089,6 +1315,8 @@
           "pos": "n",
           "ipa_uk": "/ˈɪmpækt/",
           "ipa_us": "/ˈɪmpækt/",
+          "audio_uk": "audio/uk/impact.mp3",
+          "audio_us": "audio/us/impact.mp3",
           "meaning": "tác động, ảnh hưởng",
           "example": "Global warming has a serious impact on agriculture.",
           "example_vi": "Sự nóng lên toàn cầu có tác động nghiêm trọng đến nông nghiệp."
@@ -1098,6 +1326,8 @@
           "pos": "n",
           "ipa_uk": "/ˈliːflət/",
           "ipa_us": "/ˈliːflət/",
+          "audio_uk": "audio/uk/leaflet.mp3",
+          "audio_us": "audio/us/leaflet.mp3",
           "meaning": "tờ rơi",
           "example": "We handed out leaflets about global warming to local residents.",
           "example_vi": "Chúng tôi đã phát tờ rơi về sự nóng lên toàn cầu cho người dân địa phương."
@@ -1107,6 +1337,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmiːθeɪn/",
           "ipa_us": "/ˈmeθeɪn/",
+          "audio_uk": "audio/uk/methane.mp3",
+          "audio_us": "audio/us/methane.mp3",
           "meaning": "khí methane (CH4)",
           "example": "Cattle farming produces a large amount of methane.",
           "example_vi": "Chăn nuôi gia súc thải ra một lượng lớn khí mê-tan."
@@ -1116,6 +1348,8 @@
           "pos": "n",
           "ipa_uk": "/pəˈluːtənt/",
           "ipa_us": "/pəˈluːtənt/",
+          "audio_uk": "audio/uk/pollutant.mp3",
+          "audio_us": "audio/us/pollutant.mp3",
           "meaning": "chất gây ô nhiễm",
           "example": "Factories release pollutants into the air and water.",
           "example_vi": "Các nhà máy thải chất gây ô nhiễm vào không khí và nguồn nước."
@@ -1125,6 +1359,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈliːs/",
           "ipa_us": "/riˈliːs/",
+          "audio_uk": "audio/uk/release.mp3",
+          "audio_us": "audio/us/release.mp3",
           "meaning": "thoát ra, phát thải",
           "example": "Cars release harmful gases into the atmosphere.",
           "example_vi": "Ô tô thải ra các loại khí độc hại vào bầu khí quyển."
@@ -1134,6 +1370,8 @@
           "pos": "adj",
           "ipa_uk": "/rɪˈnjuːəbl/",
           "ipa_us": "/riˈnuːəbəl/",
+          "audio_uk": "audio/uk/renewable.mp3",
+          "audio_us": "audio/us/renewable.mp3",
           "meaning": "tái tạo",
           "example": "Solar power is a clean and renewable source of energy.",
           "example_vi": "Năng lượng mặt trời là một nguồn năng lượng sạch và có thể tái tạo."
@@ -1143,6 +1381,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsiː levl/",
           "ipa_us": "/ˈsiː ˌlevəl/",
+          "audio_uk": "audio/uk/sea-level.mp3",
+          "audio_us": "audio/us/sea-level.mp3",
           "meaning": "mực nước biển",
           "example": "Rising sea levels threaten coastal cities.",
           "example_vi": "Mực nước biển dâng đe dọa các thành phố ven biển."
@@ -1152,6 +1392,8 @@
           "pos": "n",
           "ipa_uk": "/sɔɪl/",
           "ipa_us": "/sɔɪl/",
+          "audio_uk": "audio/uk/soil.mp3",
+          "audio_us": "audio/us/soil.mp3",
           "meaning": "đất trồng",
           "example": "Rising sea levels can bring salt water into the soil and kill crops.",
           "example_vi": "Mực nước biển dâng có thể đưa nước mặn vào đất và làm chết cây trồng."
@@ -1161,6 +1403,8 @@
           "pos": "n",
           "ipa_uk": "/sʊt/",
           "ipa_us": "/sʊt/",
+          "audio_uk": "audio/uk/soot.mp3",
+          "audio_us": "audio/us/soot.mp3",
           "meaning": "mồ / bồ hóng, muội",
           "example": "Soot from burning coal makes the ice darker, so it melts faster.",
           "example_vi": "Muội than từ việc đốt than đá làm băng sẫm màu hơn nên tan nhanh hơn."
@@ -1170,6 +1414,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtemprətʃə(r)/",
           "ipa_us": "/ˈtemprətʃɚ/",
+          "audio_uk": "audio/uk/temperature.mp3",
+          "audio_us": "audio/us/temperature.mp3",
           "meaning": "nhiệt độ",
           "example": "The Earth's average temperature has risen over the past century.",
           "example_vi": "Nhiệt độ trung bình của Trái Đất đã tăng lên trong thế kỷ qua."
@@ -1179,6 +1425,8 @@
           "pos": "n",
           "ipa_uk": "/weɪst/",
           "ipa_us": "/weɪst/",
+          "audio_uk": "audio/uk/waste.mp3",
+          "audio_us": "audio/us/waste.mp3",
           "meaning": "rác, chất thải",
           "example": "Burning waste releases harmful gases into the air.",
           "example_vi": "Đốt rác thải ra các khí độc hại vào không khí."
@@ -1201,6 +1449,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈeɪnʃənt/",
           "ipa_us": "/ˈeɪnʃənt/",
+          "audio_uk": "audio/uk/ancient.mp3",
+          "audio_us": "audio/us/ancient.mp3",
           "meaning": "cổ kính",
           "example": "Hoi An is famous for its ancient houses and narrow streets.",
           "example_vi": "Hội An nổi tiếng với những ngôi nhà cổ và các con phố nhỏ hẹp."
@@ -1210,6 +1460,8 @@
           "pos": "v",
           "ipa_uk": "/əˈpriːʃieɪt/",
           "ipa_us": "/əˈpriːʃieɪt/",
+          "audio_uk": "audio/uk/appreciate.mp3",
+          "audio_us": "audio/us/appreciate.mp3",
           "meaning": "hiểu rõ giá trị, đánh giá cao",
           "example": "We should appreciate the cultural heritage left by our ancestors.",
           "example_vi": "Chúng ta nên trân trọng di sản văn hóa mà ông cha để lại."
@@ -1219,6 +1471,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪtədəl/",
           "ipa_us": "/ˈsɪtədel/",
+          "audio_uk": "audio/uk/citadel.mp3",
+          "audio_us": "audio/us/citadel.mp3",
           "meaning": "thành trì",
           "example": "The Imperial Citadel of Thang Long is a World Heritage Site.",
           "example_vi": "Hoàng thành Thăng Long là một Di sản Thế giới."
@@ -1228,6 +1482,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒmpleks/",
           "ipa_us": "/ˈkɑːmpleks/",
+          "audio_uk": "audio/uk/complex.mp3",
+          "audio_us": "audio/us/complex.mp3",
           "meaning": "quần thể, tổ hợp",
           "example": "The Complex of Hue Monuments attracts thousands of visitors every year.",
           "example_vi": "Quần thể di tích Cố đô Huế thu hút hàng nghìn du khách mỗi năm."
@@ -1237,6 +1493,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkraʊdfʌndɪŋ/",
           "ipa_us": "/ˈkraʊdfʌndɪŋ/",
+          "audio_uk": "audio/uk/crowdfunding.mp3",
+          "audio_us": "audio/us/crowdfunding.mp3",
           "meaning": "quyên góp, huy động vốn từ cộng đồng",
           "example": "The students used crowdfunding to raise money for restoring the old temple.",
           "example_vi": "Các bạn học sinh đã gây quỹ cộng đồng để quyên tiền trùng tu ngôi đền cổ."
@@ -1246,6 +1504,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfestɪv/",
           "ipa_us": "/ˈfestɪv/",
+          "audio_uk": "audio/uk/festive.mp3",
+          "audio_us": "audio/us/festive.mp3",
           "meaning": "thuộc về ngày lễ, có không khí lễ hội",
           "example": "The streets are full of festive lanterns during the Mid-Autumn Festival.",
           "example_vi": "Đường phố rực rỡ đèn lồng ngày hội trong dịp Tết Trung thu."
@@ -1255,6 +1515,8 @@
           "pos": "n",
           "ipa_uk": "/faɪn/",
           "ipa_us": "/faɪn/",
+          "audio_uk": "audio/uk/fine.mp3",
+          "audio_us": "audio/us/fine.mp3",
           "meaning": "tiền phạt",
           "example": "Visitors who damage the relics will have to pay a fine.",
           "example_vi": "Du khách làm hư hại di tích sẽ phải nộp phạt."
@@ -1264,6 +1526,8 @@
           "pos": "adj",
           "ipa_uk": "/fəʊk/",
           "ipa_us": "/foʊk/",
+          "audio_uk": "audio/uk/folk.mp3",
+          "audio_us": "audio/us/folk.mp3",
           "meaning": "thuộc về dân gian",
           "example": "Quan ho is a traditional folk song of Bac Ninh Province.",
           "example_vi": "Quan họ là một làn điệu dân ca truyền thống của tỉnh Bắc Ninh."
@@ -1273,6 +1537,8 @@
           "pos": "n",
           "ipa_uk": "/ˈherɪtɪdʒ/",
           "ipa_us": "/ˈherɪtɪdʒ/",
+          "audio_uk": "audio/uk/heritage.mp3",
+          "audio_us": "audio/us/heritage.mp3",
           "meaning": "di sản",
           "example": "It is our duty to protect our national heritage.",
           "example_vi": "Bảo vệ di sản dân tộc là nghĩa vụ của chúng ta."
@@ -1282,6 +1548,8 @@
           "pos": "adj",
           "ipa_uk": "/hɪˈstɒrɪk/",
           "ipa_us": "/hɪˈstɔːrɪk/",
+          "audio_uk": "audio/uk/historic.mp3",
+          "audio_us": "audio/us/historic.mp3",
           "meaning": "quan trọng, có giá trị lịch sử",
           "example": "The victory at Dien Bien Phu was a historic event.",
           "example_vi": "Chiến thắng Điện Biên Phủ là một sự kiện mang tính lịch sử."
@@ -1291,6 +1559,8 @@
           "pos": "adj",
           "ipa_uk": "/hɪˈstɒrɪkl/",
           "ipa_us": "/hɪˈstɔːrɪkəl/",
+          "audio_uk": "audio/uk/historical.mp3",
+          "audio_us": "audio/us/historical.mp3",
           "meaning": "thuộc về lịch sử, mang tính lịch sử",
           "example": "The museum displays many historical documents and objects.",
           "example_vi": "Bảo tàng trưng bày nhiều tài liệu và hiện vật lịch sử."
@@ -1300,6 +1570,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪmˈpɪəriəl/",
           "ipa_us": "/ˌɪmˈpɪriəl/",
+          "audio_uk": "audio/uk/imperial.mp3",
+          "audio_us": "audio/us/imperial.mp3",
           "meaning": "thuộc về hoàng tộc",
           "example": "Hue was the imperial capital of the Nguyen Dynasty.",
           "example_vi": "Huế từng là kinh đô của triều Nguyễn."
@@ -1309,6 +1581,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlændskeɪp/",
           "ipa_us": "/ˈlændskeɪp/",
+          "audio_uk": "audio/uk/landscape.mp3",
+          "audio_us": "audio/us/landscape.mp3",
           "meaning": "phong cảnh",
           "example": "Trang An is famous for its beautiful natural landscape.",
           "example_vi": "Tràng An nổi tiếng với phong cảnh thiên nhiên tuyệt đẹp."
@@ -1318,6 +1592,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪmstəʊn/",
           "ipa_us": "/ˈlaɪmstoʊn/",
+          "audio_uk": "audio/uk/limestone.mp3",
+          "audio_us": "audio/us/limestone.mp3",
           "meaning": "đá vôi",
           "example": "Ha Long Bay has thousands of limestone islands.",
           "example_vi": "Vịnh Hạ Long có hàng nghìn hòn đảo đá vôi."
@@ -1327,6 +1603,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmɒnjumənt/",
           "ipa_us": "/ˈmɑːnjuːmənt/",
+          "audio_uk": "audio/uk/monument.mp3",
+          "audio_us": "audio/us/monument.mp3",
           "meaning": "lăng mộ, đài kỷ niệm, công trình kiến trúc",
           "example": "The monument was built to honour soldiers who died in the war.",
           "example_vi": "Đài tưởng niệm được xây dựng để tưởng nhớ những người lính đã hy sinh trong chiến tranh."
@@ -1336,6 +1614,8 @@
           "pos": "n",
           "ipa_uk": "/pəˌfɔːmɪŋ ˈɑːts/",
           "ipa_us": "/pɚˌfɔːrmɪŋ ˈɑːrts/",
+          "audio_uk": "audio/uk/performing-arts.mp3",
+          "audio_us": "audio/us/performing-arts.mp3",
           "meaning": "nghệ thuật biểu diễn",
           "example": "Water puppetry is a traditional performing art of Viet Nam.",
           "example_vi": "Múa rối nước là một loại hình nghệ thuật biểu diễn truyền thống của Việt Nam."
@@ -1345,6 +1625,8 @@
           "pos": "v",
           "ipa_uk": "/prɪˈzɜːv/",
           "ipa_us": "/prɪˈzɝːv/",
+          "audio_uk": "audio/uk/preserve.mp3",
+          "audio_us": "audio/us/preserve.mp3",
           "meaning": "bảo tồn",
           "example": "Young people should help preserve traditional folk music.",
           "example_vi": "Giới trẻ nên góp phần gìn giữ âm nhạc dân gian truyền thống."
@@ -1354,6 +1636,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈstɔː(r)/",
           "ipa_us": "/rɪˈstɔːr/",
+          "audio_uk": "audio/uk/restore.mp3",
+          "audio_us": "audio/us/restore.mp3",
           "meaning": "khôi phục, sửa lại",
           "example": "The old pagoda was restored after the storm.",
           "example_vi": "Ngôi chùa cổ đã được trùng tu sau cơn bão."
@@ -1363,6 +1647,8 @@
           "pos": "n",
           "ipa_uk": "/steɪt/",
           "ipa_us": "/steɪt/",
+          "audio_uk": "audio/uk/state.mp3",
+          "audio_us": "audio/us/state.mp3",
           "meaning": "hiện trạng, tình trạng",
           "example": "Many old buildings in the ancient town are in a poor state.",
           "example_vi": "Nhiều toà nhà cổ trong phố cổ đang ở trong tình trạng xuống cấp."
@@ -1372,6 +1658,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtempl/",
           "ipa_us": "/ˈtempəl/",
+          "audio_uk": "audio/uk/temple.mp3",
+          "audio_us": "audio/us/temple.mp3",
           "meaning": "đền, miếu",
           "example": "The Temple of Literature is considered Viet Nam's first university.",
           "example_vi": "Văn Miếu được xem là trường đại học đầu tiên của Việt Nam."
@@ -1381,6 +1669,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈtrendɪŋ/",
           "ipa_us": "/ˈtrendɪŋ/",
+          "audio_uk": "audio/uk/trending.mp3",
+          "audio_us": "audio/us/trending.mp3",
           "meaning": "theo xu hướng",
           "example": "Videos about Hoi An's lantern festival are trending on social media.",
           "example_vi": "Các video về lễ hội đèn lồng Hội An đang là xu hướng trên mạng xã hội."
@@ -1390,6 +1680,8 @@
           "pos": "n",
           "ipa_uk": "/ˈvæli/",
           "ipa_us": "/ˈvæli/",
+          "audio_uk": "audio/uk/valley.mp3",
+          "audio_us": "audio/us/valley.mp3",
           "meaning": "thung lũng",
           "example": "The heritage site lies in a beautiful valley surrounded by limestone mountains.",
           "example_vi": "Khu di sản nằm trong một thung lũng tuyệt đẹp được bao quanh bởi những ngọn núi đá vôi."
@@ -1412,6 +1704,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌækəˈdemɪk/",
           "ipa_us": "/ˌækəˈdemɪk/",
+          "audio_uk": "audio/uk/academic.mp3",
+          "audio_us": "audio/us/academic.mp3",
           "meaning": "có tính chất học thuật, liên quan tới học tập",
           "example": "Students with strong academic results can apply to top universities.",
           "example_vi": "Học sinh có kết quả học tập tốt có thể nộp hồ sơ vào các trường đại học hàng đầu."
@@ -1421,6 +1715,8 @@
           "pos": "n",
           "ipa_uk": "/əˈprentɪʃɪp/",
           "ipa_us": "/əˈprentəsʃɪp/",
+          "audio_uk": "audio/uk/apprenticeship.mp3",
+          "audio_us": "audio/us/apprenticeship.mp3",
           "meaning": "thời gian học nghề, học việc thực tế",
           "example": "An apprenticeship allows you to earn money while learning a trade.",
           "example_vi": "Học việc cho phép bạn vừa kiếm tiền vừa học nghề."
@@ -1430,6 +1726,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbætʃələz dɪɡriː/",
           "ipa_us": "/ˈbætʃəlɚz dɪˌɡriː/",
+          "audio_uk": "audio/uk/bachelor-s-degree.mp3",
+          "audio_us": "audio/us/bachelor-s-degree.mp3",
           "meaning": "bằng cử nhân",
           "example": "It usually takes four years to get a bachelor's degree.",
           "example_vi": "Thường phải mất bốn năm để lấy bằng cử nhân."
@@ -1439,6 +1737,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbrəʊʃə(r)/",
           "ipa_us": "/broʊˈʃʊr/",
+          "audio_uk": "audio/uk/brochure.mp3",
+          "audio_us": "audio/us/brochure.mp3",
           "meaning": "ấn phẩm quảng cáo, giới thiệu",
           "example": "I picked up a few university brochures at the education fair.",
           "example_vi": "Tôi đã lấy vài cuốn sách giới thiệu về các trường đại học tại ngày hội tư vấn tuyển sinh."
@@ -1448,6 +1748,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdɒktərət/",
           "ipa_us": "/ˈdɑːktɚət/",
+          "audio_uk": "audio/uk/doctorate.mp3",
+          "audio_us": "audio/us/doctorate.mp3",
           "meaning": "bằng tiến sĩ",
           "example": "She is doing a doctorate in biology at a university in Australia.",
           "example_vi": "Cô ấy đang học tiến sĩ ngành sinh học tại một trường đại học ở Úc."
@@ -1457,6 +1759,8 @@
           "pos": "n",
           "ipa_uk": "/ˈentrəns ɪɡzæm/",
           "ipa_us": "/ˈentrəns ɪɡˌzæm/",
+          "audio_uk": "audio/uk/entrance-exam-n.mp3",
+          "audio_us": "audio/us/entrance-exam-n.mp3",
           "meaning": "kì thi đầu vào",
           "example": "She studied hard to pass the university entrance exam.",
           "example_vi": "Cô ấy đã học hành chăm chỉ để vượt qua kỳ thi tuyển sinh đại học."
@@ -1466,6 +1770,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfɔːml/",
           "ipa_us": "/ˈfɔːrməl/",
+          "audio_uk": "audio/uk/formal.mp3",
+          "audio_us": "audio/us/formal.mp3",
           "meaning": "chính quy, có hệ thống",
           "example": "Some people prefer learning a trade to receiving formal education.",
           "example_vi": "Một số người thích học nghề hơn là theo học chính quy."
@@ -1475,6 +1781,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɡrædʒuˈeɪʃn/",
           "ipa_us": "/ˌɡrædʒuˈeɪʃən/",
+          "audio_uk": "audio/uk/graduation.mp3",
+          "audio_us": "audio/us/graduation.mp3",
           "meaning": "khi tốt nghiệp, lễ tốt nghiệp",
           "example": "After graduation, he found a job at a software company.",
           "example_vi": "Sau khi tốt nghiệp, anh ấy tìm được việc làm tại một công ty phần mềm."
@@ -1484,6 +1792,8 @@
           "pos": "n",
           "ipa_uk": "/ˌhaɪər edʒuˈkeɪʃn/",
           "ipa_us": "/ˌhaɪɚ ˌedʒjuːˈkeɪʃən/",
+          "audio_uk": "audio/uk/higher-education.mp3",
+          "audio_us": "audio/us/higher-education.mp3",
           "meaning": "giáo dục đại học",
           "example": "Higher education can open up more career opportunities.",
           "example_vi": "Giáo dục đại học có thể mở ra nhiều cơ hội nghề nghiệp hơn."
@@ -1493,6 +1803,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɪnstɪˈtjuːʃn/",
           "ipa_us": "/ˌɪnstɪˈtuːʃən/",
+          "audio_uk": "audio/uk/institution.mp3",
+          "audio_us": "audio/us/institution.mp3",
           "meaning": "cơ sở, viện (đào tạo)",
           "example": "This institution offers a wide range of courses for school-leavers.",
           "example_vi": "Cơ sở giáo dục này cung cấp nhiều khóa học cho học sinh vừa tốt nghiệp phổ thông."
@@ -1502,6 +1814,8 @@
           "pos": "v",
           "ipa_uk": "/ˈmænɪdʒ/",
           "ipa_us": "/ˈmænɪdʒ/",
+          "audio_uk": "audio/uk/manage.mp3",
+          "audio_us": "audio/us/manage.mp3",
           "meaning": "cố gắng (làm được việc gì đó)",
           "example": "She managed to study and work part-time at the same time.",
           "example_vi": "Cô ấy đã xoay xở vừa học vừa làm thêm bán thời gian."
@@ -1511,6 +1825,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmɑːstəz dɪɡriː/",
           "ipa_us": "/ˈmæstɚz dɪˌɡriː/",
+          "audio_uk": "audio/uk/master-s-degree.mp3",
+          "audio_us": "audio/us/master-s-degree.mp3",
           "meaning": "bằng thạc sĩ",
           "example": "He wants to get a master's degree after finishing university.",
           "example_vi": "Anh ấy muốn lấy bằng thạc sĩ sau khi học xong đại học."
@@ -1520,6 +1836,8 @@
           "pos": "n",
           "ipa_uk": "/məˈkænɪk/",
           "ipa_us": "/məˈkænɪk/",
+          "audio_uk": "audio/uk/mechanic.mp3",
+          "audio_us": "audio/us/mechanic.mp3",
           "meaning": "thợ cơ khí",
           "example": "My brother trained as a mechanic at a vocational school.",
           "example_vi": "Anh trai tôi được đào tạo thành thợ cơ khí tại một trường dạy nghề."
@@ -1529,6 +1847,8 @@
           "pos": "adj",
           "ipa_uk": "/prəˈfeʃənl/",
           "ipa_us": "/prəˈfeʃənəl/",
+          "audio_uk": "audio/uk/professional.mp3",
+          "audio_us": "audio/us/professional.mp3",
           "meaning": "chuyên nghiệp, nhà nghề",
           "example": "You need professional training to become a chef.",
           "example_vi": "Bạn cần được đào tạo chuyên nghiệp để trở thành đầu bếp."
@@ -1538,6 +1858,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkwɒlɪfɪˈkeɪʃn/",
           "ipa_us": "/ˌkwɑːləfəˈkeɪʃən/",
+          "audio_uk": "audio/uk/qualification.mp3",
+          "audio_us": "audio/us/qualification.mp3",
           "meaning": "trình độ chuyên môn, văn bằng",
           "example": "Good qualifications will help you find a well-paid job.",
           "example_vi": "Bằng cấp tốt sẽ giúp bạn tìm được một công việc lương cao."
@@ -1547,6 +1869,8 @@
           "pos": "n",
           "ipa_uk": "/ˈskuːl liːvə(r)/",
           "ipa_us": "/ˈskuːl ˌliːvɚ/",
+          "audio_uk": "audio/uk/school-leaver.mp3",
+          "audio_us": "audio/us/school-leaver.mp3",
           "meaning": "học sinh tốt nghiệp trung học phổ thông",
           "example": "Many school-leavers choose to go to university.",
           "example_vi": "Nhiều học sinh vừa tốt nghiệp phổ thông chọn học đại học."
@@ -1556,6 +1880,8 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪksθ fɔːm kɒlɪdʒ/",
           "ipa_us": "/ˈsɪksθ fɔːrm ˌkɑːlɪdʒ/",
+          "audio_uk": "audio/uk/sixth-form-college.mp3",
+          "audio_us": "audio/us/sixth-form-college.mp3",
           "meaning": "trường dành cho học sinh từ 16-19 tuổi và tập trung vào các trình độ A-levels nhằm chuẩn bị cho sinh viên vào các trường đại học",
           "example": "In the UK, many students study at a sixth-form college before going to university.",
           "example_vi": "Ở Anh, nhiều học sinh học tại trường dự bị đại học trước khi vào đại học."
@@ -1565,6 +1891,8 @@
           "pos": "n",
           "ipa_uk": "/vəʊˈkeɪʃənl skuːl/",
           "ipa_us": "/voʊˈkeɪʃənəl skuːl/",
+          "audio_uk": "audio/uk/vocational-school.mp3",
+          "audio_us": "audio/us/vocational-school.mp3",
           "meaning": "trường dạy nghề",
           "example": "She went to a vocational school to become a hairdresser.",
           "example_vi": "Cô ấy vào học trường dạy nghề để trở thành thợ làm tóc."
@@ -1587,6 +1915,8 @@
           "pos": "v",
           "ipa_uk": "/əˈtʃiːv/",
           "ipa_us": "/əˈtʃiːv/",
+          "audio_uk": "audio/uk/achieve.mp3",
+          "audio_us": "audio/us/achieve.mp3",
           "meaning": "đạt được, giành được",
           "example": "You need to work hard to achieve your goals.",
           "example_vi": "Bạn cần làm việc chăm chỉ để đạt được mục tiêu của mình."
@@ -1596,6 +1926,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌkæri ˈaʊt/",
           "ipa_us": "/ˌkæri ˈaʊt/",
+          "audio_uk": "audio/uk/carry-out-phr-v.mp3",
+          "audio_us": "audio/us/carry-out-phr-v.mp3",
           "meaning": "tiến hành",
           "example": "We carried out a survey on teenagers' life skills.",
           "example_vi": "Chúng tôi đã tiến hành một cuộc khảo sát về kỹ năng sống của thanh thiếu niên."
@@ -1605,6 +1937,8 @@
           "pos": "v",
           "ipa_uk": "/kəmˈbaɪn/",
           "ipa_us": "/kəmˈbaɪn/",
+          "audio_uk": "audio/uk/combine.mp3",
+          "audio_us": "audio/us/combine.mp3",
           "meaning": "kết hợp",
           "example": "It's not easy to combine studying with a part-time job.",
           "example_vi": "Kết hợp việc học với công việc bán thời gian không hề dễ dàng."
@@ -1614,6 +1948,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌkʌm ˈʌp wɪð/",
           "ipa_us": "/ˌkʌm ˈʌp wɪð/",
+          "audio_uk": "audio/uk/come-up-with-phr-v.mp3",
+          "audio_us": "audio/us/come-up-with-phr-v.mp3",
           "meaning": "nghĩ ra, nảy ra",
           "example": "She came up with a great idea to save money.",
           "example_vi": "Cô ấy đã nghĩ ra một ý tưởng tuyệt vời để tiết kiệm tiền."
@@ -1623,6 +1959,8 @@
           "pos": "n",
           "ipa_uk": "/ˈkɒnfɪdəns/",
           "ipa_us": "/ˈkɑːnfədəns/",
+          "audio_uk": "audio/uk/confidence.mp3",
+          "audio_us": "audio/us/confidence.mp3",
           "meaning": "sự tự tin",
           "example": "Living away from home helped him gain confidence.",
           "example_vi": "Sống xa nhà đã giúp anh ấy trở nên tự tin hơn."
@@ -1632,6 +1970,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈkɒnfɪdənt/",
           "ipa_us": "/ˈkɑːnfədənt/",
+          "audio_uk": "audio/uk/confident.mp3",
+          "audio_us": "audio/us/confident.mp3",
           "meaning": "tự tin",
           "example": "She feels confident enough to travel alone.",
           "example_vi": "Cô ấy đủ tự tin để đi du lịch một mình."
@@ -1641,6 +1981,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˈdiːl wɪð/",
           "ipa_us": "/ˈdiːl wɪð/",
+          "audio_uk": "audio/uk/deal-with.mp3",
+          "audio_us": "audio/us/deal-with.mp3",
           "meaning": "giải quyết, đối phó",
           "example": "Independent teenagers know how to deal with problems on their own.",
           "example_vi": "Những thanh thiếu niên độc lập biết cách tự giải quyết vấn đề."
@@ -1650,6 +1992,8 @@
           "pos": "n",
           "ipa_uk": "/dɪˈsɪʒn meɪkɪŋ skɪl/",
           "ipa_us": "/dɪˈsɪʒən ˌmeɪkɪŋ skɪl/",
+          "audio_uk": "audio/uk/decision-making-skill.mp3",
+          "audio_us": "audio/us/decision-making-skill.mp3",
           "meaning": "kĩ năng đưa ra quyết định",
           "example": "Living alone helps teenagers improve their decision making skills.",
           "example_vi": "Sống một mình giúp thanh thiếu niên cải thiện kĩ năng đưa ra quyết định."
@@ -1659,6 +2003,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌɡet əˈraʊnd/",
           "ipa_us": "/ˌɡet əˈraʊnd/",
+          "audio_uk": "audio/uk/get-around-phr-v.mp3",
+          "audio_us": "audio/us/get-around-phr-v.mp3",
           "meaning": "đi lại",
           "example": "Knowing how to use public transport helps you get around on your own.",
           "example_vi": "Biết cách sử dụng phương tiện giao thông công cộng giúp bạn tự đi lại."
@@ -1668,6 +2014,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌɡet ˈɪntə ðə ˈhæbɪt əv/",
           "ipa_us": "/ˌɡet ˈɪntə ðə ˈhæbət əv/",
+          "audio_uk": "audio/uk/get-into-the-habit-of.mp3",
+          "audio_us": "audio/us/get-into-the-habit-of.mp3",
           "meaning": "tạo thói quen",
           "example": "I've got into the habit of making my bed every morning.",
           "example_vi": "Tôi đã tập được thói quen dọn giường mỗi sáng."
@@ -1677,6 +2025,8 @@
           "pos": "n",
           "ipa_uk": "/ˌɪndɪˈpendəns/",
           "ipa_us": "/ˌɪndɪˈpendəns/",
+          "audio_uk": "audio/uk/independence.mp3",
+          "audio_us": "audio/us/independence.mp3",
           "meaning": "sự độc lập",
           "example": "Getting a part-time job gave her a sense of independence.",
           "example_vi": "Có được một công việc làm thêm đã mang lại cho cô ấy cảm giác độc lập."
@@ -1686,6 +2036,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌɪndɪˈpendənt/",
           "ipa_us": "/ˌɪndɪˈpendənt/",
+          "audio_uk": "audio/uk/independent.mp3",
+          "audio_us": "audio/us/independent.mp3",
           "meaning": "độc lập, không lệ thuộc",
           "example": "Teenagers want to become more independent.",
           "example_vi": "Thanh thiếu niên muốn trở nên độc lập hơn."
@@ -1695,6 +2047,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɜːnə(r)/",
           "ipa_us": "/ˈlɝːnɚ/",
+          "audio_uk": "audio/uk/learner.mp3",
+          "audio_us": "audio/us/learner.mp3",
           "meaning": "người học",
           "example": "Independent learners take responsibility for their own studies.",
           "example_vi": "Những người học độc lập tự chịu trách nhiệm về việc học của mình."
@@ -1704,6 +2058,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɜːnɪŋ ɡəʊl/",
           "ipa_us": "/ˈlɝːnɪŋ ɡoʊl/",
+          "audio_uk": "audio/uk/learning-goal.mp3",
+          "audio_us": "audio/us/learning-goal.mp3",
           "meaning": "mục tiêu học tập",
           "example": "Setting clear learning goals helps you stay motivated.",
           "example_vi": "Đặt ra những mục tiêu học tập rõ ràng giúp bạn duy trì động lực."
@@ -1713,6 +2069,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪf skɪl/",
           "ipa_us": "/ˈlaɪf skɪl/",
+          "audio_uk": "audio/uk/life-skill.mp3",
+          "audio_us": "audio/us/life-skill.mp3",
           "meaning": "kĩ năng sống",
           "example": "Cooking is an important life skill for teenagers.",
           "example_vi": "Nấu ăn là một kỹ năng sống quan trọng đối với thanh thiếu niên."
@@ -1722,6 +2080,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌmeɪk ˈjuːs əv/",
           "ipa_us": "/ˌmeɪk ˈjuːs əv/",
+          "audio_uk": "audio/uk/make-use-of.mp3",
+          "audio_us": "audio/us/make-use-of.mp3",
           "meaning": "tận dụng",
           "example": "You should make use of your free time to learn new skills.",
           "example_vi": "Bạn nên tận dụng thời gian rảnh để học những kỹ năng mới."
@@ -1731,6 +2091,8 @@
           "pos": "v",
           "ipa_uk": "/ˈmænɪdʒ/",
           "ipa_us": "/ˈmænɪdʒ/",
+          "audio_uk": "audio/uk/manage.mp3",
+          "audio_us": "audio/us/manage.mp3",
           "meaning": "quản lí",
           "example": "She manages her time well, so she is never late for school.",
           "example_vi": "Cô ấy quản lý thời gian tốt nên không bao giờ đi học muộn."
@@ -1740,6 +2102,8 @@
           "pos": "v",
           "ipa_uk": "/ˈmeʒə(r)/",
           "ipa_us": "/ˈmeʒɚ/",
+          "audio_uk": "audio/uk/measure.mp3",
+          "audio_us": "audio/us/measure.mp3",
           "meaning": "đo",
           "example": "It's important to measure your progress towards your goals.",
           "example_vi": "Điều quan trọng là phải đo lường sự tiến bộ của bạn trong việc đạt được mục tiêu."
@@ -1749,6 +2113,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌni ˌmænɪdʒmənt skɪl/",
           "ipa_us": "/ˈmʌni ˌmænɪdʒmənt skɪl/",
+          "audio_uk": "audio/uk/money-management-skill.mp3",
+          "audio_us": "audio/us/money-management-skill.mp3",
           "meaning": "kĩ năng quản lí tiền",
           "example": "Money management skills help teenagers avoid spending too much.",
           "example_vi": "Kỹ năng quản lý tiền bạc giúp thanh thiếu niên tránh tiêu xài quá mức."
@@ -1758,6 +2124,8 @@
           "pos": "n",
           "ipa_uk": "/ˌnɒn ˈstɪk kənˈteɪnə(r)/",
           "ipa_us": "/ˌnɑːn ˈstɪk kənˈteɪnɚ/",
+          "audio_uk": "audio/uk/non-stick-container.mp3",
+          "audio_us": "audio/us/non-stick-container.mp3",
           "meaning": "nồi chống dính",
           "example": "Cook the eggs in a non-stick container with a little oil.",
           "example_vi": "Hãy nấu trứng trong nồi chống dính với một chút dầu ăn."
@@ -1767,6 +2135,8 @@
           "pos": "v",
           "ipa_uk": "/rɪˈmuːv/",
           "ipa_us": "/riˈmuːv/",
+          "audio_uk": "audio/uk/remove.mp3",
+          "audio_us": "audio/us/remove.mp3",
           "meaning": "lấy ra, loại bỏ",
           "example": "Use this liquid to remove stains from your clothes.",
           "example_vi": "Hãy dùng dung dịch này để tẩy vết bẩn trên quần áo."
@@ -1776,6 +2146,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˌspɒnsəˈbɪləti/",
           "ipa_us": "/riˌspɑːnsəˈbɪləti/",
+          "audio_uk": "audio/uk/responsibility.mp3",
+          "audio_us": "audio/us/responsibility.mp3",
           "meaning": "sự chịu trách nhiệm, trách nhiệm",
           "example": "Doing household chores teaches children a sense of responsibility.",
           "example_vi": "Làm việc nhà dạy cho trẻ em tinh thần trách nhiệm."
@@ -1785,6 +2157,8 @@
           "pos": "adj",
           "ipa_uk": "/rɪˈspɒnsəbl/",
           "ipa_us": "/riˈspɑːnsəbəl/",
+          "audio_uk": "audio/uk/responsible.mp3",
+          "audio_us": "audio/us/responsible.mp3",
           "meaning": "có trách nhiệm",
           "example": "Independent teenagers are responsible for their own actions.",
           "example_vi": "Những thanh thiếu niên độc lập tự chịu trách nhiệm về hành động của mình."
@@ -1794,6 +2168,8 @@
           "pos": "n",
           "ipa_uk": "/ˈraɪs ˌkʊkə(r)/",
           "ipa_us": "/ˈraɪs ˌkʊkɚ/",
+          "audio_uk": "audio/uk/rice-cooker.mp3",
+          "audio_us": "audio/us/rice-cooker.mp3",
           "meaning": "nồi cơm điện",
           "example": "Put the rice and water into the rice cooker and press the button.",
           "example_vi": "Cho gạo và nước vào nồi cơm điện rồi nhấn nút."
@@ -1803,6 +2179,8 @@
           "pos": "adj",
           "ipa_uk": "/ˌself ˈməʊtɪveɪtɪd/",
           "ipa_us": "/ˌself ˈmoʊtəveɪtəd/",
+          "audio_uk": "audio/uk/self-motivated.mp3",
+          "audio_us": "audio/us/self-motivated.mp3",
           "meaning": "có động lực, năng nổ",
           "example": "Self-motivated students don't need anyone to remind them to study.",
           "example_vi": "Những học sinh có động lực tự thân không cần ai nhắc nhở việc học."
@@ -1812,6 +2190,8 @@
           "pos": "n",
           "ipa_uk": "/ˌself ˈstʌdi/",
           "ipa_us": "/ˌself ˈstʌdi/",
+          "audio_uk": "audio/uk/self-study.mp3",
+          "audio_us": "audio/us/self-study.mp3",
           "meaning": "sự tự học",
           "example": "Self-study is an important skill for independent learners.",
           "example_vi": "Tự học là một kỹ năng quan trọng đối với những người học độc lập."
@@ -1821,6 +2201,8 @@
           "pos": "n",
           "ipa_uk": "/ˈtaɪm ˌmænɪdʒmənt skɪl/",
           "ipa_us": "/ˈtaɪm ˌmænɪdʒmənt skɪl/",
+          "audio_uk": "audio/uk/time-management-skill.mp3",
+          "audio_us": "audio/us/time-management-skill.mp3",
           "meaning": "kĩ năng quản lí thời gian",
           "example": "Good time management skills help students reduce stress.",
           "example_vi": "Kỹ năng quản lý thời gian tốt giúp học sinh giảm căng thẳng."
@@ -1843,6 +2225,8 @@
           "pos": "v",
           "ipa_uk": "/ədˈmɪt/",
           "ipa_us": "/ədˈmɪt/",
+          "audio_uk": "audio/uk/admit.mp3",
+          "audio_us": "audio/us/admit.mp3",
           "meaning": "thú nhận",
           "example": "He finally admitted that he had bullied his classmate.",
           "example_vi": "Cuối cùng cậu ta đã thừa nhận rằng mình đã bắt nạt bạn cùng lớp."
@@ -1852,6 +2236,8 @@
           "pos": "n",
           "ipa_uk": "/ˈælkəhɒl/",
           "ipa_us": "/ˈælkəhɑːl/",
+          "audio_uk": "audio/uk/alcohol.mp3",
+          "audio_us": "audio/us/alcohol.mp3",
           "meaning": "đồ uống có cồn (rượu, bia …)",
           "example": "It is illegal to sell alcohol to people under 18.",
           "example_vi": "Bán đồ uống có cồn cho người dưới 18 tuổi là vi phạm pháp luật."
@@ -1861,6 +2247,8 @@
           "pos": "n",
           "ipa_uk": "/æŋˈzaɪəti/",
           "ipa_us": "/æŋˈzaɪəti/",
+          "audio_uk": "audio/uk/anxiety.mp3",
+          "audio_us": "audio/us/anxiety.mp3",
           "meaning": "sự lo lắng",
           "example": "Exam pressure can cause anxiety among students.",
           "example_vi": "Áp lực thi cử có thể gây ra sự lo âu ở học sinh."
@@ -1870,6 +2258,8 @@
           "pos": "adj",
           "ipa_uk": "/əˈʃeɪmd/",
           "ipa_us": "/əˈʃeɪmd/",
+          "audio_uk": "audio/uk/ashamed.mp3",
+          "audio_us": "audio/us/ashamed.mp3",
           "meaning": "xấu hổ",
           "example": "Victims of bullying often feel too ashamed to tell anyone.",
           "example_vi": "Nạn nhân của bắt nạt thường quá xấu hổ để kể với bất kỳ ai."
@@ -1879,6 +2269,8 @@
           "pos": "n",
           "ipa_uk": "/əˈweənəs/",
           "ipa_us": "/əˈwernəs/",
+          "audio_uk": "audio/uk/awareness.mp3",
+          "audio_us": "audio/us/awareness.mp3",
           "meaning": "nhận thức",
           "example": "The campaign aims to raise awareness of cyberbullying.",
           "example_vi": "Chiến dịch nhằm nâng cao nhận thức về nạn bắt nạt trên mạng."
@@ -1888,6 +2280,8 @@
           "pos": "n",
           "ipa_uk": "/ˈbɒdi ˌʃeɪmɪŋ/",
           "ipa_us": "/ˈbɑːdi ˌʃeɪmɪŋ/",
+          "audio_uk": "audio/uk/body-shaming.mp3",
+          "audio_us": "audio/us/body-shaming.mp3",
           "meaning": "sự chế nhạo ngoại hình của người khác",
           "example": "Body shaming can seriously damage a teenager's self-confidence.",
           "example_vi": "Việc chê bai ngoại hình có thể làm tổn hại nghiêm trọng đến sự tự tin của thanh thiếu niên."
@@ -1897,6 +2291,8 @@
           "pos": "v",
           "ipa_uk": "/ˈbʊli/",
           "ipa_us": "/ˈbʊli/",
+          "audio_uk": "audio/uk/bully.mp3",
+          "audio_us": "audio/us/bully.mp3",
           "meaning": "bắt nạt",
           "example": "Some students are bullied because they look different.",
           "example_vi": "Một số học sinh bị bắt nạt vì có ngoại hình khác biệt."
@@ -1906,6 +2302,8 @@
           "pos": "n",
           "ipa_uk": "/kæmˈpeɪn/",
           "ipa_us": "/kæmˈpeɪn/",
+          "audio_uk": "audio/uk/campaign.mp3",
+          "audio_us": "audio/us/campaign.mp3",
           "meaning": "chiến dịch",
           "example": "The students started a campaign to stop littering in their neighbourhood.",
           "example_vi": "Các bạn học sinh đã phát động một chiến dịch chống xả rác trong khu phố của mình."
@@ -1915,6 +2313,8 @@
           "pos": "n",
           "ipa_uk": "/kraɪm/",
           "ipa_us": "/kraɪm/",
+          "audio_uk": "audio/uk/crime.mp3",
+          "audio_us": "audio/us/crime.mp3",
           "meaning": "tội phạm",
           "example": "Poverty and unemployment can lead to an increase in crime.",
           "example_vi": "Nghèo đói và thất nghiệp có thể dẫn đến sự gia tăng tội phạm."
@@ -1924,6 +2324,8 @@
           "pos": "n",
           "ipa_uk": "/dɪˈpreʃn/",
           "ipa_us": "/dɪˈpreʃən/",
+          "audio_uk": "audio/uk/depression.mp3",
+          "audio_us": "audio/us/depression.mp3",
           "meaning": "sự trầm cảm",
           "example": "Victims of bullying may suffer from depression.",
           "example_vi": "Nạn nhân của bắt nạt có thể mắc chứng trầm cảm."
@@ -1933,6 +2335,8 @@
           "pos": "n",
           "ipa_uk": "/drʌɡ/",
           "ipa_us": "/drʌɡ/",
+          "audio_uk": "audio/uk/drug.mp3",
+          "audio_us": "audio/us/drug.mp3",
           "meaning": "ma tuý",
           "example": "Taking drugs can destroy young people's health and future.",
           "example_vi": "Sử dụng ma túy có thể hủy hoại sức khỏe và tương lai của người trẻ."
@@ -1942,6 +2346,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌhæŋ ˈaʊt/",
           "ipa_us": "/ˌhæŋ ˈaʊt/",
+          "audio_uk": "audio/uk/hang-out.mp3",
+          "audio_us": "audio/us/hang-out.mp3",
           "meaning": "đi chơi",
           "example": "Teenagers like to hang out with their friends at weekends.",
           "example_vi": "Thanh thiếu niên thích đi chơi với bạn bè vào cuối tuần."
@@ -1951,6 +2357,8 @@
           "pos": "n",
           "ipa_uk": "/laɪ/",
           "ipa_us": "/laɪ/",
+          "audio_uk": "audio/uk/lie.mp3",
+          "audio_us": "audio/us/lie.mp3",
           "meaning": "lời nói dối",
           "example": "He told a lie to his parents about skipping school.",
           "example_vi": "Cậu ấy đã nói dối bố mẹ về việc trốn học."
@@ -1960,6 +2368,8 @@
           "pos": "phr",
           "ipa_uk": "/ˌmeɪk ˈfʌn əv/",
           "ipa_us": "/ˌmeɪk ˈfʌn əv/",
+          "audio_uk": "audio/uk/make-fun-of.mp3",
+          "audio_us": "audio/us/make-fun-of.mp3",
           "meaning": "trêu chọc, chế giễu",
           "example": "It's cruel to make fun of someone's appearance.",
           "example_vi": "Chế giễu ngoại hình của người khác là một hành động tàn nhẫn."
@@ -1969,6 +2379,8 @@
           "pos": "v",
           "ipa_uk": "/əˈbeɪ/",
           "ipa_us": "/oʊˈbeɪ/",
+          "audio_uk": "audio/uk/obey.mp3",
+          "audio_us": "audio/us/obey.mp3",
           "meaning": "tuân thủ",
           "example": "All students must obey the school rules.",
           "example_vi": "Tất cả học sinh phải tuân thủ nội quy của trường."
@@ -1978,6 +2390,8 @@
           "pos": "adj",
           "ipa_uk": "/əˈfensɪv/",
           "ipa_us": "/əˈfensɪv/",
+          "audio_uk": "audio/uk/offensive.mp3",
+          "audio_us": "audio/us/offensive.mp3",
           "meaning": "gây xúc phạm",
           "example": "Posting offensive comments online is a form of cyberbullying.",
           "example_vi": "Đăng những bình luận xúc phạm trên mạng là một hình thức bắt nạt trực tuyến."
@@ -1987,6 +2401,8 @@
           "pos": "n",
           "ipa_uk": "/ˌəʊvəˌpɒpjuˈleɪʃn/",
           "ipa_us": "/ˌoʊvɚˌpɑːpjəˈleɪʃən/",
+          "audio_uk": "audio/uk/overpopulation.mp3",
+          "audio_us": "audio/us/overpopulation.mp3",
           "meaning": "sự quá tải dân số",
           "example": "Overpopulation puts pressure on housing, schools and hospitals.",
           "example_vi": "Bùng nổ dân số gây áp lực lên nhà ở, trường học và bệnh viện."
@@ -1996,6 +2412,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpɪə preʃə(r)/",
           "ipa_us": "/ˈpɪr ˌpreʃɚ/",
+          "audio_uk": "audio/uk/peer-pressure-n.mp3",
+          "audio_us": "audio/us/peer-pressure-n.mp3",
           "meaning": "áp lực từ bạn bè",
           "example": "Many teenagers smoke because of peer pressure.",
           "example_vi": "Nhiều thanh thiếu niên hút thuốc vì áp lực từ bạn bè đồng trang lứa."
@@ -2005,6 +2423,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈfɪzɪkl/",
           "ipa_us": "/ˈfɪzɪkəl/",
+          "audio_uk": "audio/uk/physical.mp3",
+          "audio_us": "audio/us/physical.mp3",
           "meaning": "về mặt thể chất",
           "example": "Bullying can be physical, verbal or online.",
           "example_vi": "Bắt nạt có thể là bắt nạt thể chất, bằng lời nói hoặc trên mạng."
@@ -2014,6 +2434,8 @@
           "pos": "n",
           "ipa_uk": "/ˈpɒvəti/",
           "ipa_us": "/ˈpɑːvɚti/",
+          "audio_uk": "audio/uk/poverty.mp3",
+          "audio_us": "audio/us/poverty.mp3",
           "meaning": "sự nghèo đói",
           "example": "Millions of people around the world still live in poverty.",
           "example_vi": "Hàng triệu người trên thế giới vẫn đang sống trong cảnh nghèo đói."
@@ -2023,6 +2445,8 @@
           "pos": "n",
           "ipa_uk": "/prəˈpəʊzl/",
           "ipa_us": "/prəˈpoʊzəl/",
+          "audio_uk": "audio/uk/proposal.mp3",
+          "audio_us": "audio/us/proposal.mp3",
           "meaning": "lời / bản đề xuất",
           "example": "Our class made a proposal to reduce bullying at school.",
           "example_vi": "Lớp chúng tôi đã đưa ra một đề xuất nhằm giảm bắt nạt ở trường."
@@ -2032,6 +2456,8 @@
           "pos": "v",
           "ipa_uk": "/prəˈpəʊz/",
           "ipa_us": "/prəˈpoʊz/",
+          "audio_uk": "audio/uk/propose.mp3",
+          "audio_us": "audio/us/propose.mp3",
           "meaning": "đề xuất",
           "example": "I propose setting up a club to help students deal with stress.",
           "example_vi": "Tôi đề xuất thành lập một câu lạc bộ để giúp học sinh đối phó với căng thẳng."
@@ -2041,6 +2467,8 @@
           "pos": "n",
           "ipa_uk": "/ˌself ˈkɒnfɪdəns/",
           "ipa_us": "/ˌself ˈkɑːnfədəns/",
+          "audio_uk": "audio/uk/self-confidence.mp3",
+          "audio_us": "audio/us/self-confidence.mp3",
           "meaning": "sự tự tin vào bản thân",
           "example": "Joining clubs can help shy students build self-confidence.",
           "example_vi": "Tham gia câu lạc bộ có thể giúp những học sinh nhút nhát xây dựng sự tự tin."
@@ -2050,6 +2478,8 @@
           "pos": "v",
           "ipa_uk": "/skɪp/",
           "ipa_us": "/skɪp/",
+          "audio_uk": "audio/uk/skip.mp3",
+          "audio_us": "audio/us/skip.mp3",
           "meaning": "trốn, bỏ",
           "example": "He was punished for skipping classes to play computer games.",
           "example_vi": "Cậu ấy bị phạt vì trốn học để chơi điện tử."
@@ -2059,6 +2489,8 @@
           "pos": "phr v",
           "ipa_uk": "/ˌstænd ˈʌp tuː/",
           "ipa_us": "/ˌstænd ˈʌp tuː/",
+          "audio_uk": "audio/uk/stand-up-to.mp3",
+          "audio_us": "audio/us/stand-up-to.mp3",
           "meaning": "đứng lên chống lại",
           "example": "We should stand up to bullies instead of keeping silent.",
           "example_vi": "Chúng ta nên đứng lên chống lại những kẻ bắt nạt thay vì im lặng."
@@ -2068,6 +2500,8 @@
           "pos": "v",
           "ipa_uk": "/ˈstrʌɡl/",
           "ipa_us": "/ˈstrʌɡəl/",
+          "audio_uk": "audio/uk/struggle.mp3",
+          "audio_us": "audio/us/struggle.mp3",
           "meaning": "đấu tranh",
           "example": "Many families in the area are struggling to escape poverty.",
           "example_vi": "Nhiều gia đình trong khu vực đang đấu tranh để thoát nghèo."
@@ -2077,6 +2511,8 @@
           "pos": "idiom",
           "ipa_uk": "/ði ˌɒd wʌn ˈaʊt/",
           "ipa_us": "/ði ˌɑːd wʌn ˈaʊt/",
+          "audio_uk": "audio/uk/the-odd-one-out.mp3",
+          "audio_us": "audio/us/the-odd-one-out.mp3",
           "meaning": "kẻ / người khác biệt",
           "example": "She felt like the odd one out because she dressed differently.",
           "example_vi": "Cô ấy cảm thấy mình là người khác biệt vì ăn mặc khác mọi người."
@@ -2086,6 +2522,8 @@
           "pos": "n",
           "ipa_uk": "/ðə ˈpɒvəti laɪn/",
           "ipa_us": "/ðə ˈpɑːvɚti laɪn/",
+          "audio_uk": "audio/uk/the-poverty-line.mp3",
+          "audio_us": "audio/us/the-poverty-line.mp3",
           "meaning": "mức nghèo đói",
           "example": "Millions of people around the world still live below the poverty line.",
           "example_vi": "Hàng triệu người trên thế giới vẫn sống dưới mức nghèo đói."
@@ -2095,6 +2533,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈvɜːbl/",
           "ipa_us": "/ˈvɝːbəl/",
+          "audio_uk": "audio/uk/verbal.mp3",
+          "audio_us": "audio/us/verbal.mp3",
           "meaning": "bằng lời",
           "example": "Name-calling is a form of verbal bullying.",
           "example_vi": "Gọi người khác bằng biệt danh xấu là một hình thức bắt nạt bằng lời nói."
@@ -2104,6 +2544,8 @@
           "pos": "n",
           "ipa_uk": "/ˈvɪktɪm/",
           "ipa_us": "/ˈvɪktɪm/",
+          "audio_uk": "audio/uk/victim.mp3",
+          "audio_us": "audio/us/victim.mp3",
           "meaning": "nạn nhân",
           "example": "Victims of cyberbullying often feel lonely and afraid.",
           "example_vi": "Nạn nhân của bắt nạt trên mạng thường cảm thấy cô đơn và sợ hãi."
@@ -2113,6 +2555,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈvaɪələnt/",
           "ipa_us": "/ˈvaɪələnt/",
+          "audio_uk": "audio/uk/violent.mp3",
+          "audio_us": "audio/us/violent.mp3",
           "meaning": "sử dụng vũ lực, bạo lực",
           "example": "Watching violent films may make children more aggressive.",
           "example_vi": "Xem phim bạo lực có thể khiến trẻ em trở nên hung hăng hơn."
@@ -2135,6 +2579,8 @@
           "pos": "n",
           "ipa_uk": "/ˌbaɪəʊdaɪˈvɜːsəti/",
           "ipa_us": "/ˌbaɪoʊdaɪˈvɝːsəti/",
+          "audio_uk": "audio/uk/biodiversity.mp3",
+          "audio_us": "audio/us/biodiversity.mp3",
           "meaning": "đa dạng sinh học",
           "example": "Cuc Phuong National Park is rich in biodiversity.",
           "example_vi": "Vườn quốc gia Cúc Phương có sự đa dạng sinh học phong phú."
@@ -2144,6 +2590,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɒnsəˈveɪʃn/",
           "ipa_us": "/ˌkɑːnsɚˈveɪʃən/",
+          "audio_uk": "audio/uk/conservation.mp3",
+          "audio_us": "audio/us/conservation.mp3",
           "meaning": "sự bảo tồn thiên nhiên",
           "example": "Wildlife conservation is important for the balance of ecosystems.",
           "example_vi": "Bảo tồn động vật hoang dã có vai trò quan trọng đối với sự cân bằng của các hệ sinh thái."
@@ -2153,6 +2601,8 @@
           "pos": "n",
           "ipa_uk": "/ˌkɒrəl ˈriːf/",
           "ipa_us": "/ˌkɔːrəl ˈriːf/",
+          "audio_uk": "audio/uk/coral-reef-n.mp3",
+          "audio_us": "audio/us/coral-reef-n.mp3",
           "meaning": "rạn san hô",
           "example": "Coral reefs are home to thousands of marine species.",
           "example_vi": "Rạn san hô là nơi sinh sống của hàng nghìn loài sinh vật biển."
@@ -2162,6 +2612,8 @@
           "pos": "n",
           "ipa_uk": "/ˈdeltə/",
           "ipa_us": "/ˈdeltə/",
+          "audio_uk": "audio/uk/delta.mp3",
+          "audio_us": "audio/us/delta.mp3",
           "meaning": "đồng bằng",
           "example": "The Mekong Delta has a unique wetland ecosystem.",
           "example_vi": "Đồng bằng sông Cửu Long có một hệ sinh thái đất ngập nước độc đáo."
@@ -2171,6 +2623,8 @@
           "pos": "v",
           "ipa_uk": "/dɪˈstrɔɪ/",
           "ipa_us": "/dɪˈstrɔɪ/",
+          "audio_uk": "audio/uk/destroy.mp3",
+          "audio_us": "audio/us/destroy.mp3",
           "meaning": "phá huỷ",
           "example": "Forest fires destroy the habitats of many animals.",
           "example_vi": "Cháy rừng phá hủy môi trường sống của nhiều loài động vật."
@@ -2180,6 +2634,8 @@
           "pos": "n",
           "ipa_uk": "/ˈiːkəʊsɪstəm/",
           "ipa_us": "/ˈiːkoʊsɪstəm/",
+          "audio_uk": "audio/uk/ecosystem.mp3",
+          "audio_us": "audio/us/ecosystem.mp3",
           "meaning": "hệ sinh thái",
           "example": "Every species plays a role in the ecosystem.",
           "example_vi": "Mỗi loài đều đóng một vai trò trong hệ sinh thái."
@@ -2189,6 +2645,8 @@
           "pos": "adj",
           "ipa_uk": "/ɪnˈdeɪndʒəd/",
           "ipa_us": "/ɪnˈdeɪndʒɚd/",
+          "audio_uk": "audio/uk/endangered.mp3",
+          "audio_us": "audio/us/endangered.mp3",
           "meaning": "có nguy cơ tuyệt chủng, bị đe dọa",
           "example": "Pangolins are endangered because of illegal hunting.",
           "example_vi": "Tê tê đang có nguy cơ tuyệt chủng do nạn săn bắt trái phép."
@@ -2198,6 +2656,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfɔːnə/",
           "ipa_us": "/ˈfɑːnə/",
+          "audio_uk": "audio/uk/fauna.mp3",
+          "audio_us": "audio/us/fauna.mp3",
           "meaning": "động vật",
           "example": "The national park is home to a wide variety of fauna.",
           "example_vi": "Vườn quốc gia là nơi sinh sống của hệ động vật vô cùng phong phú."
@@ -2207,6 +2667,8 @@
           "pos": "n",
           "ipa_uk": "/ˈflɔːrə/",
           "ipa_us": "/ˈflɔːrə/",
+          "audio_uk": "audio/uk/flora.mp3",
+          "audio_us": "audio/us/flora.mp3",
           "meaning": "thực vật",
           "example": "Scientists are studying the flora of the tropical forest.",
           "example_vi": "Các nhà khoa học đang nghiên cứu hệ thực vật của khu rừng nhiệt đới."
@@ -2216,6 +2678,8 @@
           "pos": "n",
           "ipa_uk": "/ˈfuːd tʃeɪn/",
           "ipa_us": "/ˈfuːd tʃeɪn/",
+          "audio_uk": "audio/uk/food-chain.mp3",
+          "audio_us": "audio/us/food-chain.mp3",
           "meaning": "chuỗi thức ăn",
           "example": "If one species disappears, the whole food chain may be affected.",
           "example_vi": "Nếu một loài biến mất, toàn bộ chuỗi thức ăn có thể bị ảnh hưởng."
@@ -2225,6 +2689,8 @@
           "pos": "adj",
           "ipa_uk": "/ɡriːn/",
           "ipa_us": "/ɡriːn/",
+          "audio_uk": "audio/uk/green.mp3",
+          "audio_us": "audio/us/green.mp3",
           "meaning": "(lối sống) xanh",
           "example": "We should follow a green lifestyle to protect the ecosystem.",
           "example_vi": "Chúng ta nên theo đuổi lối sống xanh để bảo vệ hệ sinh thái."
@@ -2234,6 +2700,8 @@
           "pos": "n",
           "ipa_uk": "/ˈhæbɪtæt/",
           "ipa_us": "/ˈhæbətæt/",
+          "audio_uk": "audio/uk/habitat.mp3",
+          "audio_us": "audio/us/habitat.mp3",
           "meaning": "khu vực sống",
           "example": "Deforestation is destroying the natural habitat of many animals.",
           "example_vi": "Nạn phá rừng đang hủy hoại môi trường sống tự nhiên của nhiều loài động vật."
@@ -2243,6 +2711,8 @@
           "pos": "n",
           "ipa_uk": "/ˈlɪvɪŋ θɪŋz/",
           "ipa_us": "/ˈlɪvɪŋ θɪŋz/",
+          "audio_uk": "audio/uk/living-things.mp3",
+          "audio_us": "audio/us/living-things.mp3",
           "meaning": "các sinh vật sống",
           "example": "All living things depend on one another to survive.",
           "example_vi": "Mọi sinh vật sống đều phụ thuộc lẫn nhau để tồn tại."
@@ -2252,6 +2722,8 @@
           "pos": "n",
           "ipa_uk": "/ˈmæml/",
           "ipa_us": "/ˈmæməl/",
+          "audio_uk": "audio/uk/mammal.mp3",
+          "audio_us": "audio/us/mammal.mp3",
           "meaning": "động vật có vú",
           "example": "Whales are the largest mammals on Earth.",
           "example_vi": "Cá voi là loài động vật có vú lớn nhất trên Trái Đất."
@@ -2261,6 +2733,8 @@
           "pos": "n",
           "ipa_uk": "/ˌnæʃnəl ˈpɑːk/",
           "ipa_us": "/ˌnæʃnəl ˈpɑːrk/",
+          "audio_uk": "audio/uk/national-park.mp3",
+          "audio_us": "audio/us/national-park.mp3",
           "meaning": "vườn quốc gia",
           "example": "Cat Tien National Park is home to many rare animals.",
           "example_vi": "Vườn quốc gia Cát Tiên là nơi sinh sống của nhiều loài động vật quý hiếm."
@@ -2270,6 +2744,8 @@
           "pos": "adj",
           "ipa_uk": "/ˈneɪtɪv/",
           "ipa_us": "/ˈneɪtɪv/",
+          "audio_uk": "audio/uk/native.mp3",
+          "audio_us": "audio/us/native.mp3",
           "meaning": "tự nhiên",
           "example": "The red-shanked douc langur is native to the forests of Viet Nam.",
           "example_vi": "Voọc chà vá chân nâu là loài bản địa của các khu rừng Việt Nam."
@@ -2279,6 +2755,8 @@
           "pos": "n",
           "ipa_uk": "/ˌnætʃrəl rɪˈzɔːsɪz/",
           "ipa_us": "/ˌnætʃrəl ˈriːsɔːrsɪz/",
+          "audio_uk": "audio/uk/natural-resources.mp3",
+          "audio_us": "audio/us/natural-resources.mp3",
           "meaning": "tài nguyên thiên nhiên",
           "example": "We should use natural resources wisely to protect the ecosystem.",
           "example_vi": "Chúng ta nên sử dụng tài nguyên thiên nhiên một cách hợp lí để bảo vệ hệ sinh thái."
@@ -2288,6 +2766,8 @@
           "pos": "n",
           "ipa_uk": "/pæŋˈɡəʊlɪn/",
           "ipa_us": "/ˈpæŋɡəlɪn/",
+          "audio_uk": "audio/uk/pangolin.mp3",
+          "audio_us": "audio/us/pangolin.mp3",
           "meaning": "con tê tê",
           "example": "The pangolin is one of the most trafficked animals in the world.",
           "example_vi": "Tê tê là một trong những loài động vật bị buôn bán trái phép nhiều nhất thế giới."
@@ -2297,6 +2777,8 @@
           "pos": "n",
           "ipa_uk": "/rɪˈsɔːs/",
           "ipa_us": "/ˈriːsɔːrs/",
+          "audio_uk": "audio/uk/resource.mp3",
+          "audio_us": "audio/us/resource.mp3",
           "meaning": "nguồn lực",
           "example": "We must use natural resources wisely.",
           "example_vi": "Chúng ta phải sử dụng tài nguyên thiên nhiên một cách khôn ngoan."
@@ -2306,6 +2788,8 @@
           "pos": "n",
           "ipa_uk": "/ˈspiːʃiːz/",
           "ipa_us": "/ˈspiːʃiz/",
+          "audio_uk": "audio/uk/species.mp3",
+          "audio_us": "audio/us/species.mp3",
           "meaning": "loài",
           "example": "Many species of plants and animals are in danger of extinction.",
           "example_vi": "Nhiều loài thực vật và động vật đang có nguy cơ tuyệt chủng."
@@ -2315,6 +2799,8 @@
           "pos": "n",
           "ipa_uk": "/ˌtrɒpɪkl ˈfɒrɪst/",
           "ipa_us": "/ˌtrɑːpɪkəl ˈfɔːrɪst/",
+          "audio_uk": "audio/uk/tropical-forest.mp3",
+          "audio_us": "audio/us/tropical-forest.mp3",
           "meaning": "rừng nhiệt đới",
           "example": "Tropical forests are home to more than half of the world's species.",
           "example_vi": "Rừng nhiệt đới là nơi sinh sống của hơn một nửa số loài trên thế giới."
@@ -2324,6 +2810,8 @@
           "pos": "n",
           "ipa_uk": "/ˈwaɪldlaɪf/",
           "ipa_us": "/ˈwaɪldlaɪf/",
+          "audio_uk": "audio/uk/wildlife.mp3",
+          "audio_us": "audio/us/wildlife.mp3",
           "meaning": "động vật hoang dã",
           "example": "The national park is home to a lot of wildlife.",
           "example_vi": "Vườn quốc gia là nơi sinh sống của rất nhiều loài động vật hoang dã."
