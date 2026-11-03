@@ -1,194 +1,194 @@
-﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-4,1,My friends,sourced,friend,n,/frend/,/frend/,audio/uk/friend.mp3,audio/us/friend.mp3,"bạn, bạn bè",This is my friend Mary.
-4,1,My friends,sourced,America,n,/əˈmerɪkə/,/əˈmerɪkə/,audio/uk/america.mp3,audio/us/america.mp3,nước Mỹ,I'm from America.
-4,1,My friends,sourced,Australia,n,/ɒˈstreɪliə/,/ɑːˈstreɪljə/,audio/uk/australia.mp3,audio/us/australia.mp3,nước Úc,She's from Australia.
-4,1,My friends,sourced,Japan,n,/dʒəˈpæn/,/dʒəˈpæn/,audio/uk/japan.mp3,audio/us/japan.mp3,nước Nhật Bản,Mai is from Japan.
-4,1,My friends,sourced,Malaysia,n,/məˈleɪziə/,/məˈleɪʒə/,audio/uk/malaysia.mp3,audio/us/malaysia.mp3,nước Ma-lai-xi-a,I'm from Malaysia.
-4,1,My friends,sourced,Thailand,n,/ˈtaɪlænd/,/ˈtaɪlænd/,audio/uk/thailand.mp3,audio/us/thailand.mp3,nước Thái Lan,He's from Thailand.
-4,1,My friends,sourced,Viet Nam,n,/ˌvjet ˈnæm/,/viˌet ˈnæm/,audio/uk/viet-nam.mp3,audio/us/viet-nam.mp3,Việt Nam,I'm from Viet Nam.
-4,1,My friends,sourced,Vietnamese,adj,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,(người) Việt Nam,I'm Vietnamese.
-4,1,My friends,sourced,American,adj,/əˈmerɪkən/,/əˈmerɪkən/,audio/uk/american.mp3,audio/us/american.mp3,(người) Mỹ,He's American.
-4,1,My friends,sourced,Australian,adj,/ɒˈstreɪliən/,/ɑːˈstreɪljən/,audio/uk/australian.mp3,audio/us/australian.mp3,(người) Úc,She's Australian.
-4,1,My friends,sourced,Japanese,adj,/ˌdʒæpəˈniːz/,/ˌdʒæpəˈniːz/,audio/uk/japanese.mp3,audio/us/japanese.mp3,(người) Nhật Bản,I'm Japanese.
-4,1,My friends,sourced,Malaysian,adj,/məˈleɪziən/,/məˈleɪʒən/,audio/uk/malaysian.mp3,audio/us/malaysian.mp3,(người) Ma-lai-xi-a,She's Malaysian.
-4,1,My friends,sourced,where are you from?,phr,/ˌweər ɑː juː ˈfrɒm/,/ˌwer ɑːr juː ˈfrʌm/,audio/uk/where-are-you-from.mp3,audio/us/where-are-you-from.mp3,bạn đến từ đâu?,Where are you from? – I'm from Australia.
-4,1,My friends,sourced,what nationality are you?,phr,/ˌwɒt ˌnæʃəˈnæləti ɑː juː/,/ˌwʌt ˌnæʃəˈnæləti ɑːr juː/,audio/uk/what-nationality-are-you.mp3,audio/us/what-nationality-are-you.mp3,bạn là người nước nào?,What nationality are you? – I'm Vietnamese.
-4,2,Time and daily routines,sourced,time,n,/taɪm/,/taɪm/,audio/uk/time.mp3,audio/us/time.mp3,"thời gian, giờ",What time is it?
-4,2,Time and daily routines,sourced,o'clock,adv,/əˈklɒk/,/əˈklɑːk/,audio/uk/o-clock.mp3,audio/us/o-clock.mp3,(giờ) đúng,It's seven o'clock.
-4,2,Time and daily routines,sourced,fifteen,num,/ˌfɪfˈtiːn/,/fɪfˈtiːn/,audio/uk/fifteen.mp3,audio/us/fifteen.mp3,mười lăm,It's seven fifteen.
-4,2,Time and daily routines,sourced,thirty,num,/ˈθɜːti/,/ˈθɝːti/,audio/uk/thirty.mp3,audio/us/thirty.mp3,ba mươi,It's six thirty.
-4,2,Time and daily routines,sourced,what time is it?,phr,/ˌwɒt ˈtaɪm ɪz ɪt/,/ˌwʌt ˈtaɪm ɪz ɪt/,audio/uk/what-time-is-it.mp3,audio/us/what-time-is-it.mp3,mấy giờ rồi?,What time is it? – It's ten thirty.
-4,2,Time and daily routines,sourced,get up,phr v,/ˌɡet ˈʌp/,/ˌɡet ˈʌp/,audio/uk/get-up.mp3,audio/us/get-up.mp3,thức dậy,I get up at six fifteen.
-4,2,Time and daily routines,sourced,have breakfast,phr,/ˌhæv ˈbrekfəst/,/ˌhæv ˈbrekfəst/,audio/uk/have-breakfast.mp3,audio/us/have-breakfast.mp3,ăn sáng,I have breakfast at seven fifteen.
-4,2,Time and daily routines,sourced,go to bed,phr,/ˌɡəʊ tə ˈbed/,/ˌɡoʊ tə ˈbed/,audio/uk/go-to-bed.mp3,audio/us/go-to-bed.mp3,đi ngủ,I go to bed at nine thirty.
-4,2,Time and daily routines,sourced,what time do you ...?,phr,/ˌwɒt ˈtaɪm də juː/,/ˌwʌt ˈtaɪm duː juː .../,audio/uk/what-time-do-you.mp3,audio/us/what-time-do-you.mp3,bạn ... lúc mấy giờ?,What time do you go to bed?
-4,3,My week,sourced,week,n,/wiːk/,/wiːk/,audio/uk/week.mp3,audio/us/week.mp3,tuần,
-4,3,My week,sourced,Monday,n,/ˈmʌndeɪ/,/ˈmʌndeɪ/,audio/uk/monday.mp3,audio/us/monday.mp3,thứ Hai,I go to school on Monday.
-4,3,My week,sourced,Tuesday,n,/ˈtjuːzdeɪ/,/ˈtuːzdeɪ/,audio/uk/tuesday.mp3,audio/us/tuesday.mp3,thứ Ba,
-4,3,My week,sourced,Wednesday,n,/ˈwenzdeɪ/,/ˈwenzdeɪ/,audio/uk/wednesday.mp3,audio/us/wednesday.mp3,thứ Tư,
-4,3,My week,sourced,Thursday,n,/ˈθɜːzdeɪ/,/ˈθɝːzdeɪ/,audio/uk/thursday.mp3,audio/us/thursday.mp3,thứ Năm,
-4,3,My week,sourced,Friday,n,/ˈfraɪdeɪ/,/ˈfraɪdeɪ/,audio/uk/friday.mp3,audio/us/friday.mp3,thứ Sáu,
-4,3,My week,sourced,Saturday,n,/ˈsætədeɪ/,/ˈsætɚdeɪ/,audio/uk/saturday.mp3,audio/us/saturday.mp3,thứ Bảy,
-4,3,My week,sourced,Sunday,n,/ˈsʌndeɪ/,/ˈsʌndeɪ/,audio/uk/sunday.mp3,audio/us/sunday.mp3,Chủ nhật,I watch TV on Sundays.
-4,3,My week,sourced,weekend,n,/ˌwiːkˈend/,/ˈwiːkend/,audio/uk/weekend.mp3,audio/us/weekend.mp3,cuối tuần,I listen to music at the weekend.
-4,3,My week,sourced,go to school,phr,/ˌɡəʊ tə ˈskuːl/,/ˌɡoʊ tə ˈskuːl/,audio/uk/go-to-school.mp3,audio/us/go-to-school.mp3,đi học,I go to school from Monday to Friday.
-4,3,My week,sourced,study at school,phr,/ˌstʌdi ət ˈskuːl/,/ˌstʌdi æt ˈskuːl/,audio/uk/study-at-school.mp3,audio/us/study-at-school.mp3,học ở trường,I study at school on Mondays.
-4,3,My week,sourced,do housework,phr,/ˌduː ˈhaʊswɜːk/,/ˌduː ˈhaʊswɝːk/,audio/uk/do-housework.mp3,audio/us/do-housework.mp3,làm việc nhà,I do housework on Saturdays.
-4,3,My week,sourced,listen to music,phr,/ˌlɪsn tə ˈmjuːzɪk/,/ˌlɪsən tə ˈmjuːzɪk/,audio/uk/listen-to-music.mp3,audio/us/listen-to-music.mp3,nghe nhạc,I listen to music on Sundays.
-4,3,My week,sourced,watch TV,phr,/ˌwɒtʃ ˌtiː ˈviː/,/ˌwɑːtʃ ˌtiː ˈviː/,audio/uk/watch-tv.mp3,audio/us/watch-tv.mp3,xem ti vi,I watch TV on Sundays.
-4,3,My week,sourced,what do you do on ...?,phr,/ˌwɒt də juː ˈduː ɒn/,/ˌwʌt duː juː ˈduː ɑːn .../,audio/uk/what-do-you-do-on.mp3,audio/us/what-do-you-do-on.mp3,bạn làm gì vào (thứ) ...?,What do you do on Saturdays?
-4,4,My birthday party,sourced,birthday,n,/ˈbɜːθdeɪ/,/ˈbɝːθdeɪ/,audio/uk/birthday.mp3,audio/us/birthday.mp3,sinh nhật,When's your birthday?
-4,4,My birthday party,sourced,party,n,/ˈpɑːti/,/ˈpɑːrti/,audio/uk/party.mp3,audio/us/party.mp3,bữa tiệc,Welcome to my birthday party.
-4,4,My birthday party,sourced,January,n,/ˈdʒænjuəri/,/ˈdʒænjueri/,audio/uk/january.mp3,audio/us/january.mp3,tháng Một,My birthday is in January.
-4,4,My birthday party,sourced,February,n,/ˈfebruəri/,/ˈfebrueri/,audio/uk/february.mp3,audio/us/february.mp3,tháng Hai,It's in February.
-4,4,My birthday party,sourced,March,n,/mɑːtʃ/,/mɑːrtʃ/,audio/uk/march.mp3,audio/us/march.mp3,tháng Ba,
-4,4,My birthday party,sourced,April,n,/ˈeɪprəl/,/ˈeɪprəl/,audio/uk/april.mp3,audio/us/april.mp3,tháng Tư,
-4,4,My birthday party,sourced,May,n,/meɪ/,/meɪ/,audio/uk/may.mp3,audio/us/may.mp3,tháng Năm,
-4,4,My birthday party,sourced,June,n,/dʒuːn/,/dʒuːn/,audio/uk/june.mp3,audio/us/june.mp3,tháng Sáu,
-4,4,My birthday party,sourced,July,n,/dʒuˈlaɪ/,/ˌdʒuːˈlaɪ/,audio/uk/july.mp3,audio/us/july.mp3,tháng Bảy,
-4,4,My birthday party,sourced,August,n,/ˈɔːɡəst/,/ˈɑːɡəst/,audio/uk/august.mp3,audio/us/august.mp3,tháng Tám,
-4,4,My birthday party,sourced,September,n,/sepˈtembə(r)/,/sepˈtembɚ/,audio/uk/september.mp3,audio/us/september.mp3,tháng Chín,
-4,4,My birthday party,sourced,October,n,/ɒkˈtəʊbə(r)/,/ɑːkˈtoʊbɚ/,audio/uk/october.mp3,audio/us/october.mp3,tháng Mười,
-4,4,My birthday party,sourced,November,n,/nəʊˈvembə(r)/,/noʊˈvembɚ/,audio/uk/november.mp3,audio/us/november.mp3,tháng Mười một,
-4,4,My birthday party,sourced,December,n,/dɪˈsembə(r)/,/dɪˈsembɚ/,audio/uk/december.mp3,audio/us/december.mp3,tháng Mười hai,
-4,4,My birthday party,sourced,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,audio/uk/water.mp3,audio/us/water.mp3,nước,I want some water.
-4,4,My birthday party,sourced,lemonade,n,/ˌleməˈneɪd/,/ˌleməˈneɪd/,audio/uk/lemonade.mp3,audio/us/lemonade.mp3,nước chanh,I want some lemonade.
-4,4,My birthday party,sourced,juice,n,/dʒuːs/,/dʒuːs/,audio/uk/juice.mp3,audio/us/juice.mp3,nước ép,I'd like some orange juice.
-4,4,My birthday party,sourced,grapes,n,/ɡreɪps/,/ɡreɪps/,audio/uk/grapes.mp3,audio/us/grapes.mp3,quả nho,I want some grapes.
-4,4,My birthday party,sourced,chips,n,/tʃɪps/,/tʃɪps/,audio/uk/chips.mp3,audio/us/chips.mp3,khoai tây chiên,My favourite party food is chips.
-4,4,My birthday party,sourced,when's your birthday?,phr,/ˌwenz jɔː ˈbɜːθdeɪ/,/ˌwenz jɔːr ˈbɝːθdeɪ/,audio/uk/when-s-your-birthday.mp3,audio/us/when-s-your-birthday.mp3,sinh nhật của bạn vào khi nào?,When's your birthday? – It's in March.
-4,4,My birthday party,sourced,what do you want to drink?,phr,/ˌwɒt də juː ˈwɒnt tə ˈdrɪŋk/,/ˌwʌt duː juː ˈwɑːnt tə ˈdrɪŋk/,audio/uk/what-do-you-want-to-drink.mp3,audio/us/what-do-you-want-to-drink.mp3,bạn muốn uống gì?,What do you want to drink? – I want some water.
-4,5,Things we can do,sourced,can,modal v,/kæn/,/kæn/,audio/uk/can.mp3,audio/us/can.mp3,có thể,I can swim.
-4,5,Things we can do,sourced,cook,v,/kʊk/,/kʊk/,audio/uk/cook.mp3,audio/us/cook.mp3,nấu ăn,My sister can cook.
-4,5,Things we can do,sourced,swim,v,/swɪm/,/swɪm/,audio/uk/swim.mp3,audio/us/swim.mp3,bơi,"Can you swim? – Yes, I can."
-4,5,Things we can do,sourced,sing,v,/sɪŋ/,/sɪŋ/,audio/uk/sing.mp3,audio/us/sing.mp3,hát,I can sing.
-4,5,Things we can do,sourced,draw,v,/drɔː/,/drɑː/,audio/uk/draw.mp3,audio/us/draw.mp3,vẽ,She can draw.
-4,5,Things we can do,sourced,play the piano,phr,/ˌpleɪ ðə piˈænəʊ/,/ˌpleɪ ðə piˈænoʊ/,audio/uk/play-the-piano.mp3,audio/us/play-the-piano.mp3,chơi đàn pi-a-nô,Can you play the piano?
-4,5,Things we can do,sourced,play table tennis,phr,/ˌpleɪ ˈteɪbl tenɪs/,/ˌpleɪ ˈteɪbəl ˌtenɪs/,audio/uk/play-table-tennis.mp3,audio/us/play-table-tennis.mp3,chơi bóng bàn,He can play table tennis.
-4,5,Things we can do,sourced,ride a bike,phr,/ˌraɪd ə ˈbaɪk/,/ˌraɪd ə ˈbaɪk/,audio/uk/ride-a-bike.mp3,audio/us/ride-a-bike.mp3,đi xe đạp,I can ride a bike.
-4,5,Things we can do,sourced,can you ...?,phr,/ˈkæn juː/,/ˈkæn juː .../,audio/uk/can-you.mp3,audio/us/can-you.mp3,bạn có thể ... không?,"Can you cook? – No, I can't."
-4,6,Our school facilities,sourced,school facilities,n,/ˈskuːl fəˈsɪlətiz/,/ˈskuːl fəˈsɪlətiz/,audio/uk/school-facilities.mp3,audio/us/school-facilities.mp3,cơ sở vật chất của trường,
-4,6,Our school facilities,sourced,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,My school is in the city.
-4,6,Our school facilities,sourced,town,n,/taʊn/,/taʊn/,audio/uk/town.mp3,audio/us/town.mp3,thị trấn,It's in the town.
-4,6,Our school facilities,sourced,village,n,/ˈvɪlɪdʒ/,/ˈvɪlɪdʒ/,audio/uk/village.mp3,audio/us/village.mp3,làng quê,It's in the village.
-4,6,Our school facilities,sourced,mountains,n,/ˈmaʊntənz/,/ˈmaʊntənz/,audio/uk/mountains.mp3,audio/us/mountains.mp3,vùng núi,My school is in the mountains.
-4,6,Our school facilities,sourced,building,n,/ˈbɪldɪŋ/,/ˈbɪldɪŋ/,audio/uk/building.mp3,audio/us/building.mp3,tòa nhà,There are two buildings.
-4,6,Our school facilities,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,audio/uk/computer-room.mp3,audio/us/computer-room.mp3,phòng máy tính,There is a computer room.
-4,6,Our school facilities,sourced,garden,n,/ˈɡɑːdn/,/ˈɡɑːrdən/,audio/uk/garden.mp3,audio/us/garden.mp3,khu vườn,There is a garden with many flowers.
-4,6,Our school facilities,sourced,where's your school?,phr,/ˌweəz jɔː ˈskuːl/,/ˌwerz jɔːr ˈskuːl/,audio/uk/where-s-your-school.mp3,audio/us/where-s-your-school.mp3,trường của bạn ở đâu?,Where's your school? – It's in the village.
-4,7,Our timetables,sourced,timetable,n,/ˈtaɪmteɪbl/,/ˈtaɪmteɪbəl/,audio/uk/timetable.mp3,audio/us/timetable.mp3,thời khóa biểu,Look at our timetable.
-4,7,Our timetables,sourced,subject,n,/ˈsʌbdʒɪkt/,/ˈsʌbdʒɪkt/,audio/uk/subject.mp3,audio/us/subject.mp3,môn học,What subjects do you have today?
-4,7,Our timetables,sourced,art,n,/ɑːt/,/ɑːrt/,audio/uk/art.mp3,audio/us/art.mp3,môn Mỹ thuật,I have art on Tuesdays.
-4,7,Our timetables,sourced,English,n,/ˈɪŋɡlɪʃ/,/ˈɪŋɡlɪʃ/,audio/uk/english.mp3,audio/us/english.mp3,môn Tiếng Anh,I have English and Vietnamese.
-4,7,Our timetables,sourced,maths,n,/mæθs/,/mæθs/,audio/uk/maths.mp3,audio/us/maths.mp3,môn Toán,We have maths today.
-4,7,Our timetables,sourced,music,n,/ˈmjuːzɪk/,/ˈmjuːzɪk/,audio/uk/music.mp3,audio/us/music.mp3,môn Âm nhạc,Do you have music on Thursdays?
-4,7,Our timetables,sourced,science,n,/ˈsaɪəns/,/ˈsaɪəns/,audio/uk/science.mp3,audio/us/science.mp3,môn Khoa học,I have science today.
-4,7,Our timetables,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,môn Tiếng Việt,I have Vietnamese on Mondays.
-4,7,Our timetables,sourced,today,adv,/təˈdeɪ/,/təˈdeɪ/,audio/uk/today.mp3,audio/us/today.mp3,hôm nay,What subjects do you have today?
-4,7,Our timetables,sourced,what subjects do you have today?,phr,/ˌwɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/,/ˌwʌt ˈsʌbdʒɪkts duː juː hæv təˈdeɪ/,audio/uk/what-subjects-do-you-have-today.mp3,audio/us/what-subjects-do-you-have-today.mp3,hôm nay bạn có những môn học nào?,What subjects do you have today? – I have maths and English.
-4,8,My favourite subjects,sourced,favourite,adj,/ˈfeɪvərɪt/,/ˈfeɪvɚɪt/,audio/uk/favourite.mp3,audio/us/favourite.mp3,yêu thích nhất,My favourite subject is art.
-4,8,My favourite subjects,sourced,subject,n,/ˈsʌbdʒɪkt/,/ˈsʌbdʒɪkt/,audio/uk/subject.mp3,audio/us/subject.mp3,môn học,What's your favourite subject?
-4,8,My favourite subjects,sourced,art,n,/ɑːt/,/ɑːrt/,audio/uk/art.mp3,audio/us/art.mp3,môn Mỹ thuật,I like art.
-4,8,My favourite subjects,sourced,IT,n,/ˌaɪ ˈtiː/,/ˌaɪ ˈtiː/,audio/uk/it.mp3,audio/us/it.mp3,môn Tin học,My favourite subject is IT.
-4,8,My favourite subjects,sourced,PE,n,/ˌpiː ˈiː/,/ˌpiː ˈiː/,audio/uk/pe.mp3,audio/us/pe.mp3,môn Giáo dục thể chất,I like PE.
-4,8,My favourite subjects,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,môn Tiếng Việt,My favourite subjects are Vietnamese and English.
-4,8,My favourite subjects,sourced,painter,n,/ˈpeɪntə(r)/,/ˈpeɪntɚ/,audio/uk/painter.mp3,audio/us/painter.mp3,họa sĩ,I want to be a painter.
-4,8,My favourite subjects,sourced,because,conj,/bɪˈkɒz/,/bɪˈkɑːz/,audio/uk/because.mp3,audio/us/because.mp3,bởi vì,I like art because I want to be a painter.
-4,8,My favourite subjects,sourced,every day,phr,/ˌevri ˈdeɪ/,/ˌevri ˈdeɪ/,audio/uk/every-day.mp3,audio/us/every-day.mp3,hằng ngày,I have Vietnamese every day.
-4,8,My favourite subjects,sourced,twice,adv,/twaɪs/,/twaɪs/,audio/uk/twice.mp3,audio/us/twice.mp3,hai lần,I have IT twice a week.
-4,8,My favourite subjects,sourced,what's your favourite subject?,phr,/ˌwɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/,/ˌwʌts jɔːr ˈfeɪvɚɪt ˈsʌbdʒɪkt/,audio/uk/what-s-your-favourite-subject.mp3,audio/us/what-s-your-favourite-subject.mp3,môn học yêu thích của bạn là gì?,What's your favourite subject? – It's maths.
-4,9,Our sports day,sourced,sports day,n,/ˈspɔːts deɪ/,/ˈspɔːrts deɪ/,audio/uk/sports-day.mp3,audio/us/sports-day.mp3,ngày hội thể thao,Our sports day is in October.
-4,9,Our sports day,sourced,basketball,n,/ˈbɑːskɪtbɔːl/,/ˈbæskətbɑːl/,audio/uk/basketball.mp3,audio/us/basketball.mp3,bóng rổ,We play basketball on sports day.
-4,9,Our sports day,sourced,football,n,/ˈfʊtbɔːl/,/ˈfʊtbɑːl/,audio/uk/football.mp3,audio/us/football.mp3,bóng đá,They play football.
-4,9,Our sports day,sourced,roller skate,v,/ˈrəʊlə skeɪt/,/ˈroʊlɚ skeɪt/,audio/uk/roller-skate.mp3,audio/us/roller-skate.mp3,trượt pa-tanh,She can roller skate.
-4,9,Our sports day,sourced,April,n,/ˈeɪprəl/,/ˈeɪprəl/,audio/uk/april.mp3,audio/us/april.mp3,tháng Tư,Is your sports day in April?
-4,9,Our sports day,sourced,May,n,/meɪ/,/meɪ/,audio/uk/may.mp3,audio/us/may.mp3,tháng Năm,It's in May.
-4,9,Our sports day,sourced,June,n,/dʒuːn/,/dʒuːn/,audio/uk/june.mp3,audio/us/june.mp3,tháng Sáu,Is your sports day in June?
-4,9,Our sports day,sourced,September,n,/sepˈtembə(r)/,/sepˈtembɚ/,audio/uk/september.mp3,audio/us/september.mp3,tháng Chín,
-4,9,Our sports day,sourced,October,n,/ɒkˈtəʊbə(r)/,/ɑːkˈtoʊbɚ/,audio/uk/october.mp3,audio/us/october.mp3,tháng Mười,Our sports day is in October.
-4,9,Our sports day,sourced,November,n,/nəʊˈvembə(r)/,/noʊˈvembɚ/,audio/uk/november.mp3,audio/us/november.mp3,tháng Mười một,
-4,9,Our sports day,sourced,December,n,/dɪˈsembə(r)/,/dɪˈsembɚ/,audio/uk/december.mp3,audio/us/december.mp3,tháng Mười hai,
-4,9,Our sports day,sourced,when's your sports day?,phr,/ˌwenz jɔː ˈspɔːts deɪ/,/ˌwenz jɔːr ˈspɔːrts deɪ/,audio/uk/when-s-your-sports-day.mp3,audio/us/when-s-your-sports-day.mp3,ngày hội thể thao của bạn vào khi nào?,When's your sports day? – It's in November.
-4,10,Our summer holidays,unverified,summer holiday,n,/ˌsʌmə ˈhɒlədeɪ/,/ˌsʌmɚ ˈhɑːlədeɪ/,audio/uk/summer-holiday.mp3,audio/us/summer-holiday.mp3,kỳ nghỉ hè,
-4,10,Our summer holidays,unverified,last summer,phr,/ˌlɑːst ˈsʌmə(r)/,/ˌlæst ˈsʌmɚ/,audio/uk/last-summer.mp3,audio/us/last-summer.mp3,mùa hè năm ngoái,Where were you last summer?
-4,10,Our summer holidays,unverified,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,I was at the beach.
-4,10,Our summer holidays,unverified,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,I was in the countryside.
-4,10,Our summer holidays,unverified,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,I was at a campsite.
-4,10,Our summer holidays,unverified,where were you ...?,phr,/ˈweə wɜː juː/,/ˈwer wɝː juː .../,audio/uk/where-were-you.mp3,audio/us/where-were-you.mp3,bạn đã ở đâu ...?,Where were you last summer?
-4,11,My home,unverified,home,n,/həʊm/,/hoʊm/,audio/uk/home.mp3,audio/us/home.mp3,"nhà, tổ ấm",
-4,11,My home,unverified,live,v,/lɪv/,/lɪv/,audio/uk/live.mp3,audio/us/live.mp3,sống,I live in a big house.
-4,11,My home,unverified,street,n,/striːt/,/striːt/,audio/uk/street.mp3,audio/us/street.mp3,đường phố,I live in Tran Phu Street.
-4,11,My home,unverified,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,It's on a quiet road.
-4,11,My home,unverified,busy,adj,/ˈbɪzi/,/ˈbɪzi/,audio/uk/busy.mp3,audio/us/busy.mp3,"đông đúc, nhộn nhịp",The street is busy.
-4,11,My home,unverified,quiet,adj,/ˈkwaɪət/,/ˈkwaɪət/,audio/uk/quiet.mp3,audio/us/quiet.mp3,yên tĩnh,The road is quiet.
-4,11,My home,unverified,noisy,adj,/ˈnɔɪzi/,/ˈnɔɪzi/,audio/uk/noisy.mp3,audio/us/noisy.mp3,ồn ào,The street is noisy.
-4,11,My home,unverified,where do you live?,phr,/ˌweə də juː ˈlɪv/,/ˌwer duː juː ˈlɪv/,audio/uk/where-do-you-live.mp3,audio/us/where-do-you-live.mp3,bạn sống ở đâu?,Where do you live? – I live in Hai Ba Trung Street.
-4,12,Jobs,unverified,job,n,/dʒɒb/,/dʒɑːb/,audio/uk/job.mp3,audio/us/job.mp3,"nghề nghiệp, công việc",
-4,12,Jobs,unverified,farmer,n,/ˈfɑːmə(r)/,/ˈfɑːrmɚ/,audio/uk/farmer.mp3,audio/us/farmer.mp3,nông dân,He's a farmer.
-4,12,Jobs,unverified,nurse,n,/nɜːs/,/nɝːs/,audio/uk/nurse.mp3,audio/us/nurse.mp3,y tá,She's a nurse.
-4,12,Jobs,unverified,office worker,n,/ˈɒfɪs wɜːkə(r)/,/ˈɑːfɪs ˌwɝːkɚ/,audio/uk/office-worker.mp3,audio/us/office-worker.mp3,nhân viên văn phòng,My mother is an office worker.
-4,12,Jobs,unverified,worker,n,/ˈwɜːkə(r)/,/ˈwɝːkɚ/,audio/uk/worker.mp3,audio/us/worker.mp3,công nhân,He's a worker.
-4,12,Jobs,unverified,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,trang trại,He works on a farm.
-4,12,Jobs,unverified,hospital,n,/ˈhɒspɪtl/,/ˈhɑːspɪtəl/,audio/uk/hospital.mp3,audio/us/hospital.mp3,bệnh viện,She works in a hospital.
-4,12,Jobs,unverified,office,n,/ˈɒfɪs/,/ˈɑːfɪs/,audio/uk/office.mp3,audio/us/office.mp3,văn phòng,She works in an office.
-4,12,Jobs,unverified,factory,n,/ˈfæktri/,/ˈfæktɚi/,audio/uk/factory.mp3,audio/us/factory.mp3,nhà máy,He works in a factory.
-4,12,Jobs,unverified,where does he work?,phr,/ˌweə dəz hi ˈwɜːk/,/ˌwer dəz hiː ˈwɝːk/,audio/uk/where-does-he-work.mp3,audio/us/where-does-he-work.mp3,anh ấy làm việc ở đâu?,Where does he work? – He works in a factory.
-4,13,Appearance,unverified,appearance,n,/əˈpɪərəns/,/əˈpɪrəns/,audio/uk/appearance.mp3,audio/us/appearance.mp3,ngoại hình,
-4,13,Appearance,unverified,tall,adj,/tɔːl/,/tɑːl/,audio/uk/tall.mp3,audio/us/tall.mp3,cao,He's tall.
-4,13,Appearance,unverified,short,adj,/ʃɔːt/,/ʃɔːrt/,audio/uk/short.mp3,audio/us/short.mp3,thấp; ngắn,She has short hair.
-4,13,Appearance,unverified,slim,adj,/slɪm/,/slɪm/,audio/uk/slim.mp3,audio/us/slim.mp3,"mảnh khảnh, thon thả",She's slim.
-4,13,Appearance,unverified,big,adj,/bɪɡ/,/bɪɡ/,audio/uk/big.mp3,audio/us/big.mp3,"to, lớn",He's big.
-4,13,Appearance,unverified,long,adj,/lɒŋ/,/lɑːŋ/,audio/uk/long.mp3,audio/us/long.mp3,dài,She has long hair.
-4,13,Appearance,unverified,hair,n,/heə(r)/,/her/,audio/uk/hair.mp3,audio/us/hair.mp3,tóc,She has long hair.
-4,13,Appearance,unverified,what does he look like?,phr,/ˌwɒt dəz hi ˈlʊk laɪk/,/ˌwʌt dəz hiː ˈlʊk laɪk/,audio/uk/what-does-he-look-like.mp3,audio/us/what-does-he-look-like.mp3,anh ấy trông như thế nào?,What does he look like? – He's tall.
-4,14,Daily activities,unverified,morning,n,/ˈmɔːnɪŋ/,/ˈmɔːrnɪŋ/,audio/uk/morning.mp3,audio/us/morning.mp3,buổi sáng,What do you do in the morning?
-4,14,Daily activities,unverified,afternoon,n,/ˌɑːftəˈnuːn/,/ˌæftɚˈnuːn/,audio/uk/afternoon.mp3,audio/us/afternoon.mp3,buổi chiều,I do my homework in the afternoon.
-4,14,Daily activities,unverified,evening,n,/ˈiːvnɪŋ/,/ˈiːvnɪŋ/,audio/uk/evening.mp3,audio/us/evening.mp3,buổi tối,I watch TV in the evening.
-4,14,Daily activities,unverified,wash the clothes,phr,/ˌwɒʃ ðə ˈkləʊðz/,/ˌwɑːʃ ðə ˈkloʊðz/,audio/uk/wash-the-clothes.mp3,audio/us/wash-the-clothes.mp3,giặt quần áo,My mother washes the clothes.
-4,14,Daily activities,unverified,wash the dishes,phr,/ˌwɒʃ ðə ˈdɪʃɪz/,/ˌwɑːʃ ðə ˈdɪʃɪz/,audio/uk/wash-the-dishes.mp3,audio/us/wash-the-dishes.mp3,rửa bát,I wash the dishes in the evening.
-4,14,Daily activities,unverified,cook dinner,phr,/ˌkʊk ˈdɪnə(r)/,/ˌkʊk ˈdɪnɚ/,audio/uk/cook-dinner.mp3,audio/us/cook-dinner.mp3,nấu bữa tối,My father cooks dinner.
-4,14,Daily activities,unverified,do homework,phr,/ˌduː ˈhəʊmwɜːk/,/ˌduː ˈhoʊmwɝːk/,audio/uk/do-homework.mp3,audio/us/do-homework.mp3,làm bài tập về nhà,I do homework in the afternoon.
-4,15,My family's weekends,unverified,weekend,n,/ˌwiːkˈend/,/ˈwiːkend/,audio/uk/weekend.mp3,audio/us/weekend.mp3,cuối tuần,What does your father do at the weekend?
-4,15,My family's weekends,unverified,go shopping,phr,/ˌɡəʊ ˈʃɒpɪŋ/,/ˌɡoʊ ˈʃɑːpɪŋ/,audio/uk/go-shopping.mp3,audio/us/go-shopping.mp3,đi mua sắm,My mother goes shopping.
-4,15,My family's weekends,unverified,go fishing,phr,/ˌɡəʊ ˈfɪʃɪŋ/,/ˌɡoʊ ˈfɪʃɪŋ/,audio/uk/go-fishing.mp3,audio/us/go-fishing.mp3,đi câu cá,My father goes fishing.
-4,15,My family's weekends,unverified,go swimming,phr,/ˌɡəʊ ˈswɪmɪŋ/,/ˌɡoʊ ˈswɪmɪŋ/,audio/uk/go-swimming.mp3,audio/us/go-swimming.mp3,đi bơi,My brother goes swimming.
-4,15,My family's weekends,unverified,cinema,n,/ˈsɪnəmə/,/ˈsɪnəmə/,audio/uk/cinema.mp3,audio/us/cinema.mp3,rạp chiếu phim,She's at the cinema.
-4,15,My family's weekends,unverified,swimming pool,n,/ˈswɪmɪŋ puːl/,/ˈswɪmɪŋ puːl/,audio/uk/swimming-pool.mp3,audio/us/swimming-pool.mp3,bể bơi,He's at the swimming pool.
-4,15,My family's weekends,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,/ˈʃɑːpɪŋ ˌsentɚ/,audio/uk/shopping-centre.mp3,audio/us/shopping-centre.mp3,trung tâm mua sắm,She's at the shopping centre.
-4,16,Weather,unverified,weather,n,/ˈweðə(r)/,/ˈweðɚ/,audio/uk/weather.mp3,audio/us/weather.mp3,thời tiết,What's the weather like today?
-4,16,Weather,unverified,sunny,adj,/ˈsʌni/,/ˈsʌni/,audio/uk/sunny.mp3,audio/us/sunny.mp3,có nắng,It's sunny.
-4,16,Weather,unverified,rainy,adj,/ˈreɪni/,/ˈreɪni/,audio/uk/rainy.mp3,audio/us/rainy.mp3,có mưa,It's rainy.
-4,16,Weather,unverified,windy,adj,/ˈwɪndi/,/ˈwɪndi/,audio/uk/windy.mp3,audio/us/windy.mp3,có gió,It's windy.
-4,16,Weather,unverified,cloudy,adj,/ˈklaʊdi/,/ˈklaʊdi/,audio/uk/cloudy.mp3,audio/us/cloudy.mp3,có mây,It's cloudy.
-4,16,Weather,unverified,hot,adj,/hɒt/,/hɑːt/,audio/uk/hot.mp3,audio/us/hot.mp3,nóng,It's hot.
-4,16,Weather,unverified,cold,adj,/kəʊld/,/koʊld/,audio/uk/cold.mp3,audio/us/cold.mp3,lạnh,It's cold.
-4,16,Weather,unverified,what's the weather like?,phr,/ˌwɒts ðə ˈweðə laɪk/,/ˌwʌts ðə ˈweðɚ laɪk/,audio/uk/what-s-the-weather-like.mp3,audio/us/what-s-the-weather-like.mp3,thời tiết thế nào?,What's the weather like? – It's sunny.
-4,17,In the city,unverified,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,I live in the city.
-4,17,In the city,unverified,go straight,phr,/ˌɡəʊ ˈstreɪt/,/ˌɡoʊ ˈstreɪt/,audio/uk/go-straight.mp3,audio/us/go-straight.mp3,đi thẳng,Go straight.
-4,17,In the city,unverified,turn left,phr,/ˌtɜːn ˈleft/,/ˌtɝːn ˈleft/,audio/uk/turn-left.mp3,audio/us/turn-left.mp3,rẽ trái,Turn left.
-4,17,In the city,unverified,turn right,phr,/ˌtɜːn ˈraɪt/,/ˌtɝːn ˈraɪt/,audio/uk/turn-right.mp3,audio/us/turn-right.mp3,rẽ phải,Turn right.
-4,17,In the city,unverified,next to,prep,/ˈnekst tə/,/ˈnekst tə/,audio/uk/next-to.mp3,audio/us/next-to.mp3,bên cạnh,It's next to the cinema.
-4,17,In the city,unverified,opposite,prep,/ˈɒpəzɪt/,/ˈɑːpəzət/,audio/uk/opposite.mp3,audio/us/opposite.mp3,đối diện,It's opposite the park.
-4,17,In the city,unverified,bookshop,n,/ˈbʊkʃɒp/,/ˈbʊkʃɑːp/,audio/uk/bookshop.mp3,audio/us/bookshop.mp3,hiệu sách,Where's the bookshop?
-4,17,In the city,unverified,supermarket,n,/ˈsuːpəmɑːkɪt/,/ˈsuːpɚmɑːrkɪt/,audio/uk/supermarket.mp3,audio/us/supermarket.mp3,siêu thị,The supermarket is next to the bookshop.
-4,18,At the shopping centre,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,/ˈʃɑːpɪŋ ˌsentɚ/,audio/uk/shopping-centre.mp3,audio/us/shopping-centre.mp3,trung tâm mua sắm,Let's go to the shopping centre.
-4,18,At the shopping centre,unverified,floor,n,/flɔː(r)/,/flɔːr/,audio/uk/floor.mp3,audio/us/floor.mp3,tầng,It's on the second floor.
-4,18,At the shopping centre,unverified,T-shirt,n,/ˈtiː ʃɜːt/,/ˈtiː ʃɝːt/,audio/uk/t-shirt.mp3,audio/us/t-shirt.mp3,áo phông,How much is the T-shirt?
-4,18,At the shopping centre,unverified,jacket,n,/ˈdʒækɪt/,/ˈdʒækɪt/,audio/uk/jacket.mp3,audio/us/jacket.mp3,áo khoác,How much is the jacket?
-4,18,At the shopping centre,unverified,skirt,n,/skɜːt/,/skɝːt/,audio/uk/skirt.mp3,audio/us/skirt.mp3,chân váy,I like this skirt.
-4,18,At the shopping centre,unverified,jeans,n,/dʒiːnz/,/dʒiːnz/,audio/uk/jeans.mp3,audio/us/jeans.mp3,quần bò,How much are the jeans?
-4,18,At the shopping centre,unverified,how much is ...?,phr,/ˌhaʊ ˈmʌtʃ ɪz/,/ˌhaʊ ˈmʌtʃ ɪz .../,audio/uk/how-much-is.mp3,audio/us/how-much-is.mp3,... giá bao nhiêu?,"How much is the T-shirt? – It's 90,000 dong."
-4,18,At the shopping centre,unverified,dong,n,/dɒŋ/,/dɑːŋ/,audio/uk/dong.mp3,audio/us/dong.mp3,đồng (tiền Việt Nam),"It's 50,000 dong."
-4,19,The animal world,unverified,animal,n,/ˈænɪml/,/ˈænəməl/,audio/uk/animal.mp3,audio/us/animal.mp3,"động vật, con vật",What animal is it?
-4,19,The animal world,unverified,giraffe,n,/dʒəˈrɑːf/,/dʒəˈræf/,audio/uk/giraffe.mp3,audio/us/giraffe.mp3,con hươu cao cổ,It's a giraffe.
-4,19,The animal world,unverified,crocodile,n,/ˈkrɒkədaɪl/,/ˈkrɑːkədaɪl/,audio/uk/crocodile.mp3,audio/us/crocodile.mp3,con cá sấu,It's a crocodile.
-4,19,The animal world,unverified,lion,n,/ˈlaɪən/,/ˈlaɪən/,audio/uk/lion.mp3,audio/us/lion.mp3,con sư tử,It's a lion.
-4,19,The animal world,unverified,zebra,n,/ˈzebrə/,/ˈziːbrə/,audio/uk/zebra.mp3,audio/us/zebra.mp3,con ngựa vằn,It's a zebra.
-4,19,The animal world,unverified,climb,v,/klaɪm/,/klaɪm/,audio/uk/climb.mp3,audio/us/climb.mp3,"leo, trèo",Monkeys can climb.
-4,19,The animal world,unverified,swim,v,/swɪm/,/swɪm/,audio/uk/swim.mp3,audio/us/swim.mp3,bơi,Crocodiles can swim.
-4,20,At summer camp,unverified,summer camp,n,/ˈsʌmə kæmp/,/ˈsʌmɚ kæmp/,audio/uk/summer-camp.mp3,audio/us/summer-camp.mp3,trại hè,We're at summer camp.
-4,20,At summer camp,unverified,tent,n,/tent/,/tent/,audio/uk/tent.mp3,audio/us/tent.mp3,cái lều,They're putting up a tent.
-4,20,At summer camp,unverified,campfire,n,/ˈkæmpfaɪə(r)/,/ˈkæmpfaɪɚ/,audio/uk/campfire.mp3,audio/us/campfire.mp3,lửa trại,We're singing around the campfire.
-4,20,At summer camp,unverified,put up a tent,phr,/ˌpʊt ʌp ə ˈtent/,/ˌpʊt ʌp ə ˈtent/,audio/uk/put-up-a-tent.mp3,audio/us/put-up-a-tent.mp3,dựng lều,They're putting up a tent.
-4,20,At summer camp,unverified,play tug of war,phr,/ˌpleɪ ˌtʌɡ əv ˈwɔː(r)/,/ˌpleɪ ˌtʌɡ əv ˈwɔːr/,audio/uk/play-tug-of-war.mp3,audio/us/play-tug-of-war.mp3,chơi kéo co,They're playing tug of war.
-4,20,At summer camp,unverified,what are they doing?,phr,/ˌwɒt ɑː ðeɪ ˈduːɪŋ/,/ˌwʌt ɑːr ðeɪ ˈduːɪŋ/,audio/uk/what-are-they-doing.mp3,audio/us/what-are-they-doing.mp3,họ đang làm gì?,What are they doing? – They're playing tug of war.
+﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
+4,1,My friends,sourced,friend,n,/frend/,/frend/,audio/uk/friend.mp3,audio/us/friend.mp3,"bạn, bạn bè",This is my friend Mary.,"Đây là Mary, bạn của mình."
+4,1,My friends,sourced,America,n,/əˈmerɪkə/,/əˈmerɪkə/,audio/uk/america.mp3,audio/us/america.mp3,nước Mỹ,I'm from America.,Mình đến từ nước Mỹ.
+4,1,My friends,sourced,Australia,n,/ɒˈstreɪliə/,/ɑːˈstreɪljə/,audio/uk/australia.mp3,audio/us/australia.mp3,nước Úc,She's from Australia.,Bạn ấy đến từ nước Úc.
+4,1,My friends,sourced,Japan,n,/dʒəˈpæn/,/dʒəˈpæn/,audio/uk/japan.mp3,audio/us/japan.mp3,nước Nhật Bản,Mai is from Japan.,Mai đến từ Nhật Bản.
+4,1,My friends,sourced,Malaysia,n,/məˈleɪziə/,/məˈleɪʒə/,audio/uk/malaysia.mp3,audio/us/malaysia.mp3,nước Ma-lai-xi-a,I'm from Malaysia.,Mình đến từ Ma-lai-xi-a.
+4,1,My friends,sourced,Thailand,n,/ˈtaɪlænd/,/ˈtaɪlænd/,audio/uk/thailand.mp3,audio/us/thailand.mp3,nước Thái Lan,He's from Thailand.,Bạn ấy đến từ Thái Lan.
+4,1,My friends,sourced,Viet Nam,n,/ˌvjet ˈnæm/,/viˌet ˈnæm/,audio/uk/viet-nam.mp3,audio/us/viet-nam.mp3,Việt Nam,I'm from Viet Nam.,Mình đến từ Việt Nam.
+4,1,My friends,sourced,Vietnamese,adj,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,(người) Việt Nam,I'm Vietnamese.,Mình là người Việt Nam.
+4,1,My friends,sourced,American,adj,/əˈmerɪkən/,/əˈmerɪkən/,audio/uk/american.mp3,audio/us/american.mp3,(người) Mỹ,He's American.,Bạn ấy là người Mỹ.
+4,1,My friends,sourced,Australian,adj,/ɒˈstreɪliən/,/ɑːˈstreɪljən/,audio/uk/australian.mp3,audio/us/australian.mp3,(người) Úc,She's Australian.,Bạn ấy là người Úc.
+4,1,My friends,sourced,Japanese,adj,/ˌdʒæpəˈniːz/,/ˌdʒæpəˈniːz/,audio/uk/japanese.mp3,audio/us/japanese.mp3,(người) Nhật Bản,I'm Japanese.,Mình là người Nhật Bản.
+4,1,My friends,sourced,Malaysian,adj,/məˈleɪziən/,/məˈleɪʒən/,audio/uk/malaysian.mp3,audio/us/malaysian.mp3,(người) Ma-lai-xi-a,She's Malaysian.,Bạn ấy là người Ma-lai-xi-a.
+4,1,My friends,sourced,where are you from?,phr,/ˌweər ɑː juː ˈfrɒm/,/ˌwer ɑːr juː ˈfrʌm/,audio/uk/where-are-you-from.mp3,audio/us/where-are-you-from.mp3,bạn đến từ đâu?,Where are you from? – I'm from Australia.,Bạn đến từ đâu? – Mình đến từ nước Úc.
+4,1,My friends,sourced,what nationality are you?,phr,/ˌwɒt ˌnæʃəˈnæləti ɑː juː/,/ˌwʌt ˌnæʃəˈnæləti ɑːr juː/,audio/uk/what-nationality-are-you.mp3,audio/us/what-nationality-are-you.mp3,bạn là người nước nào?,What nationality are you? – I'm Vietnamese.,Bạn là người nước nào? – Mình là người Việt Nam.
+4,2,Time and daily routines,sourced,time,n,/taɪm/,/taɪm/,audio/uk/time.mp3,audio/us/time.mp3,"thời gian, giờ",What time is it?,Mấy giờ rồi?
+4,2,Time and daily routines,sourced,o'clock,adv,/əˈklɒk/,/əˈklɑːk/,audio/uk/o-clock.mp3,audio/us/o-clock.mp3,(giờ) đúng,It's seven o'clock.,Bây giờ là bảy giờ đúng.
+4,2,Time and daily routines,sourced,fifteen,num,/ˌfɪfˈtiːn/,/fɪfˈtiːn/,audio/uk/fifteen.mp3,audio/us/fifteen.mp3,mười lăm,It's seven fifteen.,Bây giờ là bảy giờ mười lăm.
+4,2,Time and daily routines,sourced,thirty,num,/ˈθɜːti/,/ˈθɝːti/,audio/uk/thirty.mp3,audio/us/thirty.mp3,ba mươi,It's six thirty.,Bây giờ là sáu giờ ba mươi.
+4,2,Time and daily routines,sourced,what time is it?,phr,/ˌwɒt ˈtaɪm ɪz ɪt/,/ˌwʌt ˈtaɪm ɪz ɪt/,audio/uk/what-time-is-it.mp3,audio/us/what-time-is-it.mp3,mấy giờ rồi?,What time is it? – It's ten thirty.,Mấy giờ rồi? – Mười giờ ba mươi.
+4,2,Time and daily routines,sourced,get up,phr v,/ˌɡet ˈʌp/,/ˌɡet ˈʌp/,audio/uk/get-up.mp3,audio/us/get-up.mp3,thức dậy,I get up at six fifteen.,Mình thức dậy lúc sáu giờ mười lăm.
+4,2,Time and daily routines,sourced,have breakfast,phr,/ˌhæv ˈbrekfəst/,/ˌhæv ˈbrekfəst/,audio/uk/have-breakfast.mp3,audio/us/have-breakfast.mp3,ăn sáng,I have breakfast at seven fifteen.,Mình ăn sáng lúc bảy giờ mười lăm.
+4,2,Time and daily routines,sourced,go to bed,phr,/ˌɡəʊ tə ˈbed/,/ˌɡoʊ tə ˈbed/,audio/uk/go-to-bed.mp3,audio/us/go-to-bed.mp3,đi ngủ,I go to bed at nine thirty.,Mình đi ngủ lúc chín giờ ba mươi.
+4,2,Time and daily routines,sourced,what time do you ...?,phr,/ˌwɒt ˈtaɪm də juː/,/ˌwʌt ˈtaɪm duː juː .../,audio/uk/what-time-do-you.mp3,audio/us/what-time-do-you.mp3,bạn ... lúc mấy giờ?,What time do you go to bed?,Bạn đi ngủ lúc mấy giờ?
+4,3,My week,sourced,week,n,/wiːk/,/wiːk/,audio/uk/week.mp3,audio/us/week.mp3,tuần,I go to school five days a week.,Mình đi học năm ngày một tuần.
+4,3,My week,sourced,Monday,n,/ˈmʌndeɪ/,/ˈmʌndeɪ/,audio/uk/monday.mp3,audio/us/monday.mp3,thứ Hai,I go to school on Monday.,Mình đi học vào thứ Hai.
+4,3,My week,sourced,Tuesday,n,/ˈtjuːzdeɪ/,/ˈtuːzdeɪ/,audio/uk/tuesday.mp3,audio/us/tuesday.mp3,thứ Ba,I play football on Tuesdays.,Mình chơi bóng đá vào các ngày thứ Ba.
+4,3,My week,sourced,Wednesday,n,/ˈwenzdeɪ/,/ˈwenzdeɪ/,audio/uk/wednesday.mp3,audio/us/wednesday.mp3,thứ Tư,I study at school on Wednesday.,Mình học ở trường vào thứ Tư.
+4,3,My week,sourced,Thursday,n,/ˈθɜːzdeɪ/,/ˈθɝːzdeɪ/,audio/uk/thursday.mp3,audio/us/thursday.mp3,thứ Năm,I listen to music on Thursdays.,Mình nghe nhạc vào các ngày thứ Năm.
+4,3,My week,sourced,Friday,n,/ˈfraɪdeɪ/,/ˈfraɪdeɪ/,audio/uk/friday.mp3,audio/us/friday.mp3,thứ Sáu,I play badminton on Fridays.,Mình chơi cầu lông vào các ngày thứ Sáu.
+4,3,My week,sourced,Saturday,n,/ˈsætədeɪ/,/ˈsætɚdeɪ/,audio/uk/saturday.mp3,audio/us/saturday.mp3,thứ Bảy,I play with my friends on Saturday.,Mình chơi với các bạn vào thứ Bảy.
+4,3,My week,sourced,Sunday,n,/ˈsʌndeɪ/,/ˈsʌndeɪ/,audio/uk/sunday.mp3,audio/us/sunday.mp3,Chủ nhật,I watch TV on Sundays.,Mình xem ti vi vào các ngày Chủ nhật.
+4,3,My week,sourced,weekend,n,/ˌwiːkˈend/,/ˈwiːkend/,audio/uk/weekend.mp3,audio/us/weekend.mp3,cuối tuần,I listen to music at the weekend.,Mình nghe nhạc vào cuối tuần.
+4,3,My week,sourced,go to school,phr,/ˌɡəʊ tə ˈskuːl/,/ˌɡoʊ tə ˈskuːl/,audio/uk/go-to-school.mp3,audio/us/go-to-school.mp3,đi học,I go to school from Monday to Friday.,Mình đi học từ thứ Hai đến thứ Sáu.
+4,3,My week,sourced,study at school,phr,/ˌstʌdi ət ˈskuːl/,/ˌstʌdi æt ˈskuːl/,audio/uk/study-at-school.mp3,audio/us/study-at-school.mp3,học ở trường,I study at school on Mondays.,Mình học ở trường vào các ngày thứ Hai.
+4,3,My week,sourced,do housework,phr,/ˌduː ˈhaʊswɜːk/,/ˌduː ˈhaʊswɝːk/,audio/uk/do-housework.mp3,audio/us/do-housework.mp3,làm việc nhà,I do housework on Saturdays.,Mình làm việc nhà vào các ngày thứ Bảy.
+4,3,My week,sourced,listen to music,phr,/ˌlɪsn tə ˈmjuːzɪk/,/ˌlɪsən tə ˈmjuːzɪk/,audio/uk/listen-to-music.mp3,audio/us/listen-to-music.mp3,nghe nhạc,I listen to music on Sundays.,Mình nghe nhạc vào các ngày Chủ nhật.
+4,3,My week,sourced,watch TV,phr,/ˌwɒtʃ ˌtiː ˈviː/,/ˌwɑːtʃ ˌtiː ˈviː/,audio/uk/watch-tv.mp3,audio/us/watch-tv.mp3,xem ti vi,I watch TV on Sundays.,Mình xem ti vi vào các ngày Chủ nhật.
+4,3,My week,sourced,what do you do on ...?,phr,/ˌwɒt də juː ˈduː ɒn/,/ˌwʌt duː juː ˈduː ɑːn .../,audio/uk/what-do-you-do-on.mp3,audio/us/what-do-you-do-on.mp3,bạn làm gì vào (thứ) ...?,What do you do on Saturdays?,Bạn làm gì vào các ngày thứ Bảy?
+4,4,My birthday party,sourced,birthday,n,/ˈbɜːθdeɪ/,/ˈbɝːθdeɪ/,audio/uk/birthday.mp3,audio/us/birthday.mp3,sinh nhật,When's your birthday?,Sinh nhật của bạn vào khi nào?
+4,4,My birthday party,sourced,party,n,/ˈpɑːti/,/ˈpɑːrti/,audio/uk/party.mp3,audio/us/party.mp3,bữa tiệc,Welcome to my birthday party.,Chào mừng các bạn đến với bữa tiệc sinh nhật của mình.
+4,4,My birthday party,sourced,January,n,/ˈdʒænjuəri/,/ˈdʒænjueri/,audio/uk/january.mp3,audio/us/january.mp3,tháng Một,My birthday is in January.,Sinh nhật của mình vào tháng Một.
+4,4,My birthday party,sourced,February,n,/ˈfebruəri/,/ˈfebrueri/,audio/uk/february.mp3,audio/us/february.mp3,tháng Hai,It's in February.,Vào tháng Hai.
+4,4,My birthday party,sourced,March,n,/mɑːtʃ/,/mɑːrtʃ/,audio/uk/march.mp3,audio/us/march.mp3,tháng Ba,My birthday is in March.,Sinh nhật của mình vào tháng Ba.
+4,4,My birthday party,sourced,April,n,/ˈeɪprəl/,/ˈeɪprəl/,audio/uk/april.mp3,audio/us/april.mp3,tháng Tư,Her birthday is in April.,Sinh nhật của bạn ấy vào tháng Tư.
+4,4,My birthday party,sourced,May,n,/meɪ/,/meɪ/,audio/uk/may.mp3,audio/us/may.mp3,tháng Năm,My birthday is in May.,Sinh nhật của mình vào tháng Năm.
+4,4,My birthday party,sourced,June,n,/dʒuːn/,/dʒuːn/,audio/uk/june.mp3,audio/us/june.mp3,tháng Sáu,When's your birthday? – It's in June.,Sinh nhật của bạn vào khi nào? – Vào tháng Sáu.
+4,4,My birthday party,sourced,July,n,/dʒuˈlaɪ/,/ˌdʒuːˈlaɪ/,audio/uk/july.mp3,audio/us/july.mp3,tháng Bảy,His birthday is in July.,Sinh nhật của bạn ấy vào tháng Bảy.
+4,4,My birthday party,sourced,August,n,/ˈɔːɡəst/,/ˈɑːɡəst/,audio/uk/august.mp3,audio/us/august.mp3,tháng Tám,My mother's birthday is in August.,Sinh nhật của mẹ mình vào tháng Tám.
+4,4,My birthday party,sourced,September,n,/sepˈtembə(r)/,/sepˈtembɚ/,audio/uk/september.mp3,audio/us/september.mp3,tháng Chín,My birthday is in September.,Sinh nhật của mình vào tháng Chín.
+4,4,My birthday party,sourced,October,n,/ɒkˈtəʊbə(r)/,/ɑːkˈtoʊbɚ/,audio/uk/october.mp3,audio/us/october.mp3,tháng Mười,Is your birthday in October?,Sinh nhật của bạn có phải vào tháng Mười không?
+4,4,My birthday party,sourced,November,n,/nəʊˈvembə(r)/,/noʊˈvembɚ/,audio/uk/november.mp3,audio/us/november.mp3,tháng Mười một,My brother's birthday is in November.,Sinh nhật của anh trai mình vào tháng Mười một.
+4,4,My birthday party,sourced,December,n,/dɪˈsembə(r)/,/dɪˈsembɚ/,audio/uk/december.mp3,audio/us/december.mp3,tháng Mười hai,My birthday is in December.,Sinh nhật của mình vào tháng Mười hai.
+4,4,My birthday party,sourced,water,n,/ˈwɔːtə(r)/,/ˈwɑːtɚ/,audio/uk/water.mp3,audio/us/water.mp3,nước,I want some water.,Mình muốn uống một ít nước.
+4,4,My birthday party,sourced,lemonade,n,/ˌleməˈneɪd/,/ˌleməˈneɪd/,audio/uk/lemonade.mp3,audio/us/lemonade.mp3,nước chanh,I want some lemonade.,Mình muốn uống một ít nước chanh.
+4,4,My birthday party,sourced,juice,n,/dʒuːs/,/dʒuːs/,audio/uk/juice.mp3,audio/us/juice.mp3,nước ép,I'd like some orange juice.,Mình muốn uống một ít nước cam ép.
+4,4,My birthday party,sourced,grapes,n,/ɡreɪps/,/ɡreɪps/,audio/uk/grapes.mp3,audio/us/grapes.mp3,quả nho,I want some grapes.,Mình muốn ăn một ít nho.
+4,4,My birthday party,sourced,chips,n,/tʃɪps/,/tʃɪps/,audio/uk/chips.mp3,audio/us/chips.mp3,khoai tây chiên,My favourite party food is chips.,Món ăn mình thích nhất ở bữa tiệc là khoai tây chiên.
+4,4,My birthday party,sourced,when's your birthday?,phr,/ˌwenz jɔː ˈbɜːθdeɪ/,/ˌwenz jɔːr ˈbɝːθdeɪ/,audio/uk/when-s-your-birthday.mp3,audio/us/when-s-your-birthday.mp3,sinh nhật của bạn vào khi nào?,When's your birthday? – It's in March.,Sinh nhật của bạn vào khi nào? – Vào tháng Ba.
+4,4,My birthday party,sourced,what do you want to drink?,phr,/ˌwɒt də juː ˈwɒnt tə ˈdrɪŋk/,/ˌwʌt duː juː ˈwɑːnt tə ˈdrɪŋk/,audio/uk/what-do-you-want-to-drink.mp3,audio/us/what-do-you-want-to-drink.mp3,bạn muốn uống gì?,What do you want to drink? – I want some water.,Bạn muốn uống gì? – Mình muốn uống một ít nước.
+4,5,Things we can do,sourced,can,modal v,/kæn/,/kæn/,audio/uk/can.mp3,audio/us/can.mp3,có thể,I can swim.,Mình có thể bơi.
+4,5,Things we can do,sourced,cook,v,/kʊk/,/kʊk/,audio/uk/cook.mp3,audio/us/cook.mp3,nấu ăn,My sister can cook.,Chị gái mình biết nấu ăn.
+4,5,Things we can do,sourced,swim,v,/swɪm/,/swɪm/,audio/uk/swim.mp3,audio/us/swim.mp3,bơi,"Can you swim? – Yes, I can.","Bạn có biết bơi không? – Có, mình biết bơi."
+4,5,Things we can do,sourced,sing,v,/sɪŋ/,/sɪŋ/,audio/uk/sing.mp3,audio/us/sing.mp3,hát,I can sing.,Mình biết hát.
+4,5,Things we can do,sourced,draw,v,/drɔː/,/drɑː/,audio/uk/draw.mp3,audio/us/draw.mp3,vẽ,She can draw.,Bạn ấy biết vẽ.
+4,5,Things we can do,sourced,play the piano,phr,/ˌpleɪ ðə piˈænəʊ/,/ˌpleɪ ðə piˈænoʊ/,audio/uk/play-the-piano.mp3,audio/us/play-the-piano.mp3,chơi đàn pi-a-nô,Can you play the piano?,Bạn có biết chơi đàn pi-a-nô không?
+4,5,Things we can do,sourced,play table tennis,phr,/ˌpleɪ ˈteɪbl tenɪs/,/ˌpleɪ ˈteɪbəl ˌtenɪs/,audio/uk/play-table-tennis.mp3,audio/us/play-table-tennis.mp3,chơi bóng bàn,He can play table tennis.,Bạn ấy biết chơi bóng bàn.
+4,5,Things we can do,sourced,ride a bike,phr,/ˌraɪd ə ˈbaɪk/,/ˌraɪd ə ˈbaɪk/,audio/uk/ride-a-bike.mp3,audio/us/ride-a-bike.mp3,đi xe đạp,I can ride a bike.,Mình biết đi xe đạp.
+4,5,Things we can do,sourced,can you ...?,phr,/ˈkæn juː/,/ˈkæn juː .../,audio/uk/can-you.mp3,audio/us/can-you.mp3,bạn có thể ... không?,"Can you cook? – No, I can't.","Bạn có biết nấu ăn không? – Không, mình không biết."
+4,6,Our school facilities,sourced,school facilities,n,/ˈskuːl fəˈsɪlətiz/,/ˈskuːl fəˈsɪlətiz/,audio/uk/school-facilities.mp3,audio/us/school-facilities.mp3,cơ sở vật chất của trường,Our school facilities are very good.,Cơ sở vật chất của trường chúng mình rất tốt.
+4,6,Our school facilities,sourced,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,My school is in the city.,Trường của mình ở thành phố.
+4,6,Our school facilities,sourced,town,n,/taʊn/,/taʊn/,audio/uk/town.mp3,audio/us/town.mp3,thị trấn,It's in the town.,Nó ở thị trấn.
+4,6,Our school facilities,sourced,village,n,/ˈvɪlɪdʒ/,/ˈvɪlɪdʒ/,audio/uk/village.mp3,audio/us/village.mp3,làng quê,It's in the village.,Nó ở trong làng.
+4,6,Our school facilities,sourced,mountains,n,/ˈmaʊntənz/,/ˈmaʊntənz/,audio/uk/mountains.mp3,audio/us/mountains.mp3,vùng núi,My school is in the mountains.,Trường của mình ở vùng núi.
+4,6,Our school facilities,sourced,building,n,/ˈbɪldɪŋ/,/ˈbɪldɪŋ/,audio/uk/building.mp3,audio/us/building.mp3,tòa nhà,There are two buildings.,Có hai tòa nhà.
+4,6,Our school facilities,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,audio/uk/computer-room.mp3,audio/us/computer-room.mp3,phòng máy tính,There is a computer room.,Có một phòng máy tính.
+4,6,Our school facilities,sourced,garden,n,/ˈɡɑːdn/,/ˈɡɑːrdən/,audio/uk/garden.mp3,audio/us/garden.mp3,khu vườn,There is a garden with many flowers.,Có một khu vườn với nhiều hoa.
+4,6,Our school facilities,sourced,where's your school?,phr,/ˌweəz jɔː ˈskuːl/,/ˌwerz jɔːr ˈskuːl/,audio/uk/where-s-your-school.mp3,audio/us/where-s-your-school.mp3,trường của bạn ở đâu?,Where's your school? – It's in the village.,Trường của bạn ở đâu? – Nó ở trong làng.
+4,7,Our timetables,sourced,timetable,n,/ˈtaɪmteɪbl/,/ˈtaɪmteɪbəl/,audio/uk/timetable.mp3,audio/us/timetable.mp3,thời khóa biểu,Look at our timetable.,Hãy nhìn thời khóa biểu của chúng mình.
+4,7,Our timetables,sourced,subject,n,/ˈsʌbdʒɪkt/,/ˈsʌbdʒɪkt/,audio/uk/subject.mp3,audio/us/subject.mp3,môn học,What subjects do you have today?,Hôm nay bạn có những môn học nào?
+4,7,Our timetables,sourced,art,n,/ɑːt/,/ɑːrt/,audio/uk/art.mp3,audio/us/art.mp3,môn Mỹ thuật,I have art on Tuesdays.,Mình có môn Mỹ thuật vào các ngày thứ Ba.
+4,7,Our timetables,sourced,English,n,/ˈɪŋɡlɪʃ/,/ˈɪŋɡlɪʃ/,audio/uk/english.mp3,audio/us/english.mp3,môn Tiếng Anh,I have English and Vietnamese.,Mình có môn Tiếng Anh và môn Tiếng Việt.
+4,7,Our timetables,sourced,maths,n,/mæθs/,/mæθs/,audio/uk/maths.mp3,audio/us/maths.mp3,môn Toán,We have maths today.,Hôm nay chúng mình có môn Toán.
+4,7,Our timetables,sourced,music,n,/ˈmjuːzɪk/,/ˈmjuːzɪk/,audio/uk/music.mp3,audio/us/music.mp3,môn Âm nhạc,Do you have music on Thursdays?,Bạn có môn Âm nhạc vào các ngày thứ Năm không?
+4,7,Our timetables,sourced,science,n,/ˈsaɪəns/,/ˈsaɪəns/,audio/uk/science.mp3,audio/us/science.mp3,môn Khoa học,I have science today.,Hôm nay mình có môn Khoa học.
+4,7,Our timetables,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,môn Tiếng Việt,I have Vietnamese on Mondays.,Mình có môn Tiếng Việt vào các ngày thứ Hai.
+4,7,Our timetables,sourced,today,adv,/təˈdeɪ/,/təˈdeɪ/,audio/uk/today.mp3,audio/us/today.mp3,hôm nay,What subjects do you have today?,Hôm nay bạn có những môn học nào?
+4,7,Our timetables,sourced,what subjects do you have today?,phr,/ˌwɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/,/ˌwʌt ˈsʌbdʒɪkts duː juː hæv təˈdeɪ/,audio/uk/what-subjects-do-you-have-today.mp3,audio/us/what-subjects-do-you-have-today.mp3,hôm nay bạn có những môn học nào?,What subjects do you have today? – I have maths and English.,Hôm nay bạn có những môn học nào? – Mình có môn Toán và môn Tiếng Anh.
+4,8,My favourite subjects,sourced,favourite,adj,/ˈfeɪvərɪt/,/ˈfeɪvɚɪt/,audio/uk/favourite.mp3,audio/us/favourite.mp3,yêu thích nhất,My favourite subject is art.,Môn học yêu thích nhất của mình là Mỹ thuật.
+4,8,My favourite subjects,sourced,subject,n,/ˈsʌbdʒɪkt/,/ˈsʌbdʒɪkt/,audio/uk/subject.mp3,audio/us/subject.mp3,môn học,What's your favourite subject?,Môn học yêu thích của bạn là gì?
+4,8,My favourite subjects,sourced,art,n,/ɑːt/,/ɑːrt/,audio/uk/art.mp3,audio/us/art.mp3,môn Mỹ thuật,I like art.,Mình thích môn Mỹ thuật.
+4,8,My favourite subjects,sourced,IT,n,/ˌaɪ ˈtiː/,/ˌaɪ ˈtiː/,audio/uk/it.mp3,audio/us/it.mp3,môn Tin học,My favourite subject is IT.,Môn học yêu thích của mình là Tin học.
+4,8,My favourite subjects,sourced,PE,n,/ˌpiː ˈiː/,/ˌpiː ˈiː/,audio/uk/pe.mp3,audio/us/pe.mp3,môn Giáo dục thể chất,I like PE.,Mình thích môn Giáo dục thể chất.
+4,8,My favourite subjects,sourced,Vietnamese,n,/ˌvjetnəˈmiːz/,/viˌetnəˈmiːz/,audio/uk/vietnamese.mp3,audio/us/vietnamese.mp3,môn Tiếng Việt,My favourite subjects are Vietnamese and English.,Các môn học yêu thích của mình là Tiếng Việt và Tiếng Anh.
+4,8,My favourite subjects,sourced,painter,n,/ˈpeɪntə(r)/,/ˈpeɪntɚ/,audio/uk/painter.mp3,audio/us/painter.mp3,họa sĩ,I want to be a painter.,Mình muốn trở thành họa sĩ.
+4,8,My favourite subjects,sourced,because,conj,/bɪˈkɒz/,/bɪˈkɑːz/,audio/uk/because.mp3,audio/us/because.mp3,bởi vì,I like art because I want to be a painter.,Mình thích môn Mỹ thuật vì mình muốn trở thành họa sĩ.
+4,8,My favourite subjects,sourced,every day,phr,/ˌevri ˈdeɪ/,/ˌevri ˈdeɪ/,audio/uk/every-day.mp3,audio/us/every-day.mp3,hằng ngày,I have Vietnamese every day.,Ngày nào mình cũng có môn Tiếng Việt.
+4,8,My favourite subjects,sourced,twice,adv,/twaɪs/,/twaɪs/,audio/uk/twice.mp3,audio/us/twice.mp3,hai lần,I have IT twice a week.,Mình có môn Tin học hai lần một tuần.
+4,8,My favourite subjects,sourced,what's your favourite subject?,phr,/ˌwɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/,/ˌwʌts jɔːr ˈfeɪvɚɪt ˈsʌbdʒɪkt/,audio/uk/what-s-your-favourite-subject.mp3,audio/us/what-s-your-favourite-subject.mp3,môn học yêu thích của bạn là gì?,What's your favourite subject? – It's maths.,Môn học yêu thích của bạn là gì? – Đó là môn Toán.
+4,9,Our sports day,sourced,sports day,n,/ˈspɔːts deɪ/,/ˈspɔːrts deɪ/,audio/uk/sports-day.mp3,audio/us/sports-day.mp3,ngày hội thể thao,Our sports day is in October.,Ngày hội thể thao của chúng mình vào tháng Mười.
+4,9,Our sports day,sourced,basketball,n,/ˈbɑːskɪtbɔːl/,/ˈbæskətbɑːl/,audio/uk/basketball.mp3,audio/us/basketball.mp3,bóng rổ,We play basketball on sports day.,Chúng mình chơi bóng rổ vào ngày hội thể thao.
+4,9,Our sports day,sourced,football,n,/ˈfʊtbɔːl/,/ˈfʊtbɑːl/,audio/uk/football.mp3,audio/us/football.mp3,bóng đá,They play football.,Các bạn ấy chơi bóng đá.
+4,9,Our sports day,sourced,roller skate,v,/ˈrəʊlə skeɪt/,/ˈroʊlɚ skeɪt/,audio/uk/roller-skate.mp3,audio/us/roller-skate.mp3,trượt pa-tanh,She can roller skate.,Bạn ấy biết trượt pa-tanh.
+4,9,Our sports day,sourced,April,n,/ˈeɪprəl/,/ˈeɪprəl/,audio/uk/april.mp3,audio/us/april.mp3,tháng Tư,Is your sports day in April?,Ngày hội thể thao của trường bạn có phải vào tháng Tư không?
+4,9,Our sports day,sourced,May,n,/meɪ/,/meɪ/,audio/uk/may.mp3,audio/us/may.mp3,tháng Năm,It's in May.,Vào tháng Năm.
+4,9,Our sports day,sourced,June,n,/dʒuːn/,/dʒuːn/,audio/uk/june.mp3,audio/us/june.mp3,tháng Sáu,Is your sports day in June?,Ngày hội thể thao của trường bạn có phải vào tháng Sáu không?
+4,9,Our sports day,sourced,September,n,/sepˈtembə(r)/,/sepˈtembɚ/,audio/uk/september.mp3,audio/us/september.mp3,tháng Chín,Our sports day is in September.,Ngày hội thể thao của chúng mình vào tháng Chín.
+4,9,Our sports day,sourced,October,n,/ɒkˈtəʊbə(r)/,/ɑːkˈtoʊbɚ/,audio/uk/october.mp3,audio/us/october.mp3,tháng Mười,Our sports day is in October.,Ngày hội thể thao của chúng mình vào tháng Mười.
+4,9,Our sports day,sourced,November,n,/nəʊˈvembə(r)/,/noʊˈvembɚ/,audio/uk/november.mp3,audio/us/november.mp3,tháng Mười một,Is your sports day in November?,Ngày hội thể thao của trường bạn có phải vào tháng Mười một không?
+4,9,Our sports day,sourced,December,n,/dɪˈsembə(r)/,/dɪˈsembɚ/,audio/uk/december.mp3,audio/us/december.mp3,tháng Mười hai,Our sports day is in December.,Ngày hội thể thao của chúng mình vào tháng Mười hai.
+4,9,Our sports day,sourced,when's your sports day?,phr,/ˌwenz jɔː ˈspɔːts deɪ/,/ˌwenz jɔːr ˈspɔːrts deɪ/,audio/uk/when-s-your-sports-day.mp3,audio/us/when-s-your-sports-day.mp3,ngày hội thể thao của bạn vào khi nào?,When's your sports day? – It's in November.,Ngày hội thể thao của trường bạn vào khi nào? – Vào tháng Mười một.
+4,10,Our summer holidays,unverified,summer holiday,n,/ˌsʌmə ˈhɒlədeɪ/,/ˌsʌmɚ ˈhɑːlədeɪ/,audio/uk/summer-holiday.mp3,audio/us/summer-holiday.mp3,kỳ nghỉ hè,I was at the beach on my summer holiday.,"Trong kỳ nghỉ hè, mình đã ở bãi biển."
+4,10,Our summer holidays,unverified,last summer,phr,/ˌlɑːst ˈsʌmə(r)/,/ˌlæst ˈsʌmɚ/,audio/uk/last-summer.mp3,audio/us/last-summer.mp3,mùa hè năm ngoái,Where were you last summer?,Mùa hè năm ngoái bạn đã ở đâu?
+4,10,Our summer holidays,unverified,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,I was at the beach.,Mình đã ở bãi biển.
+4,10,Our summer holidays,unverified,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,I was in the countryside.,Mình đã ở vùng nông thôn.
+4,10,Our summer holidays,unverified,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,I was at a campsite.,Mình đã ở một khu cắm trại.
+4,10,Our summer holidays,unverified,where were you ...?,phr,/ˈweə wɜː juː/,/ˈwer wɝː juː .../,audio/uk/where-were-you.mp3,audio/us/where-were-you.mp3,bạn đã ở đâu ...?,Where were you last summer?,Mùa hè năm ngoái bạn đã ở đâu?
+4,11,My home,unverified,home,n,/həʊm/,/hoʊm/,audio/uk/home.mp3,audio/us/home.mp3,"nhà, tổ ấm",My home is in a quiet village.,Nhà mình ở một ngôi làng yên tĩnh.
+4,11,My home,unverified,live,v,/lɪv/,/lɪv/,audio/uk/live.mp3,audio/us/live.mp3,sống,I live in a big house.,Mình sống trong một ngôi nhà lớn.
+4,11,My home,unverified,street,n,/striːt/,/striːt/,audio/uk/street.mp3,audio/us/street.mp3,đường phố,I live in Tran Phu Street.,Mình sống ở phố Trần Phú.
+4,11,My home,unverified,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,It's on a quiet road.,Nó nằm trên một con đường yên tĩnh.
+4,11,My home,unverified,busy,adj,/ˈbɪzi/,/ˈbɪzi/,audio/uk/busy.mp3,audio/us/busy.mp3,"đông đúc, nhộn nhịp",The street is busy.,"Con phố đông đúc, nhộn nhịp."
+4,11,My home,unverified,quiet,adj,/ˈkwaɪət/,/ˈkwaɪət/,audio/uk/quiet.mp3,audio/us/quiet.mp3,yên tĩnh,The road is quiet.,Con đường yên tĩnh.
+4,11,My home,unverified,noisy,adj,/ˈnɔɪzi/,/ˈnɔɪzi/,audio/uk/noisy.mp3,audio/us/noisy.mp3,ồn ào,The street is noisy.,Con phố ồn ào.
+4,11,My home,unverified,where do you live?,phr,/ˌweə də juː ˈlɪv/,/ˌwer duː juː ˈlɪv/,audio/uk/where-do-you-live.mp3,audio/us/where-do-you-live.mp3,bạn sống ở đâu?,Where do you live? – I live in Hai Ba Trung Street.,Bạn sống ở đâu? – Mình sống ở phố Hai Bà Trưng.
+4,12,Jobs,unverified,job,n,/dʒɒb/,/dʒɑːb/,audio/uk/job.mp3,audio/us/job.mp3,"nghề nghiệp, công việc",What's your father's job? – He's a worker.,Bố bạn làm nghề gì? – Bố mình là công nhân.
+4,12,Jobs,unverified,farmer,n,/ˈfɑːmə(r)/,/ˈfɑːrmɚ/,audio/uk/farmer.mp3,audio/us/farmer.mp3,nông dân,He's a farmer.,Chú ấy là nông dân.
+4,12,Jobs,unverified,nurse,n,/nɜːs/,/nɝːs/,audio/uk/nurse.mp3,audio/us/nurse.mp3,y tá,She's a nurse.,Cô ấy là y tá.
+4,12,Jobs,unverified,office worker,n,/ˈɒfɪs wɜːkə(r)/,/ˈɑːfɪs ˌwɝːkɚ/,audio/uk/office-worker.mp3,audio/us/office-worker.mp3,nhân viên văn phòng,My mother is an office worker.,Mẹ mình là nhân viên văn phòng.
+4,12,Jobs,unverified,worker,n,/ˈwɜːkə(r)/,/ˈwɝːkɚ/,audio/uk/worker.mp3,audio/us/worker.mp3,công nhân,He's a worker.,Chú ấy là công nhân.
+4,12,Jobs,unverified,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,trang trại,He works on a farm.,Chú ấy làm việc ở trang trại.
+4,12,Jobs,unverified,hospital,n,/ˈhɒspɪtl/,/ˈhɑːspɪtəl/,audio/uk/hospital.mp3,audio/us/hospital.mp3,bệnh viện,She works in a hospital.,Cô ấy làm việc ở bệnh viện.
+4,12,Jobs,unverified,office,n,/ˈɒfɪs/,/ˈɑːfɪs/,audio/uk/office.mp3,audio/us/office.mp3,văn phòng,She works in an office.,Cô ấy làm việc ở văn phòng.
+4,12,Jobs,unverified,factory,n,/ˈfæktri/,/ˈfæktɚi/,audio/uk/factory.mp3,audio/us/factory.mp3,nhà máy,He works in a factory.,Chú ấy làm việc ở nhà máy.
+4,12,Jobs,unverified,where does he work?,phr,/ˌweə dəz hi ˈwɜːk/,/ˌwer dəz hiː ˈwɝːk/,audio/uk/where-does-he-work.mp3,audio/us/where-does-he-work.mp3,anh ấy làm việc ở đâu?,Where does he work? – He works in a factory.,Chú ấy làm việc ở đâu? – Chú ấy làm việc ở nhà máy.
+4,13,Appearance,unverified,appearance,n,/əˈpɪərəns/,/əˈpɪrəns/,audio/uk/appearance.mp3,audio/us/appearance.mp3,ngoại hình,Talk about your friend's appearance.,Hãy nói về ngoại hình của bạn em.
+4,13,Appearance,unverified,tall,adj,/tɔːl/,/tɑːl/,audio/uk/tall.mp3,audio/us/tall.mp3,cao,He's tall.,Bạn ấy cao.
+4,13,Appearance,unverified,short,adj,/ʃɔːt/,/ʃɔːrt/,audio/uk/short.mp3,audio/us/short.mp3,thấp; ngắn,She has short hair.,Bạn ấy có mái tóc ngắn.
+4,13,Appearance,unverified,slim,adj,/slɪm/,/slɪm/,audio/uk/slim.mp3,audio/us/slim.mp3,"mảnh khảnh, thon thả",She's slim.,Bạn ấy mảnh khảnh.
+4,13,Appearance,unverified,big,adj,/bɪɡ/,/bɪɡ/,audio/uk/big.mp3,audio/us/big.mp3,"to, lớn",He's big.,Bạn ấy to con.
+4,13,Appearance,unverified,long,adj,/lɒŋ/,/lɑːŋ/,audio/uk/long.mp3,audio/us/long.mp3,dài,She has long hair.,Bạn ấy có mái tóc dài.
+4,13,Appearance,unverified,hair,n,/heə(r)/,/her/,audio/uk/hair.mp3,audio/us/hair.mp3,tóc,She has long hair.,Bạn ấy có mái tóc dài.
+4,13,Appearance,unverified,what does he look like?,phr,/ˌwɒt dəz hi ˈlʊk laɪk/,/ˌwʌt dəz hiː ˈlʊk laɪk/,audio/uk/what-does-he-look-like.mp3,audio/us/what-does-he-look-like.mp3,anh ấy trông như thế nào?,What does he look like? – He's tall.,Bạn ấy trông như thế nào? – Bạn ấy cao.
+4,14,Daily activities,unverified,morning,n,/ˈmɔːnɪŋ/,/ˈmɔːrnɪŋ/,audio/uk/morning.mp3,audio/us/morning.mp3,buổi sáng,What do you do in the morning?,Bạn làm gì vào buổi sáng?
+4,14,Daily activities,unverified,afternoon,n,/ˌɑːftəˈnuːn/,/ˌæftɚˈnuːn/,audio/uk/afternoon.mp3,audio/us/afternoon.mp3,buổi chiều,I do my homework in the afternoon.,Mình làm bài tập về nhà vào buổi chiều.
+4,14,Daily activities,unverified,evening,n,/ˈiːvnɪŋ/,/ˈiːvnɪŋ/,audio/uk/evening.mp3,audio/us/evening.mp3,buổi tối,I watch TV in the evening.,Mình xem ti vi vào buổi tối.
+4,14,Daily activities,unverified,wash the clothes,phr,/ˌwɒʃ ðə ˈkləʊðz/,/ˌwɑːʃ ðə ˈkloʊðz/,audio/uk/wash-the-clothes.mp3,audio/us/wash-the-clothes.mp3,giặt quần áo,My mother washes the clothes.,Mẹ mình giặt quần áo.
+4,14,Daily activities,unverified,wash the dishes,phr,/ˌwɒʃ ðə ˈdɪʃɪz/,/ˌwɑːʃ ðə ˈdɪʃɪz/,audio/uk/wash-the-dishes.mp3,audio/us/wash-the-dishes.mp3,rửa bát,I wash the dishes in the evening.,Mình rửa bát vào buổi tối.
+4,14,Daily activities,unverified,cook dinner,phr,/ˌkʊk ˈdɪnə(r)/,/ˌkʊk ˈdɪnɚ/,audio/uk/cook-dinner.mp3,audio/us/cook-dinner.mp3,nấu bữa tối,My father cooks dinner.,Bố mình nấu bữa tối.
+4,14,Daily activities,unverified,do homework,phr,/ˌduː ˈhəʊmwɜːk/,/ˌduː ˈhoʊmwɝːk/,audio/uk/do-homework.mp3,audio/us/do-homework.mp3,làm bài tập về nhà,I do homework in the afternoon.,Mình làm bài tập về nhà vào buổi chiều.
+4,15,My family's weekends,unverified,weekend,n,/ˌwiːkˈend/,/ˈwiːkend/,audio/uk/weekend.mp3,audio/us/weekend.mp3,cuối tuần,What does your father do at the weekend?,Bố bạn làm gì vào cuối tuần?
+4,15,My family's weekends,unverified,go shopping,phr,/ˌɡəʊ ˈʃɒpɪŋ/,/ˌɡoʊ ˈʃɑːpɪŋ/,audio/uk/go-shopping.mp3,audio/us/go-shopping.mp3,đi mua sắm,My mother goes shopping.,Mẹ mình đi mua sắm.
+4,15,My family's weekends,unverified,go fishing,phr,/ˌɡəʊ ˈfɪʃɪŋ/,/ˌɡoʊ ˈfɪʃɪŋ/,audio/uk/go-fishing.mp3,audio/us/go-fishing.mp3,đi câu cá,My father goes fishing.,Bố mình đi câu cá.
+4,15,My family's weekends,unverified,go swimming,phr,/ˌɡəʊ ˈswɪmɪŋ/,/ˌɡoʊ ˈswɪmɪŋ/,audio/uk/go-swimming.mp3,audio/us/go-swimming.mp3,đi bơi,My brother goes swimming.,Anh trai mình đi bơi.
+4,15,My family's weekends,unverified,cinema,n,/ˈsɪnəmə/,/ˈsɪnəmə/,audio/uk/cinema.mp3,audio/us/cinema.mp3,rạp chiếu phim,She's at the cinema.,Cô ấy đang ở rạp chiếu phim.
+4,15,My family's weekends,unverified,swimming pool,n,/ˈswɪmɪŋ puːl/,/ˈswɪmɪŋ puːl/,audio/uk/swimming-pool.mp3,audio/us/swimming-pool.mp3,bể bơi,He's at the swimming pool.,Anh ấy đang ở bể bơi.
+4,15,My family's weekends,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,/ˈʃɑːpɪŋ ˌsentɚ/,audio/uk/shopping-centre.mp3,audio/us/shopping-centre.mp3,trung tâm mua sắm,She's at the shopping centre.,Cô ấy đang ở trung tâm mua sắm.
+4,16,Weather,unverified,weather,n,/ˈweðə(r)/,/ˈweðɚ/,audio/uk/weather.mp3,audio/us/weather.mp3,thời tiết,What's the weather like today?,Hôm nay thời tiết thế nào?
+4,16,Weather,unverified,sunny,adj,/ˈsʌni/,/ˈsʌni/,audio/uk/sunny.mp3,audio/us/sunny.mp3,có nắng,It's sunny.,Trời nắng.
+4,16,Weather,unverified,rainy,adj,/ˈreɪni/,/ˈreɪni/,audio/uk/rainy.mp3,audio/us/rainy.mp3,có mưa,It's rainy.,Trời mưa.
+4,16,Weather,unverified,windy,adj,/ˈwɪndi/,/ˈwɪndi/,audio/uk/windy.mp3,audio/us/windy.mp3,có gió,It's windy.,Trời có gió.
+4,16,Weather,unverified,cloudy,adj,/ˈklaʊdi/,/ˈklaʊdi/,audio/uk/cloudy.mp3,audio/us/cloudy.mp3,có mây,It's cloudy.,Trời nhiều mây.
+4,16,Weather,unverified,hot,adj,/hɒt/,/hɑːt/,audio/uk/hot.mp3,audio/us/hot.mp3,nóng,It's hot.,Trời nóng.
+4,16,Weather,unverified,cold,adj,/kəʊld/,/koʊld/,audio/uk/cold.mp3,audio/us/cold.mp3,lạnh,It's cold.,Trời lạnh.
+4,16,Weather,unverified,what's the weather like?,phr,/ˌwɒts ðə ˈweðə laɪk/,/ˌwʌts ðə ˈweðɚ laɪk/,audio/uk/what-s-the-weather-like.mp3,audio/us/what-s-the-weather-like.mp3,thời tiết thế nào?,What's the weather like? – It's sunny.,Thời tiết thế nào? – Trời nắng.
+4,17,In the city,unverified,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,I live in the city.,Mình sống ở thành phố.
+4,17,In the city,unverified,go straight,phr,/ˌɡəʊ ˈstreɪt/,/ˌɡoʊ ˈstreɪt/,audio/uk/go-straight.mp3,audio/us/go-straight.mp3,đi thẳng,Go straight.,Đi thẳng.
+4,17,In the city,unverified,turn left,phr,/ˌtɜːn ˈleft/,/ˌtɝːn ˈleft/,audio/uk/turn-left.mp3,audio/us/turn-left.mp3,rẽ trái,Turn left.,Rẽ trái.
+4,17,In the city,unverified,turn right,phr,/ˌtɜːn ˈraɪt/,/ˌtɝːn ˈraɪt/,audio/uk/turn-right.mp3,audio/us/turn-right.mp3,rẽ phải,Turn right.,Rẽ phải.
+4,17,In the city,unverified,next to,prep,/ˈnekst tə/,/ˈnekst tə/,audio/uk/next-to.mp3,audio/us/next-to.mp3,bên cạnh,It's next to the cinema.,Nó ở bên cạnh rạp chiếu phim.
+4,17,In the city,unverified,opposite,prep,/ˈɒpəzɪt/,/ˈɑːpəzət/,audio/uk/opposite.mp3,audio/us/opposite.mp3,đối diện,It's opposite the park.,Nó ở đối diện công viên.
+4,17,In the city,unverified,bookshop,n,/ˈbʊkʃɒp/,/ˈbʊkʃɑːp/,audio/uk/bookshop.mp3,audio/us/bookshop.mp3,hiệu sách,Where's the bookshop?,Hiệu sách ở đâu?
+4,17,In the city,unverified,supermarket,n,/ˈsuːpəmɑːkɪt/,/ˈsuːpɚmɑːrkɪt/,audio/uk/supermarket.mp3,audio/us/supermarket.mp3,siêu thị,The supermarket is next to the bookshop.,Siêu thị ở bên cạnh hiệu sách.
+4,18,At the shopping centre,unverified,shopping centre,n,/ˈʃɒpɪŋ sentə(r)/,/ˈʃɑːpɪŋ ˌsentɚ/,audio/uk/shopping-centre.mp3,audio/us/shopping-centre.mp3,trung tâm mua sắm,Let's go to the shopping centre.,Chúng mình cùng đi đến trung tâm mua sắm nào.
+4,18,At the shopping centre,unverified,floor,n,/flɔː(r)/,/flɔːr/,audio/uk/floor.mp3,audio/us/floor.mp3,tầng,It's on the second floor.,Nó ở tầng hai.
+4,18,At the shopping centre,unverified,T-shirt,n,/ˈtiː ʃɜːt/,/ˈtiː ʃɝːt/,audio/uk/t-shirt.mp3,audio/us/t-shirt.mp3,áo phông,How much is the T-shirt?,Cái áo phông giá bao nhiêu?
+4,18,At the shopping centre,unverified,jacket,n,/ˈdʒækɪt/,/ˈdʒækɪt/,audio/uk/jacket.mp3,audio/us/jacket.mp3,áo khoác,How much is the jacket?,Cái áo khoác giá bao nhiêu?
+4,18,At the shopping centre,unverified,skirt,n,/skɜːt/,/skɝːt/,audio/uk/skirt.mp3,audio/us/skirt.mp3,chân váy,I like this skirt.,Mình thích chiếc chân váy này.
+4,18,At the shopping centre,unverified,jeans,n,/dʒiːnz/,/dʒiːnz/,audio/uk/jeans.mp3,audio/us/jeans.mp3,quần bò,How much are the jeans?,Cái quần bò giá bao nhiêu?
+4,18,At the shopping centre,unverified,how much is ...?,phr,/ˌhaʊ ˈmʌtʃ ɪz/,/ˌhaʊ ˈmʌtʃ ɪz .../,audio/uk/how-much-is.mp3,audio/us/how-much-is.mp3,... giá bao nhiêu?,"How much is the T-shirt? – It's 90,000 dong.",Cái áo phông giá bao nhiêu? – Nó giá 90.000 đồng.
+4,18,At the shopping centre,unverified,dong,n,/dɒŋ/,/dɑːŋ/,audio/uk/dong.mp3,audio/us/dong.mp3,đồng (tiền Việt Nam),"It's 50,000 dong.",Nó giá 50.000 đồng.
+4,19,The animal world,unverified,animal,n,/ˈænɪml/,/ˈænəməl/,audio/uk/animal.mp3,audio/us/animal.mp3,"động vật, con vật",What animal is it?,Đó là con vật gì?
+4,19,The animal world,unverified,giraffe,n,/dʒəˈrɑːf/,/dʒəˈræf/,audio/uk/giraffe.mp3,audio/us/giraffe.mp3,con hươu cao cổ,It's a giraffe.,Đó là con hươu cao cổ.
+4,19,The animal world,unverified,crocodile,n,/ˈkrɒkədaɪl/,/ˈkrɑːkədaɪl/,audio/uk/crocodile.mp3,audio/us/crocodile.mp3,con cá sấu,It's a crocodile.,Đó là con cá sấu.
+4,19,The animal world,unverified,lion,n,/ˈlaɪən/,/ˈlaɪən/,audio/uk/lion.mp3,audio/us/lion.mp3,con sư tử,It's a lion.,Đó là con sư tử.
+4,19,The animal world,unverified,zebra,n,/ˈzebrə/,/ˈziːbrə/,audio/uk/zebra.mp3,audio/us/zebra.mp3,con ngựa vằn,It's a zebra.,Đó là con ngựa vằn.
+4,19,The animal world,unverified,climb,v,/klaɪm/,/klaɪm/,audio/uk/climb.mp3,audio/us/climb.mp3,"leo, trèo",Monkeys can climb.,Khỉ có thể leo trèo.
+4,19,The animal world,unverified,swim,v,/swɪm/,/swɪm/,audio/uk/swim.mp3,audio/us/swim.mp3,bơi,Crocodiles can swim.,Cá sấu có thể bơi.
+4,20,At summer camp,unverified,summer camp,n,/ˈsʌmə kæmp/,/ˈsʌmɚ kæmp/,audio/uk/summer-camp.mp3,audio/us/summer-camp.mp3,trại hè,We're at summer camp.,Chúng mình đang ở trại hè.
+4,20,At summer camp,unverified,tent,n,/tent/,/tent/,audio/uk/tent.mp3,audio/us/tent.mp3,cái lều,They're putting up a tent.,Các bạn ấy đang dựng lều.
+4,20,At summer camp,unverified,campfire,n,/ˈkæmpfaɪə(r)/,/ˈkæmpfaɪɚ/,audio/uk/campfire.mp3,audio/us/campfire.mp3,lửa trại,We're singing around the campfire.,Chúng mình đang hát quanh đống lửa trại.
+4,20,At summer camp,unverified,put up a tent,phr,/ˌpʊt ʌp ə ˈtent/,/ˌpʊt ʌp ə ˈtent/,audio/uk/put-up-a-tent.mp3,audio/us/put-up-a-tent.mp3,dựng lều,They're putting up a tent.,Các bạn ấy đang dựng lều.
+4,20,At summer camp,unverified,play tug of war,phr,/ˌpleɪ ˌtʌɡ əv ˈwɔː(r)/,/ˌpleɪ ˌtʌɡ əv ˈwɔːr/,audio/uk/play-tug-of-war.mp3,audio/us/play-tug-of-war.mp3,chơi kéo co,They're playing tug of war.,Các bạn ấy đang chơi kéo co.
+4,20,At summer camp,unverified,what are they doing?,phr,/ˌwɒt ɑː ðeɪ ˈduːɪŋ/,/ˌwʌt ɑːr ðeɪ ˈduːɪŋ/,audio/uk/what-are-they-doing.mp3,audio/us/what-are-they-doing.mp3,họ đang làm gì?,What are they doing? – They're playing tug of war.,Các bạn ấy đang làm gì? – Các bạn ấy đang chơi kéo co.

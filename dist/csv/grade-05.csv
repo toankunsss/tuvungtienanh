@@ -1,203 +1,203 @@
-﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-5,1,All about me!,sourced,yourself,pron,/jɔːˈself/,/jɚˈself/,audio/uk/yourself.mp3,audio/us/yourself.mp3,bản thân bạn,Can you tell me about yourself?
-5,1,All about me!,sourced,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,I live in the city.
-5,1,All about me!,sourced,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,My grandparents live in the countryside.
-5,1,All about me!,sourced,class,n,/klɑːs/,/klæs/,audio/uk/class.mp3,audio/us/class.mp3,lớp học,I'm in class 5A.
-5,1,All about me!,sourced,favourite,adj,/ˈfeɪvərɪt/,/ˈfeɪvɚɪt/,audio/uk/favourite.mp3,audio/us/favourite.mp3,yêu thích,What's your favourite colour?
-5,1,All about me!,sourced,pink,adj,/pɪŋk/,/pɪŋk/,audio/uk/pink.mp3,audio/us/pink.mp3,màu hồng,
-5,1,All about me!,sourced,green,adj,/ɡriːn/,/ɡriːn/,audio/uk/green.mp3,audio/us/green.mp3,màu xanh lá cây,
-5,1,All about me!,sourced,purple,adj,/ˈpɜːpl/,/ˈpɝːpəl/,audio/uk/purple.mp3,audio/us/purple.mp3,màu tím,
-5,1,All about me!,sourced,pasta,n,/ˈpæstə/,/ˈpɑːstə/,audio/uk/pasta.mp3,audio/us/pasta.mp3,mì Ý,
-5,1,All about me!,sourced,noodles,n,/ˈnuːdlz/,/ˈnuːdəlz/,audio/uk/noodles.mp3,audio/us/noodles.mp3,"mì, bún, phở (sợi)",
-5,1,All about me!,sourced,sandwich,n,/ˈsænwɪtʃ/,/ˈsænwɪtʃ/,audio/uk/sandwich.mp3,audio/us/sandwich.mp3,bánh mì kẹp,
-5,1,All about me!,sourced,table tennis,n,/ˈteɪbl tenɪs/,/ˈteɪbəl ˌtenɪs/,audio/uk/table-tennis.mp3,audio/us/table-tennis.mp3,bóng bàn,
-5,1,All about me!,sourced,basketball,n,/ˈbɑːskɪtbɔːl/,/ˈbæskətbɑːl/,audio/uk/basketball.mp3,audio/us/basketball.mp3,bóng rổ,
-5,1,All about me!,sourced,baseball,n,/ˈbeɪsbɔːl/,/ˈbeɪsbɑːl/,audio/uk/baseball.mp3,audio/us/baseball.mp3,bóng chày,
-5,1,All about me!,sourced,tennis,n,/ˈtenɪs/,/ˈtenɪs/,audio/uk/tennis.mp3,audio/us/tennis.mp3,quần vợt,
-5,1,All about me!,sourced,swimming,n,/ˈswɪmɪŋ/,/ˈswɪmɪŋ/,audio/uk/swimming.mp3,audio/us/swimming.mp3,bơi lội,
-5,1,All about me!,sourced,dolphin,n,/ˈdɒlfɪn/,/ˈdɑːlfən/,audio/uk/dolphin.mp3,audio/us/dolphin.mp3,cá heo,My favourite animal is the dolphin.
-5,2,Our homes,sourced,house,n,/haʊs/,/haʊs/,audio/uk/house.mp3,audio/us/house.mp3,ngôi nhà,Do you live in this house?
-5,2,Our homes,sourced,flat,n,/flæt/,/flæt/,audio/uk/flat.mp3,audio/us/flat.mp3,căn hộ,I live in a flat.
-5,2,Our homes,sourced,building,n,/ˈbɪldɪŋ/,/ˈbɪldɪŋ/,audio/uk/building.mp3,audio/us/building.mp3,tòa nhà,Do you live in that building?
-5,2,Our homes,sourced,tower,n,/ˈtaʊə/,/ˈtaʊɚ/,audio/uk/tower.mp3,audio/us/tower.mp3,"tòa tháp, tòa nhà cao tầng",I live in Lotus Tower.
-5,2,Our homes,sourced,live,v,/lɪv/,/lɪv/,audio/uk/live.mp3,audio/us/live.mp3,"sống, ở",
-5,2,Our homes,sourced,address,n,/əˈdres/,/əˈdres/,audio/uk/address.mp3,audio/us/address.mp3,địa chỉ,What's your address?
-5,2,Our homes,sourced,street,n,/striːt/,/striːt/,audio/uk/street.mp3,audio/us/street.mp3,đường phố,It's 23 Le Thanh Tong Street.
-5,2,Our homes,sourced,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,
-5,2,Our homes,sourced,lane,n,/leɪn/,/leɪn/,audio/uk/lane.mp3,audio/us/lane.mp3,"ngõ, hẻm",
-5,3,My foreign friends,sourced,foreign,adj,/ˈfɒrən/,/ˈfɔːrən/,audio/uk/foreign.mp3,audio/us/foreign.mp3,(thuộc) nước ngoài,
-5,3,My foreign friends,sourced,nationality,n,/ˌnæʃəˈnæləti/,/ˌnæʃəˈnæləti/,audio/uk/nationality.mp3,audio/us/nationality.mp3,quốc tịch,What nationality is she?
-5,3,My foreign friends,sourced,American,adj,/əˈmerɪkən/,/əˈmerɪkən/,audio/uk/american.mp3,audio/us/american.mp3,(người) Mỹ,She's American.
-5,3,My foreign friends,sourced,Australian,adj,/ɒˈstreɪliən/,/ɑːˈstreɪljən/,audio/uk/australian.mp3,audio/us/australian.mp3,(người) Úc,
-5,3,My foreign friends,sourced,British,adj,/ˈbrɪtɪʃ/,/ˈbrɪtɪʃ/,audio/uk/british.mp3,audio/us/british.mp3,(người) Anh,
-5,3,My foreign friends,sourced,Japanese,adj,/ˌdʒæpəˈniːz/,/ˌdʒæpəˈniːz/,audio/uk/japanese.mp3,audio/us/japanese.mp3,(người) Nhật Bản,
-5,3,My foreign friends,sourced,Malaysian,adj,/məˈleɪʒn/,/məˈleɪʒən/,audio/uk/malaysian-adj.mp3,audio/us/malaysian-adj.mp3,(người) Ma-lai-xi-a,
-5,3,My foreign friends,sourced,Singaporean,adj,/ˌsɪŋəˈpɔːriən/,/sɪŋɡəˈpɔːriən/,audio/uk/singaporean.mp3,audio/us/singaporean.mp3,(người) Xin-ga-po,
-5,3,My foreign friends,sourced,Thai,adj,/taɪ/,/taɪ/,audio/uk/thai.mp3,audio/us/thai.mp3,(người) Thái Lan,
-5,3,My foreign friends,sourced,active,adj,/ˈæktɪv/,/ˈæktɪv/,audio/uk/active.mp3,audio/us/active.mp3,năng động,
-5,3,My foreign friends,sourced,clever,adj,/ˈklevə/,/ˈklevɚ/,audio/uk/clever.mp3,audio/us/clever.mp3,"thông minh, lanh lợi",What's she like? She's clever.
-5,3,My foreign friends,sourced,friendly,adj,/ˈfrendli/,/ˈfrendli/,audio/uk/friendly.mp3,audio/us/friendly.mp3,thân thiện,
-5,3,My foreign friends,sourced,helpful,adj,/ˈhelpfl/,/ˈhelpfəl/,audio/uk/helpful.mp3,audio/us/helpful.mp3,hay giúp đỡ,
-5,3,My foreign friends,sourced,kind,adj,/kaɪnd/,/kaɪnd/,audio/uk/kind.mp3,audio/us/kind.mp3,tốt bụng,
-5,4,Our free-time activities,sourced,free time,n,/ˌfriː ˈtaɪm/,/ˌfriː ˈtaɪm/,audio/uk/free-time.mp3,audio/us/free-time.mp3,thời gian rảnh,What do you do in your free time?
-5,4,Our free-time activities,sourced,surf the Internet,phr,/ˌsɜːf ði ˈɪntənet/,/ˌsɝːf ði ˈɪntɚnet/,audio/uk/surf-the-internet.mp3,audio/us/surf-the-internet.mp3,lướt mạng,
-5,4,Our free-time activities,sourced,water the flowers,phr,/ˌwɔːtə ðə ˈflaʊəz/,/ˌwɑːtɚ ðə ˈflaʊɚz/,audio/uk/water-the-flowers.mp3,audio/us/water-the-flowers.mp3,tưới hoa,
-5,4,Our free-time activities,sourced,go for a walk,phr,/ˌɡəʊ fər ə ˈwɔːk/,/ˌɡoʊ fɚ ə ˈwɑːk/,audio/uk/go-for-a-walk.mp3,audio/us/go-for-a-walk.mp3,đi dạo,
-5,4,Our free-time activities,sourced,ride a bike,phr,/ˌraɪd ə ˈbaɪk/,/ˌraɪd ə ˈbaɪk/,audio/uk/ride-a-bike.mp3,audio/us/ride-a-bike.mp3,đạp xe,I often ride my bike.
-5,4,Our free-time activities,sourced,always,adv,/ˈɔːlweɪz/,/ˈɑːlweɪz/,audio/uk/always.mp3,audio/us/always.mp3,luôn luôn,
-5,4,Our free-time activities,sourced,usually,adv,/ˈjuːʒuəli/,/ˈjuːʒəli/,audio/uk/usually.mp3,audio/us/usually.mp3,thường xuyên,
-5,4,Our free-time activities,sourced,often,adv,/ˈɒfn/,/ˈɑːfən/,audio/uk/often.mp3,audio/us/often.mp3,thường,
-5,4,Our free-time activities,sourced,sometimes,adv,/ˈsʌmtaɪmz/,/ˈsʌmtaɪmz/,audio/uk/sometimes.mp3,audio/us/sometimes.mp3,thỉnh thoảng,
-5,4,Our free-time activities,sourced,never,adv,/ˈnevə/,/ˈnevɚ/,audio/uk/never.mp3,audio/us/never.mp3,không bao giờ,
-5,5,My future job,sourced,future,n,/ˈfjuːtʃə/,/ˈfjuːtʃɚ/,audio/uk/future.mp3,audio/us/future.mp3,tương lai,What would you like to be in the future?
-5,5,My future job,sourced,job,n,/dʒɒb/,/dʒɑːb/,audio/uk/job.mp3,audio/us/job.mp3,"công việc, nghề nghiệp",
-5,5,My future job,sourced,firefighter,n,/ˈfaɪəfaɪtə/,/ˈfaɪrfaɪtɚ/,audio/uk/firefighter.mp3,audio/us/firefighter.mp3,lính cứu hỏa,
-5,5,My future job,sourced,gardener,n,/ˈɡɑːdnə/,/ˈɡɑːrdənɚ/,audio/uk/gardener.mp3,audio/us/gardener.mp3,người làm vườn,
-5,5,My future job,sourced,reporter,n,/rɪˈpɔːtə/,/rɪˈpɔːrtɚ/,audio/uk/reporter.mp3,audio/us/reporter.mp3,phóng viên,I'd like to be a reporter.
-5,5,My future job,sourced,writer,n,/ˈraɪtə/,/ˈraɪtɚ/,audio/uk/writer.mp3,audio/us/writer.mp3,nhà văn,
-5,5,My future job,sourced,farmer,n,/ˈfɑːmə/,/ˈfɑːrmɚ/,audio/uk/farmer-n.mp3,audio/us/farmer-n.mp3,nông dân,
-5,5,My future job,sourced,teacher,n,/ˈtiːtʃə/,/ˈtiːtʃɚ/,audio/uk/teacher.mp3,audio/us/teacher.mp3,giáo viên,
-5,5,My future job,sourced,put out fires,phr,/ˌpʊt aʊt ˈfaɪəz/,/ˌpʊt aʊt ˈfaɪɚz/,audio/uk/put-out-fires.mp3,audio/us/put-out-fires.mp3,dập lửa,A firefighter puts out fires.
-5,5,My future job,sourced,save people,phr,/ˌseɪv ˈpiːpl/,/ˌseɪv ˈpiːpəl/,audio/uk/save-people.mp3,audio/us/save-people.mp3,cứu người,
-5,5,My future job,sourced,grow vegetables,phr,/ˌɡrəʊ ˈvedʒtəblz/,/ˌɡroʊ ˈvedʒtəbəlz/,audio/uk/grow-vegetables.mp3,audio/us/grow-vegetables.mp3,trồng rau,
-5,5,My future job,sourced,write stories,phr,/ˌraɪt ˈstɔːriz/,/ˌraɪt ˈstɔːriz/,audio/uk/write-stories.mp3,audio/us/write-stories.mp3,viết truyện,
-5,6,Our school rooms,sourced,floor,n,/flɔː/,/flɔːr/,audio/uk/floor-n.mp3,audio/us/floor-n.mp3,tầng,The library is on the second floor.
-5,6,Our school rooms,sourced,ground floor,n,/ˌɡraʊnd ˈflɔː/,/ˌɡraʊnd ˈflɔːr/,audio/uk/ground-floor.mp3,audio/us/ground-floor.mp3,tầng trệt,
-5,6,Our school rooms,sourced,first floor,n,/ˌfɜːst ˈflɔː/,/ˌfɝːst ˈflɔːr/,audio/uk/first-floor.mp3,audio/us/first-floor.mp3,tầng một,
-5,6,Our school rooms,sourced,second floor,n,/ˌsekənd ˈflɔː/,/ˌsekənd ˈflɔːr/,audio/uk/second-floor.mp3,audio/us/second-floor.mp3,tầng hai,
-5,6,Our school rooms,sourced,art room,n,/ˈɑːt ruːm/,/ˈɑːrt ruːm/,audio/uk/art-room.mp3,audio/us/art-room.mp3,phòng mỹ thuật,
-5,6,Our school rooms,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,audio/uk/computer-room.mp3,audio/us/computer-room.mp3,phòng máy tính,
-5,6,Our school rooms,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,audio/uk/music-room.mp3,audio/us/music-room.mp3,phòng âm nhạc,
-5,6,Our school rooms,sourced,library,n,/ˈlaɪbrəri/,/ˈlaɪbreriː/,audio/uk/library.mp3,audio/us/library.mp3,thư viện,
-5,6,Our school rooms,sourced,corridor,n,/ˈkɒrɪdɔː/,/ˈkɔːrɪdɚ/,audio/uk/corridor.mp3,audio/us/corridor.mp3,hành lang,
-5,6,Our school rooms,sourced,go along,phr v,/ˌɡəʊ əˈlɒŋ/,/ˌɡoʊ əˈlɑːŋ/,audio/uk/go-along.mp3,audio/us/go-along.mp3,đi dọc theo,Go along the corridor.
-5,6,Our school rooms,sourced,go past,phr v,/ˌɡəʊ ˈpɑːst/,/ˌɡoʊ ˈpæst/,audio/uk/go-past.mp3,audio/us/go-past.mp3,"đi qua, đi ngang qua",Go past the computer room.
-5,6,Our school rooms,sourced,turn left,phr,/ˌtɜːn ˈleft/,/ˌtɝːn ˈleft/,audio/uk/turn-left.mp3,audio/us/turn-left.mp3,rẽ trái,
-5,6,Our school rooms,sourced,turn right,phr,/ˌtɜːn ˈraɪt/,/ˌtɝːn ˈraɪt/,audio/uk/turn-right.mp3,audio/us/turn-right.mp3,rẽ phải,
-5,6,Our school rooms,sourced,downstairs,adv,/ˌdaʊnˈsteəz/,/ˌdaʊnˈsterz/,audio/uk/downstairs.mp3,audio/us/downstairs.mp3,"ở tầng dưới, xuống tầng dưới",
-5,6,Our school rooms,sourced,upstairs,adv,/ˌʌpˈsteəz/,/əpˈsterz/,audio/uk/upstairs.mp3,audio/us/upstairs.mp3,"ở tầng trên, lên tầng trên",
-5,7,Our favourite school activities,sourced,school activity,n,/ˌskuːl ækˈtɪvəti/,/ˌskuːl ækˈtɪvəti/,audio/uk/school-activity.mp3,audio/us/school-activity.mp3,hoạt động ở trường,
-5,7,Our favourite school activities,sourced,do projects,phr,/ˌduː ˈprɒdʒekts/,/ˌduː ˈprɑːdʒekts/,audio/uk/do-projects.mp3,audio/us/do-projects.mp3,làm dự án,I like doing projects.
-5,7,Our favourite school activities,sourced,solve maths problems,phr,/ˌsɒlv ˈmæθs ˌprɒbləmz/,/ˌsɑːlv ˈmæθs ˌprɑːbləmz/,audio/uk/solve-maths-problems.mp3,audio/us/solve-maths-problems.mp3,giải toán,
-5,7,Our favourite school activities,sourced,do puzzles,phr,/ˌduː ˈpʌzlz/,/ˌduː ˈpʌzəlz/,audio/uk/do-puzzles.mp3,audio/us/do-puzzles.mp3,giải câu đố,
-5,7,Our favourite school activities,sourced,read books,phr,/ˌriːd ˈbʊks/,/ˌriːd ˈbʊks/,audio/uk/read-books.mp3,audio/us/read-books.mp3,đọc sách,
-5,7,Our favourite school activities,sourced,useful,adj,/ˈjuːsfl/,/ˈjuːsfəl/,audio/uk/useful.mp3,audio/us/useful.mp3,hữu ích,It's useful.
-5,7,Our favourite school activities,sourced,fun,adj,/fʌn/,/fʌn/,audio/uk/fun.mp3,audio/us/fun.mp3,vui,
-5,7,Our favourite school activities,sourced,interesting,adj,/ˈɪntrəstɪŋ/,/ˈɪntrəstɪŋ/,audio/uk/interesting.mp3,audio/us/interesting.mp3,thú vị,
-5,8,In our classroom,sourced,whose,pron,/huːz/,/huːz/,audio/uk/whose.mp3,audio/us/whose.mp3,của ai,Whose glue stick is this?
-5,8,In our classroom,sourced,glue stick,n,/ˈɡluː stɪk/,/ˈɡluː stɪk/,audio/uk/glue-stick.mp3,audio/us/glue-stick.mp3,keo dán dạng thỏi,
-5,8,In our classroom,sourced,school bag,n,/ˈskuːl bæɡ/,/ˈskuːl bæɡ/,audio/uk/school-bag.mp3,audio/us/school-bag.mp3,cặp sách,
-5,8,In our classroom,sourced,crayon,n,/ˈkreɪɒn/,/ˈkreɪɑːn/,audio/uk/crayon.mp3,audio/us/crayon.mp3,bút sáp màu,
-5,8,In our classroom,sourced,pencil box,n,/ˈpensl bɒks/,/ˈpensəl bɑːks/,audio/uk/pencil-box.mp3,audio/us/pencil-box.mp3,hộp bút,
-5,8,In our classroom,sourced,pencil,n,/ˈpensl/,/ˈpensəl/,audio/uk/pencil.mp3,audio/us/pencil.mp3,bút chì,
-5,8,In our classroom,sourced,eraser,n,/ɪˈreɪzə/,/ɪˈreɪsɚ/,audio/uk/eraser-n.mp3,audio/us/eraser-n.mp3,cục tẩy,
-5,8,In our classroom,sourced,notebook,n,/ˈnəʊtbʊk/,/ˈnoʊtbʊk/,audio/uk/notebook.mp3,audio/us/notebook.mp3,"vở, sổ ghi chép",
-5,8,In our classroom,sourced,next to,prep,/ˈnekst tə/,/ˈnekst tə/,audio/uk/next-to.mp3,audio/us/next-to.mp3,bên cạnh,The glue is next to the school bag.
-5,8,In our classroom,sourced,beside,prep,/bɪˈsaɪd/,/bɪˈsaɪd/,audio/uk/beside.mp3,audio/us/beside.mp3,bên cạnh,
-5,8,In our classroom,sourced,behind,prep,/bɪˈhaɪnd/,/bɪˈhaɪnd/,audio/uk/behind.mp3,audio/us/behind.mp3,phía sau,
-5,8,In our classroom,sourced,in front of,prep,/ɪn ˈfrʌnt əv/,/ɪn ˈfrʌnt əv/,audio/uk/in-front-of.mp3,audio/us/in-front-of.mp3,phía trước,
-5,9,Our outdoor activities,sourced,outdoor,adj,/ˈaʊtdɔː/,/ˈaʊtdɔːr/,audio/uk/outdoor.mp3,audio/us/outdoor.mp3,ngoài trời,
-5,9,Our outdoor activities,sourced,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,We were at the campsite.
-5,9,Our outdoor activities,sourced,sports centre,n,/ˈspɔːts ˌsentə/,/ˈspɔːrts ˌsentɚ/,audio/uk/sports-centre.mp3,audio/us/sports-centre.mp3,trung tâm thể thao,
-5,9,Our outdoor activities,sourced,funfair,n,/ˈfʌnfeə/,/ˈfʌnfer/,audio/uk/funfair.mp3,audio/us/funfair.mp3,"khu vui chơi, hội chợ giải trí",
-5,9,Our outdoor activities,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,
-5,9,Our outdoor activities,sourced,park,n,/pɑːk/,/pɑːrk/,audio/uk/park.mp3,audio/us/park.mp3,công viên,
-5,9,Our outdoor activities,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,audio/uk/play-basketball.mp3,audio/us/play-basketball.mp3,chơi bóng rổ,My brother played basketball at the sports centre.
-5,9,Our outdoor activities,sourced,last weekend,phr,/ˌlɑːst ˌwiːkˈend/,/ˌlæst ˈwiːkend/,audio/uk/last-weekend.mp3,audio/us/last-weekend.mp3,cuối tuần trước,
-5,9,Our outdoor activities,sourced,yesterday,adv,/ˈjestədeɪ/,/ˈjestɚdeɪ/,audio/uk/yesterday.mp3,audio/us/yesterday.mp3,hôm qua,
-5,10,Our school trip,sourced,school trip,n,/ˈskuːl trɪp/,/ˈskuːl trɪp/,audio/uk/school-trip.mp3,audio/us/school-trip.mp3,chuyến đi của trường,
-5,10,Our school trip,sourced,visit,v,/ˈvɪzɪt/,/ˈvɪzɪt/,audio/uk/visit.mp3,audio/us/visit.mp3,"thăm, tham quan",We visited a farm near our school.
-5,10,Our school trip,sourced,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,trang trại,
-5,10,Our school trip,sourced,Bai Dinh Pagoda,n,/ˌbaɪ ˈdɪn pəˈɡəʊdə/,/ˌbaɪ ˈdɪn pəˈɡoʊdə/,audio/uk/bai-dinh-pagoda.mp3,audio/us/bai-dinh-pagoda.mp3,chùa Bái Đính,
-5,10,Our school trip,sourced,Ba Na Hills,n,/ˌbɑː ˈnɑː ˈhɪlz/,/ˌbɑː ˈnɑː ˈhɪlz/,audio/uk/ba-na-hills.mp3,audio/us/ba-na-hills.mp3,Bà Nà Hills,
-5,10,Our school trip,sourced,Hoan Kiem Lake,n,/ˌhwɑːn ˈkiːm ˈleɪk/,/ˌhwɑːn ˈkiːm ˈleɪk/,audio/uk/hoan-kiem-lake.mp3,audio/us/hoan-kiem-lake.mp3,hồ Hoàn Kiếm,
-5,10,Our school trip,sourced,take photos,phr,/ˌteɪk ˈfəʊtəʊz/,/ˌteɪk ˈfoʊtoʊz/,audio/uk/take-photos.mp3,audio/us/take-photos.mp3,chụp ảnh,
-5,11,Family time,sourced,family,n,/ˈfæməli/,/ˈfæməli/,audio/uk/family.mp3,audio/us/family.mp3,gia đình,
-5,11,Family time,sourced,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,
-5,11,Family time,sourced,buy souvenirs,phr,/ˌbaɪ ˌsuːvəˈnɪəz/,/ˌbaɪ ˌsuːvəˈnɪrz/,audio/uk/buy-souvenirs.mp3,audio/us/buy-souvenirs.mp3,mua quà lưu niệm,
-5,11,Family time,sourced,collect seashells,phr,/kəˌlekt ˈsiːʃelz/,/kəˌlekt ˈsiːʃelz/,audio/uk/collect-seashells.mp3,audio/us/collect-seashells.mp3,nhặt vỏ sò,
-5,11,Family time,sourced,walk on the beach,phr,/ˌwɔːk ɒn ðə ˈbiːtʃ/,/ˌwɑːk ɑːn ðə ˈbiːtʃ/,audio/uk/walk-on-the-beach.mp3,audio/us/walk-on-the-beach.mp3,đi dạo trên bãi biển,
-5,11,Family time,sourced,build sandcastles,phr,/ˌbɪld ˈsændkɑːslz/,/ˌbɪld ˈsændkæslz/,audio/uk/build-sandcastles.mp3,audio/us/build-sandcastles.mp3,xây lâu đài cát,
-5,11,Family time,sourced,swim in the sea,phr,/ˌswɪm ɪn ðə ˈsiː/,/ˌswɪm ɪn ðə ˈsiː/,audio/uk/swim-in-the-sea.mp3,audio/us/swim-in-the-sea.mp3,bơi ở biển,
-5,12,Our Tet holiday,sourced,Tet,n,/tet/,/tet/,audio/uk/tet.mp3,audio/us/tet.mp3,Tết,
-5,12,Our Tet holiday,sourced,buy peach blossoms,phr,/ˌbaɪ ˈpiːtʃ ˌblɒsəmz/,/ˌbaɪ ˈpiːtʃ ˌblɑːsəmz/,audio/uk/buy-peach-blossoms.mp3,audio/us/buy-peach-blossoms.mp3,mua cành đào,
-5,12,Our Tet holiday,sourced,make banh chung,phr,/ˌmeɪk ˌbæn ˈtʃʊŋ/,/ˌmeɪk ˌbæn ˈtʃʌŋ/,audio/uk/make-banh-chung.mp3,audio/us/make-banh-chung.mp3,gói bánh chưng,
-5,12,Our Tet holiday,sourced,make spring rolls,phr,/ˌmeɪk ˈsprɪŋ rəʊlz/,/ˌmeɪk ˈsprɪŋ roʊlz/,audio/uk/make-spring-rolls.mp3,audio/us/make-spring-rolls.mp3,làm nem (chả giò),
-5,12,Our Tet holiday,sourced,New Year party,n,/ˌnjuː jɪə ˈpɑːti/,/ˌnuː jɪr ˈpɑːrti/,audio/uk/new-year-party.mp3,audio/us/new-year-party.mp3,tiệc mừng năm mới,
-5,12,Our Tet holiday,sourced,fireworks show,n,/ˈfaɪəwɜːks ʃəʊ/,/ˈfaɪrwɝːks ʃoʊ/,audio/uk/fireworks-show.mp3,audio/us/fireworks-show.mp3,buổi trình diễn pháo hoa,
-5,12,Our Tet holiday,sourced,watch fireworks,phr,/ˌwɒtʃ ˈfaɪəwɜːks/,/ˌwɑːtʃ ˈfaɪrwɝːks/,audio/uk/watch-fireworks.mp3,audio/us/watch-fireworks.mp3,xem pháo hoa,
-5,12,Our Tet holiday,sourced,visit grandparents,phr,/ˌvɪzɪt ˈɡrænpeərənts/,/ˌvɪzɪt ˈɡrændperənts/,audio/uk/visit-grandparents.mp3,audio/us/visit-grandparents.mp3,thăm ông bà,
-5,12,Our Tet holiday,sourced,lucky money,n,/ˈlʌki ˌmʌni/,/ˈlʌki ˌmʌni/,audio/uk/lucky-money.mp3,audio/us/lucky-money.mp3,tiền lì xì,
-5,12,Our Tet holiday,sourced,decorate,v,/ˈdekəreɪt/,/ˈdekəreɪt/,audio/uk/decorate.mp3,audio/us/decorate.mp3,trang trí,
-5,13,Our special days,sourced,special day,n,/ˌspeʃl ˈdeɪ/,/ˌspeʃəl ˈdeɪ/,audio/uk/special-day.mp3,audio/us/special-day.mp3,ngày đặc biệt,
-5,13,Our special days,sourced,Mid-Autumn Festival,n,/ˌmɪd ˈɔːtəm ˈfestɪvl/,/ˌmɪd ˈɑːtəm ˈfestɪvəl/,audio/uk/mid-autumn-festival.mp3,audio/us/mid-autumn-festival.mp3,Tết Trung thu,
-5,13,Our special days,sourced,Teachers' Day,n,/ˈtiːtʃəz deɪ/,/ˈtiːtʃɚz deɪ/,audio/uk/teachers-day.mp3,audio/us/teachers-day.mp3,Ngày Nhà giáo,
-5,13,Our special days,sourced,Children's Day,n,/ˈtʃɪldrənz deɪ/,/ˈtʃɪldrənz deɪ/,audio/uk/children-s-day.mp3,audio/us/children-s-day.mp3,Ngày Quốc tế Thiếu nhi,
-5,13,Our special days,sourced,apple juice,n,/ˈæpl dʒuːs/,/ˈæpəl dʒuːs/,audio/uk/apple-juice.mp3,audio/us/apple-juice.mp3,nước ép táo,
-5,13,Our special days,sourced,milk tea,n,/ˌmɪlk ˈtiː/,/ˌmɪlk ˈtiː/,audio/uk/milk-tea.mp3,audio/us/milk-tea.mp3,trà sữa,
-5,13,Our special days,sourced,burger,n,/ˈbɜːɡə/,/ˈbɝːɡɚ/,audio/uk/burger.mp3,audio/us/burger.mp3,bánh mì kẹp thịt,
-5,13,Our special days,sourced,pizza,n,/ˈpiːtsə/,/ˈpiːtsə/,audio/uk/pizza.mp3,audio/us/pizza.mp3,bánh pi-da,
-5,14,Staying healthy,sourced,healthy,adj,/ˈhelθi/,/ˈhelθi/,audio/uk/healthy.mp3,audio/us/healthy.mp3,"khỏe mạnh, tốt cho sức khỏe",
-5,14,Staying healthy,sourced,do morning exercise,phr,/ˌduː ˌmɔːnɪŋ ˈeksəsaɪz/,/ˌduː ˌmɔːrnɪŋ ˈeksɚsaɪz/,audio/uk/do-morning-exercise.mp3,audio/us/do-morning-exercise.mp3,tập thể dục buổi sáng,
-5,14,Staying healthy,sourced,do yoga,phr,/ˌduː ˈjəʊɡə/,/ˌduː ˈjoʊɡə/,audio/uk/do-yoga.mp3,audio/us/do-yoga.mp3,tập yoga,
-5,14,Staying healthy,sourced,play sports,phr,/ˌpleɪ ˈspɔːts/,/ˌpleɪ ˈspɔːrts/,audio/uk/play-sports.mp3,audio/us/play-sports.mp3,chơi thể thao,
-5,14,Staying healthy,sourced,drink fresh juice,phr,/ˌdrɪŋk ˌfreʃ ˈdʒuːs/,/ˌdrɪŋk ˌfreʃ ˈdʒuːs/,audio/uk/drink-fresh-juice.mp3,audio/us/drink-fresh-juice.mp3,uống nước ép tươi,
-5,14,Staying healthy,sourced,once a week,phr,/ˌwʌns ə ˈwiːk/,/ˌwʌns ə ˈwiːk/,audio/uk/once-a-week.mp3,audio/us/once-a-week.mp3,một lần một tuần,
-5,14,Staying healthy,sourced,twice a week,phr,/ˌtwaɪs ə ˈwiːk/,/ˌtwaɪs ə ˈwiːk/,audio/uk/twice-a-week.mp3,audio/us/twice-a-week.mp3,hai lần một tuần,
-5,14,Staying healthy,sourced,three times a week,phr,/ˌθriː ˌtaɪmz ə ˈwiːk/,/ˌθriː ˌtaɪmz ə ˈwiːk/,audio/uk/three-times-a-week.mp3,audio/us/three-times-a-week.mp3,ba lần một tuần,I do yoga three times a week.
-5,15,Our health,sourced,health,n,/helθ/,/helθ/,audio/uk/health.mp3,audio/us/health.mp3,sức khỏe,
-5,15,Our health,sourced,headache,n,/ˈhedeɪk/,/ˈhedeɪk/,audio/uk/headache.mp3,audio/us/headache.mp3,đau đầu,
-5,15,Our health,sourced,sore throat,n,/ˌsɔː ˈθrəʊt/,/ˌsɔːr ˈθroʊt/,audio/uk/sore-throat.mp3,audio/us/sore-throat.mp3,đau họng,
-5,15,Our health,sourced,stomach ache,n,/ˈstʌmək eɪk/,/ˈstʌmək eɪk/,audio/uk/stomach-ache.mp3,audio/us/stomach-ache.mp3,đau bụng,
-5,15,Our health,sourced,toothache,n,/ˈtuːθeɪk/,/ˈtuːθeɪk/,audio/uk/toothache.mp3,audio/us/toothache.mp3,đau răng,
-5,15,Our health,sourced,fever,n,/ˈfiːvə/,/ˈfiːvɚ/,audio/uk/fever.mp3,audio/us/fever.mp3,sốt,
-5,15,Our health,sourced,drink warm water,phr,/ˌdrɪŋk ˌwɔːm ˈwɔːtə/,/ˌdrɪŋk ˌwɔːrm ˈwɑːtɚ/,audio/uk/drink-warm-water.mp3,audio/us/drink-warm-water.mp3,uống nước ấm,
-5,15,Our health,sourced,go to the dentist,phr,/ˌɡəʊ tə ðə ˈdentɪst/,/ˌɡoʊ tə ðə ˈdentɪst/,audio/uk/go-to-the-dentist.mp3,audio/us/go-to-the-dentist.mp3,đi khám nha sĩ,
-5,15,Our health,sourced,go to the doctor,phr,/ˌɡəʊ tə ðə ˈdɒktə/,/ˌɡoʊ tə ðə ˈdɑːktɚ/,audio/uk/go-to-the-doctor.mp3,audio/us/go-to-the-doctor.mp3,đi khám bác sĩ,
-5,15,Our health,sourced,have a rest,phr,/ˌhæv ə ˈrest/,/ˌhæv ə ˈrest/,audio/uk/have-a-rest.mp3,audio/us/have-a-rest.mp3,nghỉ ngơi,You should have a rest.
-5,16,Seasons and the weather,sourced,season,n,/ˈsiːzn/,/ˈsiːzən/,audio/uk/season.mp3,audio/us/season.mp3,mùa,
-5,16,Seasons and the weather,sourced,spring,n,/sprɪŋ/,/sprɪŋ/,audio/uk/spring.mp3,audio/us/spring.mp3,mùa xuân,
-5,16,Seasons and the weather,sourced,summer,n,/ˈsʌmə/,/ˈsʌmɚ/,audio/uk/summer.mp3,audio/us/summer.mp3,mùa hè,
-5,16,Seasons and the weather,sourced,autumn,n,/ˈɔːtəm/,/ˈɑːtəm/,audio/uk/autumn.mp3,audio/us/autumn.mp3,mùa thu,
-5,16,Seasons and the weather,sourced,winter,n,/ˈwɪntə/,/ˈwɪntɚ/,audio/uk/winter.mp3,audio/us/winter.mp3,mùa đông,
-5,16,Seasons and the weather,sourced,weather,n,/ˈweðə/,/ˈweðɚ/,audio/uk/weather-n.mp3,audio/us/weather-n.mp3,thời tiết,What's the weather like in summer?
-5,16,Seasons and the weather,sourced,weather forecast,n,/ˈweðə ˌfɔːkɑːst/,/ˈweðɚ ˌfɔːrkæst/,audio/uk/weather-forecast.mp3,audio/us/weather-forecast.mp3,dự báo thời tiết,
-5,16,Seasons and the weather,sourced,hot,adj,/hɒt/,/hɑːt/,audio/uk/hot.mp3,audio/us/hot.mp3,nóng,
-5,16,Seasons and the weather,sourced,warm,adj,/wɔːm/,/wɔːrm/,audio/uk/warm.mp3,audio/us/warm.mp3,ấm áp,
-5,16,Seasons and the weather,sourced,cool,adj,/kuːl/,/kuːl/,audio/uk/cool.mp3,audio/us/cool.mp3,mát mẻ,
-5,16,Seasons and the weather,sourced,cold,adj,/kəʊld/,/koʊld/,audio/uk/cold.mp3,audio/us/cold.mp3,lạnh,
-5,16,Seasons and the weather,sourced,dry,adj,/draɪ/,/draɪ/,audio/uk/dry.mp3,audio/us/dry.mp3,khô,
-5,16,Seasons and the weather,sourced,rainy,adj,/ˈreɪni/,/ˈreɪni/,audio/uk/rainy.mp3,audio/us/rainy.mp3,có mưa,
-5,17,Stories for children,sourced,story,n,/ˈstɔːri/,/ˈstɔːri/,audio/uk/story.mp3,audio/us/story.mp3,câu chuyện,
-5,17,Stories for children,sourced,ant,n,/ænt/,/ænt/,audio/uk/ant.mp3,audio/us/ant.mp3,con kiến,
-5,17,Stories for children,sourced,grasshopper,n,/ˈɡrɑːshɒpə/,/ˈɡræshɑːpɚ/,audio/uk/grasshopper.mp3,audio/us/grasshopper.mp3,con châu chấu,
-5,17,Stories for children,sourced,crow,n,/krəʊ/,/kroʊ/,audio/uk/crow.mp3,audio/us/crow.mp3,con quạ,
-5,17,Stories for children,sourced,fox,n,/fɒks/,/fɑːks/,audio/uk/fox.mp3,audio/us/fox.mp3,con cáo,
-5,17,Stories for children,sourced,tortoise,n,/ˈtɔːtəs/,/ˈtɔːrtəs/,audio/uk/tortoise.mp3,audio/us/tortoise.mp3,con rùa,
-5,17,Stories for children,sourced,hare,n,/heə/,/her/,audio/uk/hare.mp3,audio/us/hare.mp3,con thỏ rừng,
-5,17,Stories for children,sourced,Snow White,n,/ˌsnəʊ ˈwaɪt/,/ˌsnoʊ ˈwaɪt/,audio/uk/snow-white.mp3,audio/us/snow-white.mp3,nàng Bạch Tuyết,
-5,17,Stories for children,sourced,cook well,phr,/ˌkʊk ˈwel/,/ˌkʊk ˈwel/,audio/uk/cook-well.mp3,audio/us/cook-well.mp3,nấu ăn ngon,
-5,17,Stories for children,sourced,work hard,phr,/ˌwɜːk ˈhɑːd/,/ˌwɝːk ˈhɑːrd/,audio/uk/work-hard.mp3,audio/us/work-hard.mp3,làm việc chăm chỉ,
-5,18,Means of transport,sourced,means of transport,n,/ˌmiːnz əv ˈtrænspɔːt/,/ˌmiːnz əv ˈtrænspɔːrt/,audio/uk/means-of-transport.mp3,audio/us/means-of-transport.mp3,phương tiện giao thông,
-5,18,Means of transport,sourced,by bicycle,phr,/baɪ ˈbaɪsɪkl/,/baɪ ˈbaɪsɪkəl/,audio/uk/by-bicycle.mp3,audio/us/by-bicycle.mp3,bằng xe đạp,
-5,18,Means of transport,sourced,by bus,phr,/baɪ ˈbʌs/,/baɪ ˈbʌs/,audio/uk/by-bus.mp3,audio/us/by-bus.mp3,bằng xe buýt,
-5,18,Means of transport,sourced,by taxi,phr,/baɪ ˈtæksi/,/baɪ ˈtæksi/,audio/uk/by-taxi.mp3,audio/us/by-taxi.mp3,bằng taxi,
-5,18,Means of transport,sourced,by train,phr,/baɪ ˈtreɪn/,/baɪ ˈtreɪn/,audio/uk/by-train.mp3,audio/us/by-train.mp3,bằng tàu hỏa,
-5,18,Means of transport,sourced,by plane,phr,/baɪ ˈpleɪn/,/baɪ ˈpleɪn/,audio/uk/by-plane.mp3,audio/us/by-plane.mp3,bằng máy bay,
-5,18,Means of transport,sourced,by motorbike,phr,/baɪ ˈməʊtəbaɪk/,/baɪ ˈmoʊtɚbaɪk/,audio/uk/by-motorbike.mp3,audio/us/by-motorbike.mp3,bằng xe máy,
-5,18,Means of transport,sourced,by boat,phr,/baɪ ˈbəʊt/,/baɪ ˈboʊt/,audio/uk/by-boat.mp3,audio/us/by-boat.mp3,bằng thuyền,
-5,19,Places of interest,unverified,place of interest,n,/ˌpleɪs əv ˈɪntrəst/,/ˌpleɪs əv ˈɪntrəst/,audio/uk/place-of-interest.mp3,audio/us/place-of-interest.mp3,địa điểm tham quan,
-5,19,Places of interest,unverified,museum,n,/mjuˈziːəm/,/mjuːˈziːəm/,audio/uk/museum.mp3,audio/us/museum.mp3,bảo tàng,
-5,19,Places of interest,unverified,pagoda,n,/pəˈɡəʊdə/,/pəˈɡoʊdə/,audio/uk/pagoda.mp3,audio/us/pagoda.mp3,ngôi chùa,
-5,19,Places of interest,unverified,temple,n,/ˈtempl/,/ˈtempəl/,audio/uk/temple.mp3,audio/us/temple.mp3,ngôi đền,
-5,19,Places of interest,unverified,bridge,n,/brɪdʒ/,/brɪdʒ/,audio/uk/bridge.mp3,audio/us/bridge.mp3,cây cầu,
-5,19,Places of interest,unverified,market,n,/ˈmɑːkɪt/,/ˈmɑːrkɪt/,audio/uk/market.mp3,audio/us/market.mp3,chợ,
-5,19,Places of interest,unverified,famous,adj,/ˈfeɪməs/,/ˈfeɪməs/,audio/uk/famous.mp3,audio/us/famous.mp3,nổi tiếng,
-5,19,Places of interest,unverified,beautiful,adj,/ˈbjuːtɪfl/,/ˈbjuːtəfəl/,audio/uk/beautiful.mp3,audio/us/beautiful.mp3,đẹp,
-5,20,Our summer holidays,unverified,summer holiday,n,/ˌsʌmə ˈhɒlədeɪ/,/ˌsʌmɚ ˈhɑːlədeɪ/,audio/uk/summer-holiday.mp3,audio/us/summer-holiday.mp3,kỳ nghỉ hè,
-5,20,Our summer holidays,unverified,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,
-5,20,Our summer holidays,unverified,mountain,n,/ˈmaʊntən/,/ˈmaʊntən/,audio/uk/mountain.mp3,audio/us/mountain.mp3,núi,
-5,20,Our summer holidays,unverified,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,
-5,20,Our summer holidays,unverified,go camping,phr,/ˌɡəʊ ˈkæmpɪŋ/,/ˌɡoʊ ˈkæmpɪŋ/,audio/uk/go-camping.mp3,audio/us/go-camping.mp3,đi cắm trại,
-5,20,Our summer holidays,unverified,go swimming,phr,/ˌɡəʊ ˈswɪmɪŋ/,/ˌɡoʊ ˈswɪmɪŋ/,audio/uk/go-swimming.mp3,audio/us/go-swimming.mp3,đi bơi,
-5,20,Our summer holidays,unverified,take photos,phr,/ˌteɪk ˈfəʊtəʊz/,/ˌteɪk ˈfoʊtoʊz/,audio/uk/take-photos.mp3,audio/us/take-photos.mp3,chụp ảnh,
+﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
+5,1,All about me!,sourced,yourself,pron,/jɔːˈself/,/jɚˈself/,audio/uk/yourself.mp3,audio/us/yourself.mp3,bản thân bạn,Can you tell me about yourself?,Bạn có thể kể cho mình nghe về bản thân bạn không?
+5,1,All about me!,sourced,city,n,/ˈsɪti/,/ˈsɪti/,audio/uk/city.mp3,audio/us/city.mp3,thành phố,I live in the city.,Mình sống ở thành phố.
+5,1,All about me!,sourced,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,My grandparents live in the countryside.,Ông bà mình sống ở vùng nông thôn.
+5,1,All about me!,sourced,class,n,/klɑːs/,/klæs/,audio/uk/class.mp3,audio/us/class.mp3,lớp học,I'm in class 5A.,Mình học lớp 5A.
+5,1,All about me!,sourced,favourite,adj,/ˈfeɪvərɪt/,/ˈfeɪvɚɪt/,audio/uk/favourite.mp3,audio/us/favourite.mp3,yêu thích,What's your favourite colour?,Màu yêu thích của bạn là màu gì?
+5,1,All about me!,sourced,pink,adj,/pɪŋk/,/pɪŋk/,audio/uk/pink.mp3,audio/us/pink.mp3,màu hồng,My favourite colour is pink.,Màu yêu thích của mình là màu hồng.
+5,1,All about me!,sourced,green,adj,/ɡriːn/,/ɡriːn/,audio/uk/green.mp3,audio/us/green.mp3,màu xanh lá cây,I have a green school bag.,Mình có một chiếc cặp sách màu xanh lá cây.
+5,1,All about me!,sourced,purple,adj,/ˈpɜːpl/,/ˈpɝːpəl/,audio/uk/purple.mp3,audio/us/purple.mp3,màu tím,Her new dress is purple.,Chiếc váy mới của bạn ấy màu tím.
+5,1,All about me!,sourced,pasta,n,/ˈpæstə/,/ˈpɑːstə/,audio/uk/pasta.mp3,audio/us/pasta.mp3,mì Ý,My favourite food is pasta.,Món ăn yêu thích của mình là mì Ý.
+5,1,All about me!,sourced,noodles,n,/ˈnuːdlz/,/ˈnuːdəlz/,audio/uk/noodles.mp3,audio/us/noodles.mp3,"mì, bún, phở (sợi)",I have noodles for breakfast.,Mình ăn mì vào bữa sáng.
+5,1,All about me!,sourced,sandwich,n,/ˈsænwɪtʃ/,/ˈsænwɪtʃ/,audio/uk/sandwich.mp3,audio/us/sandwich.mp3,bánh mì kẹp,"I'd like a sandwich, please.",Cho mình một chiếc bánh mì kẹp nhé.
+5,1,All about me!,sourced,table tennis,n,/ˈteɪbl tenɪs/,/ˈteɪbəl ˌtenɪs/,audio/uk/table-tennis.mp3,audio/us/table-tennis.mp3,bóng bàn,I play table tennis with my brother.,Mình chơi bóng bàn với anh trai.
+5,1,All about me!,sourced,basketball,n,/ˈbɑːskɪtbɔːl/,/ˈbæskətbɑːl/,audio/uk/basketball.mp3,audio/us/basketball.mp3,bóng rổ,My favourite sport is basketball.,Môn thể thao yêu thích của mình là bóng rổ.
+5,1,All about me!,sourced,baseball,n,/ˈbeɪsbɔːl/,/ˈbeɪsbɑːl/,audio/uk/baseball.mp3,audio/us/baseball.mp3,bóng chày,They play baseball after school.,Các bạn ấy chơi bóng chày sau giờ học.
+5,1,All about me!,sourced,tennis,n,/ˈtenɪs/,/ˈtenɪs/,audio/uk/tennis.mp3,audio/us/tennis.mp3,quần vợt,Mai plays tennis on Sundays.,Mai chơi quần vợt vào các ngày Chủ nhật.
+5,1,All about me!,sourced,swimming,n,/ˈswɪmɪŋ/,/ˈswɪmɪŋ/,audio/uk/swimming.mp3,audio/us/swimming.mp3,bơi lội,I like swimming in the summer.,Mình thích bơi lội vào mùa hè.
+5,1,All about me!,sourced,dolphin,n,/ˈdɒlfɪn/,/ˈdɑːlfən/,audio/uk/dolphin.mp3,audio/us/dolphin.mp3,cá heo,My favourite animal is the dolphin.,Con vật yêu thích của mình là cá heo.
+5,2,Our homes,sourced,house,n,/haʊs/,/haʊs/,audio/uk/house.mp3,audio/us/house.mp3,ngôi nhà,Do you live in this house?,Bạn có sống trong ngôi nhà này không?
+5,2,Our homes,sourced,flat,n,/flæt/,/flæt/,audio/uk/flat.mp3,audio/us/flat.mp3,căn hộ,I live in a flat.,Mình sống trong một căn hộ.
+5,2,Our homes,sourced,building,n,/ˈbɪldɪŋ/,/ˈbɪldɪŋ/,audio/uk/building.mp3,audio/us/building.mp3,tòa nhà,Do you live in that building?,Bạn có sống trong tòa nhà kia không?
+5,2,Our homes,sourced,tower,n,/ˈtaʊə/,/ˈtaʊɚ/,audio/uk/tower.mp3,audio/us/tower.mp3,"tòa tháp, tòa nhà cao tầng",I live in Lotus Tower.,Mình sống ở tòa nhà Lotus Tower.
+5,2,Our homes,sourced,live,v,/lɪv/,/lɪv/,audio/uk/live.mp3,audio/us/live.mp3,"sống, ở",I live in a small house.,Mình sống trong một ngôi nhà nhỏ.
+5,2,Our homes,sourced,address,n,/əˈdres/,/əˈdres/,audio/uk/address.mp3,audio/us/address.mp3,địa chỉ,What's your address?,Địa chỉ của bạn là gì?
+5,2,Our homes,sourced,street,n,/striːt/,/striːt/,audio/uk/street.mp3,audio/us/street.mp3,đường phố,It's 23 Le Thanh Tong Street.,Đó là số 23 phố Lê Thánh Tông.
+5,2,Our homes,sourced,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,My house is on Tran Phu Road.,Nhà mình ở trên đường Trần Phú.
+5,2,Our homes,sourced,lane,n,/leɪn/,/leɪn/,audio/uk/lane.mp3,audio/us/lane.mp3,"ngõ, hẻm",She lives at 12 Hoa Mai Lane.,Bạn ấy sống ở số 12 ngõ Hoa Mai.
+5,3,My foreign friends,sourced,foreign,adj,/ˈfɒrən/,/ˈfɔːrən/,audio/uk/foreign.mp3,audio/us/foreign.mp3,(thuộc) nước ngoài,I have two foreign friends.,Mình có hai người bạn nước ngoài.
+5,3,My foreign friends,sourced,nationality,n,/ˌnæʃəˈnæləti/,/ˌnæʃəˈnæləti/,audio/uk/nationality.mp3,audio/us/nationality.mp3,quốc tịch,What nationality is she?,Bạn ấy mang quốc tịch gì?
+5,3,My foreign friends,sourced,American,adj,/əˈmerɪkən/,/əˈmerɪkən/,audio/uk/american.mp3,audio/us/american.mp3,(người) Mỹ,She's American.,Bạn ấy là người Mỹ.
+5,3,My foreign friends,sourced,Australian,adj,/ɒˈstreɪliən/,/ɑːˈstreɪljən/,audio/uk/australian.mp3,audio/us/australian.mp3,(người) Úc,Lucy is Australian.,Lucy là người Úc.
+5,3,My foreign friends,sourced,British,adj,/ˈbrɪtɪʃ/,/ˈbrɪtɪʃ/,audio/uk/british.mp3,audio/us/british.mp3,(người) Anh,My friend Tom is British.,Bạn Tom của mình là người Anh.
+5,3,My foreign friends,sourced,Japanese,adj,/ˌdʒæpəˈniːz/,/ˌdʒæpəˈniːz/,audio/uk/japanese.mp3,audio/us/japanese.mp3,(người) Nhật Bản,Akio is Japanese.,Akio là người Nhật Bản.
+5,3,My foreign friends,sourced,Malaysian,adj,/məˈleɪʒn/,/məˈleɪʒən/,audio/uk/malaysian-adj.mp3,audio/us/malaysian-adj.mp3,(người) Ma-lai-xi-a,Is your new friend Malaysian?,Bạn mới của bạn có phải là người Ma-lai-xi-a không?
+5,3,My foreign friends,sourced,Singaporean,adj,/ˌsɪŋəˈpɔːriən/,/sɪŋɡəˈpɔːriən/,audio/uk/singaporean.mp3,audio/us/singaporean.mp3,(người) Xin-ga-po,Linda is Singaporean.,Linda là người Xin-ga-po.
+5,3,My foreign friends,sourced,Thai,adj,/taɪ/,/taɪ/,audio/uk/thai.mp3,audio/us/thai.mp3,(người) Thái Lan,My pen friend is Thai.,Bạn qua thư của mình là người Thái Lan.
+5,3,My foreign friends,sourced,active,adj,/ˈæktɪv/,/ˈæktɪv/,audio/uk/active.mp3,audio/us/active.mp3,năng động,He's very active. He plays sports every day.,Bạn ấy rất năng động. Ngày nào bạn ấy cũng chơi thể thao.
+5,3,My foreign friends,sourced,clever,adj,/ˈklevə/,/ˈklevɚ/,audio/uk/clever.mp3,audio/us/clever.mp3,"thông minh, lanh lợi",What's she like? She's clever.,Bạn ấy là người như thế nào? Bạn ấy thông minh.
+5,3,My foreign friends,sourced,friendly,adj,/ˈfrendli/,/ˈfrendli/,audio/uk/friendly.mp3,audio/us/friendly.mp3,thân thiện,My foreign friends are very friendly.,Những người bạn nước ngoài của mình rất thân thiện.
+5,3,My foreign friends,sourced,helpful,adj,/ˈhelpfl/,/ˈhelpfəl/,audio/uk/helpful.mp3,audio/us/helpful.mp3,hay giúp đỡ,Tony is helpful. He helps his friends.,Tony rất hay giúp đỡ. Bạn ấy giúp đỡ bạn bè.
+5,3,My foreign friends,sourced,kind,adj,/kaɪnd/,/kaɪnd/,audio/uk/kind.mp3,audio/us/kind.mp3,tốt bụng,Mary is kind to everyone.,Mary tốt bụng với tất cả mọi người.
+5,4,Our free-time activities,sourced,free time,n,/ˌfriː ˈtaɪm/,/ˌfriː ˈtaɪm/,audio/uk/free-time.mp3,audio/us/free-time.mp3,thời gian rảnh,What do you do in your free time?,Bạn làm gì vào thời gian rảnh?
+5,4,Our free-time activities,sourced,surf the Internet,phr,/ˌsɜːf ði ˈɪntənet/,/ˌsɝːf ði ˈɪntɚnet/,audio/uk/surf-the-internet.mp3,audio/us/surf-the-internet.mp3,lướt mạng,I surf the Internet in my free time.,Mình lướt mạng vào thời gian rảnh.
+5,4,Our free-time activities,sourced,water the flowers,phr,/ˌwɔːtə ðə ˈflaʊəz/,/ˌwɑːtɚ ðə ˈflaʊɚz/,audio/uk/water-the-flowers.mp3,audio/us/water-the-flowers.mp3,tưới hoa,I water the flowers in the morning.,Mình tưới hoa vào buổi sáng.
+5,4,Our free-time activities,sourced,go for a walk,phr,/ˌɡəʊ fər ə ˈwɔːk/,/ˌɡoʊ fɚ ə ˈwɑːk/,audio/uk/go-for-a-walk.mp3,audio/us/go-for-a-walk.mp3,đi dạo,We go for a walk after dinner.,Chúng mình đi dạo sau bữa tối.
+5,4,Our free-time activities,sourced,ride a bike,phr,/ˌraɪd ə ˈbaɪk/,/ˌraɪd ə ˈbaɪk/,audio/uk/ride-a-bike.mp3,audio/us/ride-a-bike.mp3,đạp xe,I often ride my bike.,Mình thường đạp xe.
+5,4,Our free-time activities,sourced,always,adv,/ˈɔːlweɪz/,/ˈɑːlweɪz/,audio/uk/always.mp3,audio/us/always.mp3,luôn luôn,I always do my homework after school.,Mình luôn luôn làm bài tập về nhà sau giờ học.
+5,4,Our free-time activities,sourced,usually,adv,/ˈjuːʒuəli/,/ˈjuːʒəli/,audio/uk/usually.mp3,audio/us/usually.mp3,thường xuyên,She usually reads books in the evening.,Bạn ấy thường xuyên đọc sách vào buổi tối.
+5,4,Our free-time activities,sourced,often,adv,/ˈɒfn/,/ˈɑːfən/,audio/uk/often.mp3,audio/us/often.mp3,thường,We often play football at the weekend.,Chúng mình thường chơi bóng đá vào cuối tuần.
+5,4,Our free-time activities,sourced,sometimes,adv,/ˈsʌmtaɪmz/,/ˈsʌmtaɪmz/,audio/uk/sometimes.mp3,audio/us/sometimes.mp3,thỉnh thoảng,I sometimes go fishing with my dad.,Thỉnh thoảng mình đi câu cá với bố.
+5,4,Our free-time activities,sourced,never,adv,/ˈnevə/,/ˈnevɚ/,audio/uk/never.mp3,audio/us/never.mp3,không bao giờ,He never watches TV in the morning.,Bạn ấy không bao giờ xem ti vi vào buổi sáng.
+5,5,My future job,sourced,future,n,/ˈfjuːtʃə/,/ˈfjuːtʃɚ/,audio/uk/future.mp3,audio/us/future.mp3,tương lai,What would you like to be in the future?,Bạn muốn làm nghề gì trong tương lai?
+5,5,My future job,sourced,job,n,/dʒɒb/,/dʒɑːb/,audio/uk/job.mp3,audio/us/job.mp3,"công việc, nghề nghiệp",What's your father's job?,Bố bạn làm nghề gì?
+5,5,My future job,sourced,firefighter,n,/ˈfaɪəfaɪtə/,/ˈfaɪrfaɪtɚ/,audio/uk/firefighter.mp3,audio/us/firefighter.mp3,lính cứu hỏa,I'd like to be a firefighter.,Mình muốn trở thành lính cứu hỏa.
+5,5,My future job,sourced,gardener,n,/ˈɡɑːdnə/,/ˈɡɑːrdənɚ/,audio/uk/gardener.mp3,audio/us/gardener.mp3,người làm vườn,My uncle is a gardener.,Chú mình là người làm vườn.
+5,5,My future job,sourced,reporter,n,/rɪˈpɔːtə/,/rɪˈpɔːrtɚ/,audio/uk/reporter.mp3,audio/us/reporter.mp3,phóng viên,I'd like to be a reporter.,Mình muốn trở thành phóng viên.
+5,5,My future job,sourced,writer,n,/ˈraɪtə/,/ˈraɪtɚ/,audio/uk/writer.mp3,audio/us/writer.mp3,nhà văn,She'd like to be a writer.,Bạn ấy muốn trở thành nhà văn.
+5,5,My future job,sourced,farmer,n,/ˈfɑːmə/,/ˈfɑːrmɚ/,audio/uk/farmer-n.mp3,audio/us/farmer-n.mp3,nông dân,A farmer works on a farm.,Người nông dân làm việc ở trang trại.
+5,5,My future job,sourced,teacher,n,/ˈtiːtʃə/,/ˈtiːtʃɚ/,audio/uk/teacher.mp3,audio/us/teacher.mp3,giáo viên,My mother is a teacher.,Mẹ mình là giáo viên.
+5,5,My future job,sourced,put out fires,phr,/ˌpʊt aʊt ˈfaɪəz/,/ˌpʊt aʊt ˈfaɪɚz/,audio/uk/put-out-fires.mp3,audio/us/put-out-fires.mp3,dập lửa,A firefighter puts out fires.,Lính cứu hỏa dập lửa.
+5,5,My future job,sourced,save people,phr,/ˌseɪv ˈpiːpl/,/ˌseɪv ˈpiːpəl/,audio/uk/save-people.mp3,audio/us/save-people.mp3,cứu người,I'd like to be a doctor to save people.,Mình muốn trở thành bác sĩ để cứu người.
+5,5,My future job,sourced,grow vegetables,phr,/ˌɡrəʊ ˈvedʒtəblz/,/ˌɡroʊ ˈvedʒtəbəlz/,audio/uk/grow-vegetables.mp3,audio/us/grow-vegetables.mp3,trồng rau,Farmers grow vegetables.,Những người nông dân trồng rau.
+5,5,My future job,sourced,write stories,phr,/ˌraɪt ˈstɔːriz/,/ˌraɪt ˈstɔːriz/,audio/uk/write-stories.mp3,audio/us/write-stories.mp3,viết truyện,I'd like to write stories for children.,Mình muốn viết truyện cho trẻ em.
+5,6,Our school rooms,sourced,floor,n,/flɔː/,/flɔːr/,audio/uk/floor-n.mp3,audio/us/floor-n.mp3,tầng,The library is on the second floor.,Thư viện ở tầng hai.
+5,6,Our school rooms,sourced,ground floor,n,/ˌɡraʊnd ˈflɔː/,/ˌɡraʊnd ˈflɔːr/,audio/uk/ground-floor.mp3,audio/us/ground-floor.mp3,tầng trệt,The music room is on the ground floor.,Phòng âm nhạc ở tầng trệt.
+5,6,Our school rooms,sourced,first floor,n,/ˌfɜːst ˈflɔː/,/ˌfɝːst ˈflɔːr/,audio/uk/first-floor.mp3,audio/us/first-floor.mp3,tầng một,The art room is on the first floor.,Phòng mỹ thuật ở tầng một.
+5,6,Our school rooms,sourced,second floor,n,/ˌsekənd ˈflɔː/,/ˌsekənd ˈflɔːr/,audio/uk/second-floor.mp3,audio/us/second-floor.mp3,tầng hai,My classroom is on the second floor.,Lớp học của mình ở tầng hai.
+5,6,Our school rooms,sourced,art room,n,/ˈɑːt ruːm/,/ˈɑːrt ruːm/,audio/uk/art-room.mp3,audio/us/art-room.mp3,phòng mỹ thuật,We draw pictures in the art room.,Chúng mình vẽ tranh trong phòng mỹ thuật.
+5,6,Our school rooms,sourced,computer room,n,/kəmˈpjuːtə ruːm/,/kəmˈpjuːtɚ ruːm/,audio/uk/computer-room.mp3,audio/us/computer-room.mp3,phòng máy tính,Where's the computer room?,Phòng máy tính ở đâu?
+5,6,Our school rooms,sourced,music room,n,/ˈmjuːzɪk ruːm/,/ˈmjuːzɪk ruːm/,audio/uk/music-room.mp3,audio/us/music-room.mp3,phòng âm nhạc,We sing songs in the music room.,Chúng mình hát trong phòng âm nhạc.
+5,6,Our school rooms,sourced,library,n,/ˈlaɪbrəri/,/ˈlaɪbreriː/,audio/uk/library.mp3,audio/us/library.mp3,thư viện,I read books in the library.,Mình đọc sách trong thư viện.
+5,6,Our school rooms,sourced,corridor,n,/ˈkɒrɪdɔː/,/ˈkɔːrɪdɚ/,audio/uk/corridor.mp3,audio/us/corridor.mp3,hành lang,Don't run in the corridor.,Đừng chạy ngoài hành lang.
+5,6,Our school rooms,sourced,go along,phr v,/ˌɡəʊ əˈlɒŋ/,/ˌɡoʊ əˈlɑːŋ/,audio/uk/go-along.mp3,audio/us/go-along.mp3,đi dọc theo,Go along the corridor.,Hãy đi dọc theo hành lang.
+5,6,Our school rooms,sourced,go past,phr v,/ˌɡəʊ ˈpɑːst/,/ˌɡoʊ ˈpæst/,audio/uk/go-past.mp3,audio/us/go-past.mp3,"đi qua, đi ngang qua",Go past the computer room.,Hãy đi ngang qua phòng máy tính.
+5,6,Our school rooms,sourced,turn left,phr,/ˌtɜːn ˈleft/,/ˌtɝːn ˈleft/,audio/uk/turn-left.mp3,audio/us/turn-left.mp3,rẽ trái,Turn left. The library is there.,Rẽ trái. Thư viện ở đó.
+5,6,Our school rooms,sourced,turn right,phr,/ˌtɜːn ˈraɪt/,/ˌtɝːn ˈraɪt/,audio/uk/turn-right.mp3,audio/us/turn-right.mp3,rẽ phải,Turn right and go upstairs.,Rẽ phải rồi đi lên tầng trên.
+5,6,Our school rooms,sourced,downstairs,adv,/ˌdaʊnˈsteəz/,/ˌdaʊnˈsterz/,audio/uk/downstairs.mp3,audio/us/downstairs.mp3,"ở tầng dưới, xuống tầng dưới",The gym is downstairs.,Phòng thể dục ở tầng dưới.
+5,6,Our school rooms,sourced,upstairs,adv,/ˌʌpˈsteəz/,/əpˈsterz/,audio/uk/upstairs.mp3,audio/us/upstairs.mp3,"ở tầng trên, lên tầng trên",Go upstairs. The art room is on the right.,Hãy đi lên tầng trên. Phòng mỹ thuật ở bên phải.
+5,7,Our favourite school activities,sourced,school activity,n,/ˌskuːl ækˈtɪvəti/,/ˌskuːl ækˈtɪvəti/,audio/uk/school-activity.mp3,audio/us/school-activity.mp3,hoạt động ở trường,What's your favourite school activity?,Hoạt động ở trường mà bạn yêu thích là gì?
+5,7,Our favourite school activities,sourced,do projects,phr,/ˌduː ˈprɒdʒekts/,/ˌduː ˈprɑːdʒekts/,audio/uk/do-projects.mp3,audio/us/do-projects.mp3,làm dự án,I like doing projects.,Mình thích làm dự án.
+5,7,Our favourite school activities,sourced,solve maths problems,phr,/ˌsɒlv ˈmæθs ˌprɒbləmz/,/ˌsɑːlv ˈmæθs ˌprɑːbləmz/,audio/uk/solve-maths-problems.mp3,audio/us/solve-maths-problems.mp3,giải toán,I like solving maths problems.,Mình thích giải toán.
+5,7,Our favourite school activities,sourced,do puzzles,phr,/ˌduː ˈpʌzlz/,/ˌduː ˈpʌzəlz/,audio/uk/do-puzzles.mp3,audio/us/do-puzzles.mp3,giải câu đố,We do puzzles in the English lesson.,Chúng mình giải câu đố trong giờ tiếng Anh.
+5,7,Our favourite school activities,sourced,read books,phr,/ˌriːd ˈbʊks/,/ˌriːd ˈbʊks/,audio/uk/read-books.mp3,audio/us/read-books.mp3,đọc sách,I like reading books in the library.,Mình thích đọc sách trong thư viện.
+5,7,Our favourite school activities,sourced,useful,adj,/ˈjuːsfl/,/ˈjuːsfəl/,audio/uk/useful.mp3,audio/us/useful.mp3,hữu ích,It's useful.,Nó rất hữu ích.
+5,7,Our favourite school activities,sourced,fun,adj,/fʌn/,/fʌn/,audio/uk/fun.mp3,audio/us/fun.mp3,vui,Doing puzzles is fun.,Giải câu đố rất vui.
+5,7,Our favourite school activities,sourced,interesting,adj,/ˈɪntrəstɪŋ/,/ˈɪntrəstɪŋ/,audio/uk/interesting.mp3,audio/us/interesting.mp3,thú vị,This book is very interesting.,Cuốn sách này rất thú vị.
+5,8,In our classroom,sourced,whose,pron,/huːz/,/huːz/,audio/uk/whose.mp3,audio/us/whose.mp3,của ai,Whose glue stick is this?,Thỏi keo dán này là của ai?
+5,8,In our classroom,sourced,glue stick,n,/ˈɡluː stɪk/,/ˈɡluː stɪk/,audio/uk/glue-stick.mp3,audio/us/glue-stick.mp3,keo dán dạng thỏi,Can I use your glue stick?,Mình dùng thỏi keo dán của bạn được không?
+5,8,In our classroom,sourced,school bag,n,/ˈskuːl bæɡ/,/ˈskuːl bæɡ/,audio/uk/school-bag.mp3,audio/us/school-bag.mp3,cặp sách,My school bag is on the desk.,Cặp sách của mình ở trên bàn.
+5,8,In our classroom,sourced,crayon,n,/ˈkreɪɒn/,/ˈkreɪɑːn/,audio/uk/crayon.mp3,audio/us/crayon.mp3,bút sáp màu,Whose crayons are these?,Những chiếc bút sáp màu này là của ai?
+5,8,In our classroom,sourced,pencil box,n,/ˈpensl bɒks/,/ˈpensəl bɑːks/,audio/uk/pencil-box.mp3,audio/us/pencil-box.mp3,hộp bút,My pencil box is blue.,Hộp bút của mình màu xanh dương.
+5,8,In our classroom,sourced,pencil,n,/ˈpensl/,/ˈpensəl/,audio/uk/pencil.mp3,audio/us/pencil.mp3,bút chì,The pencil is in the pencil box.,Chiếc bút chì ở trong hộp bút.
+5,8,In our classroom,sourced,eraser,n,/ɪˈreɪzə/,/ɪˈreɪsɚ/,audio/uk/eraser-n.mp3,audio/us/eraser-n.mp3,cục tẩy,Is this your eraser?,Đây có phải cục tẩy của bạn không?
+5,8,In our classroom,sourced,notebook,n,/ˈnəʊtbʊk/,/ˈnoʊtbʊk/,audio/uk/notebook.mp3,audio/us/notebook.mp3,"vở, sổ ghi chép",Write the words in your notebook.,Hãy viết các từ vào vở của em.
+5,8,In our classroom,sourced,next to,prep,/ˈnekst tə/,/ˈnekst tə/,audio/uk/next-to.mp3,audio/us/next-to.mp3,bên cạnh,The glue is next to the school bag.,Lọ keo ở bên cạnh cặp sách.
+5,8,In our classroom,sourced,beside,prep,/bɪˈsaɪd/,/bɪˈsaɪd/,audio/uk/beside.mp3,audio/us/beside.mp3,bên cạnh,My eraser is beside my notebook.,Cục tẩy của mình ở bên cạnh quyển vở.
+5,8,In our classroom,sourced,behind,prep,/bɪˈhaɪnd/,/bɪˈhaɪnd/,audio/uk/behind.mp3,audio/us/behind.mp3,phía sau,The map is behind the door.,Tấm bản đồ ở phía sau cánh cửa.
+5,8,In our classroom,sourced,in front of,prep,/ɪn ˈfrʌnt əv/,/ɪn ˈfrʌnt əv/,audio/uk/in-front-of.mp3,audio/us/in-front-of.mp3,phía trước,The bin is in front of the board.,Thùng rác ở phía trước bảng.
+5,9,Our outdoor activities,sourced,outdoor,adj,/ˈaʊtdɔː/,/ˈaʊtdɔːr/,audio/uk/outdoor.mp3,audio/us/outdoor.mp3,ngoài trời,I like outdoor activities.,Mình thích các hoạt động ngoài trời.
+5,9,Our outdoor activities,sourced,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,We were at the campsite.,Chúng mình đã ở khu cắm trại.
+5,9,Our outdoor activities,sourced,sports centre,n,/ˈspɔːts ˌsentə/,/ˈspɔːrts ˌsentɚ/,audio/uk/sports-centre.mp3,audio/us/sports-centre.mp3,trung tâm thể thao,I was at the sports centre yesterday.,Hôm qua mình đã ở trung tâm thể thao.
+5,9,Our outdoor activities,sourced,funfair,n,/ˈfʌnfeə/,/ˈfʌnfer/,audio/uk/funfair.mp3,audio/us/funfair.mp3,"khu vui chơi, hội chợ giải trí",We had fun at the funfair.,Chúng mình đã chơi rất vui ở khu vui chơi.
+5,9,Our outdoor activities,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,We saw elephants at the zoo.,Chúng mình đã xem voi ở vườn thú.
+5,9,Our outdoor activities,sourced,park,n,/pɑːk/,/pɑːrk/,audio/uk/park.mp3,audio/us/park.mp3,công viên,They played football in the park.,Các bạn ấy đã chơi bóng đá trong công viên.
+5,9,Our outdoor activities,sourced,play basketball,phr,/ˌpleɪ ˈbɑːskɪtbɔːl/,/ˌpleɪ ˈbæskətbɑːl/,audio/uk/play-basketball.mp3,audio/us/play-basketball.mp3,chơi bóng rổ,My brother played basketball at the sports centre.,Anh trai mình đã chơi bóng rổ ở trung tâm thể thao.
+5,9,Our outdoor activities,sourced,last weekend,phr,/ˌlɑːst ˌwiːkˈend/,/ˌlæst ˈwiːkend/,audio/uk/last-weekend.mp3,audio/us/last-weekend.mp3,cuối tuần trước,Where were you last weekend?,Cuối tuần trước bạn đã ở đâu?
+5,9,Our outdoor activities,sourced,yesterday,adv,/ˈjestədeɪ/,/ˈjestɚdeɪ/,audio/uk/yesterday.mp3,audio/us/yesterday.mp3,hôm qua,I went to the park yesterday.,Hôm qua mình đã đi công viên.
+5,10,Our school trip,sourced,school trip,n,/ˈskuːl trɪp/,/ˈskuːl trɪp/,audio/uk/school-trip.mp3,audio/us/school-trip.mp3,chuyến đi của trường,Did you enjoy the school trip?,Bạn có thích chuyến đi của trường không?
+5,10,Our school trip,sourced,visit,v,/ˈvɪzɪt/,/ˈvɪzɪt/,audio/uk/visit.mp3,audio/us/visit.mp3,"thăm, tham quan",We visited a farm near our school.,Chúng mình đã tham quan một trang trại gần trường.
+5,10,Our school trip,sourced,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,trang trại,We fed the cows on the farm.,Chúng mình đã cho bò ăn ở trang trại.
+5,10,Our school trip,sourced,Bai Dinh Pagoda,n,/ˌbaɪ ˈdɪn pəˈɡəʊdə/,/ˌbaɪ ˈdɪn pəˈɡoʊdə/,audio/uk/bai-dinh-pagoda.mp3,audio/us/bai-dinh-pagoda.mp3,chùa Bái Đính,We visited Bai Dinh Pagoda last month.,Tháng trước chúng mình đã tham quan chùa Bái Đính.
+5,10,Our school trip,sourced,Ba Na Hills,n,/ˌbɑː ˈnɑː ˈhɪlz/,/ˌbɑː ˈnɑː ˈhɪlz/,audio/uk/ba-na-hills.mp3,audio/us/ba-na-hills.mp3,Bà Nà Hills,Our class went to Ba Na Hills.,Lớp mình đã đi Bà Nà Hills.
+5,10,Our school trip,sourced,Hoan Kiem Lake,n,/ˌhwɑːn ˈkiːm ˈleɪk/,/ˌhwɑːn ˈkiːm ˈleɪk/,audio/uk/hoan-kiem-lake.mp3,audio/us/hoan-kiem-lake.mp3,hồ Hoàn Kiếm,We walked around Hoan Kiem Lake.,Chúng mình đã đi bộ quanh hồ Hoàn Kiếm.
+5,10,Our school trip,sourced,take photos,phr,/ˌteɪk ˈfəʊtəʊz/,/ˌteɪk ˈfoʊtoʊz/,audio/uk/take-photos.mp3,audio/us/take-photos.mp3,chụp ảnh,We took photos at the farm.,Chúng mình đã chụp ảnh ở trang trại.
+5,11,Family time,sourced,family,n,/ˈfæməli/,/ˈfæməli/,audio/uk/family.mp3,audio/us/family.mp3,gia đình,My family went to the beach last summer.,Mùa hè năm ngoái gia đình mình đã đi biển.
+5,11,Family time,sourced,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,We played on the beach all day.,Chúng mình đã chơi trên bãi biển cả ngày.
+5,11,Family time,sourced,buy souvenirs,phr,/ˌbaɪ ˌsuːvəˈnɪəz/,/ˌbaɪ ˌsuːvəˈnɪrz/,audio/uk/buy-souvenirs.mp3,audio/us/buy-souvenirs.mp3,mua quà lưu niệm,My mum bought souvenirs for our friends.,Mẹ mình đã mua quà lưu niệm cho bạn bè.
+5,11,Family time,sourced,collect seashells,phr,/kəˌlekt ˈsiːʃelz/,/kəˌlekt ˈsiːʃelz/,audio/uk/collect-seashells.mp3,audio/us/collect-seashells.mp3,nhặt vỏ sò,I collected seashells with my sister.,Mình đã nhặt vỏ sò cùng em gái.
+5,11,Family time,sourced,walk on the beach,phr,/ˌwɔːk ɒn ðə ˈbiːtʃ/,/ˌwɑːk ɑːn ðə ˈbiːtʃ/,audio/uk/walk-on-the-beach.mp3,audio/us/walk-on-the-beach.mp3,đi dạo trên bãi biển,We walked on the beach in the evening.,Chúng mình đã đi dạo trên bãi biển vào buổi tối.
+5,11,Family time,sourced,build sandcastles,phr,/ˌbɪld ˈsændkɑːslz/,/ˌbɪld ˈsændkæslz/,audio/uk/build-sandcastles.mp3,audio/us/build-sandcastles.mp3,xây lâu đài cát,The children built sandcastles.,Bọn trẻ đã xây lâu đài cát.
+5,11,Family time,sourced,swim in the sea,phr,/ˌswɪm ɪn ðə ˈsiː/,/ˌswɪm ɪn ðə ˈsiː/,audio/uk/swim-in-the-sea.mp3,audio/us/swim-in-the-sea.mp3,bơi ở biển,Did you swim in the sea?,Bạn có bơi ở biển không?
+5,12,Our Tet holiday,sourced,Tet,n,/tet/,/tet/,audio/uk/tet.mp3,audio/us/tet.mp3,Tết,We have a lot of fun at Tet.,Chúng mình có rất nhiều niềm vui vào dịp Tết.
+5,12,Our Tet holiday,sourced,buy peach blossoms,phr,/ˌbaɪ ˈpiːtʃ ˌblɒsəmz/,/ˌbaɪ ˈpiːtʃ ˌblɑːsəmz/,audio/uk/buy-peach-blossoms.mp3,audio/us/buy-peach-blossoms.mp3,mua cành đào,My parents buy peach blossoms before Tet.,Bố mẹ mình mua cành đào trước Tết.
+5,12,Our Tet holiday,sourced,make banh chung,phr,/ˌmeɪk ˌbæn ˈtʃʊŋ/,/ˌmeɪk ˌbæn ˈtʃʌŋ/,audio/uk/make-banh-chung.mp3,audio/us/make-banh-chung.mp3,gói bánh chưng,We make banh chung with our grandparents.,Chúng mình gói bánh chưng cùng ông bà.
+5,12,Our Tet holiday,sourced,make spring rolls,phr,/ˌmeɪk ˈsprɪŋ rəʊlz/,/ˌmeɪk ˈsprɪŋ roʊlz/,audio/uk/make-spring-rolls.mp3,audio/us/make-spring-rolls.mp3,làm nem (chả giò),My mother makes spring rolls at Tet.,Mẹ mình làm nem vào dịp Tết.
+5,12,Our Tet holiday,sourced,New Year party,n,/ˌnjuː jɪə ˈpɑːti/,/ˌnuː jɪr ˈpɑːrti/,audio/uk/new-year-party.mp3,audio/us/new-year-party.mp3,tiệc mừng năm mới,We had a New Year party at school.,Chúng mình đã có một bữa tiệc mừng năm mới ở trường.
+5,12,Our Tet holiday,sourced,fireworks show,n,/ˈfaɪəwɜːks ʃəʊ/,/ˈfaɪrwɝːks ʃoʊ/,audio/uk/fireworks-show.mp3,audio/us/fireworks-show.mp3,buổi trình diễn pháo hoa,The fireworks show was beautiful.,Buổi trình diễn pháo hoa thật đẹp.
+5,12,Our Tet holiday,sourced,watch fireworks,phr,/ˌwɒtʃ ˈfaɪəwɜːks/,/ˌwɑːtʃ ˈfaɪrwɝːks/,audio/uk/watch-fireworks.mp3,audio/us/watch-fireworks.mp3,xem pháo hoa,We watch fireworks on New Year's Eve.,Chúng mình xem pháo hoa vào đêm Giao thừa.
+5,12,Our Tet holiday,sourced,visit grandparents,phr,/ˌvɪzɪt ˈɡrænpeərənts/,/ˌvɪzɪt ˈɡrændperənts/,audio/uk/visit-grandparents.mp3,audio/us/visit-grandparents.mp3,thăm ông bà,We visit grandparents on the first day of Tet.,Chúng mình đi thăm ông bà vào mùng Một Tết.
+5,12,Our Tet holiday,sourced,lucky money,n,/ˈlʌki ˌmʌni/,/ˈlʌki ˌmʌni/,audio/uk/lucky-money.mp3,audio/us/lucky-money.mp3,tiền lì xì,I get lucky money from my grandparents.,Mình được ông bà lì xì.
+5,12,Our Tet holiday,sourced,decorate,v,/ˈdekəreɪt/,/ˈdekəreɪt/,audio/uk/decorate.mp3,audio/us/decorate.mp3,trang trí,We decorate our house for Tet.,Chúng mình trang trí nhà cửa để đón Tết.
+5,13,Our special days,sourced,special day,n,/ˌspeʃl ˈdeɪ/,/ˌspeʃəl ˈdeɪ/,audio/uk/special-day.mp3,audio/us/special-day.mp3,ngày đặc biệt,Children's Day is a special day for me.,Ngày Quốc tế Thiếu nhi là một ngày đặc biệt đối với mình.
+5,13,Our special days,sourced,Mid-Autumn Festival,n,/ˌmɪd ˈɔːtəm ˈfestɪvl/,/ˌmɪd ˈɑːtəm ˈfestɪvəl/,audio/uk/mid-autumn-festival.mp3,audio/us/mid-autumn-festival.mp3,Tết Trung thu,We eat mooncakes at the Mid-Autumn Festival.,Chúng mình ăn bánh trung thu vào dịp Tết Trung thu.
+5,13,Our special days,sourced,Teachers' Day,n,/ˈtiːtʃəz deɪ/,/ˈtiːtʃɚz deɪ/,audio/uk/teachers-day.mp3,audio/us/teachers-day.mp3,Ngày Nhà giáo,We give flowers to our teachers on Teachers' Day.,Chúng mình tặng hoa cho thầy cô vào Ngày Nhà giáo.
+5,13,Our special days,sourced,Children's Day,n,/ˈtʃɪldrənz deɪ/,/ˈtʃɪldrənz deɪ/,audio/uk/children-s-day.mp3,audio/us/children-s-day.mp3,Ngày Quốc tế Thiếu nhi,Children's Day is on the first of June.,Ngày Quốc tế Thiếu nhi là ngày mùng Một tháng Sáu.
+5,13,Our special days,sourced,apple juice,n,/ˈæpl dʒuːs/,/ˈæpəl dʒuːs/,audio/uk/apple-juice.mp3,audio/us/apple-juice.mp3,nước ép táo,Would you like some apple juice?,Bạn có muốn uống chút nước ép táo không?
+5,13,Our special days,sourced,milk tea,n,/ˌmɪlk ˈtiː/,/ˌmɪlk ˈtiː/,audio/uk/milk-tea.mp3,audio/us/milk-tea.mp3,trà sữa,I'd like a cup of milk tea.,Mình muốn một cốc trà sữa.
+5,13,Our special days,sourced,burger,n,/ˈbɜːɡə/,/ˈbɝːɡɚ/,audio/uk/burger.mp3,audio/us/burger.mp3,bánh mì kẹp thịt,He had a burger at the party.,Bạn ấy đã ăn một chiếc bánh mì kẹp thịt ở bữa tiệc.
+5,13,Our special days,sourced,pizza,n,/ˈpiːtsə/,/ˈpiːtsə/,audio/uk/pizza.mp3,audio/us/pizza.mp3,bánh pi-da,We'll have pizza for Children's Day.,Chúng mình sẽ ăn pi-da vào Ngày Quốc tế Thiếu nhi.
+5,14,Staying healthy,sourced,healthy,adj,/ˈhelθi/,/ˈhelθi/,audio/uk/healthy.mp3,audio/us/healthy.mp3,"khỏe mạnh, tốt cho sức khỏe",Vegetables are good for a healthy body.,Rau rất tốt cho một cơ thể khỏe mạnh.
+5,14,Staying healthy,sourced,do morning exercise,phr,/ˌduː ˌmɔːnɪŋ ˈeksəsaɪz/,/ˌduː ˌmɔːrnɪŋ ˈeksɚsaɪz/,audio/uk/do-morning-exercise.mp3,audio/us/do-morning-exercise.mp3,tập thể dục buổi sáng,I do morning exercise every day.,Ngày nào mình cũng tập thể dục buổi sáng.
+5,14,Staying healthy,sourced,do yoga,phr,/ˌduː ˈjəʊɡə/,/ˌduː ˈjoʊɡə/,audio/uk/do-yoga.mp3,audio/us/do-yoga.mp3,tập yoga,My mother does yoga in the evening.,Mẹ mình tập yoga vào buổi tối.
+5,14,Staying healthy,sourced,play sports,phr,/ˌpleɪ ˈspɔːts/,/ˌpleɪ ˈspɔːrts/,audio/uk/play-sports.mp3,audio/us/play-sports.mp3,chơi thể thao,We play sports to stay healthy.,Chúng mình chơi thể thao để giữ sức khỏe.
+5,14,Staying healthy,sourced,drink fresh juice,phr,/ˌdrɪŋk ˌfreʃ ˈdʒuːs/,/ˌdrɪŋk ˌfreʃ ˈdʒuːs/,audio/uk/drink-fresh-juice.mp3,audio/us/drink-fresh-juice.mp3,uống nước ép tươi,I drink fresh juice every morning.,Mình uống nước ép tươi mỗi sáng.
+5,14,Staying healthy,sourced,once a week,phr,/ˌwʌns ə ˈwiːk/,/ˌwʌns ə ˈwiːk/,audio/uk/once-a-week.mp3,audio/us/once-a-week.mp3,một lần một tuần,I go swimming once a week.,Mình đi bơi một lần một tuần.
+5,14,Staying healthy,sourced,twice a week,phr,/ˌtwaɪs ə ˈwiːk/,/ˌtwaɪs ə ˈwiːk/,audio/uk/twice-a-week.mp3,audio/us/twice-a-week.mp3,hai lần một tuần,She plays badminton twice a week.,Bạn ấy chơi cầu lông hai lần một tuần.
+5,14,Staying healthy,sourced,three times a week,phr,/ˌθriː ˌtaɪmz ə ˈwiːk/,/ˌθriː ˌtaɪmz ə ˈwiːk/,audio/uk/three-times-a-week.mp3,audio/us/three-times-a-week.mp3,ba lần một tuần,I do yoga three times a week.,Mình tập yoga ba lần một tuần.
+5,15,Our health,sourced,health,n,/helθ/,/helθ/,audio/uk/health.mp3,audio/us/health.mp3,sức khỏe,Eating fruit is good for your health.,Ăn trái cây rất tốt cho sức khỏe của bạn.
+5,15,Our health,sourced,headache,n,/ˈhedeɪk/,/ˈhedeɪk/,audio/uk/headache.mp3,audio/us/headache.mp3,đau đầu,What's the matter? I have a headache.,Bạn bị làm sao vậy? Mình bị đau đầu.
+5,15,Our health,sourced,sore throat,n,/ˌsɔː ˈθrəʊt/,/ˌsɔːr ˈθroʊt/,audio/uk/sore-throat.mp3,audio/us/sore-throat.mp3,đau họng,She has a sore throat.,Bạn ấy bị đau họng.
+5,15,Our health,sourced,stomach ache,n,/ˈstʌmək eɪk/,/ˈstʌmək eɪk/,audio/uk/stomach-ache.mp3,audio/us/stomach-ache.mp3,đau bụng,I have a stomach ache.,Mình bị đau bụng.
+5,15,Our health,sourced,toothache,n,/ˈtuːθeɪk/,/ˈtuːθeɪk/,audio/uk/toothache.mp3,audio/us/toothache.mp3,đau răng,He has a toothache.,Bạn ấy bị đau răng.
+5,15,Our health,sourced,fever,n,/ˈfiːvə/,/ˈfiːvɚ/,audio/uk/fever.mp3,audio/us/fever.mp3,sốt,Tom has a fever today.,Hôm nay Tom bị sốt.
+5,15,Our health,sourced,drink warm water,phr,/ˌdrɪŋk ˌwɔːm ˈwɔːtə/,/ˌdrɪŋk ˌwɔːrm ˈwɑːtɚ/,audio/uk/drink-warm-water.mp3,audio/us/drink-warm-water.mp3,uống nước ấm,You should drink warm water.,Bạn nên uống nước ấm.
+5,15,Our health,sourced,go to the dentist,phr,/ˌɡəʊ tə ðə ˈdentɪst/,/ˌɡoʊ tə ðə ˈdentɪst/,audio/uk/go-to-the-dentist.mp3,audio/us/go-to-the-dentist.mp3,đi khám nha sĩ,You should go to the dentist.,Bạn nên đi khám nha sĩ.
+5,15,Our health,sourced,go to the doctor,phr,/ˌɡəʊ tə ðə ˈdɒktə/,/ˌɡoʊ tə ðə ˈdɑːktɚ/,audio/uk/go-to-the-doctor.mp3,audio/us/go-to-the-doctor.mp3,đi khám bác sĩ,You have a fever. Go to the doctor.,Bạn bị sốt rồi. Hãy đi khám bác sĩ đi.
+5,15,Our health,sourced,have a rest,phr,/ˌhæv ə ˈrest/,/ˌhæv ə ˈrest/,audio/uk/have-a-rest.mp3,audio/us/have-a-rest.mp3,nghỉ ngơi,You should have a rest.,Bạn nên nghỉ ngơi.
+5,16,Seasons and the weather,sourced,season,n,/ˈsiːzn/,/ˈsiːzən/,audio/uk/season.mp3,audio/us/season.mp3,mùa,What's your favourite season?,Mùa yêu thích của bạn là mùa nào?
+5,16,Seasons and the weather,sourced,spring,n,/sprɪŋ/,/sprɪŋ/,audio/uk/spring.mp3,audio/us/spring.mp3,mùa xuân,It's warm in spring.,Mùa xuân trời ấm áp.
+5,16,Seasons and the weather,sourced,summer,n,/ˈsʌmə/,/ˈsʌmɚ/,audio/uk/summer.mp3,audio/us/summer.mp3,mùa hè,We go to the beach in summer.,Chúng mình đi biển vào mùa hè.
+5,16,Seasons and the weather,sourced,autumn,n,/ˈɔːtəm/,/ˈɑːtəm/,audio/uk/autumn.mp3,audio/us/autumn.mp3,mùa thu,It's cool in autumn.,Mùa thu trời mát mẻ.
+5,16,Seasons and the weather,sourced,winter,n,/ˈwɪntə/,/ˈwɪntɚ/,audio/uk/winter.mp3,audio/us/winter.mp3,mùa đông,It's very cold in winter.,Mùa đông trời rất lạnh.
+5,16,Seasons and the weather,sourced,weather,n,/ˈweðə/,/ˈweðɚ/,audio/uk/weather-n.mp3,audio/us/weather-n.mp3,thời tiết,What's the weather like in summer?,Thời tiết mùa hè như thế nào?
+5,16,Seasons and the weather,sourced,weather forecast,n,/ˈweðə ˌfɔːkɑːst/,/ˈweðɚ ˌfɔːrkæst/,audio/uk/weather-forecast.mp3,audio/us/weather-forecast.mp3,dự báo thời tiết,I watch the weather forecast every evening.,Mình xem dự báo thời tiết mỗi tối.
+5,16,Seasons and the weather,sourced,hot,adj,/hɒt/,/hɑːt/,audio/uk/hot.mp3,audio/us/hot.mp3,nóng,It's hot and sunny today.,Hôm nay trời nóng và nắng.
+5,16,Seasons and the weather,sourced,warm,adj,/wɔːm/,/wɔːrm/,audio/uk/warm.mp3,audio/us/warm.mp3,ấm áp,The weather is warm in spring.,Thời tiết mùa xuân ấm áp.
+5,16,Seasons and the weather,sourced,cool,adj,/kuːl/,/kuːl/,audio/uk/cool.mp3,audio/us/cool.mp3,mát mẻ,It's cool in the evening.,Buổi tối trời mát mẻ.
+5,16,Seasons and the weather,sourced,cold,adj,/kəʊld/,/koʊld/,audio/uk/cold.mp3,audio/us/cold.mp3,lạnh,It'll be cold tomorrow.,Ngày mai trời sẽ lạnh.
+5,16,Seasons and the weather,sourced,dry,adj,/draɪ/,/draɪ/,audio/uk/dry.mp3,audio/us/dry.mp3,khô,The dry season starts in November.,Mùa khô bắt đầu vào tháng Mười Một.
+5,16,Seasons and the weather,sourced,rainy,adj,/ˈreɪni/,/ˈreɪni/,audio/uk/rainy.mp3,audio/us/rainy.mp3,có mưa,It's rainy in summer here.,Ở đây mùa hè trời hay mưa.
+5,17,Stories for children,sourced,story,n,/ˈstɔːri/,/ˈstɔːri/,audio/uk/story.mp3,audio/us/story.mp3,câu chuyện,My grandma tells me a story every night.,Tối nào bà cũng kể cho mình nghe một câu chuyện.
+5,17,Stories for children,sourced,ant,n,/ænt/,/ænt/,audio/uk/ant.mp3,audio/us/ant.mp3,con kiến,The ant worked hard all summer.,Con kiến đã làm việc chăm chỉ suốt cả mùa hè.
+5,17,Stories for children,sourced,grasshopper,n,/ˈɡrɑːshɒpə/,/ˈɡræshɑːpɚ/,audio/uk/grasshopper.mp3,audio/us/grasshopper.mp3,con châu chấu,The grasshopper sang all day.,Con châu chấu đã ca hát suốt cả ngày.
+5,17,Stories for children,sourced,crow,n,/krəʊ/,/kroʊ/,audio/uk/crow.mp3,audio/us/crow.mp3,con quạ,The crow had a piece of cheese.,Con quạ có một miếng pho mát.
+5,17,Stories for children,sourced,fox,n,/fɒks/,/fɑːks/,audio/uk/fox.mp3,audio/us/fox.mp3,con cáo,The fox was very clever.,Con cáo rất ranh mãnh.
+5,17,Stories for children,sourced,tortoise,n,/ˈtɔːtəs/,/ˈtɔːrtəs/,audio/uk/tortoise.mp3,audio/us/tortoise.mp3,con rùa,The tortoise won the race.,Con rùa đã thắng cuộc đua.
+5,17,Stories for children,sourced,hare,n,/heə/,/her/,audio/uk/hare.mp3,audio/us/hare.mp3,con thỏ rừng,The hare ran very fast.,Con thỏ rừng chạy rất nhanh.
+5,17,Stories for children,sourced,Snow White,n,/ˌsnəʊ ˈwaɪt/,/ˌsnoʊ ˈwaɪt/,audio/uk/snow-white.mp3,audio/us/snow-white.mp3,nàng Bạch Tuyết,Snow White lived with seven dwarfs.,Nàng Bạch Tuyết sống cùng bảy chú lùn.
+5,17,Stories for children,sourced,cook well,phr,/ˌkʊk ˈwel/,/ˌkʊk ˈwel/,audio/uk/cook-well.mp3,audio/us/cook-well.mp3,nấu ăn ngon,Snow White could cook well.,Nàng Bạch Tuyết nấu ăn rất ngon.
+5,17,Stories for children,sourced,work hard,phr,/ˌwɜːk ˈhɑːd/,/ˌwɝːk ˈhɑːrd/,audio/uk/work-hard.mp3,audio/us/work-hard.mp3,làm việc chăm chỉ,"The ant worked hard, but the grasshopper didn't.","Con kiến làm việc chăm chỉ, còn con châu chấu thì không."
+5,18,Means of transport,sourced,means of transport,n,/ˌmiːnz əv ˈtrænspɔːt/,/ˌmiːnz əv ˈtrænspɔːrt/,audio/uk/means-of-transport.mp3,audio/us/means-of-transport.mp3,phương tiện giao thông,The bus is a popular means of transport.,Xe buýt là một phương tiện giao thông phổ biến.
+5,18,Means of transport,sourced,by bicycle,phr,/baɪ ˈbaɪsɪkl/,/baɪ ˈbaɪsɪkəl/,audio/uk/by-bicycle.mp3,audio/us/by-bicycle.mp3,bằng xe đạp,I go to school by bicycle.,Mình đi học bằng xe đạp.
+5,18,Means of transport,sourced,by bus,phr,/baɪ ˈbʌs/,/baɪ ˈbʌs/,audio/uk/by-bus.mp3,audio/us/by-bus.mp3,bằng xe buýt,How do you get there? By bus.,Bạn đến đó bằng cách nào? Bằng xe buýt.
+5,18,Means of transport,sourced,by taxi,phr,/baɪ ˈtæksi/,/baɪ ˈtæksi/,audio/uk/by-taxi.mp3,audio/us/by-taxi.mp3,bằng taxi,We went to the airport by taxi.,Chúng mình đã đến sân bay bằng taxi.
+5,18,Means of transport,sourced,by train,phr,/baɪ ˈtreɪn/,/baɪ ˈtreɪn/,audio/uk/by-train.mp3,audio/us/by-train.mp3,bằng tàu hỏa,We'll travel to Hue by train.,Chúng mình sẽ đi Huế bằng tàu hỏa.
+5,18,Means of transport,sourced,by plane,phr,/baɪ ˈpleɪn/,/baɪ ˈpleɪn/,audio/uk/by-plane.mp3,audio/us/by-plane.mp3,bằng máy bay,They went to Da Nang by plane.,Họ đã đến Đà Nẵng bằng máy bay.
+5,18,Means of transport,sourced,by motorbike,phr,/baɪ ˈməʊtəbaɪk/,/baɪ ˈmoʊtɚbaɪk/,audio/uk/by-motorbike.mp3,audio/us/by-motorbike.mp3,bằng xe máy,My dad goes to work by motorbike.,Bố mình đi làm bằng xe máy.
+5,18,Means of transport,sourced,by boat,phr,/baɪ ˈbəʊt/,/baɪ ˈboʊt/,audio/uk/by-boat.mp3,audio/us/by-boat.mp3,bằng thuyền,We went to the island by boat.,Chúng mình đã ra đảo bằng thuyền.
+5,19,Places of interest,unverified,place of interest,n,/ˌpleɪs əv ˈɪntrəst/,/ˌpleɪs əv ˈɪntrəst/,audio/uk/place-of-interest.mp3,audio/us/place-of-interest.mp3,địa điểm tham quan,Hoan Kiem Lake is a famous place of interest.,Hồ Hoàn Kiếm là một địa điểm tham quan nổi tiếng.
+5,19,Places of interest,unverified,museum,n,/mjuˈziːəm/,/mjuːˈziːəm/,audio/uk/museum.mp3,audio/us/museum.mp3,bảo tàng,We visited the history museum.,Chúng mình đã tham quan bảo tàng lịch sử.
+5,19,Places of interest,unverified,pagoda,n,/pəˈɡəʊdə/,/pəˈɡoʊdə/,audio/uk/pagoda.mp3,audio/us/pagoda.mp3,ngôi chùa,There is an old pagoda near my house.,Có một ngôi chùa cổ gần nhà mình.
+5,19,Places of interest,unverified,temple,n,/ˈtempl/,/ˈtempəl/,audio/uk/temple.mp3,audio/us/temple.mp3,ngôi đền,The Temple of Literature is in Ha Noi.,Văn Miếu nằm ở Hà Nội.
+5,19,Places of interest,unverified,bridge,n,/brɪdʒ/,/brɪdʒ/,audio/uk/bridge.mp3,audio/us/bridge.mp3,cây cầu,The Dragon Bridge is in Da Nang.,Cầu Rồng ở Đà Nẵng.
+5,19,Places of interest,unverified,market,n,/ˈmɑːkɪt/,/ˈmɑːrkɪt/,audio/uk/market.mp3,audio/us/market.mp3,chợ,Ben Thanh Market is very big.,Chợ Bến Thành rất lớn.
+5,19,Places of interest,unverified,famous,adj,/ˈfeɪməs/,/ˈfeɪməs/,audio/uk/famous.mp3,audio/us/famous.mp3,nổi tiếng,Ha Long Bay is very famous.,Vịnh Hạ Long rất nổi tiếng.
+5,19,Places of interest,unverified,beautiful,adj,/ˈbjuːtɪfl/,/ˈbjuːtəfəl/,audio/uk/beautiful.mp3,audio/us/beautiful.mp3,đẹp,The old bridge is very beautiful.,Cây cầu cổ rất đẹp.
+5,20,Our summer holidays,unverified,summer holiday,n,/ˌsʌmə ˈhɒlədeɪ/,/ˌsʌmɚ ˈhɑːlədeɪ/,audio/uk/summer-holiday.mp3,audio/us/summer-holiday.mp3,kỳ nghỉ hè,Where will you go this summer holiday?,Kỳ nghỉ hè này bạn sẽ đi đâu?
+5,20,Our summer holidays,unverified,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,We'll go to the beach in July.,Chúng mình sẽ đi biển vào tháng Bảy.
+5,20,Our summer holidays,unverified,mountain,n,/ˈmaʊntən/,/ˈmaʊntən/,audio/uk/mountain.mp3,audio/us/mountain.mp3,núi,We'll climb the mountain this summer.,Chúng mình sẽ leo núi vào mùa hè này.
+5,20,Our summer holidays,unverified,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,vùng nông thôn,I'll visit my grandparents in the countryside.,Mình sẽ về thăm ông bà ở quê.
+5,20,Our summer holidays,unverified,go camping,phr,/ˌɡəʊ ˈkæmpɪŋ/,/ˌɡoʊ ˈkæmpɪŋ/,audio/uk/go-camping.mp3,audio/us/go-camping.mp3,đi cắm trại,We'll go camping in the forest.,Chúng mình sẽ đi cắm trại trong rừng.
+5,20,Our summer holidays,unverified,go swimming,phr,/ˌɡəʊ ˈswɪmɪŋ/,/ˌɡoʊ ˈswɪmɪŋ/,audio/uk/go-swimming.mp3,audio/us/go-swimming.mp3,đi bơi,I'll go swimming every day this summer.,Hè này ngày nào mình cũng sẽ đi bơi.
+5,20,Our summer holidays,unverified,take photos,phr,/ˌteɪk ˈfəʊtəʊz/,/ˌteɪk ˈfoʊtoʊz/,audio/uk/take-photos.mp3,audio/us/take-photos.mp3,chụp ảnh,I'll take photos of the mountains.,Mình sẽ chụp ảnh những ngọn núi.

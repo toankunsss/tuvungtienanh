@@ -1,67 +1,67 @@
-﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-2,1,At my birthday party,sourced,pasta,n,/ˈpæstə/,/ˈpɑːstə/,audio/uk/pasta.mp3,audio/us/pasta.mp3,mì ống,The pasta is yummy.
-2,1,At my birthday party,sourced,pizza,n,/ˈpiːtsə/,/ˈpiːtsə/,audio/uk/pizza.mp3,audio/us/pizza.mp3,bánh pizza,The pizza is yummy.
-2,1,At my birthday party,sourced,popcorn,n,/ˈpɒpkɔːn/,/ˈpɑːpkɔːrn/,audio/uk/popcorn.mp3,audio/us/popcorn.mp3,bỏng ngô,The popcorn is yummy.
-2,1,At my birthday party,sourced,yummy,adj,/ˈjʌmi/,/ˈjʌmi/,audio/uk/yummy.mp3,audio/us/yummy.mp3,ngon,The pizza is yummy.
-2,2,In the backyard,sourced,bike,n,/baɪk/,/baɪk/,audio/uk/bike.mp3,audio/us/bike.mp3,xe đạp,He is riding a bike.
-2,2,In the backyard,sourced,kite,n,/kaɪt/,/kaɪt/,audio/uk/kite.mp3,audio/us/kite.mp3,con diều,She is flying a kite.
-2,2,In the backyard,sourced,kitten,n,/ˈkɪtn/,/ˈkɪtən/,audio/uk/kitten.mp3,audio/us/kitten.mp3,mèo con,This is a kitten.
-2,2,In the backyard,sourced,fly,v,/flaɪ/,/flaɪ/,audio/uk/fly.mp3,audio/us/fly.mp3,thả (diều); bay,Is she flying a kite?
-2,2,In the backyard,sourced,ride,v,/raɪd/,/raɪd/,audio/uk/ride.mp3,audio/us/ride.mp3,"đi (xe đạp), cưỡi",He is riding a bike.
-2,3,At the seaside,sourced,sail,n,/seɪl/,/seɪl/,audio/uk/sail.mp3,audio/us/sail.mp3,cánh buồm,Look at the sail.
-2,3,At the seaside,sourced,sand,n,/sænd/,/sænd/,audio/uk/sand.mp3,audio/us/sand.mp3,cát,Look at the sand.
-2,3,At the seaside,sourced,sea,n,/siː/,/siː/,audio/uk/sea.mp3,audio/us/sea.mp3,biển,Look at the sea.
-2,3,At the seaside,sourced,seaside,n,/ˈsiːsaɪd/,/ˈsiːsaɪd/,audio/uk/seaside.mp3,audio/us/seaside.mp3,"bờ biển, vùng biển",We are at the seaside.
-2,3,At the seaside,sourced,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,I like the beach.
-2,4,In the countryside,sourced,rainbow,n,/ˈreɪnbəʊ/,/ˈreɪnboʊ/,audio/uk/rainbow.mp3,audio/us/rainbow.mp3,cầu vồng,Look at the rainbow.
-2,4,In the countryside,sourced,river,n,/ˈrɪvə(r)/,/ˈrɪvɚ/,audio/uk/river.mp3,audio/us/river.mp3,dòng sông,Look at the river.
-2,4,In the countryside,sourced,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,Look at the road.
-2,4,In the countryside,sourced,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,"nông thôn, miền quê",We are in the countryside.
-2,5,In the classroom,sourced,question,n,/ˈkwestʃən/,/ˈkwestʃən/,audio/uk/question.mp3,audio/us/question.mp3,câu hỏi,This is a question.
-2,5,In the classroom,sourced,quiz,n,/kwɪz/,/kwɪz/,audio/uk/quiz.mp3,audio/us/quiz.mp3,"câu đố, bài kiểm tra ngắn",This is a quiz.
-2,5,In the classroom,sourced,square,n,/skweə(r)/,/skwer/,audio/uk/square.mp3,audio/us/square.mp3,hình vuông,This is a square.
-2,5,In the classroom,sourced,classroom,n,/ˈklɑːsruːm/,/ˈklæsruːm/,audio/uk/classroom.mp3,audio/us/classroom.mp3,lớp học,We are in the classroom.
-2,6,On the farm,sourced,box,n,/bɒks/,/bɑːks/,audio/uk/box.mp3,audio/us/box.mp3,"cái hộp, cái thùng",This is a box of apples.
-2,6,On the farm,sourced,fox,n,/fɒks/,/fɑːks/,audio/uk/fox.mp3,audio/us/fox.mp3,con cáo,This is a fox.
-2,6,On the farm,sourced,ox,n,/ɒks/,/ɑːks/,audio/uk/ox.mp3,audio/us/ox.mp3,con bò đực,This is an ox.
-2,6,On the farm,sourced,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,nông trại,We are on the farm.
-2,7,In the kitchen,sourced,jam,n,/dʒæm/,/dʒæm/,audio/uk/jam.mp3,audio/us/jam.mp3,mứt,I like jam.
-2,7,In the kitchen,sourced,jelly,n,/ˈdʒeli/,/ˈdʒeli/,audio/uk/jelly.mp3,audio/us/jelly.mp3,thạch,I like jelly.
-2,7,In the kitchen,sourced,juice,n,/dʒuːs/,/dʒuːs/,audio/uk/juice.mp3,audio/us/juice.mp3,"nước ép, nước hoa quả",I like juice.
-2,7,In the kitchen,sourced,kitchen,n,/ˈkɪtʃɪn/,/ˈkɪtʃən/,audio/uk/kitchen.mp3,audio/us/kitchen.mp3,nhà bếp,We are in the kitchen.
-2,8,In the village,sourced,van,n,/væn/,/væn/,audio/uk/van.mp3,audio/us/van.mp3,xe tải nhỏ,Look at the van.
-2,8,In the village,sourced,village,n,/ˈvɪlɪdʒ/,/ˈvɪlɪdʒ/,audio/uk/village.mp3,audio/us/village.mp3,ngôi làng,This is my village.
-2,8,In the village,sourced,volleyball,n,/ˈvɒlibɔːl/,/ˈvɑːlibɑːl/,audio/uk/volleyball.mp3,audio/us/volleyball.mp3,bóng chuyền,They are playing volleyball.
-2,9,In the grocery store,sourced,yams,n,/jæmz/,/jæmz/,audio/uk/yams.mp3,audio/us/yams.mp3,"khoai mỡ, khoai lang",I want some yams.
-2,9,In the grocery store,sourced,yoghurt,n,/ˈjɒɡət/,/ˈjoʊɡɚt/,audio/uk/yoghurt.mp3,audio/us/yoghurt.mp3,sữa chua,I want some yoghurt.
-2,9,In the grocery store,sourced,yo-yo,n,/ˈjəʊ jəʊ/,/ˈjoʊ joʊ/,audio/uk/yo-yo.mp3,audio/us/yo-yo.mp3,con quay yo-yo,I want a yo-yo.
-2,9,In the grocery store,sourced,grocery store,n,/ˈɡrəʊsəri stɔː(r)/,/ˈɡroʊsɚi stɔːr/,audio/uk/grocery-store.mp3,audio/us/grocery-store.mp3,cửa hàng tạp hóa,We are in the grocery store.
-2,9,In the grocery store,sourced,want,v,/wɒnt/,/wɑːnt/,audio/uk/want.mp3,audio/us/want.mp3,muốn,What do you want?
-2,10,At the zoo,sourced,zebra,n,/ˈzebrə/,/ˈziːbrə/,audio/uk/zebra.mp3,audio/us/zebra.mp3,con ngựa vằn,Look at the zebra.
-2,10,At the zoo,sourced,zebu,n,/ˈziːbuː/,/ˈziːbuː/,audio/uk/zebu.mp3,audio/us/zebu.mp3,con bò u,Look at the zebu.
-2,10,At the zoo,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,We are at the zoo.
-2,11,In the playground,sourced,drive,v,/draɪv/,/draɪv/,audio/uk/drive.mp3,audio/us/drive.mp3,lái (xe),She is driving a car.
-2,11,In the playground,sourced,ride,v,/raɪd/,/raɪd/,audio/uk/ride.mp3,audio/us/ride.mp3,"đi (xe đạp), cưỡi",He is riding a bike.
-2,11,In the playground,sourced,slide,v,/slaɪd/,/slaɪd/,audio/uk/slide.mp3,audio/us/slide.mp3,trượt (cầu trượt),They are sliding.
-2,11,In the playground,sourced,playground,n,/ˈpleɪɡraʊnd/,/ˈpleɪɡraʊnd/,audio/uk/playground.mp3,audio/us/playground.mp3,sân chơi,We are in the playground.
-2,12,At the café,sourced,cake,n,/keɪk/,/keɪk/,audio/uk/cake.mp3,audio/us/cake.mp3,bánh ngọt,I like cake.
-2,12,At the café,sourced,grapes,n,/ɡreɪps/,/ɡreɪps/,audio/uk/grapes.mp3,audio/us/grapes.mp3,quả nho,I like grapes.
-2,12,At the café,sourced,table,n,/ˈteɪbl/,/ˈteɪbəl/,audio/uk/table.mp3,audio/us/table.mp3,cái bàn,This is a table.
-2,12,At the café,sourced,café,n,/ˈkæfeɪ/,/kæˈfeɪ/,audio/uk/cafe.mp3,audio/us/cafe.mp3,quán cà phê,We are at the café.
-2,13,In the maths class,sourced,eleven,num,/ɪˈlevn/,/ɪˈlevən/,audio/uk/eleven.mp3,audio/us/eleven.mp3,số mười một,I can count to eleven.
-2,13,In the maths class,sourced,thirteen,num,/ˌθɜːˈtiːn/,/ˌθɝːˈtiːn/,audio/uk/thirteen.mp3,audio/us/thirteen.mp3,số mười ba,Thirteen.
-2,13,In the maths class,sourced,fourteen,num,/ˌfɔːˈtiːn/,/ˌfɔːrˈtiːn/,audio/uk/fourteen.mp3,audio/us/fourteen.mp3,số mười bốn,Fourteen.
-2,13,In the maths class,sourced,fifteen,num,/ˌfɪfˈtiːn/,/fɪfˈtiːn/,audio/uk/fifteen.mp3,audio/us/fifteen.mp3,số mười lăm,Fifteen.
-2,13,In the maths class,sourced,maths,n,/mæθs/,/mæθs/,audio/uk/maths.mp3,audio/us/maths.mp3,môn toán,We are in the maths class.
-2,14,At home,sourced,brother,n,/ˈbrʌðə(r)/,/ˈbrʌðɚ/,audio/uk/brother.mp3,audio/us/brother.mp3,anh trai; em trai,This is my brother.
-2,14,At home,sourced,sister,n,/ˈsɪstə(r)/,/ˈsɪstɚ/,audio/uk/sister.mp3,audio/us/sister.mp3,chị gái; em gái,This is my sister.
-2,14,At home,sourced,grandmother,n,/ˈɡrænmʌðə(r)/,/ˈɡrændmʌðɚ/,audio/uk/grandmother.mp3,audio/us/grandmother.mp3,bà,This is my grandmother.
-2,14,At home,sourced,home,n,/həʊm/,/hoʊm/,audio/uk/home.mp3,audio/us/home.mp3,nhà,We are at home.
-2,15,In the clothes shop,sourced,shirt,n,/ʃɜːt/,/ʃɝːt/,audio/uk/shirt.mp3,audio/us/shirt.mp3,áo sơ mi,This is a shirt.
-2,15,In the clothes shop,sourced,shoes,n,/ʃuːz/,/ʃuːz/,audio/uk/shoes.mp3,audio/us/shoes.mp3,đôi giày,These are shoes.
-2,15,In the clothes shop,sourced,shorts,n,/ʃɔːts/,/ʃɔːrts/,audio/uk/shorts.mp3,audio/us/shorts.mp3,"quần soóc, quần đùi",These are shorts.
-2,15,In the clothes shop,sourced,clothes shop,n,/ˈkləʊðz ʃɒp/,/ˈkloʊðz ʃɑːp/,audio/uk/clothes-shop.mp3,audio/us/clothes-shop.mp3,cửa hàng quần áo,We are in the clothes shop.
-2,16,At the campsite,sourced,tent,n,/tent/,/tent/,audio/uk/tent.mp3,audio/us/tent.mp3,cái lều,This is a tent.
-2,16,At the campsite,sourced,teapot,n,/ˈtiːpɒt/,/ˈtiːpɑːt/,audio/uk/teapot.mp3,audio/us/teapot.mp3,ấm pha trà,This is a teapot.
-2,16,At the campsite,sourced,blanket,n,/ˈblæŋkɪt/,/ˈblæŋkɪt/,audio/uk/blanket.mp3,audio/us/blanket.mp3,cái chăn,This is a blanket.
-2,16,At the campsite,sourced,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,We are at the campsite.
+﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
+2,1,At my birthday party,sourced,pasta,n,/ˈpæstə/,/ˈpɑːstə/,audio/uk/pasta.mp3,audio/us/pasta.mp3,mì ống,The pasta is yummy.,Mì ống ngon quá.
+2,1,At my birthday party,sourced,pizza,n,/ˈpiːtsə/,/ˈpiːtsə/,audio/uk/pizza.mp3,audio/us/pizza.mp3,bánh pizza,The pizza is yummy.,Bánh pizza ngon quá.
+2,1,At my birthday party,sourced,popcorn,n,/ˈpɒpkɔːn/,/ˈpɑːpkɔːrn/,audio/uk/popcorn.mp3,audio/us/popcorn.mp3,bỏng ngô,The popcorn is yummy.,Bỏng ngô ngon quá.
+2,1,At my birthday party,sourced,yummy,adj,/ˈjʌmi/,/ˈjʌmi/,audio/uk/yummy.mp3,audio/us/yummy.mp3,ngon,The pizza is yummy.,Bánh pizza ngon quá.
+2,2,In the backyard,sourced,bike,n,/baɪk/,/baɪk/,audio/uk/bike.mp3,audio/us/bike.mp3,xe đạp,He is riding a bike.,Cậu ấy đang đạp xe đạp.
+2,2,In the backyard,sourced,kite,n,/kaɪt/,/kaɪt/,audio/uk/kite.mp3,audio/us/kite.mp3,con diều,She is flying a kite.,Cô ấy đang thả diều.
+2,2,In the backyard,sourced,kitten,n,/ˈkɪtn/,/ˈkɪtən/,audio/uk/kitten.mp3,audio/us/kitten.mp3,mèo con,This is a kitten.,Đây là một chú mèo con.
+2,2,In the backyard,sourced,fly,v,/flaɪ/,/flaɪ/,audio/uk/fly.mp3,audio/us/fly.mp3,thả (diều); bay,Is she flying a kite?,Bạn ấy có đang thả diều không?
+2,2,In the backyard,sourced,ride,v,/raɪd/,/raɪd/,audio/uk/ride.mp3,audio/us/ride.mp3,"đi (xe đạp), cưỡi",He is riding a bike.,Cậu ấy đang đạp xe đạp.
+2,3,At the seaside,sourced,sail,n,/seɪl/,/seɪl/,audio/uk/sail.mp3,audio/us/sail.mp3,cánh buồm,Look at the sail.,Hãy nhìn cánh buồm kìa.
+2,3,At the seaside,sourced,sand,n,/sænd/,/sænd/,audio/uk/sand.mp3,audio/us/sand.mp3,cát,Look at the sand.,Hãy nhìn cát kìa.
+2,3,At the seaside,sourced,sea,n,/siː/,/siː/,audio/uk/sea.mp3,audio/us/sea.mp3,biển,Look at the sea.,Hãy nhìn biển kìa.
+2,3,At the seaside,sourced,seaside,n,/ˈsiːsaɪd/,/ˈsiːsaɪd/,audio/uk/seaside.mp3,audio/us/seaside.mp3,"bờ biển, vùng biển",We are at the seaside.,Chúng mình đang ở bờ biển.
+2,3,At the seaside,sourced,beach,n,/biːtʃ/,/biːtʃ/,audio/uk/beach.mp3,audio/us/beach.mp3,bãi biển,I like the beach.,Mình thích bãi biển.
+2,4,In the countryside,sourced,rainbow,n,/ˈreɪnbəʊ/,/ˈreɪnboʊ/,audio/uk/rainbow.mp3,audio/us/rainbow.mp3,cầu vồng,Look at the rainbow.,Hãy nhìn cầu vồng kìa.
+2,4,In the countryside,sourced,river,n,/ˈrɪvə(r)/,/ˈrɪvɚ/,audio/uk/river.mp3,audio/us/river.mp3,dòng sông,Look at the river.,Hãy nhìn dòng sông kìa.
+2,4,In the countryside,sourced,road,n,/rəʊd/,/roʊd/,audio/uk/road.mp3,audio/us/road.mp3,con đường,Look at the road.,Hãy nhìn con đường kìa.
+2,4,In the countryside,sourced,countryside,n,/ˈkʌntrisaɪd/,/ˈkʌntrisaɪd/,audio/uk/countryside.mp3,audio/us/countryside.mp3,"nông thôn, miền quê",We are in the countryside.,Chúng mình đang ở miền quê.
+2,5,In the classroom,sourced,question,n,/ˈkwestʃən/,/ˈkwestʃən/,audio/uk/question.mp3,audio/us/question.mp3,câu hỏi,This is a question.,Đây là một câu hỏi.
+2,5,In the classroom,sourced,quiz,n,/kwɪz/,/kwɪz/,audio/uk/quiz.mp3,audio/us/quiz.mp3,"câu đố, bài kiểm tra ngắn",This is a quiz.,Đây là một câu đố.
+2,5,In the classroom,sourced,square,n,/skweə(r)/,/skwer/,audio/uk/square.mp3,audio/us/square.mp3,hình vuông,This is a square.,Đây là hình vuông.
+2,5,In the classroom,sourced,classroom,n,/ˈklɑːsruːm/,/ˈklæsruːm/,audio/uk/classroom.mp3,audio/us/classroom.mp3,lớp học,We are in the classroom.,Chúng mình đang ở trong lớp học.
+2,6,On the farm,sourced,box,n,/bɒks/,/bɑːks/,audio/uk/box.mp3,audio/us/box.mp3,"cái hộp, cái thùng",This is a box of apples.,Đây là một thùng táo.
+2,6,On the farm,sourced,fox,n,/fɒks/,/fɑːks/,audio/uk/fox.mp3,audio/us/fox.mp3,con cáo,This is a fox.,Đây là con cáo.
+2,6,On the farm,sourced,ox,n,/ɒks/,/ɑːks/,audio/uk/ox.mp3,audio/us/ox.mp3,con bò đực,This is an ox.,Đây là con bò đực.
+2,6,On the farm,sourced,farm,n,/fɑːm/,/fɑːrm/,audio/uk/farm.mp3,audio/us/farm.mp3,nông trại,We are on the farm.,Chúng mình đang ở nông trại.
+2,7,In the kitchen,sourced,jam,n,/dʒæm/,/dʒæm/,audio/uk/jam.mp3,audio/us/jam.mp3,mứt,I like jam.,Mình thích mứt.
+2,7,In the kitchen,sourced,jelly,n,/ˈdʒeli/,/ˈdʒeli/,audio/uk/jelly.mp3,audio/us/jelly.mp3,thạch,I like jelly.,Mình thích thạch.
+2,7,In the kitchen,sourced,juice,n,/dʒuːs/,/dʒuːs/,audio/uk/juice.mp3,audio/us/juice.mp3,"nước ép, nước hoa quả",I like juice.,Mình thích nước ép.
+2,7,In the kitchen,sourced,kitchen,n,/ˈkɪtʃɪn/,/ˈkɪtʃən/,audio/uk/kitchen.mp3,audio/us/kitchen.mp3,nhà bếp,We are in the kitchen.,Chúng mình đang ở trong bếp.
+2,8,In the village,sourced,van,n,/væn/,/væn/,audio/uk/van.mp3,audio/us/van.mp3,xe tải nhỏ,Look at the van.,Hãy nhìn chiếc xe tải nhỏ kìa.
+2,8,In the village,sourced,village,n,/ˈvɪlɪdʒ/,/ˈvɪlɪdʒ/,audio/uk/village.mp3,audio/us/village.mp3,ngôi làng,This is my village.,Đây là làng của mình.
+2,8,In the village,sourced,volleyball,n,/ˈvɒlibɔːl/,/ˈvɑːlibɑːl/,audio/uk/volleyball.mp3,audio/us/volleyball.mp3,bóng chuyền,They are playing volleyball.,Họ đang chơi bóng chuyền.
+2,9,In the grocery store,sourced,yams,n,/jæmz/,/jæmz/,audio/uk/yams.mp3,audio/us/yams.mp3,"khoai mỡ, khoai lang",I want some yams.,Mình muốn một ít khoai lang.
+2,9,In the grocery store,sourced,yoghurt,n,/ˈjɒɡət/,/ˈjoʊɡɚt/,audio/uk/yoghurt.mp3,audio/us/yoghurt.mp3,sữa chua,I want some yoghurt.,Mình muốn một ít sữa chua.
+2,9,In the grocery store,sourced,yo-yo,n,/ˈjəʊ jəʊ/,/ˈjoʊ joʊ/,audio/uk/yo-yo.mp3,audio/us/yo-yo.mp3,con quay yo-yo,I want a yo-yo.,Mình muốn một cái yo-yo.
+2,9,In the grocery store,sourced,grocery store,n,/ˈɡrəʊsəri stɔː(r)/,/ˈɡroʊsɚi stɔːr/,audio/uk/grocery-store.mp3,audio/us/grocery-store.mp3,cửa hàng tạp hóa,We are in the grocery store.,Chúng mình đang ở cửa hàng tạp hóa.
+2,9,In the grocery store,sourced,want,v,/wɒnt/,/wɑːnt/,audio/uk/want.mp3,audio/us/want.mp3,muốn,What do you want?,Bạn muốn gì?
+2,10,At the zoo,sourced,zebra,n,/ˈzebrə/,/ˈziːbrə/,audio/uk/zebra.mp3,audio/us/zebra.mp3,con ngựa vằn,Look at the zebra.,Hãy nhìn con ngựa vằn kìa.
+2,10,At the zoo,sourced,zebu,n,/ˈziːbuː/,/ˈziːbuː/,audio/uk/zebu.mp3,audio/us/zebu.mp3,con bò u,Look at the zebu.,Hãy nhìn con bò u kìa.
+2,10,At the zoo,sourced,zoo,n,/zuː/,/zuː/,audio/uk/zoo.mp3,audio/us/zoo.mp3,vườn thú,We are at the zoo.,Chúng mình đang ở vườn thú.
+2,11,In the playground,sourced,drive,v,/draɪv/,/draɪv/,audio/uk/drive.mp3,audio/us/drive.mp3,lái (xe),She is driving a car.,Cô ấy đang lái ô tô.
+2,11,In the playground,sourced,ride,v,/raɪd/,/raɪd/,audio/uk/ride.mp3,audio/us/ride.mp3,"đi (xe đạp), cưỡi",He is riding a bike.,Cậu ấy đang đạp xe đạp.
+2,11,In the playground,sourced,slide,v,/slaɪd/,/slaɪd/,audio/uk/slide.mp3,audio/us/slide.mp3,trượt (cầu trượt),They are sliding.,Các bạn ấy đang chơi cầu trượt.
+2,11,In the playground,sourced,playground,n,/ˈpleɪɡraʊnd/,/ˈpleɪɡraʊnd/,audio/uk/playground.mp3,audio/us/playground.mp3,sân chơi,We are in the playground.,Chúng mình đang ở sân chơi.
+2,12,At the café,sourced,cake,n,/keɪk/,/keɪk/,audio/uk/cake.mp3,audio/us/cake.mp3,bánh ngọt,I like cake.,Mình thích bánh ngọt.
+2,12,At the café,sourced,grapes,n,/ɡreɪps/,/ɡreɪps/,audio/uk/grapes.mp3,audio/us/grapes.mp3,quả nho,I like grapes.,Mình thích nho.
+2,12,At the café,sourced,table,n,/ˈteɪbl/,/ˈteɪbəl/,audio/uk/table.mp3,audio/us/table.mp3,cái bàn,This is a table.,Đây là cái bàn.
+2,12,At the café,sourced,café,n,/ˈkæfeɪ/,/kæˈfeɪ/,audio/uk/cafe.mp3,audio/us/cafe.mp3,quán cà phê,We are at the café.,Chúng mình đang ở quán cà phê.
+2,13,In the maths class,sourced,eleven,num,/ɪˈlevn/,/ɪˈlevən/,audio/uk/eleven.mp3,audio/us/eleven.mp3,số mười một,I can count to eleven.,Mình có thể đếm đến mười một.
+2,13,In the maths class,sourced,thirteen,num,/ˌθɜːˈtiːn/,/ˌθɝːˈtiːn/,audio/uk/thirteen.mp3,audio/us/thirteen.mp3,số mười ba,Thirteen.,Mười ba.
+2,13,In the maths class,sourced,fourteen,num,/ˌfɔːˈtiːn/,/ˌfɔːrˈtiːn/,audio/uk/fourteen.mp3,audio/us/fourteen.mp3,số mười bốn,Fourteen.,Mười bốn.
+2,13,In the maths class,sourced,fifteen,num,/ˌfɪfˈtiːn/,/fɪfˈtiːn/,audio/uk/fifteen.mp3,audio/us/fifteen.mp3,số mười lăm,Fifteen.,Mười lăm.
+2,13,In the maths class,sourced,maths,n,/mæθs/,/mæθs/,audio/uk/maths.mp3,audio/us/maths.mp3,môn toán,We are in the maths class.,Chúng mình đang trong giờ học toán.
+2,14,At home,sourced,brother,n,/ˈbrʌðə(r)/,/ˈbrʌðɚ/,audio/uk/brother.mp3,audio/us/brother.mp3,anh trai; em trai,This is my brother.,Đây là anh trai của mình.
+2,14,At home,sourced,sister,n,/ˈsɪstə(r)/,/ˈsɪstɚ/,audio/uk/sister.mp3,audio/us/sister.mp3,chị gái; em gái,This is my sister.,Đây là chị gái của mình.
+2,14,At home,sourced,grandmother,n,/ˈɡrænmʌðə(r)/,/ˈɡrændmʌðɚ/,audio/uk/grandmother.mp3,audio/us/grandmother.mp3,bà,This is my grandmother.,Đây là bà của mình.
+2,14,At home,sourced,home,n,/həʊm/,/hoʊm/,audio/uk/home.mp3,audio/us/home.mp3,nhà,We are at home.,Chúng mình đang ở nhà.
+2,15,In the clothes shop,sourced,shirt,n,/ʃɜːt/,/ʃɝːt/,audio/uk/shirt.mp3,audio/us/shirt.mp3,áo sơ mi,This is a shirt.,Đây là cái áo sơ mi.
+2,15,In the clothes shop,sourced,shoes,n,/ʃuːz/,/ʃuːz/,audio/uk/shoes.mp3,audio/us/shoes.mp3,đôi giày,These are shoes.,Đây là đôi giày.
+2,15,In the clothes shop,sourced,shorts,n,/ʃɔːts/,/ʃɔːrts/,audio/uk/shorts.mp3,audio/us/shorts.mp3,"quần soóc, quần đùi",These are shorts.,Đây là cái quần soóc.
+2,15,In the clothes shop,sourced,clothes shop,n,/ˈkləʊðz ʃɒp/,/ˈkloʊðz ʃɑːp/,audio/uk/clothes-shop.mp3,audio/us/clothes-shop.mp3,cửa hàng quần áo,We are in the clothes shop.,Chúng mình đang ở cửa hàng quần áo.
+2,16,At the campsite,sourced,tent,n,/tent/,/tent/,audio/uk/tent.mp3,audio/us/tent.mp3,cái lều,This is a tent.,Đây là cái lều.
+2,16,At the campsite,sourced,teapot,n,/ˈtiːpɒt/,/ˈtiːpɑːt/,audio/uk/teapot.mp3,audio/us/teapot.mp3,ấm pha trà,This is a teapot.,Đây là ấm pha trà.
+2,16,At the campsite,sourced,blanket,n,/ˈblæŋkɪt/,/ˈblæŋkɪt/,audio/uk/blanket.mp3,audio/us/blanket.mp3,cái chăn,This is a blanket.,Đây là cái chăn.
+2,16,At the campsite,sourced,campsite,n,/ˈkæmpsaɪt/,/ˈkæmpsaɪt/,audio/uk/campsite.mp3,audio/us/campsite.mp3,khu cắm trại,We are at the campsite.,Chúng mình đang ở khu cắm trại.

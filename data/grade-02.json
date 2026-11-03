@@ -23,7 +23,8 @@
           "audio_uk": "audio/uk/pasta.mp3",
           "audio_us": "audio/us/pasta.mp3",
           "meaning": "mì ống",
-          "example": "The pasta is yummy."
+          "example": "The pasta is yummy.",
+          "example_vi": "Mì ống ngon quá."
         },
         {
           "word": "pizza",
@@ -33,7 +34,8 @@
           "audio_uk": "audio/uk/pizza.mp3",
           "audio_us": "audio/us/pizza.mp3",
           "meaning": "bánh pizza",
-          "example": "The pizza is yummy."
+          "example": "The pizza is yummy.",
+          "example_vi": "Bánh pizza ngon quá."
         },
         {
           "word": "popcorn",
@@ -43,7 +45,8 @@
           "audio_uk": "audio/uk/popcorn.mp3",
           "audio_us": "audio/us/popcorn.mp3",
           "meaning": "bỏng ngô",
-          "example": "The popcorn is yummy."
+          "example": "The popcorn is yummy.",
+          "example_vi": "Bỏng ngô ngon quá."
         },
         {
           "word": "yummy",
@@ -53,7 +56,8 @@
           "audio_uk": "audio/uk/yummy.mp3",
           "audio_us": "audio/us/yummy.mp3",
           "meaning": "ngon",
-          "example": "The pizza is yummy."
+          "example": "The pizza is yummy.",
+          "example_vi": "Bánh pizza ngon quá."
         }
       ]
     },
@@ -77,7 +81,8 @@
           "audio_uk": "audio/uk/bike.mp3",
           "audio_us": "audio/us/bike.mp3",
           "meaning": "xe đạp",
-          "example": "He is riding a bike."
+          "example": "He is riding a bike.",
+          "example_vi": "Cậu ấy đang đạp xe đạp."
         },
         {
           "word": "kite",
@@ -87,7 +92,8 @@
           "audio_uk": "audio/uk/kite.mp3",
           "audio_us": "audio/us/kite.mp3",
           "meaning": "con diều",
-          "example": "She is flying a kite."
+          "example": "She is flying a kite.",
+          "example_vi": "Cô ấy đang thả diều."
         },
         {
           "word": "kitten",
@@ -97,7 +103,8 @@
           "audio_uk": "audio/uk/kitten.mp3",
           "audio_us": "audio/us/kitten.mp3",
           "meaning": "mèo con",
-          "example": "This is a kitten."
+          "example": "This is a kitten.",
+          "example_vi": "Đây là một chú mèo con."
         },
         {
           "word": "fly",
@@ -107,7 +114,8 @@
           "audio_uk": "audio/uk/fly.mp3",
           "audio_us": "audio/us/fly.mp3",
           "meaning": "thả (diều); bay",
-          "example": "Is she flying a kite?"
+          "example": "Is she flying a kite?",
+          "example_vi": "Bạn ấy có đang thả diều không?"
         },
         {
           "word": "ride",
@@ -117,7 +125,8 @@
           "audio_uk": "audio/uk/ride.mp3",
           "audio_us": "audio/us/ride.mp3",
           "meaning": "đi (xe đạp), cưỡi",
-          "example": "He is riding a bike."
+          "example": "He is riding a bike.",
+          "example_vi": "Cậu ấy đang đạp xe đạp."
         }
       ]
     },
@@ -140,7 +149,8 @@
           "audio_uk": "audio/uk/sail.mp3",
           "audio_us": "audio/us/sail.mp3",
           "meaning": "cánh buồm",
-          "example": "Look at the sail."
+          "example": "Look at the sail.",
+          "example_vi": "Hãy nhìn cánh buồm kìa."
         },
         {
           "word": "sand",
@@ -150,7 +160,8 @@
           "audio_uk": "audio/uk/sand.mp3",
           "audio_us": "audio/us/sand.mp3",
           "meaning": "cát",
-          "example": "Look at the sand."
+          "example": "Look at the sand.",
+          "example_vi": "Hãy nhìn cát kìa."
         },
         {
           "word": "sea",
@@ -160,7 +171,8 @@
           "audio_uk": "audio/uk/sea.mp3",
           "audio_us": "audio/us/sea.mp3",
           "meaning": "biển",
-          "example": "Look at the sea."
+          "example": "Look at the sea.",
+          "example_vi": "Hãy nhìn biển kìa."
         },
         {
           "word": "seaside",
@@ -170,7 +182,8 @@
           "audio_uk": "audio/uk/seaside.mp3",
           "audio_us": "audio/us/seaside.mp3",
           "meaning": "bờ biển, vùng biển",
-          "example": "We are at the seaside."
+          "example": "We are at the seaside.",
+          "example_vi": "Chúng mình đang ở bờ biển."
         },
         {
           "word": "beach",
@@ -180,7 +193,8 @@
           "audio_uk": "audio/uk/beach.mp3",
           "audio_us": "audio/us/beach.mp3",
           "meaning": "bãi biển",
-          "example": "I like the beach."
+          "example": "I like the beach.",
+          "example_vi": "Mình thích bãi biển."
         }
       ]
     },
@@ -202,7 +216,8 @@
           "audio_uk": "audio/uk/rainbow.mp3",
           "audio_us": "audio/us/rainbow.mp3",
           "meaning": "cầu vồng",
-          "example": "Look at the rainbow."
+          "example": "Look at the rainbow.",
+          "example_vi": "Hãy nhìn cầu vồng kìa."
         },
         {
           "word": "river",
@@ -212,7 +227,8 @@
           "audio_uk": "audio/uk/river.mp3",
           "audio_us": "audio/us/river.mp3",
           "meaning": "dòng sông",
-          "example": "Look at the river."
+          "example": "Look at the river.",
+          "example_vi": "Hãy nhìn dòng sông kìa."
         },
         {
           "word": "road",
@@ -222,7 +238,8 @@
           "audio_uk": "audio/uk/road.mp3",
           "audio_us": "audio/us/road.mp3",
           "meaning": "con đường",
-          "example": "Look at the road."
+          "example": "Look at the road.",
+          "example_vi": "Hãy nhìn con đường kìa."
         },
         {
           "word": "countryside",
@@ -232,7 +249,8 @@
           "audio_uk": "audio/uk/countryside.mp3",
           "audio_us": "audio/us/countryside.mp3",
           "meaning": "nông thôn, miền quê",
-          "example": "We are in the countryside."
+          "example": "We are in the countryside.",
+          "example_vi": "Chúng mình đang ở miền quê."
         }
       ]
     },
@@ -254,7 +272,8 @@
           "audio_uk": "audio/uk/question.mp3",
           "audio_us": "audio/us/question.mp3",
           "meaning": "câu hỏi",
-          "example": "This is a question."
+          "example": "This is a question.",
+          "example_vi": "Đây là một câu hỏi."
         },
         {
           "word": "quiz",
@@ -264,7 +283,8 @@
           "audio_uk": "audio/uk/quiz.mp3",
           "audio_us": "audio/us/quiz.mp3",
           "meaning": "câu đố, bài kiểm tra ngắn",
-          "example": "This is a quiz."
+          "example": "This is a quiz.",
+          "example_vi": "Đây là một câu đố."
         },
         {
           "word": "square",
@@ -274,7 +294,8 @@
           "audio_uk": "audio/uk/square.mp3",
           "audio_us": "audio/us/square.mp3",
           "meaning": "hình vuông",
-          "example": "This is a square."
+          "example": "This is a square.",
+          "example_vi": "Đây là hình vuông."
         },
         {
           "word": "classroom",
@@ -284,7 +305,8 @@
           "audio_uk": "audio/uk/classroom.mp3",
           "audio_us": "audio/us/classroom.mp3",
           "meaning": "lớp học",
-          "example": "We are in the classroom."
+          "example": "We are in the classroom.",
+          "example_vi": "Chúng mình đang ở trong lớp học."
         }
       ]
     },
@@ -306,7 +328,8 @@
           "audio_uk": "audio/uk/box.mp3",
           "audio_us": "audio/us/box.mp3",
           "meaning": "cái hộp, cái thùng",
-          "example": "This is a box of apples."
+          "example": "This is a box of apples.",
+          "example_vi": "Đây là một thùng táo."
         },
         {
           "word": "fox",
@@ -316,7 +339,8 @@
           "audio_uk": "audio/uk/fox.mp3",
           "audio_us": "audio/us/fox.mp3",
           "meaning": "con cáo",
-          "example": "This is a fox."
+          "example": "This is a fox.",
+          "example_vi": "Đây là con cáo."
         },
         {
           "word": "ox",
@@ -326,7 +350,8 @@
           "audio_uk": "audio/uk/ox.mp3",
           "audio_us": "audio/us/ox.mp3",
           "meaning": "con bò đực",
-          "example": "This is an ox."
+          "example": "This is an ox.",
+          "example_vi": "Đây là con bò đực."
         },
         {
           "word": "farm",
@@ -336,7 +361,8 @@
           "audio_uk": "audio/uk/farm.mp3",
           "audio_us": "audio/us/farm.mp3",
           "meaning": "nông trại",
-          "example": "We are on the farm."
+          "example": "We are on the farm.",
+          "example_vi": "Chúng mình đang ở nông trại."
         }
       ]
     },
@@ -358,7 +384,8 @@
           "audio_uk": "audio/uk/jam.mp3",
           "audio_us": "audio/us/jam.mp3",
           "meaning": "mứt",
-          "example": "I like jam."
+          "example": "I like jam.",
+          "example_vi": "Mình thích mứt."
         },
         {
           "word": "jelly",
@@ -368,7 +395,8 @@
           "audio_uk": "audio/uk/jelly.mp3",
           "audio_us": "audio/us/jelly.mp3",
           "meaning": "thạch",
-          "example": "I like jelly."
+          "example": "I like jelly.",
+          "example_vi": "Mình thích thạch."
         },
         {
           "word": "juice",
@@ -378,7 +406,8 @@
           "audio_uk": "audio/uk/juice.mp3",
           "audio_us": "audio/us/juice.mp3",
           "meaning": "nước ép, nước hoa quả",
-          "example": "I like juice."
+          "example": "I like juice.",
+          "example_vi": "Mình thích nước ép."
         },
         {
           "word": "kitchen",
@@ -388,7 +417,8 @@
           "audio_uk": "audio/uk/kitchen.mp3",
           "audio_us": "audio/us/kitchen.mp3",
           "meaning": "nhà bếp",
-          "example": "We are in the kitchen."
+          "example": "We are in the kitchen.",
+          "example_vi": "Chúng mình đang ở trong bếp."
         }
       ]
     },
@@ -409,7 +439,8 @@
           "audio_uk": "audio/uk/van.mp3",
           "audio_us": "audio/us/van.mp3",
           "meaning": "xe tải nhỏ",
-          "example": "Look at the van."
+          "example": "Look at the van.",
+          "example_vi": "Hãy nhìn chiếc xe tải nhỏ kìa."
         },
         {
           "word": "village",
@@ -419,7 +450,8 @@
           "audio_uk": "audio/uk/village.mp3",
           "audio_us": "audio/us/village.mp3",
           "meaning": "ngôi làng",
-          "example": "This is my village."
+          "example": "This is my village.",
+          "example_vi": "Đây là làng của mình."
         },
         {
           "word": "volleyball",
@@ -429,7 +461,8 @@
           "audio_uk": "audio/uk/volleyball.mp3",
           "audio_us": "audio/us/volleyball.mp3",
           "meaning": "bóng chuyền",
-          "example": "They are playing volleyball."
+          "example": "They are playing volleyball.",
+          "example_vi": "Họ đang chơi bóng chuyền."
         }
       ]
     },
@@ -452,7 +485,8 @@
           "audio_uk": "audio/uk/yams.mp3",
           "audio_us": "audio/us/yams.mp3",
           "meaning": "khoai mỡ, khoai lang",
-          "example": "I want some yams."
+          "example": "I want some yams.",
+          "example_vi": "Mình muốn một ít khoai lang."
         },
         {
           "word": "yoghurt",
@@ -462,7 +496,8 @@
           "audio_uk": "audio/uk/yoghurt.mp3",
           "audio_us": "audio/us/yoghurt.mp3",
           "meaning": "sữa chua",
-          "example": "I want some yoghurt."
+          "example": "I want some yoghurt.",
+          "example_vi": "Mình muốn một ít sữa chua."
         },
         {
           "word": "yo-yo",
@@ -472,7 +507,8 @@
           "audio_uk": "audio/uk/yo-yo.mp3",
           "audio_us": "audio/us/yo-yo.mp3",
           "meaning": "con quay yo-yo",
-          "example": "I want a yo-yo."
+          "example": "I want a yo-yo.",
+          "example_vi": "Mình muốn một cái yo-yo."
         },
         {
           "word": "grocery store",
@@ -482,7 +518,8 @@
           "audio_uk": "audio/uk/grocery-store.mp3",
           "audio_us": "audio/us/grocery-store.mp3",
           "meaning": "cửa hàng tạp hóa",
-          "example": "We are in the grocery store."
+          "example": "We are in the grocery store.",
+          "example_vi": "Chúng mình đang ở cửa hàng tạp hóa."
         },
         {
           "word": "want",
@@ -492,7 +529,8 @@
           "audio_uk": "audio/uk/want.mp3",
           "audio_us": "audio/us/want.mp3",
           "meaning": "muốn",
-          "example": "What do you want?"
+          "example": "What do you want?",
+          "example_vi": "Bạn muốn gì?"
         }
       ]
     },
@@ -515,7 +553,8 @@
           "audio_uk": "audio/uk/zebra.mp3",
           "audio_us": "audio/us/zebra.mp3",
           "meaning": "con ngựa vằn",
-          "example": "Look at the zebra."
+          "example": "Look at the zebra.",
+          "example_vi": "Hãy nhìn con ngựa vằn kìa."
         },
         {
           "word": "zebu",
@@ -525,7 +564,8 @@
           "audio_uk": "audio/uk/zebu.mp3",
           "audio_us": "audio/us/zebu.mp3",
           "meaning": "con bò u",
-          "example": "Look at the zebu."
+          "example": "Look at the zebu.",
+          "example_vi": "Hãy nhìn con bò u kìa."
         },
         {
           "word": "zoo",
@@ -535,7 +575,8 @@
           "audio_uk": "audio/uk/zoo.mp3",
           "audio_us": "audio/us/zoo.mp3",
           "meaning": "vườn thú",
-          "example": "We are at the zoo."
+          "example": "We are at the zoo.",
+          "example_vi": "Chúng mình đang ở vườn thú."
         }
       ]
     },
@@ -557,7 +598,8 @@
           "audio_uk": "audio/uk/drive.mp3",
           "audio_us": "audio/us/drive.mp3",
           "meaning": "lái (xe)",
-          "example": "She is driving a car."
+          "example": "She is driving a car.",
+          "example_vi": "Cô ấy đang lái ô tô."
         },
         {
           "word": "ride",
@@ -567,7 +609,8 @@
           "audio_uk": "audio/uk/ride.mp3",
           "audio_us": "audio/us/ride.mp3",
           "meaning": "đi (xe đạp), cưỡi",
-          "example": "He is riding a bike."
+          "example": "He is riding a bike.",
+          "example_vi": "Cậu ấy đang đạp xe đạp."
         },
         {
           "word": "slide",
@@ -577,7 +620,8 @@
           "audio_uk": "audio/uk/slide.mp3",
           "audio_us": "audio/us/slide.mp3",
           "meaning": "trượt (cầu trượt)",
-          "example": "They are sliding."
+          "example": "They are sliding.",
+          "example_vi": "Các bạn ấy đang chơi cầu trượt."
         },
         {
           "word": "playground",
@@ -587,7 +631,8 @@
           "audio_uk": "audio/uk/playground.mp3",
           "audio_us": "audio/us/playground.mp3",
           "meaning": "sân chơi",
-          "example": "We are in the playground."
+          "example": "We are in the playground.",
+          "example_vi": "Chúng mình đang ở sân chơi."
         }
       ]
     },
@@ -609,7 +654,8 @@
           "audio_uk": "audio/uk/cake.mp3",
           "audio_us": "audio/us/cake.mp3",
           "meaning": "bánh ngọt",
-          "example": "I like cake."
+          "example": "I like cake.",
+          "example_vi": "Mình thích bánh ngọt."
         },
         {
           "word": "grapes",
@@ -619,7 +665,8 @@
           "audio_uk": "audio/uk/grapes.mp3",
           "audio_us": "audio/us/grapes.mp3",
           "meaning": "quả nho",
-          "example": "I like grapes."
+          "example": "I like grapes.",
+          "example_vi": "Mình thích nho."
         },
         {
           "word": "table",
@@ -629,7 +676,8 @@
           "audio_uk": "audio/uk/table.mp3",
           "audio_us": "audio/us/table.mp3",
           "meaning": "cái bàn",
-          "example": "This is a table."
+          "example": "This is a table.",
+          "example_vi": "Đây là cái bàn."
         },
         {
           "word": "café",
@@ -639,7 +687,8 @@
           "audio_uk": "audio/uk/cafe.mp3",
           "audio_us": "audio/us/cafe.mp3",
           "meaning": "quán cà phê",
-          "example": "We are at the café."
+          "example": "We are at the café.",
+          "example_vi": "Chúng mình đang ở quán cà phê."
         }
       ]
     },
@@ -661,7 +710,8 @@
           "audio_uk": "audio/uk/eleven.mp3",
           "audio_us": "audio/us/eleven.mp3",
           "meaning": "số mười một",
-          "example": "I can count to eleven."
+          "example": "I can count to eleven.",
+          "example_vi": "Mình có thể đếm đến mười một."
         },
         {
           "word": "thirteen",
@@ -671,7 +721,8 @@
           "audio_uk": "audio/uk/thirteen.mp3",
           "audio_us": "audio/us/thirteen.mp3",
           "meaning": "số mười ba",
-          "example": "Thirteen."
+          "example": "Thirteen.",
+          "example_vi": "Mười ba."
         },
         {
           "word": "fourteen",
@@ -681,7 +732,8 @@
           "audio_uk": "audio/uk/fourteen.mp3",
           "audio_us": "audio/us/fourteen.mp3",
           "meaning": "số mười bốn",
-          "example": "Fourteen."
+          "example": "Fourteen.",
+          "example_vi": "Mười bốn."
         },
         {
           "word": "fifteen",
@@ -691,7 +743,8 @@
           "audio_uk": "audio/uk/fifteen.mp3",
           "audio_us": "audio/us/fifteen.mp3",
           "meaning": "số mười lăm",
-          "example": "Fifteen."
+          "example": "Fifteen.",
+          "example_vi": "Mười lăm."
         },
         {
           "word": "maths",
@@ -701,7 +754,8 @@
           "audio_uk": "audio/uk/maths.mp3",
           "audio_us": "audio/us/maths.mp3",
           "meaning": "môn toán",
-          "example": "We are in the maths class."
+          "example": "We are in the maths class.",
+          "example_vi": "Chúng mình đang trong giờ học toán."
         }
       ]
     },
@@ -723,7 +777,8 @@
           "audio_uk": "audio/uk/brother.mp3",
           "audio_us": "audio/us/brother.mp3",
           "meaning": "anh trai; em trai",
-          "example": "This is my brother."
+          "example": "This is my brother.",
+          "example_vi": "Đây là anh trai của mình."
         },
         {
           "word": "sister",
@@ -733,7 +788,8 @@
           "audio_uk": "audio/uk/sister.mp3",
           "audio_us": "audio/us/sister.mp3",
           "meaning": "chị gái; em gái",
-          "example": "This is my sister."
+          "example": "This is my sister.",
+          "example_vi": "Đây là chị gái của mình."
         },
         {
           "word": "grandmother",
@@ -743,7 +799,8 @@
           "audio_uk": "audio/uk/grandmother.mp3",
           "audio_us": "audio/us/grandmother.mp3",
           "meaning": "bà",
-          "example": "This is my grandmother."
+          "example": "This is my grandmother.",
+          "example_vi": "Đây là bà của mình."
         },
         {
           "word": "home",
@@ -753,7 +810,8 @@
           "audio_uk": "audio/uk/home.mp3",
           "audio_us": "audio/us/home.mp3",
           "meaning": "nhà",
-          "example": "We are at home."
+          "example": "We are at home.",
+          "example_vi": "Chúng mình đang ở nhà."
         }
       ]
     },
@@ -776,7 +834,8 @@
           "audio_uk": "audio/uk/shirt.mp3",
           "audio_us": "audio/us/shirt.mp3",
           "meaning": "áo sơ mi",
-          "example": "This is a shirt."
+          "example": "This is a shirt.",
+          "example_vi": "Đây là cái áo sơ mi."
         },
         {
           "word": "shoes",
@@ -786,7 +845,8 @@
           "audio_uk": "audio/uk/shoes.mp3",
           "audio_us": "audio/us/shoes.mp3",
           "meaning": "đôi giày",
-          "example": "These are shoes."
+          "example": "These are shoes.",
+          "example_vi": "Đây là đôi giày."
         },
         {
           "word": "shorts",
@@ -796,7 +856,8 @@
           "audio_uk": "audio/uk/shorts.mp3",
           "audio_us": "audio/us/shorts.mp3",
           "meaning": "quần soóc, quần đùi",
-          "example": "These are shorts."
+          "example": "These are shorts.",
+          "example_vi": "Đây là cái quần soóc."
         },
         {
           "word": "clothes shop",
@@ -806,7 +867,8 @@
           "audio_uk": "audio/uk/clothes-shop.mp3",
           "audio_us": "audio/us/clothes-shop.mp3",
           "meaning": "cửa hàng quần áo",
-          "example": "We are in the clothes shop."
+          "example": "We are in the clothes shop.",
+          "example_vi": "Chúng mình đang ở cửa hàng quần áo."
         }
       ]
     },
@@ -829,7 +891,8 @@
           "audio_uk": "audio/uk/tent.mp3",
           "audio_us": "audio/us/tent.mp3",
           "meaning": "cái lều",
-          "example": "This is a tent."
+          "example": "This is a tent.",
+          "example_vi": "Đây là cái lều."
         },
         {
           "word": "teapot",
@@ -839,7 +902,8 @@
           "audio_uk": "audio/uk/teapot.mp3",
           "audio_us": "audio/us/teapot.mp3",
           "meaning": "ấm pha trà",
-          "example": "This is a teapot."
+          "example": "This is a teapot.",
+          "example_vi": "Đây là ấm pha trà."
         },
         {
           "word": "blanket",
@@ -849,7 +913,8 @@
           "audio_uk": "audio/uk/blanket.mp3",
           "audio_us": "audio/us/blanket.mp3",
           "meaning": "cái chăn",
-          "example": "This is a blanket."
+          "example": "This is a blanket.",
+          "example_vi": "Đây là cái chăn."
         },
         {
           "word": "campsite",
@@ -859,7 +924,8 @@
           "audio_uk": "audio/uk/campsite.mp3",
           "audio_us": "audio/us/campsite.mp3",
           "meaning": "khu cắm trại",
-          "example": "We are at the campsite."
+          "example": "We are at the campsite.",
+          "example_vi": "Chúng mình đang ở khu cắm trại."
         }
       ]
     }

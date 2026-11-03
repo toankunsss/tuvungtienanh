@@ -1,302 +1,302 @@
-﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-11,1,A long and healthy life,sourced,antibiotic,n,/ˌæntibaɪˈɒtɪk/,/ˌæntibaɪˈɑːtɪk/,audio/uk/antibiotic.mp3,audio/us/antibiotic.mp3,thuốc kháng sinh,
-11,1,A long and healthy life,sourced,avoid,v,/əˈvɔɪd/,/əˈvɔɪd/,audio/uk/avoid.mp3,audio/us/avoid.mp3,"tránh, né tránh",
-11,1,A long and healthy life,sourced,bacteria,n,/bækˈtɪəriə/,/bækˈtɪriə/,audio/uk/bacteria.mp3,audio/us/bacteria.mp3,vi khuẩn,
-11,1,A long and healthy life,sourced,balanced,adj,/ˈbælənst/,/ˈbælənst/,audio/uk/balanced.mp3,audio/us/balanced.mp3,"cân bằng, cân đối",
-11,1,A long and healthy life,sourced,balanced diet,n,/ˌbælənst ˈdaɪət/,/ˌbælənst ˈdaɪət/,audio/uk/balanced-diet.mp3,audio/us/balanced-diet.mp3,chế độ ăn uống cân bằng,A balanced diet is the key to a long and healthy life.
-11,1,A long and healthy life,sourced,cut down on,phr v,/ˌkʌt ˈdaʊn ɒn/,/ˌkʌt ˈdaʊn ɑːn/,audio/uk/cut-down-on-phr-v.mp3,audio/us/cut-down-on-phr-v.mp3,cắt giảm,You should cut down on sugar.
-11,1,A long and healthy life,sourced,examine,v,/ɪɡˈzæmɪn/,/ɪɡˈzæmɪn/,audio/uk/examine.mp3,audio/us/examine.mp3,"khám (bệnh), kiểm tra",
-11,1,A long and healthy life,sourced,fit,adj,/fɪt/,/fɪt/,audio/uk/fit.mp3,audio/us/fit.mp3,"khỏe mạnh, cân đối",
-11,1,A long and healthy life,sourced,fitness,n,/ˈfɪtnəs/,/ˈfɪtnəs/,audio/uk/fitness.mp3,audio/us/fitness.mp3,"sự khỏe mạnh, thể lực",
-11,1,A long and healthy life,sourced,food poisoning,n,/ˈfuːd pɔɪzənɪŋ/,/ˈfuːd ˌpɔɪzənɪŋ/,audio/uk/food-poisoning.mp3,audio/us/food-poisoning.mp3,ngộ độc thực phẩm,
-11,1,A long and healthy life,sourced,germ,n,/dʒɜːm/,/dʒɝːm/,audio/uk/germ.mp3,audio/us/germ.mp3,vi trùng,
-11,1,A long and healthy life,sourced,give up,phr v,/ˌɡɪv ˈʌp/,/ˌɡɪv ˈʌp/,audio/uk/give-up.mp3,audio/us/give-up.mp3,từ bỏ,
-11,1,A long and healthy life,sourced,infection,n,/ɪnˈfekʃn/,/ˌɪnˈfekʃən/,audio/uk/infection.mp3,audio/us/infection.mp3,"sự nhiễm trùng, bệnh lây nhiễm",
-11,1,A long and healthy life,sourced,ingredient,n,/ɪnˈɡriːdiənt/,/ˌɪnˈɡriːdiənt/,audio/uk/ingredient.mp3,audio/us/ingredient.mp3,"thành phần, nguyên liệu",
-11,1,A long and healthy life,sourced,junk food,n,/ˈdʒʌŋk fuːd/,/ˈdʒʌŋk fuːd/,audio/uk/junk-food.mp3,audio/us/junk-food.mp3,đồ ăn vặt không có lợi cho sức khỏe,
-11,1,A long and healthy life,sourced,keep fit,phr,/ˌkiːp ˈfɪt/,/ˌkiːp ˈfɪt/,audio/uk/keep-fit.mp3,audio/us/keep-fit.mp3,"giữ dáng, giữ sức khỏe",
-11,1,A long and healthy life,sourced,life expectancy,n,/ˈlaɪf ɪkspektənsi/,/ˈlaɪf ɪkˌspektənsi/,audio/uk/life-expectancy.mp3,audio/us/life-expectancy.mp3,tuổi thọ,Life expectancy has increased in many countries.
-11,1,A long and healthy life,sourced,muscle,n,/ˈmʌsl/,/ˈmʌsəl/,audio/uk/muscle.mp3,audio/us/muscle.mp3,"cơ, cơ bắp",
-11,1,A long and healthy life,sourced,nutrient,n,/ˈnjuːtriənt/,/ˈnuːtriənt/,audio/uk/nutrient.mp3,audio/us/nutrient.mp3,chất dinh dưỡng,
-11,1,A long and healthy life,sourced,organism,n,/ˈɔːɡənɪzəm/,/ˈɔːrɡənɪzəm/,audio/uk/organism.mp3,audio/us/organism.mp3,"sinh vật, cơ thể sống",
-11,1,A long and healthy life,sourced,press-up,n,/ˈpres ʌp/,/ˈpres ʌp/,audio/uk/press-up.mp3,audio/us/press-up.mp3,động tác chống đẩy,
-11,1,A long and healthy life,sourced,recipe,n,/ˈresəpi/,/ˈresəpi/,audio/uk/recipe.mp3,audio/us/recipe.mp3,công thức nấu ăn,
-11,1,A long and healthy life,sourced,regular,adj,/ˈreɡjələ(r)/,/ˈreɡjəlɚ/,audio/uk/regular.mp3,audio/us/regular.mp3,"đều đặn, thường xuyên",
-11,1,A long and healthy life,sourced,strength,n,/streŋθ/,/streŋθ/,audio/uk/strength.mp3,audio/us/strength.mp3,"sức mạnh, sức khỏe",
-11,1,A long and healthy life,sourced,suffer from,phr v,/ˈsʌfə frɒm/,/ˈsʌfɚ frʌm/,audio/uk/suffer-from.mp3,audio/us/suffer-from.mp3,"mắc (bệnh), chịu đựng",
-11,1,A long and healthy life,sourced,treatment,n,/ˈtriːtmənt/,/ˈtriːtmənt/,audio/uk/treatment.mp3,audio/us/treatment.mp3,sự điều trị,
-11,1,A long and healthy life,sourced,virus,n,/ˈvaɪrəs/,/ˈvaɪrəs/,audio/uk/virus.mp3,audio/us/virus.mp3,vi-rút,
-11,1,A long and healthy life,sourced,work out,phr v,/ˌwɜːk ˈaʊt/,/ˌwɝːk ˈaʊt/,audio/uk/work-out-phr-v.mp3,audio/us/work-out-phr-v.mp3,tập thể dục,I work out at the gym three times a week.
-11,2,The generation gap,sourced,adapt,v,/əˈdæpt/,/əˈdæpt/,audio/uk/adapt.mp3,audio/us/adapt.mp3,thích nghi,
-11,2,The generation gap,sourced,argument,n,/ˈɑːɡjumənt/,/ˈɑːrɡjəmənt/,audio/uk/argument.mp3,audio/us/argument.mp3,cuộc tranh cãi,
-11,2,The generation gap,sourced,attitude,n,/ˈætɪtjuːd/,/ˈætətuːd/,audio/uk/attitude.mp3,audio/us/attitude.mp3,thái độ,
-11,2,The generation gap,sourced,behaviour,n,/bɪˈheɪvjə(r)/,/bɪˈheɪvjɚ/,audio/uk/behaviour.mp3,audio/us/behaviour.mp3,"hành vi, cách cư xử",
-11,2,The generation gap,sourced,belief,n,/bɪˈliːf/,/bɪˈliːf/,audio/uk/belief.mp3,audio/us/belief.mp3,"niềm tin, tín ngưỡng",
-11,2,The generation gap,sourced,bridge the gap,idiom,/ˌbrɪdʒ ðə ˈɡæp/,/ˌbrɪdʒ ðə ˈɡæp/,audio/uk/bridge-the-gap.mp3,audio/us/bridge-the-gap.mp3,thu hẹp khoảng cách,
-11,2,The generation gap,sourced,burden,n,/ˈbɜːdn/,/ˈbɝːdən/,audio/uk/burden.mp3,audio/us/burden.mp3,gánh nặng,
-11,2,The generation gap,sourced,characteristic,n,/ˌkærəktəˈrɪstɪk/,/ˌkerəktəˈrɪstɪk/,audio/uk/characteristic.mp3,audio/us/characteristic.mp3,"đặc điểm, đặc trưng",
-11,2,The generation gap,sourced,conflict,n,/ˈkɒnflɪkt/,/ˈkɑːnflɪkt/,audio/uk/conflict.mp3,audio/us/conflict.mp3,"sự xung đột, mâu thuẫn",
-11,2,The generation gap,sourced,conservative,adj,/kənˈsɜːvətɪv/,/kənˈsɝːvətɪv/,audio/uk/conservative.mp3,audio/us/conservative.mp3,bảo thủ,
-11,2,The generation gap,sourced,curfew,n,/ˈkɜːfjuː/,/ˈkɝːfjuː/,audio/uk/curfew.mp3,audio/us/curfew.mp3,giờ giới nghiêm (giờ phải về nhà),
-11,2,The generation gap,sourced,curious,adj,/ˈkjʊəriəs/,/ˈkjʊriəs/,audio/uk/curious.mp3,audio/us/curious.mp3,"tò mò, ham hiểu biết",
-11,2,The generation gap,sourced,deal with,phr v,/ˈdiːl wɪð/,/ˈdiːl wɪð/,audio/uk/deal-with.mp3,audio/us/deal-with.mp3,"giải quyết, đối phó với",
-11,2,The generation gap,sourced,digital native,n,/ˌdɪdʒɪtl ˈneɪtɪv/,/ˌdɪdʒɪtəl ˈneɪtɪv/,audio/uk/digital-native.mp3,audio/us/digital-native.mp3,người sinh ra trong thời đại kỹ thuật số,
-11,2,The generation gap,sourced,extended family,n,/ɪkˌstendɪd ˈfæməli/,/ɪkˌstendɪd ˈfæməli/,audio/uk/extended-family.mp3,audio/us/extended-family.mp3,đại gia đình (nhiều thế hệ),
-11,2,The generation gap,sourced,financial,adj,/faɪˈnænʃl/,/faɪˈnænʃəl/,audio/uk/financial.mp3,audio/us/financial.mp3,thuộc về tài chính,
-11,2,The generation gap,sourced,follow in someone's footsteps,idiom,/ˌfɒləʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/,/ˌfɑːloʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/,audio/uk/follow-in-someone-s-footsteps.mp3,audio/us/follow-in-someone-s-footsteps.mp3,"nối nghiệp, theo bước ai đó",
-11,2,The generation gap,sourced,generation gap,n,/ˌdʒenəˈreɪʃn ɡæp/,/ˌdʒenəˈreɪʃən ɡæp/,audio/uk/generation-gap.mp3,audio/us/generation-gap.mp3,khoảng cách thế hệ,The generation gap can cause conflicts in families.
-11,2,The generation gap,sourced,generational,adj,/ˌdʒenəˈreɪʃənl/,/ˌdʒenəˈreɪʃənəl/,audio/uk/generational.mp3,audio/us/generational.mp3,thuộc về thế hệ,
-11,2,The generation gap,sourced,multi-generational,adj,/ˌmʌltiˌdʒenəˈreɪʃənl/,/ˈmʌlti ˌdʒenəˈreɪʃənəl/,audio/uk/multi-generational.mp3,audio/us/multi-generational.mp3,nhiều thế hệ,
-11,2,The generation gap,sourced,nuclear family,n,/ˌnjuːkliə ˈfæməli/,/ˌnuːkliɚ ˈfæməli/,audio/uk/nuclear-family.mp3,audio/us/nuclear-family.mp3,gia đình hạt nhân (chỉ có bố mẹ và con cái),
-11,2,The generation gap,sourced,respect,v,/rɪˈspekt/,/rɪˈspekt/,audio/uk/respect.mp3,audio/us/respect.mp3,"tôn trọng, kính trọng",
-11,2,The generation gap,sourced,traditional,adj,/trəˈdɪʃənl/,/trəˈdɪʃənəl/,audio/uk/traditional.mp3,audio/us/traditional.mp3,truyền thống,
-11,2,The generation gap,sourced,value,n,/ˈvæljuː/,/ˈvæljuː/,audio/uk/value.mp3,audio/us/value.mp3,giá trị,
-11,2,The generation gap,sourced,viewpoint,n,/ˈvjuːpɔɪnt/,/ˈvjuːpɔɪnt/,audio/uk/viewpoint.mp3,audio/us/viewpoint.mp3,quan điểm,
-11,3,Cities of the future,sourced,city dweller,n,/ˈsɪti ˌdwelə(r)/,/ˈsɪti ˌdwelɚ/,audio/uk/city-dweller.mp3,audio/us/city-dweller.mp3,cư dân thành phố,
-11,3,Cities of the future,sourced,cycle path,n,/ˈsaɪkl pɑːθ/,/ˈsaɪkəl pæθ/,audio/uk/cycle-path.mp3,audio/us/cycle-path.mp3,đường dành cho xe đạp,
-11,3,Cities of the future,sourced,detect,v,/dɪˈtekt/,/dɪˈtekt/,audio/uk/detect.mp3,audio/us/detect.mp3,phát hiện,
-11,3,Cities of the future,sourced,driverless,adj,/ˈdraɪvələs/,/ˈdraɪvɚlɪs/,audio/uk/driverless.mp3,audio/us/driverless.mp3,không người lái,
-11,3,Cities of the future,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,
-11,3,Cities of the future,sourced,electric bus,n,/ɪˌlektrɪk ˈbʌs/,/ɪˌlektrɪk ˈbʌs/,audio/uk/electric-bus.mp3,audio/us/electric-bus.mp3,xe buýt điện,
-11,3,Cities of the future,sourced,get around,phr v,/ˌɡet əˈraʊnd/,/ˌɡet əˈraʊnd/,audio/uk/get-around-phr-v.mp3,audio/us/get-around-phr-v.mp3,"đi lại, di chuyển",
-11,3,Cities of the future,sourced,greenhouse gas,n,/ˌɡriːnhaʊs ˈɡæs/,/ˌɡriːnhaʊs ˈɡæs/,audio/uk/greenhouse-gas.mp3,audio/us/greenhouse-gas.mp3,khí nhà kính,
-11,3,Cities of the future,sourced,high-rise,adj,/ˈhaɪ raɪz/,/ˈhaɪ raɪz/,audio/uk/high-rise.mp3,audio/us/high-rise.mp3,cao tầng,
-11,3,Cities of the future,sourced,infrastructure,n,/ˈɪnfrəstrʌktʃə(r)/,/ˌɪnfrəˈstrʌktʃɚ/,audio/uk/infrastructure.mp3,audio/us/infrastructure.mp3,cơ sở hạ tầng,
-11,3,Cities of the future,sourced,inhabitant,n,/ɪnˈhæbɪtənt/,/ɪnˈhæbɪtənt/,audio/uk/inhabitant.mp3,audio/us/inhabitant.mp3,cư dân,
-11,3,Cities of the future,sourced,interact,v,/ˌɪntərˈækt/,/ˌɪntəˈrækt/,audio/uk/interact.mp3,audio/us/interact.mp3,tương tác,
-11,3,Cities of the future,sourced,liveable,adj,/ˈlɪvəbl/,/ˈlɪvəbl/,audio/uk/liveable.mp3,audio/us/liveable.mp3,đáng sống,
-11,3,Cities of the future,sourced,operate,v,/ˈɒpəreɪt/,/ˈɑːpəreɪt/,audio/uk/operate.mp3,audio/us/operate.mp3,"vận hành, hoạt động",
-11,3,Cities of the future,sourced,pollution,n,/pəˈluːʃn/,/pəˈluːʃən/,audio/uk/pollution.mp3,audio/us/pollution.mp3,sự ô nhiễm,
-11,3,Cities of the future,sourced,public transport,n,/ˌpʌblɪk ˈtrænspɔːt/,/ˌpʌblɪk ˈtrænspɔːrt/,audio/uk/public-transport.mp3,audio/us/public-transport.mp3,phương tiện giao thông công cộng,
-11,3,Cities of the future,sourced,quality of life,n,/ˌkwɒləti əv ˈlaɪf/,/ˌkwɑːləti əv ˈlaɪf/,audio/uk/quality-of-life.mp3,audio/us/quality-of-life.mp3,chất lượng cuộc sống,
-11,3,Cities of the future,sourced,renewable,adj,/rɪˈnjuːəbl/,/riˈnuːəbəl/,audio/uk/renewable.mp3,audio/us/renewable.mp3,có thể tái tạo,
-11,3,Cities of the future,sourced,roof garden,n,/ˈruːf ɡɑːdn/,/ˈruːf ˌɡɑːrdən/,audio/uk/roof-garden.mp3,audio/us/roof-garden.mp3,vườn trên sân thượng,
-11,3,Cities of the future,sourced,sensor,n,/ˈsensə(r)/,/ˈsensɚ/,audio/uk/sensor.mp3,audio/us/sensor.mp3,cảm biến,Smart sensors will control the traffic lights.
-11,3,Cities of the future,sourced,skyscraper,n,/ˈskaɪskreɪpə(r)/,/ˈskaɪskreɪpɚ/,audio/uk/skyscraper-n.mp3,audio/us/skyscraper-n.mp3,nhà chọc trời,
-11,3,Cities of the future,sourced,sustainable,adj,/səˈsteɪnəbl/,/səˈsteɪnəbəl/,audio/uk/sustainable.mp3,audio/us/sustainable.mp3,bền vững,
-11,3,Cities of the future,sourced,traffic jam,n,/ˈtræfɪk dʒæm/,/ˈtræfɪk dʒæm/,audio/uk/traffic-jam.mp3,audio/us/traffic-jam.mp3,tắc đường,
-11,3,Cities of the future,sourced,tram,n,/træm/,/træm/,audio/uk/tram.mp3,audio/us/tram.mp3,"xe điện, tàu điện",
-11,3,Cities of the future,sourced,urban,adj,/ˈɜːbən/,/ˈɝːbən/,audio/uk/urban.mp3,audio/us/urban.mp3,thuộc đô thị,
-11,3,Cities of the future,sourced,vehicle,n,/ˈviːəkl/,/ˈviːɪkəl/,audio/uk/vehicle.mp3,audio/us/vehicle.mp3,"phương tiện giao thông, xe cộ",
-11,4,ASEAN and Viet Nam,sourced,apply for,phr v,/əˈplaɪ fə(r)/,/əˈplaɪ fɚ/,audio/uk/apply-for.mp3,audio/us/apply-for.mp3,"nộp đơn xin, ứng tuyển",
-11,4,ASEAN and Viet Nam,sourced,association,n,/əˌsəʊsiˈeɪʃn/,/əˌsoʊsiˈeɪʃən/,audio/uk/association.mp3,audio/us/association.mp3,hiệp hội,
-11,4,ASEAN and Viet Nam,sourced,beneficial,adj,/ˌbenɪˈfɪʃl/,/ˌbenəˈfɪʃəl/,audio/uk/beneficial.mp3,audio/us/beneficial.mp3,"có lợi, có ích",
-11,4,ASEAN and Viet Nam,sourced,bloc,n,/blɒk/,/blɑːk/,audio/uk/bloc.mp3,audio/us/bloc.mp3,khối (liên minh các nước),
-11,4,ASEAN and Viet Nam,sourced,charter,n,/ˈtʃɑːtə(r)/,/ˈtʃɑːrtɚ/,audio/uk/charter.mp3,audio/us/charter.mp3,hiến chương,
-11,4,ASEAN and Viet Nam,sourced,community,n,/kəˈmjuːnəti/,/kəˈmjuːnəti/,audio/uk/community.mp3,audio/us/community.mp3,cộng đồng,
-11,4,ASEAN and Viet Nam,sourced,constitution,n,/ˌkɒnstɪˈtjuːʃn/,/ˌkɑːnstəˈtuːʃən/,audio/uk/constitution.mp3,audio/us/constitution.mp3,hiến pháp,
-11,4,ASEAN and Viet Nam,sourced,contribution,n,/ˌkɒntrɪˈbjuːʃn/,/ˌkɑːntrəˈbjuːʃən/,audio/uk/contribution.mp3,audio/us/contribution.mp3,sự đóng góp,
-11,4,ASEAN and Viet Nam,sourced,cooperation,n,/kəʊˌɒpəˈreɪʃn/,/koʊˌɑːpəˈreɪʃən/,audio/uk/cooperation.mp3,audio/us/cooperation.mp3,sự hợp tác,
-11,4,ASEAN and Viet Nam,sourced,cultural exchange,n,/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/,/ˌkʌltʃɚəl ɪksˈtʃeɪndʒ/,audio/uk/cultural-exchange.mp3,audio/us/cultural-exchange.mp3,giao lưu văn hóa,
-11,4,ASEAN and Viet Nam,sourced,dispute,n,/dɪˈspjuːt/,/dɪˈspjuːt/,audio/uk/dispute.mp3,audio/us/dispute.mp3,tranh chấp,
-11,4,ASEAN and Viet Nam,sourced,diversity,n,/daɪˈvɜːsəti/,/daɪˈvɝːsɪti/,audio/uk/diversity.mp3,audio/us/diversity.mp3,sự đa dạng,
-11,4,ASEAN and Viet Nam,sourced,economic,adj,/ˌiːkəˈnɒmɪk/,/ˌiːkəˈnɑːmɪk/,audio/uk/economic.mp3,audio/us/economic.mp3,thuộc về kinh tế,
-11,4,ASEAN and Viet Nam,sourced,economy,n,/ɪˈkɒnəmi/,/ɪˈkɑːnəmi/,audio/uk/economy.mp3,audio/us/economy.mp3,nền kinh tế,
-11,4,ASEAN and Viet Nam,sourced,eye-opening,adj,/ˈaɪ əʊpənɪŋ/,/ˈaɪ ˌoʊpənɪŋ/,audio/uk/eye-opening.mp3,audio/us/eye-opening.mp3,mở mang tầm mắt,
-11,4,ASEAN and Viet Nam,sourced,host,v,/həʊst/,/hoʊst/,audio/uk/host.mp3,audio/us/host.mp3,"đăng cai, tổ chức",
-11,4,ASEAN and Viet Nam,sourced,maintain,v,/meɪnˈteɪn/,/meɪnˈteɪn/,audio/uk/maintain.mp3,audio/us/maintain.mp3,duy trì,
-11,4,ASEAN and Viet Nam,sourced,member state,n,/ˌmembə ˈsteɪt/,/ˌmembɚ ˈsteɪt/,audio/uk/member-state.mp3,audio/us/member-state.mp3,quốc gia thành viên,Viet Nam became a member state of ASEAN in 1995.
-11,4,ASEAN and Viet Nam,sourced,motto,n,/ˈmɒtəʊ/,/ˈmɑːtoʊ/,audio/uk/motto.mp3,audio/us/motto.mp3,"phương châm, khẩu hiệu",
-11,4,ASEAN and Viet Nam,sourced,principle,n,/ˈprɪnsəpl/,/ˈprɪnsəpəl/,audio/uk/principle.mp3,audio/us/principle.mp3,nguyên tắc,
-11,4,ASEAN and Viet Nam,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"thúc đẩy, quảng bá",
-11,4,ASEAN and Viet Nam,sourced,region,n,/ˈriːdʒən/,/ˈriːdʒən/,audio/uk/region.mp3,audio/us/region.mp3,"khu vực, vùng",
-11,4,ASEAN and Viet Nam,sourced,regional,adj,/ˈriːdʒənl/,/ˈriːdʒənəl/,audio/uk/regional.mp3,audio/us/regional.mp3,thuộc khu vực,
-11,4,ASEAN and Viet Nam,sourced,scholarship,n,/ˈskɒləʃɪp/,/ˈskɑːlɚʃɪp/,audio/uk/scholarship.mp3,audio/us/scholarship.mp3,học bổng,
-11,4,ASEAN and Viet Nam,sourced,solidarity,n,/ˌsɒlɪˈdærəti/,/ˌsɑːləˈderəti/,audio/uk/solidarity.mp3,audio/us/solidarity.mp3,sự đoàn kết,
-11,4,ASEAN and Viet Nam,sourced,stability,n,/stəˈbɪləti/,/stəˈbɪlɪti/,audio/uk/stability.mp3,audio/us/stability.mp3,sự ổn định,
-11,4,ASEAN and Viet Nam,sourced,summit,n,/ˈsʌmɪt/,/ˈsʌmɪt/,audio/uk/summit.mp3,audio/us/summit.mp3,hội nghị thượng đỉnh,
-11,4,ASEAN and Viet Nam,sourced,take part in,phr v,/ˌteɪk ˈpɑːt ɪn/,/ˌteɪk ˈpɑːrt ɪn/,audio/uk/take-part-in-phr-v.mp3,audio/us/take-part-in-phr-v.mp3,tham gia,
-11,4,ASEAN and Viet Nam,sourced,vision,n,/ˈvɪʒn/,/ˈvɪʒən/,audio/uk/vision.mp3,audio/us/vision.mp3,tầm nhìn,
-11,4,ASEAN and Viet Nam,sourced,workshop,n,/ˈwɜːkʃɒp/,/ˈwɝːkʃɑːp/,audio/uk/workshop.mp3,audio/us/workshop.mp3,"hội thảo, buổi tập huấn",
-11,5,Global warming,sourced,absorb,v,/əbˈzɔːb/,/əbˈzɔːrb/,audio/uk/absorb.mp3,audio/us/absorb.mp3,hấp thụ,
-11,5,Global warming,sourced,atmosphere,n,/ˈætməsfɪə(r)/,/ˈætməsfɪr/,audio/uk/atmosphere.mp3,audio/us/atmosphere.mp3,khí quyển,
-11,5,Global warming,sourced,carbon dioxide,n,/ˌkɑːbən daɪˈɒksaɪd/,/ˌkɑːrbən daɪˈɑːksaɪd/,audio/uk/carbon-dioxide.mp3,audio/us/carbon-dioxide.mp3,khí các-bon đi-ô-xít (CO2),
-11,5,Global warming,sourced,climate change,n,/ˈklaɪmət tʃeɪndʒ/,/ˈklaɪmət tʃeɪndʒ/,audio/uk/climate-change.mp3,audio/us/climate-change.mp3,biến đổi khí hậu,
-11,5,Global warming,sourced,coal,n,/kəʊl/,/koʊl/,audio/uk/coal.mp3,audio/us/coal.mp3,than đá,
-11,5,Global warming,sourced,consequence,n,/ˈkɒnsɪkwəns/,/ˈkɑːnsəkwəns/,audio/uk/consequence.mp3,audio/us/consequence.mp3,hậu quả,
-11,5,Global warming,sourced,cut down,phr v,/ˌkʌt ˈdaʊn/,/ˌkʌt ˈdaʊn/,audio/uk/cut-down-phr-v.mp3,audio/us/cut-down-phr-v.mp3,chặt (cây),
-11,5,Global warming,sourced,deforestation,n,/ˌdiːˌfɒrɪˈsteɪʃn/,/dɪˌfɔːrɪˈsteɪʃən/,audio/uk/deforestation.mp3,audio/us/deforestation.mp3,sự phá rừng,
-11,5,Global warming,sourced,emission,n,/iˈmɪʃn/,/ɪˈmɪʃən/,audio/uk/emission.mp3,audio/us/emission.mp3,"sự phát thải, khí thải",
-11,5,Global warming,sourced,farmland,n,/ˈfɑːmlænd/,/ˈfɑːrmlænd/,audio/uk/farmland.mp3,audio/us/farmland.mp3,đất nông nghiệp,
-11,5,Global warming,sourced,fossil fuel,n,/ˌfɒsl ˈfjuːəl/,/ˌfɑːsəl ˈfjuːəl/,audio/uk/fossil-fuel-n.mp3,audio/us/fossil-fuel-n.mp3,nhiên liệu hóa thạch,
-11,5,Global warming,sourced,global warming,n,/ˌɡləʊbl ˈwɔːmɪŋ/,/ˌɡloʊbəl ˈwɔːrmɪŋ/,audio/uk/global-warming.mp3,audio/us/global-warming.mp3,sự nóng lên toàn cầu,Global warming is caused mainly by human activities.
-11,5,Global warming,sourced,greenhouse gas,n,/ˌɡriːnhaʊs ˈɡæs/,/ˌɡriːnhaʊs ˈɡæs/,audio/uk/greenhouse-gas.mp3,audio/us/greenhouse-gas.mp3,khí nhà kính,
-11,5,Global warming,sourced,heat-trapping,adj,/ˈhiːt træpɪŋ/,/ˈhiːt ˌtræpɪŋ/,audio/uk/heat-trapping.mp3,audio/us/heat-trapping.mp3,giữ nhiệt,
-11,5,Global warming,sourced,human activity,n,/ˌhjuːmən ækˈtɪvəti/,/ˌhjuːmən ækˈtɪvəti/,audio/uk/human-activity.mp3,audio/us/human-activity.mp3,hoạt động của con người,
-11,5,Global warming,sourced,impact,n,/ˈɪmpækt/,/ˈɪmpækt/,audio/uk/impact.mp3,audio/us/impact.mp3,"tác động, ảnh hưởng",
-11,5,Global warming,sourced,leaflet,n,/ˈliːflət/,/ˈliːflət/,audio/uk/leaflet.mp3,audio/us/leaflet.mp3,tờ rơi,
-11,5,Global warming,sourced,melt,v,/melt/,/melt/,audio/uk/melt.mp3,audio/us/melt.mp3,tan chảy,
-11,5,Global warming,sourced,methane,n,/ˈmiːθeɪn/,/ˈmeθeɪn/,audio/uk/methane.mp3,audio/us/methane.mp3,khí mê-tan,
-11,5,Global warming,sourced,polar ice cap,n,/ˌpəʊlə ˈaɪs kæp/,/ˌpoʊlɚ ˈaɪs kæp/,audio/uk/polar-ice-cap.mp3,audio/us/polar-ice-cap.mp3,chỏm băng ở vùng cực,
-11,5,Global warming,sourced,pollutant,n,/pəˈluːtənt/,/pəˈluːtənt/,audio/uk/pollutant.mp3,audio/us/pollutant.mp3,chất gây ô nhiễm,
-11,5,Global warming,sourced,release,v,/rɪˈliːs/,/riˈliːs/,audio/uk/release.mp3,audio/us/release.mp3,"thải ra, giải phóng",
-11,5,Global warming,sourced,renewable,adj,/rɪˈnjuːəbl/,/riˈnuːəbəl/,audio/uk/renewable.mp3,audio/us/renewable.mp3,có thể tái tạo,
-11,5,Global warming,sourced,sea level,n,/ˈsiː levl/,/ˈsiː ˌlevəl/,audio/uk/sea-level.mp3,audio/us/sea-level.mp3,mực nước biển,
-11,5,Global warming,sourced,solution,n,/səˈluːʃn/,/səˈluːʃən/,audio/uk/solution.mp3,audio/us/solution.mp3,giải pháp,
-11,5,Global warming,sourced,soot,n,/sʊt/,/sʊt/,audio/uk/soot.mp3,audio/us/soot.mp3,"bồ hóng, muội than",
-11,5,Global warming,sourced,temperature,n,/ˈtemprətʃə(r)/,/ˈtemprətʃɚ/,audio/uk/temperature.mp3,audio/us/temperature.mp3,nhiệt độ,
-11,6,Preserving our heritage,sourced,ancient,adj,/ˈeɪnʃənt/,/ˈeɪnʃənt/,audio/uk/ancient.mp3,audio/us/ancient.mp3,"cổ, cổ xưa",
-11,6,Preserving our heritage,sourced,appreciate,v,/əˈpriːʃieɪt/,/əˈpriːʃieɪt/,audio/uk/appreciate.mp3,audio/us/appreciate.mp3,"trân trọng, đánh giá cao",
-11,6,Preserving our heritage,sourced,archaeological,adj,/ˌɑːkiəˈlɒdʒɪkl/,/ˌɑːrkiəˈlɑːdʒɪkəl/,audio/uk/archaeological.mp3,audio/us/archaeological.mp3,thuộc về khảo cổ học,
-11,6,Preserving our heritage,sourced,cave,n,/keɪv/,/keɪv/,audio/uk/cave.mp3,audio/us/cave.mp3,hang động,
-11,6,Preserving our heritage,sourced,citadel,n,/ˈsɪtədəl/,/ˈsɪtədel/,audio/uk/citadel.mp3,audio/us/citadel.mp3,"thành lũy, kinh thành",
-11,6,Preserving our heritage,sourced,complex,n,/ˈkɒmpleks/,/ˈkɑːmpleks/,audio/uk/complex.mp3,audio/us/complex.mp3,"quần thể, khu liên hợp",
-11,6,Preserving our heritage,sourced,crowdfunding,n,/ˈkraʊdfʌndɪŋ/,/ˈkraʊdfʌndɪŋ/,audio/uk/crowdfunding.mp3,audio/us/crowdfunding.mp3,gây quỹ cộng đồng,
-11,6,Preserving our heritage,sourced,die out,phr v,/ˌdaɪ ˈaʊt/,/ˌdaɪ ˈaʊt/,audio/uk/die-out.mp3,audio/us/die-out.mp3,"biến mất, mai một",
-11,6,Preserving our heritage,sourced,festive,adj,/ˈfestɪv/,/ˈfestɪv/,audio/uk/festive.mp3,audio/us/festive.mp3,thuộc về lễ hội,
-11,6,Preserving our heritage,sourced,fine,n,/faɪn/,/faɪn/,audio/uk/fine.mp3,audio/us/fine.mp3,tiền phạt,
-11,6,Preserving our heritage,sourced,folk,adj,/fəʊk/,/foʊk/,audio/uk/folk.mp3,audio/us/folk.mp3,dân gian,
-11,6,Preserving our heritage,sourced,heritage,n,/ˈherɪtɪdʒ/,/ˈherɪtɪdʒ/,audio/uk/heritage.mp3,audio/us/heritage.mp3,di sản,
-11,6,Preserving our heritage,sourced,heritage site,n,/ˈherɪtɪdʒ saɪt/,/ˈherɪtɪdʒ saɪt/,audio/uk/heritage-site.mp3,audio/us/heritage-site.mp3,khu di sản,Hoi An Ancient Town is a famous heritage site.
-11,6,Preserving our heritage,sourced,historic,adj,/hɪˈstɒrɪk/,/hɪˈstɔːrɪk/,audio/uk/historic.mp3,audio/us/historic.mp3,"có tính lịch sử, quan trọng về mặt lịch sử",
-11,6,Preserving our heritage,sourced,historical,adj,/hɪˈstɒrɪkl/,/hɪˈstɔːrɪkəl/,audio/uk/historical.mp3,audio/us/historical.mp3,thuộc về lịch sử,
-11,6,Preserving our heritage,sourced,imperial,adj,/ɪmˈpɪəriəl/,/ˌɪmˈpɪriəl/,audio/uk/imperial.mp3,audio/us/imperial.mp3,thuộc về hoàng triều,
-11,6,Preserving our heritage,sourced,landscape,n,/ˈlændskeɪp/,/ˈlændskeɪp/,audio/uk/landscape.mp3,audio/us/landscape.mp3,phong cảnh,
-11,6,Preserving our heritage,sourced,limestone,n,/ˈlaɪmstəʊn/,/ˈlaɪmstoʊn/,audio/uk/limestone.mp3,audio/us/limestone.mp3,đá vôi,
-11,6,Preserving our heritage,sourced,monument,n,/ˈmɒnjumənt/,/ˈmɑːnjuːmənt/,audio/uk/monument.mp3,audio/us/monument.mp3,"đài tưởng niệm, công trình kỷ niệm",
-11,6,Preserving our heritage,sourced,performing arts,n,/pəˌfɔːmɪŋ ˈɑːts/,/pɚˌfɔːrmɪŋ ˈɑːrts/,audio/uk/performing-arts.mp3,audio/us/performing-arts.mp3,nghệ thuật biểu diễn,
-11,6,Preserving our heritage,sourced,preservation,n,/ˌprezəˈveɪʃn/,/ˌprezɚˈveɪʃən/,audio/uk/preservation.mp3,audio/us/preservation.mp3,sự bảo tồn,
-11,6,Preserving our heritage,sourced,preserve,v,/prɪˈzɜːv/,/prɪˈzɝːv/,audio/uk/preserve.mp3,audio/us/preserve.mp3,"bảo tồn, gìn giữ",
-11,6,Preserving our heritage,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,quảng bá,
-11,6,Preserving our heritage,sourced,relic,n,/ˈrelɪk/,/ˈrelɪk/,audio/uk/relic.mp3,audio/us/relic.mp3,"di tích, di vật",
-11,6,Preserving our heritage,sourced,restore,v,/rɪˈstɔː(r)/,/rɪˈstɔːr/,audio/uk/restore.mp3,audio/us/restore.mp3,"khôi phục, trùng tu",
-11,6,Preserving our heritage,sourced,state,n,/steɪt/,/steɪt/,audio/uk/state.mp3,audio/us/state.mp3,"nhà nước, quốc gia",
-11,6,Preserving our heritage,sourced,take action,phr,/ˌteɪk ˈækʃn/,/ˌteɪk ˈækʃən/,audio/uk/take-action.mp3,audio/us/take-action.mp3,hành động,
-11,6,Preserving our heritage,sourced,temple,n,/ˈtempl/,/ˈtempəl/,audio/uk/temple.mp3,audio/us/temple.mp3,"đền, chùa",
-11,6,Preserving our heritage,sourced,trending,adj,/ˈtrendɪŋ/,/ˈtrendɪŋ/,audio/uk/trending.mp3,audio/us/trending.mp3,"đang thịnh hành, đang là xu hướng",
-11,6,Preserving our heritage,sourced,well-preserved,adj,/ˌwel prɪˈzɜːvd/,/ˌwel prɪˈzɝːvd/,audio/uk/well-preserved.mp3,audio/us/well-preserved.mp3,được bảo tồn tốt,
-11,7,Education options for school-leavers,sourced,academic,adj,/ˌækəˈdemɪk/,/ˌækəˈdemɪk/,audio/uk/academic.mp3,audio/us/academic.mp3,"có tính học thuật, thuộc về học tập",
-11,7,Education options for school-leavers,sourced,advisor,n,/ədˈvaɪzə(r)/,/ədˈvaɪzɚ/,audio/uk/advisor.mp3,audio/us/advisor.mp3,người cố vấn,
-11,7,Education options for school-leavers,sourced,apprentice,n,/əˈprentɪs/,/əˈprentɪs/,audio/uk/apprentice.mp3,audio/us/apprentice.mp3,người học việc,
-11,7,Education options for school-leavers,sourced,apprenticeship,n,/əˈprentɪʃɪp/,/əˈprentəsʃɪp/,audio/uk/apprenticeship.mp3,audio/us/apprenticeship.mp3,"sự học việc, thời gian học nghề",
-11,7,Education options for school-leavers,sourced,bachelor's degree,n,/ˈbætʃələz dɪɡriː/,/ˈbætʃəlɚz dɪˌɡriː/,audio/uk/bachelor-s-degree.mp3,audio/us/bachelor-s-degree.mp3,bằng cử nhân,
-11,7,Education options for school-leavers,sourced,brochure,n,/ˈbrəʊʃə(r)/,/broʊˈʃʊr/,audio/uk/brochure.mp3,audio/us/brochure.mp3,"tờ quảng cáo, sách giới thiệu",
-11,7,Education options for school-leavers,sourced,college,n,/ˈkɒlɪdʒ/,/ˈkɑːlɪdʒ/,audio/uk/college.mp3,audio/us/college.mp3,trường cao đẳng,
-11,7,Education options for school-leavers,sourced,convince,v,/kənˈvɪns/,/kənˈvɪns/,audio/uk/convince.mp3,audio/us/convince.mp3,thuyết phục,
-11,7,Education options for school-leavers,sourced,doctorate,n,/ˈdɒktərət/,/ˈdɑːktɚət/,audio/uk/doctorate.mp3,audio/us/doctorate.mp3,học vị tiến sĩ,
-11,7,Education options for school-leavers,sourced,education fair,n,/ˌedʒuˈkeɪʃn feə(r)/,/ˌedʒjuːˈkeɪʃən fer/,audio/uk/education-fair.mp3,audio/us/education-fair.mp3,"hội chợ giáo dục, ngày hội tư vấn tuyển sinh",
-11,7,Education options for school-leavers,sourced,entrance exam,n,/ˈentrəns ɪɡzæm/,/ˈentrəns ɪɡˌzæm/,audio/uk/entrance-exam-n.mp3,audio/us/entrance-exam-n.mp3,"kỳ thi tuyển sinh, kỳ thi đầu vào",
-11,7,Education options for school-leavers,sourced,formal,adj,/ˈfɔːml/,/ˈfɔːrməl/,audio/uk/formal.mp3,audio/us/formal.mp3,"chính quy, trang trọng",
-11,7,Education options for school-leavers,sourced,graduation,n,/ˌɡrædʒuˈeɪʃn/,/ˌɡrædʒuˈeɪʃən/,audio/uk/graduation.mp3,audio/us/graduation.mp3,sự tốt nghiệp,
-11,7,Education options for school-leavers,sourced,higher education,n,/ˌhaɪər edʒuˈkeɪʃn/,/ˌhaɪɚ ˌedʒjuːˈkeɪʃən/,audio/uk/higher-education.mp3,audio/us/higher-education.mp3,giáo dục đại học,
-11,7,Education options for school-leavers,sourced,institution,n,/ˌɪnstɪˈtjuːʃn/,/ˌɪnstɪˈtuːʃən/,audio/uk/institution.mp3,audio/us/institution.mp3,"học viện, cơ sở giáo dục",
-11,7,Education options for school-leavers,sourced,manage,v,/ˈmænɪdʒ/,/ˈmænɪdʒ/,audio/uk/manage.mp3,audio/us/manage.mp3,"xoay xở, quản lý",
-11,7,Education options for school-leavers,sourced,master's degree,n,/ˈmɑːstəz dɪɡriː/,/ˈmæstɚz dɪˌɡriː/,audio/uk/master-s-degree.mp3,audio/us/master-s-degree.mp3,bằng thạc sĩ,
-11,7,Education options for school-leavers,sourced,mechanic,n,/məˈkænɪk/,/məˈkænɪk/,audio/uk/mechanic.mp3,audio/us/mechanic.mp3,thợ cơ khí,
-11,7,Education options for school-leavers,sourced,option,n,/ˈɒpʃn/,/ˈɑːpʃən/,audio/uk/option.mp3,audio/us/option.mp3,sự lựa chọn,
-11,7,Education options for school-leavers,sourced,professional,adj,/prəˈfeʃənl/,/prəˈfeʃənəl/,audio/uk/professional.mp3,audio/us/professional.mp3,chuyên nghiệp,
-11,7,Education options for school-leavers,sourced,qualification,n,/ˌkwɒlɪfɪˈkeɪʃn/,/ˌkwɑːləfəˈkeɪʃən/,audio/uk/qualification.mp3,audio/us/qualification.mp3,"bằng cấp, trình độ chuyên môn",
-11,7,Education options for school-leavers,sourced,representative,n,/ˌreprɪˈzentətɪv/,/ˌreprɪˈzentətɪv/,audio/uk/representative.mp3,audio/us/representative.mp3,người đại diện,
-11,7,Education options for school-leavers,sourced,salary,n,/ˈsæləri/,/ˈsælɚi/,audio/uk/salary.mp3,audio/us/salary.mp3,tiền lương,
-11,7,Education options for school-leavers,sourced,school-leaver,n,/ˈskuːl liːvə(r)/,/ˈskuːl ˌliːvɚ/,audio/uk/school-leaver.mp3,audio/us/school-leaver.mp3,học sinh vừa tốt nghiệp phổ thông,Many school-leavers choose to go to university.
-11,7,Education options for school-leavers,sourced,sensible,adj,/ˈsensəbl/,/ˈsensəbəl/,audio/uk/sensible.mp3,audio/us/sensible.mp3,"hợp lý, khôn ngoan",
-11,7,Education options for school-leavers,sourced,sensitive,adj,/ˈsensətɪv/,/ˈsensətɪv/,audio/uk/sensitive.mp3,audio/us/sensitive.mp3,nhạy cảm,
-11,7,Education options for school-leavers,sourced,sixth-form college,n,/ˈsɪksθ fɔːm kɒlɪdʒ/,/ˈsɪksθ fɔːrm ˌkɑːlɪdʒ/,audio/uk/sixth-form-college.mp3,audio/us/sixth-form-college.mp3,trường dự bị đại học (ở Anh),
-11,7,Education options for school-leavers,sourced,trade,n,/treɪd/,/treɪd/,audio/uk/trade.mp3,audio/us/trade.mp3,nghề (thủ công),
-11,7,Education options for school-leavers,sourced,vocational school,n,/vəʊˈkeɪʃənl skuːl/,/voʊˈkeɪʃənəl skuːl/,audio/uk/vocational-school.mp3,audio/us/vocational-school.mp3,trường dạy nghề,
-11,7,Education options for school-leavers,sourced,wage,n,/weɪdʒ/,/weɪdʒ/,audio/uk/wage.mp3,audio/us/wage.mp3,tiền công,
-11,8,Becoming independent,sourced,achieve,v,/əˈtʃiːv/,/əˈtʃiːv/,audio/uk/achieve.mp3,audio/us/achieve.mp3,đạt được,
-11,8,Becoming independent,sourced,carry out,phr v,/ˌkæri ˈaʊt/,/ˌkæri ˈaʊt/,audio/uk/carry-out.mp3,audio/us/carry-out.mp3,"thực hiện, tiến hành",
-11,8,Becoming independent,sourced,combine,v,/kəmˈbaɪn/,/kəmˈbaɪn/,audio/uk/combine.mp3,audio/us/combine.mp3,kết hợp,
-11,8,Becoming independent,sourced,come up with,phr v,/ˌkʌm ˈʌp wɪð/,/ˌkʌm ˈʌp wɪð/,audio/uk/come-up-with-phr-v.mp3,audio/us/come-up-with-phr-v.mp3,"nghĩ ra, nảy ra (ý tưởng)",
-11,8,Becoming independent,sourced,confidence,n,/ˈkɒnfɪdəns/,/ˈkɑːnfədəns/,audio/uk/confidence.mp3,audio/us/confidence.mp3,sự tự tin,
-11,8,Becoming independent,sourced,confident,adj,/ˈkɒnfɪdənt/,/ˈkɑːnfədənt/,audio/uk/confident.mp3,audio/us/confident.mp3,tự tin,
-11,8,Becoming independent,sourced,deal with,phr v,/ˈdiːl wɪð/,/ˈdiːl wɪð/,audio/uk/deal-with.mp3,audio/us/deal-with.mp3,"giải quyết, đối phó với",
-11,8,Becoming independent,sourced,decision-making skill,n,/dɪˈsɪʒn meɪkɪŋ skɪl/,/dɪˈsɪʒən ˌmeɪkɪŋ skɪl/,audio/uk/decision-making-skill.mp3,audio/us/decision-making-skill.mp3,kỹ năng ra quyết định,
-11,8,Becoming independent,sourced,dependent,adj,/dɪˈpendənt/,/dɪˈpendənt/,audio/uk/dependent.mp3,audio/us/dependent.mp3,phụ thuộc,
-11,8,Becoming independent,sourced,fold,v,/fəʊld/,/foʊld/,audio/uk/fold.mp3,audio/us/fold.mp3,gấp (quần áo),
-11,8,Becoming independent,sourced,get around,phr v,/ˌɡet əˈraʊnd/,/ˌɡet əˈraʊnd/,audio/uk/get-around-phr-v.mp3,audio/us/get-around-phr-v.mp3,đi lại,
-11,8,Becoming independent,sourced,get into the habit of,idiom,/ˌɡet ˌɪntə ðə ˈhæbɪt əv/,/ˌɡet ˌɪntə ðə ˈhæbət əv/,audio/uk/get-into-the-habit-of.mp3,audio/us/get-into-the-habit-of.mp3,tập thói quen,
-11,8,Becoming independent,sourced,identify,v,/aɪˈdentɪfaɪ/,/aɪˈdentəfaɪ/,audio/uk/identify.mp3,audio/us/identify.mp3,"xác định, nhận biết",
-11,8,Becoming independent,sourced,independence,n,/ˌɪndɪˈpendəns/,/ˌɪndɪˈpendəns/,audio/uk/independence.mp3,audio/us/independence.mp3,sự độc lập,
-11,8,Becoming independent,sourced,independent,adj,/ˌɪndɪˈpendənt/,/ˌɪndɪˈpendənt/,audio/uk/independent.mp3,audio/us/independent.mp3,độc lập,Teenagers want to become more independent.
-11,8,Becoming independent,sourced,install,v,/ɪnˈstɔːl/,/ˌɪnˈstɑːl/,audio/uk/install.mp3,audio/us/install.mp3,cài đặt,
-11,8,Becoming independent,sourced,iron,v,/ˈaɪən/,/ˈaɪɚn/,audio/uk/iron.mp3,audio/us/iron.mp3,"là, ủi (quần áo)",
-11,8,Becoming independent,sourced,learner,n,/ˈlɜːnə(r)/,/ˈlɝːnɚ/,audio/uk/learner.mp3,audio/us/learner.mp3,người học,
-11,8,Becoming independent,sourced,learning goal,n,/ˈlɜːnɪŋ ɡəʊl/,/ˈlɝːnɪŋ ɡoʊl/,audio/uk/learning-goal.mp3,audio/us/learning-goal.mp3,mục tiêu học tập,
-11,8,Becoming independent,sourced,life skill,n,/ˈlaɪf skɪl/,/ˈlaɪf skɪl/,audio/uk/life-skill.mp3,audio/us/life-skill.mp3,kỹ năng sống,
-11,8,Becoming independent,sourced,make use of,phr,/ˌmeɪk ˈjuːs əv/,/ˌmeɪk ˈjuːs əv/,audio/uk/make-use-of.mp3,audio/us/make-use-of.mp3,tận dụng,
-11,8,Becoming independent,sourced,manage,v,/ˈmænɪdʒ/,/ˈmænɪdʒ/,audio/uk/manage.mp3,audio/us/manage.mp3,"quản lý, xoay xở",
-11,8,Becoming independent,sourced,measure,v,/ˈmeʒə(r)/,/ˈmeʒɚ/,audio/uk/measure.mp3,audio/us/measure.mp3,đo lường,
-11,8,Becoming independent,sourced,money management skill,n,/ˈmʌni mænɪdʒmənt skɪl/,/ˈmʌni ˌmænɪdʒmənt skɪl/,audio/uk/money-management-skill.mp3,audio/us/money-management-skill.mp3,kỹ năng quản lý tiền bạc,
-11,8,Becoming independent,sourced,reliable,adj,/rɪˈlaɪəbl/,/rɪˈlaɪəbəl/,audio/uk/reliable.mp3,audio/us/reliable.mp3,đáng tin cậy,
-11,8,Becoming independent,sourced,remove,v,/rɪˈmuːv/,/riˈmuːv/,audio/uk/remove.mp3,audio/us/remove.mp3,"loại bỏ, tẩy (vết bẩn)",
-11,8,Becoming independent,sourced,responsibility,n,/rɪˌspɒnsəˈbɪləti/,/riˌspɑːnsəˈbɪləti/,audio/uk/responsibility.mp3,audio/us/responsibility.mp3,trách nhiệm,
-11,8,Becoming independent,sourced,responsible,adj,/rɪˈspɒnsəbl/,/riˈspɑːnsəbəl/,audio/uk/responsible.mp3,audio/us/responsible.mp3,có trách nhiệm,
-11,8,Becoming independent,sourced,rinse,v,/rɪns/,/rɪns/,audio/uk/rinse.mp3,audio/us/rinse.mp3,"xả, tráng (nước)",
-11,8,Becoming independent,sourced,schedule,n,/ˈʃedjuːl/,/ˈskedʒuːl/,audio/uk/schedule.mp3,audio/us/schedule.mp3,"lịch trình, thời gian biểu",
-11,8,Becoming independent,sourced,self-study,n,/ˌself ˈstʌdi/,/ˌself ˈstʌdi/,audio/uk/self-study.mp3,audio/us/self-study.mp3,sự tự học,
-11,8,Becoming independent,sourced,time management skill,n,/ˈtaɪm mænɪdʒmənt skɪl/,/ˈtaɪm ˌmænɪdʒmənt skɪl/,audio/uk/time-management-skill.mp3,audio/us/time-management-skill.mp3,kỹ năng quản lý thời gian,
-11,9,Social issues,sourced,admit,v,/ədˈmɪt/,/ədˈmɪt/,audio/uk/admit.mp3,audio/us/admit.mp3,thừa nhận,
-11,9,Social issues,sourced,alcohol,n,/ˈælkəhɒl/,/ˈælkəhɑːl/,audio/uk/alcohol.mp3,audio/us/alcohol.mp3,"rượu, đồ uống có cồn",
-11,9,Social issues,sourced,anti-bullying,adj,/ˌænti ˈbʊliɪŋ/,/ˌæntiː ˈbʊliɪŋ/,audio/uk/anti-bullying.mp3,audio/us/anti-bullying.mp3,chống bắt nạt,
-11,9,Social issues,sourced,anxiety,n,/æŋˈzaɪəti/,/æŋˈzaɪəti/,audio/uk/anxiety.mp3,audio/us/anxiety.mp3,sự lo âu,
-11,9,Social issues,sourced,ashamed,adj,/əˈʃeɪmd/,/əˈʃeɪmd/,audio/uk/ashamed.mp3,audio/us/ashamed.mp3,xấu hổ,
-11,9,Social issues,sourced,awareness,n,/əˈweənəs/,/əˈwernəs/,audio/uk/awareness.mp3,audio/us/awareness.mp3,"nhận thức, sự hiểu biết",
-11,9,Social issues,sourced,body shaming,n,/ˈbɒdi ʃeɪmɪŋ/,/ˈbɑːdi ˌʃeɪmɪŋ/,audio/uk/body-shaming.mp3,audio/us/body-shaming.mp3,sự chê bai ngoại hình,
-11,9,Social issues,sourced,bully,v,/ˈbʊli/,/ˈbʊli/,audio/uk/bully.mp3,audio/us/bully.mp3,bắt nạt,
-11,9,Social issues,sourced,campaign,n,/kæmˈpeɪn/,/kæmˈpeɪn/,audio/uk/campaign.mp3,audio/us/campaign.mp3,chiến dịch,
-11,9,Social issues,sourced,crime,n,/kraɪm/,/kraɪm/,audio/uk/crime.mp3,audio/us/crime.mp3,"tội phạm, tội ác",
-11,9,Social issues,sourced,cyberbullying,n,/ˈsaɪbəbʊliɪŋ/,/ˈsaɪbɚbʊliɪŋ/,audio/uk/cyberbullying.mp3,audio/us/cyberbullying.mp3,bắt nạt trên mạng,
-11,9,Social issues,sourced,depression,n,/dɪˈpreʃn/,/dɪˈpreʃən/,audio/uk/depression.mp3,audio/us/depression.mp3,chứng trầm cảm,
-11,9,Social issues,sourced,drug,n,/drʌɡ/,/drʌɡ/,audio/uk/drug.mp3,audio/us/drug.mp3,ma túy; thuốc,
-11,9,Social issues,sourced,drunk,adj,/drʌŋk/,/drʌŋk/,audio/uk/drunk.mp3,audio/us/drunk.mp3,say rượu,
-11,9,Social issues,sourced,frighten,v,/ˈfraɪtn/,/ˈfraɪtən/,audio/uk/frighten.mp3,audio/us/frighten.mp3,làm hoảng sợ,
-11,9,Social issues,sourced,hang out,phr v,/ˌhæŋ ˈaʊt/,/ˌhæŋ ˈaʊt/,audio/uk/hang-out-phr-v.mp3,audio/us/hang-out-phr-v.mp3,đi chơi,
-11,9,Social issues,sourced,hesitate,v,/ˈhezɪteɪt/,/ˈhezəteɪt/,audio/uk/hesitate.mp3,audio/us/hesitate.mp3,"do dự, ngập ngừng",
-11,9,Social issues,sourced,make fun of,phr,/ˌmeɪk ˈfʌn əv/,/ˌmeɪk ˈfʌn əv/,audio/uk/make-fun-of.mp3,audio/us/make-fun-of.mp3,"chế giễu, trêu chọc",
-11,9,Social issues,sourced,obey,v,/əˈbeɪ/,/oʊˈbeɪ/,audio/uk/obey.mp3,audio/us/obey.mp3,"tuân theo, vâng lời",
-11,9,Social issues,sourced,offensive,adj,/əˈfensɪv/,/əˈfensɪv/,audio/uk/offensive.mp3,audio/us/offensive.mp3,"xúc phạm, công kích",
-11,9,Social issues,sourced,overpopulation,n,/ˌəʊvəˌpɒpjuˈleɪʃn/,/ˌoʊvɚˌpɑːpjəˈleɪʃən/,audio/uk/overpopulation.mp3,audio/us/overpopulation.mp3,sự bùng nổ dân số,
-11,9,Social issues,sourced,painful,adj,/ˈpeɪnfl/,/ˈpeɪnfəl/,audio/uk/painful.mp3,audio/us/painful.mp3,đau đớn,
-11,9,Social issues,sourced,peer influence,n,/ˈpɪər ɪnfluəns/,/ˈpɪr ˌɪnfluəns/,audio/uk/peer-influence.mp3,audio/us/peer-influence.mp3,ảnh hưởng từ bạn bè đồng trang lứa,
-11,9,Social issues,sourced,peer pressure,n,/ˈpɪə preʃə(r)/,/ˈpɪr ˌpreʃɚ/,audio/uk/peer-pressure-n.mp3,audio/us/peer-pressure-n.mp3,áp lực từ bạn bè đồng trang lứa,Many teenagers smoke because of peer pressure.
-11,9,Social issues,sourced,physical,adj,/ˈfɪzɪkl/,/ˈfɪzɪkəl/,audio/uk/physical.mp3,audio/us/physical.mp3,thuộc về thể chất,
-11,9,Social issues,sourced,policy,n,/ˈpɒləsi/,/ˈpɑːləsi/,audio/uk/policy.mp3,audio/us/policy.mp3,chính sách,
-11,9,Social issues,sourced,poverty,n,/ˈpɒvəti/,/ˈpɑːvɚti/,audio/uk/poverty.mp3,audio/us/poverty.mp3,sự nghèo đói,
-11,9,Social issues,sourced,pressing,adj,/ˈpresɪŋ/,/ˈpresɪŋ/,audio/uk/pressing.mp3,audio/us/pressing.mp3,cấp bách,
-11,9,Social issues,sourced,self-confidence,n,/ˌself ˈkɒnfɪdəns/,/ˌself ˈkɑːnfədəns/,audio/uk/self-confidence.mp3,audio/us/self-confidence.mp3,sự tự tin,
-11,9,Social issues,sourced,skip,v,/skɪp/,/skɪp/,audio/uk/skip.mp3,audio/us/skip.mp3,"bỏ, trốn (học)",
-11,9,Social issues,sourced,social issue,n,/ˌsəʊʃl ˈɪʃuː/,/ˌsoʊʃəl ˈɪʃuː/,audio/uk/social-issue.mp3,audio/us/social-issue.mp3,vấn đề xã hội,
-11,9,Social issues,sourced,sympathy,n,/ˈsɪmpəθi/,/ˈsɪmpəθi/,audio/uk/sympathy.mp3,audio/us/sympathy.mp3,sự cảm thông,
-11,9,Social issues,sourced,verbal,adj,/ˈvɜːbl/,/ˈvɝːbəl/,audio/uk/verbal.mp3,audio/us/verbal.mp3,bằng lời nói,
-11,9,Social issues,sourced,victim,n,/ˈvɪktɪm/,/ˈvɪktɪm/,audio/uk/victim.mp3,audio/us/victim.mp3,nạn nhân,
-11,9,Social issues,sourced,violent,adj,/ˈvaɪələnt/,/ˈvaɪələnt/,audio/uk/violent.mp3,audio/us/violent.mp3,bạo lực,
-11,10,The ecosystem,sourced,biodiversity,n,/ˌbaɪəʊdaɪˈvɜːsəti/,/ˌbaɪoʊdaɪˈvɝːsəti/,audio/uk/biodiversity.mp3,audio/us/biodiversity.mp3,đa dạng sinh học,
-11,10,The ecosystem,sourced,bird-watching,n,/ˈbɜːd wɒtʃɪŋ/,/ˈbɝːd ˌwɑːtʃɪŋ/,audio/uk/bird-watching-n.mp3,audio/us/bird-watching-n.mp3,hoạt động ngắm chim,
-11,10,The ecosystem,sourced,conservation,n,/ˌkɒnsəˈveɪʃn/,/ˌkɑːnsɚˈveɪʃən/,audio/uk/conservation.mp3,audio/us/conservation.mp3,sự bảo tồn,
-11,10,The ecosystem,sourced,continent,n,/ˈkɒntɪnənt/,/ˈkɑːntənənt/,audio/uk/continent.mp3,audio/us/continent.mp3,"lục địa, châu lục",
-11,10,The ecosystem,sourced,coral reef,n,/ˈkɒrəl riːf/,/ˈkɔːrəl riːf/,audio/uk/coral-reef.mp3,audio/us/coral-reef.mp3,rạn san hô,
-11,10,The ecosystem,sourced,creature,n,/ˈkriːtʃə(r)/,/ˈkriːtʃɚ/,audio/uk/creature-n.mp3,audio/us/creature-n.mp3,sinh vật,
-11,10,The ecosystem,sourced,cruelty,n,/ˈkruːəlti/,/ˈkruːəlti/,audio/uk/cruelty.mp3,audio/us/cruelty.mp3,sự tàn ác,
-11,10,The ecosystem,sourced,delta,n,/ˈdeltə/,/ˈdeltə/,audio/uk/delta.mp3,audio/us/delta.mp3,"châu thổ, đồng bằng",
-11,10,The ecosystem,sourced,destroy,v,/dɪˈstrɔɪ/,/dɪˈstrɔɪ/,audio/uk/destroy.mp3,audio/us/destroy.mp3,phá hủy,
-11,10,The ecosystem,sourced,diversity,n,/daɪˈvɜːsəti/,/daɪˈvɝːsɪti/,audio/uk/diversity.mp3,audio/us/diversity.mp3,sự đa dạng,
-11,10,The ecosystem,sourced,ecosystem,n,/ˈiːkəʊsɪstəm/,/ˈiːkoʊsɪstəm/,audio/uk/ecosystem.mp3,audio/us/ecosystem.mp3,hệ sinh thái,Every species plays a role in the ecosystem.
-11,10,The ecosystem,sourced,endanger,v,/ɪnˈdeɪndʒə(r)/,/enˈdeɪndʒɚ/,audio/uk/endanger.mp3,audio/us/endanger.mp3,gây nguy hiểm,
-11,10,The ecosystem,sourced,endangered,adj,/ɪnˈdeɪndʒəd/,/ɪnˈdeɪndʒɚd/,audio/uk/endangered.mp3,audio/us/endangered.mp3,có nguy cơ tuyệt chủng,
-11,10,The ecosystem,sourced,fauna,n,/ˈfɔːnə/,/ˈfɑːnə/,audio/uk/fauna.mp3,audio/us/fauna.mp3,hệ động vật,
-11,10,The ecosystem,sourced,flora,n,/ˈflɔːrə/,/ˈflɔːrə/,audio/uk/flora.mp3,audio/us/flora.mp3,hệ thực vật,
-11,10,The ecosystem,sourced,food chain,n,/ˈfuːd tʃeɪn/,/ˈfuːd tʃeɪn/,audio/uk/food-chain.mp3,audio/us/food-chain.mp3,chuỗi thức ăn,
-11,10,The ecosystem,sourced,green,adj,/ɡriːn/,/ɡriːn/,audio/uk/green.mp3,audio/us/green.mp3,"xanh, thân thiện với môi trường",
-11,10,The ecosystem,sourced,habitat,n,/ˈhæbɪtæt/,/ˈhæbətæt/,audio/uk/habitat.mp3,audio/us/habitat.mp3,môi trường sống,
-11,10,The ecosystem,sourced,koala,n,/kəʊˈɑːlə/,/koʊˈɑːlə/,audio/uk/koala.mp3,audio/us/koala.mp3,gấu túi koala,
-11,10,The ecosystem,sourced,living things,n,/ˌlɪvɪŋ ˈθɪŋz/,/ˌlɪvɪŋ ˈθɪŋz/,audio/uk/living-things.mp3,audio/us/living-things.mp3,sinh vật sống,
-11,10,The ecosystem,sourced,mammal,n,/ˈmæml/,/ˈmæməl/,audio/uk/mammal.mp3,audio/us/mammal.mp3,động vật có vú,
-11,10,The ecosystem,sourced,national park,n,/ˌnæʃnəl ˈpɑːk/,/ˌnæʃnəl ˈpɑːrk/,audio/uk/national-park.mp3,audio/us/national-park.mp3,vườn quốc gia,
-11,10,The ecosystem,sourced,nature reserve,n,/ˈneɪtʃə rɪzɜːv/,/ˈneɪtʃɚ rɪˌzɝːv/,audio/uk/nature-reserve-n.mp3,audio/us/nature-reserve-n.mp3,khu bảo tồn thiên nhiên,
-11,10,The ecosystem,sourced,organism,n,/ˈɔːɡənɪzəm/,/ˈɔːrɡənɪzəm/,audio/uk/organism.mp3,audio/us/organism.mp3,sinh vật,
-11,10,The ecosystem,sourced,overuse,n,/ˌəʊvəˈjuːs/,/ˌoʊvɚˈjuːz/,audio/uk/overuse.mp3,audio/us/overuse.mp3,"sự lạm dụng, sử dụng quá mức",
-11,10,The ecosystem,sourced,pangolin,n,/pæŋˈɡəʊlɪn/,/ˈpæŋɡəlɪn/,audio/uk/pangolin.mp3,audio/us/pangolin.mp3,con tê tê,
-11,10,The ecosystem,sourced,resource,n,/rɪˈzɔːs/,/ˈriːsɔːrs/,audio/uk/resource-n.mp3,audio/us/resource-n.mp3,tài nguyên,
-11,10,The ecosystem,sourced,restoration,n,/ˌrestəˈreɪʃn/,/ˌrestəˈreɪʃən/,audio/uk/restoration.mp3,audio/us/restoration.mp3,sự phục hồi,
-11,10,The ecosystem,sourced,restore,v,/rɪˈstɔː(r)/,/rɪˈstɔːr/,audio/uk/restore.mp3,audio/us/restore.mp3,phục hồi,
-11,10,The ecosystem,sourced,run out,phr v,/ˌrʌn ˈaʊt/,/ˌrʌn ˈaʊt/,audio/uk/run-out-phr-v.mp3,audio/us/run-out-phr-v.mp3,cạn kiệt,
-11,10,The ecosystem,sourced,shelter,n,/ˈʃeltə(r)/,/ˈʃeltɚ/,audio/uk/shelter.mp3,audio/us/shelter.mp3,nơi trú ẩn,
-11,10,The ecosystem,sourced,snorkelling,n,/ˈsnɔːkəlɪŋ/,/ˈsnɔːrkəlɪŋ/,audio/uk/snorkelling.mp3,audio/us/snorkelling.mp3,lặn với ống thở,
-11,10,The ecosystem,sourced,species,n,/ˈspiːʃiːz/,/ˈspiːʃiz/,audio/uk/species.mp3,audio/us/species.mp3,loài,
-11,10,The ecosystem,sourced,survival,n,/səˈvaɪvl/,/sɚˈvaɪvəl/,audio/uk/survival.mp3,audio/us/survival.mp3,"sự sống sót, tồn tại",
-11,10,The ecosystem,sourced,tropical forest,n,/ˌtrɒpɪkl ˈfɒrɪst/,/ˌtrɑːpɪkəl ˈfɔːrɪst/,audio/uk/tropical-forest.mp3,audio/us/tropical-forest.mp3,rừng nhiệt đới,
-11,10,The ecosystem,sourced,waterway,n,/ˈwɔːtəweɪ/,/ˈwɑːtɚweɪ/,audio/uk/waterway.mp3,audio/us/waterway.mp3,đường thủy,
-11,10,The ecosystem,sourced,wetland,n,/ˈwetlənd/,/ˈwetlænd/,audio/uk/wetland.mp3,audio/us/wetland.mp3,vùng đất ngập nước,
-11,10,The ecosystem,sourced,wildlife,n,/ˈwaɪldlaɪf/,/ˈwaɪldlaɪf/,audio/uk/wildlife.mp3,audio/us/wildlife.mp3,động vật hoang dã,
+﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
+11,1,A long and healthy life,sourced,antibiotic,n,/ˌæntibaɪˈɒtɪk/,/ˌæntibaɪˈɑːtɪk/,audio/uk/antibiotic.mp3,audio/us/antibiotic.mp3,thuốc kháng sinh,The doctor gave me antibiotics to treat the infection.,Bác sĩ đã kê cho tôi thuốc kháng sinh để điều trị nhiễm trùng.
+11,1,A long and healthy life,sourced,avoid,v,/əˈvɔɪd/,/əˈvɔɪd/,audio/uk/avoid.mp3,audio/us/avoid.mp3,"tránh, né tránh",You should avoid eating too much fast food if you want to stay healthy.,Bạn nên tránh ăn quá nhiều đồ ăn nhanh nếu muốn giữ gìn sức khỏe.
+11,1,A long and healthy life,sourced,bacteria,n,/bækˈtɪəriə/,/bækˈtɪriə/,audio/uk/bacteria.mp3,audio/us/bacteria.mp3,vi khuẩn,Washing your hands regularly helps to remove harmful bacteria.,Rửa tay thường xuyên giúp loại bỏ vi khuẩn có hại.
+11,1,A long and healthy life,sourced,balanced,adj,/ˈbælənst/,/ˈbælənst/,audio/uk/balanced.mp3,audio/us/balanced.mp3,"cân bằng, cân đối","A balanced lifestyle includes healthy food, regular exercise and enough sleep.","Một lối sống cân bằng bao gồm thực phẩm lành mạnh, tập thể dục đều đặn và ngủ đủ giấc."
+11,1,A long and healthy life,sourced,balanced diet,n,/ˌbælənst ˈdaɪət/,/ˌbælənst ˈdaɪət/,audio/uk/balanced-diet.mp3,audio/us/balanced-diet.mp3,chế độ ăn uống cân bằng,A balanced diet is the key to a long and healthy life.,Chế độ ăn uống cân bằng là chìa khóa cho một cuộc sống khỏe mạnh và trường thọ.
+11,1,A long and healthy life,sourced,cut down on,phr v,/ˌkʌt ˈdaʊn ɒn/,/ˌkʌt ˈdaʊn ɑːn/,audio/uk/cut-down-on-phr-v.mp3,audio/us/cut-down-on-phr-v.mp3,cắt giảm,You should cut down on sugar.,Bạn nên cắt giảm lượng đường.
+11,1,A long and healthy life,sourced,examine,v,/ɪɡˈzæmɪn/,/ɪɡˈzæmɪn/,audio/uk/examine.mp3,audio/us/examine.mp3,"khám (bệnh), kiểm tra",The doctor examined my throat and said I had a mild infection.,Bác sĩ đã khám họng cho tôi và nói rằng tôi bị nhiễm trùng nhẹ.
+11,1,A long and healthy life,sourced,fit,adj,/fɪt/,/fɪt/,audio/uk/fit.mp3,audio/us/fit.mp3,"khỏe mạnh, cân đối",My grandfather is still fit because he goes jogging every morning.,Ông tôi vẫn khỏe mạnh vì sáng nào ông cũng chạy bộ.
+11,1,A long and healthy life,sourced,fitness,n,/ˈfɪtnəs/,/ˈfɪtnəs/,audio/uk/fitness.mp3,audio/us/fitness.mp3,"sự khỏe mạnh, thể lực",Swimming is a great way to improve your fitness.,Bơi lội là một cách tuyệt vời để nâng cao thể lực.
+11,1,A long and healthy life,sourced,food poisoning,n,/ˈfuːd pɔɪzənɪŋ/,/ˈfuːd ˌpɔɪzənɪŋ/,audio/uk/food-poisoning.mp3,audio/us/food-poisoning.mp3,ngộ độc thực phẩm,Several students got food poisoning after eating at a street stall.,Một vài học sinh đã bị ngộ độc thực phẩm sau khi ăn ở một quán vỉa hè.
+11,1,A long and healthy life,sourced,germ,n,/dʒɜːm/,/dʒɝːm/,audio/uk/germ.mp3,audio/us/germ.mp3,vi trùng,Germs can spread easily if you don't wash your hands before meals.,Vi trùng có thể lây lan dễ dàng nếu bạn không rửa tay trước bữa ăn.
+11,1,A long and healthy life,sourced,give up,phr v,/ˌɡɪv ˈʌp/,/ˌɡɪv ˈʌp/,audio/uk/give-up.mp3,audio/us/give-up.mp3,từ bỏ,My father gave up smoking to protect his health.,Bố tôi đã bỏ thuốc lá để bảo vệ sức khỏe.
+11,1,A long and healthy life,sourced,infection,n,/ɪnˈfekʃn/,/ˌɪnˈfekʃən/,audio/uk/infection.mp3,audio/us/infection.mp3,"sự nhiễm trùng, bệnh lây nhiễm",Clean the cut carefully to prevent infection.,Hãy làm sạch vết cắt cẩn thận để tránh nhiễm trùng.
+11,1,A long and healthy life,sourced,ingredient,n,/ɪnˈɡriːdiənt/,/ˌɪnˈɡriːdiənt/,audio/uk/ingredient.mp3,audio/us/ingredient.mp3,"thành phần, nguyên liệu",Fresh vegetables are the main ingredients of this healthy salad.,Rau tươi là nguyên liệu chính của món salad tốt cho sức khỏe này.
+11,1,A long and healthy life,sourced,junk food,n,/ˈdʒʌŋk fuːd/,/ˈdʒʌŋk fuːd/,audio/uk/junk-food.mp3,audio/us/junk-food.mp3,đồ ăn vặt không có lợi cho sức khỏe,Eating too much junk food can lead to obesity.,Ăn quá nhiều đồ ăn vặt không lành mạnh có thể dẫn đến béo phì.
+11,1,A long and healthy life,sourced,keep fit,phr,/ˌkiːp ˈfɪt/,/ˌkiːp ˈfɪt/,audio/uk/keep-fit.mp3,audio/us/keep-fit.mp3,"giữ dáng, giữ sức khỏe",She goes cycling every weekend to keep fit.,Cuối tuần nào cô ấy cũng đạp xe để giữ gìn sức khỏe.
+11,1,A long and healthy life,sourced,life expectancy,n,/ˈlaɪf ɪkspektənsi/,/ˈlaɪf ɪkˌspektənsi/,audio/uk/life-expectancy.mp3,audio/us/life-expectancy.mp3,tuổi thọ,Life expectancy has increased in many countries.,Tuổi thọ đã tăng lên ở nhiều quốc gia.
+11,1,A long and healthy life,sourced,muscle,n,/ˈmʌsl/,/ˈmʌsəl/,audio/uk/muscle.mp3,audio/us/muscle.mp3,"cơ, cơ bắp",Regular exercise helps build strong muscles and bones.,Tập thể dục đều đặn giúp cơ bắp và xương chắc khỏe.
+11,1,A long and healthy life,sourced,nutrient,n,/ˈnjuːtriənt/,/ˈnuːtriənt/,audio/uk/nutrient.mp3,audio/us/nutrient.mp3,chất dinh dưỡng,Fruit and vegetables provide many important nutrients for the body.,Trái cây và rau củ cung cấp nhiều chất dinh dưỡng quan trọng cho cơ thể.
+11,1,A long and healthy life,sourced,organism,n,/ˈɔːɡənɪzəm/,/ˈɔːrɡənɪzəm/,audio/uk/organism.mp3,audio/us/organism.mp3,"sinh vật, cơ thể sống",Bacteria are tiny organisms that can live almost anywhere.,Vi khuẩn là những sinh vật nhỏ bé có thể sống ở hầu như mọi nơi.
+11,1,A long and healthy life,sourced,press-up,n,/ˈpres ʌp/,/ˈpres ʌp/,audio/uk/press-up.mp3,audio/us/press-up.mp3,động tác chống đẩy,He does fifty press-ups every morning to stay strong.,Mỗi sáng anh ấy chống đẩy năm mươi cái để giữ cơ thể khỏe mạnh.
+11,1,A long and healthy life,sourced,recipe,n,/ˈresəpi/,/ˈresəpi/,audio/uk/recipe.mp3,audio/us/recipe.mp3,công thức nấu ăn,My mother found a healthy recipe for vegetable soup online.,Mẹ tôi đã tìm được một công thức nấu súp rau tốt cho sức khỏe trên mạng.
+11,1,A long and healthy life,sourced,regular,adj,/ˈreɡjələ(r)/,/ˈreɡjəlɚ/,audio/uk/regular.mp3,audio/us/regular.mp3,"đều đặn, thường xuyên",Regular check-ups can help detect health problems early.,Khám sức khỏe định kỳ có thể giúp phát hiện sớm các vấn đề sức khỏe.
+11,1,A long and healthy life,sourced,strength,n,/streŋθ/,/streŋθ/,audio/uk/strength.mp3,audio/us/strength.mp3,"sức mạnh, sức khỏe",Weight training can increase your strength and fitness.,Tập tạ có thể tăng cường sức mạnh và thể lực của bạn.
+11,1,A long and healthy life,sourced,suffer from,phr v,/ˈsʌfə frɒm/,/ˈsʌfɚ frʌm/,audio/uk/suffer-from.mp3,audio/us/suffer-from.mp3,"mắc (bệnh), chịu đựng",Many elderly people suffer from heart disease.,Nhiều người cao tuổi mắc bệnh tim.
+11,1,A long and healthy life,sourced,treatment,n,/ˈtriːtmənt/,/ˈtriːtmənt/,audio/uk/treatment.mp3,audio/us/treatment.mp3,sự điều trị,The patient is receiving treatment for a lung infection.,Bệnh nhân đang được điều trị nhiễm trùng phổi.
+11,1,A long and healthy life,sourced,virus,n,/ˈvaɪrəs/,/ˈvaɪrəs/,audio/uk/virus.mp3,audio/us/virus.mp3,vi-rút,"Antibiotics cannot kill viruses, so they don't work against the flu.",Thuốc kháng sinh không thể tiêu diệt vi-rút nên chúng không có tác dụng với bệnh cúm.
+11,1,A long and healthy life,sourced,work out,phr v,/ˌwɜːk ˈaʊt/,/ˌwɝːk ˈaʊt/,audio/uk/work-out-phr-v.mp3,audio/us/work-out-phr-v.mp3,tập thể dục,I work out at the gym three times a week.,Tôi tập thể dục ở phòng gym ba lần một tuần.
+11,2,The generation gap,sourced,adapt,v,/əˈdæpt/,/əˈdæpt/,audio/uk/adapt.mp3,audio/us/adapt.mp3,thích nghi,Older people sometimes find it hard to adapt to new technology.,Người lớn tuổi đôi khi thấy khó thích nghi với công nghệ mới.
+11,2,The generation gap,sourced,argument,n,/ˈɑːɡjumənt/,/ˈɑːrɡjəmənt/,audio/uk/argument.mp3,audio/us/argument.mp3,cuộc tranh cãi,I had an argument with my parents about my curfew.,Tôi đã cãi nhau với bố mẹ về giờ phải về nhà.
+11,2,The generation gap,sourced,attitude,n,/ˈætɪtjuːd/,/ˈætətuːd/,audio/uk/attitude.mp3,audio/us/attitude.mp3,thái độ,Young people often have a different attitude towards work than their parents.,Người trẻ thường có thái độ đối với công việc khác với bố mẹ mình.
+11,2,The generation gap,sourced,behaviour,n,/bɪˈheɪvjə(r)/,/bɪˈheɪvjɚ/,audio/uk/behaviour.mp3,audio/us/behaviour.mp3,"hành vi, cách cư xử",My grandparents think teenagers' behaviour today is quite rude.,Ông bà tôi cho rằng cách cư xử của thanh thiếu niên ngày nay khá thô lỗ.
+11,2,The generation gap,sourced,belief,n,/bɪˈliːf/,/bɪˈliːf/,audio/uk/belief.mp3,audio/us/belief.mp3,"niềm tin, tín ngưỡng",Each generation has its own beliefs and values.,Mỗi thế hệ đều có niềm tin và giá trị riêng.
+11,2,The generation gap,sourced,bridge the gap,idiom,/ˌbrɪdʒ ðə ˈɡæp/,/ˌbrɪdʒ ðə ˈɡæp/,audio/uk/bridge-the-gap.mp3,audio/us/bridge-the-gap.mp3,thu hẹp khoảng cách,Spending time together can help bridge the gap between generations.,Dành thời gian bên nhau có thể giúp thu hẹp khoảng cách giữa các thế hệ.
+11,2,The generation gap,sourced,burden,n,/ˈbɜːdn/,/ˈbɝːdən/,audio/uk/burden.mp3,audio/us/burden.mp3,gánh nặng,Children should not become a financial burden on their parents.,Con cái không nên trở thành gánh nặng tài chính cho bố mẹ.
+11,2,The generation gap,sourced,characteristic,n,/ˌkærəktəˈrɪstɪk/,/ˌkerəktəˈrɪstɪk/,audio/uk/characteristic.mp3,audio/us/characteristic.mp3,"đặc điểm, đặc trưng",Being independent is a common characteristic of Generation Z.,Tính độc lập là một đặc điểm phổ biến của thế hệ Z.
+11,2,The generation gap,sourced,conflict,n,/ˈkɒnflɪkt/,/ˈkɑːnflɪkt/,audio/uk/conflict.mp3,audio/us/conflict.mp3,"sự xung đột, mâu thuẫn",Different opinions on lifestyle often lead to conflicts between parents and children.,Những quan điểm khác nhau về lối sống thường dẫn đến mâu thuẫn giữa bố mẹ và con cái.
+11,2,The generation gap,sourced,conservative,adj,/kənˈsɜːvətɪv/,/kənˈsɝːvətɪv/,audio/uk/conservative.mp3,audio/us/conservative.mp3,bảo thủ,My grandfather is quite conservative and doesn't like modern fashion.,Ông tôi khá bảo thủ và không thích thời trang hiện đại.
+11,2,The generation gap,sourced,curfew,n,/ˈkɜːfjuː/,/ˈkɝːfjuː/,audio/uk/curfew.mp3,audio/us/curfew.mp3,giờ giới nghiêm (giờ phải về nhà),My parents set a curfew of 10 p.m. on weekdays.,Bố mẹ tôi quy định giờ phải về nhà là 10 giờ tối vào các ngày trong tuần.
+11,2,The generation gap,sourced,curious,adj,/ˈkjʊəriəs/,/ˈkjʊriəs/,audio/uk/curious.mp3,audio/us/curious.mp3,"tò mò, ham hiểu biết",Teenagers are naturally curious about new trends.,Thanh thiếu niên vốn tò mò về những xu hướng mới.
+11,2,The generation gap,sourced,deal with,phr v,/ˈdiːl wɪð/,/ˈdiːl wɪð/,audio/uk/deal-with.mp3,audio/us/deal-with.mp3,"giải quyết, đối phó với",Parents need to learn how to deal with conflicts with their teenage children.,Cha mẹ cần học cách giải quyết mâu thuẫn với con cái ở tuổi mới lớn.
+11,2,The generation gap,sourced,digital native,n,/ˌdɪdʒɪtl ˈneɪtɪv/,/ˌdɪdʒɪtəl ˈneɪtɪv/,audio/uk/digital-native.mp3,audio/us/digital-native.mp3,người sinh ra trong thời đại kỹ thuật số,"As digital natives, young people learn new apps very quickly.","Là những người sinh ra trong thời đại kỹ thuật số, giới trẻ học cách dùng ứng dụng mới rất nhanh."
+11,2,The generation gap,sourced,extended family,n,/ɪkˌstendɪd ˈfæməli/,/ɪkˌstendɪd ˈfæməli/,audio/uk/extended-family.mp3,audio/us/extended-family.mp3,đại gia đình (nhiều thế hệ),"I live in an extended family with my parents, grandparents and an uncle.","Tôi sống trong một đại gia đình gồm bố mẹ, ông bà và một người chú."
+11,2,The generation gap,sourced,financial,adj,/faɪˈnænʃl/,/faɪˈnænʃəl/,audio/uk/financial.mp3,audio/us/financial.mp3,thuộc về tài chính,Many young adults still depend on their parents for financial support.,Nhiều người trẻ vẫn phụ thuộc vào bố mẹ về mặt tài chính.
+11,2,The generation gap,sourced,follow in someone's footsteps,idiom,/ˌfɒləʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/,/ˌfɑːloʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/,audio/uk/follow-in-someone-s-footsteps.mp3,audio/us/follow-in-someone-s-footsteps.mp3,"nối nghiệp, theo bước ai đó",He decided to follow in his father's footsteps and become a doctor.,Anh ấy quyết định nối nghiệp bố và trở thành bác sĩ.
+11,2,The generation gap,sourced,generation gap,n,/ˌdʒenəˈreɪʃn ɡæp/,/ˌdʒenəˈreɪʃən ɡæp/,audio/uk/generation-gap.mp3,audio/us/generation-gap.mp3,khoảng cách thế hệ,The generation gap can cause conflicts in families.,Khoảng cách thế hệ có thể gây ra mâu thuẫn trong gia đình.
+11,2,The generation gap,sourced,generational,adj,/ˌdʒenəˈreɪʃənl/,/ˌdʒenəˈreɪʃənəl/,audio/uk/generational.mp3,audio/us/generational.mp3,thuộc về thế hệ,Generational differences can be seen in the way people use technology.,Sự khác biệt giữa các thế hệ có thể thấy rõ qua cách mọi người sử dụng công nghệ.
+11,2,The generation gap,sourced,multi-generational,adj,/ˌmʌltiˌdʒenəˈreɪʃənl/,/ˈmʌlti ˌdʒenəˈreɪʃənəl/,audio/uk/multi-generational.mp3,audio/us/multi-generational.mp3,nhiều thế hệ,Living in a multi-generational family teaches children to respect older people.,Sống trong gia đình nhiều thế hệ dạy trẻ em biết kính trọng người lớn tuổi.
+11,2,The generation gap,sourced,nuclear family,n,/ˌnjuːkliə ˈfæməli/,/ˌnuːkliɚ ˈfæməli/,audio/uk/nuclear-family.mp3,audio/us/nuclear-family.mp3,gia đình hạt nhân (chỉ có bố mẹ và con cái),"Nowadays, more and more people live in nuclear families.","Ngày nay, ngày càng nhiều người sống trong gia đình hạt nhân."
+11,2,The generation gap,sourced,respect,v,/rɪˈspekt/,/rɪˈspekt/,audio/uk/respect.mp3,audio/us/respect.mp3,"tôn trọng, kính trọng",We should respect our grandparents' opinions even when we disagree.,Chúng ta nên tôn trọng ý kiến của ông bà ngay cả khi không đồng tình.
+11,2,The generation gap,sourced,traditional,adj,/trəˈdɪʃənl/,/trəˈdɪʃənəl/,audio/uk/traditional.mp3,audio/us/traditional.mp3,truyền thống,My grandmother still holds traditional views about marriage.,Bà tôi vẫn giữ quan điểm truyền thống về hôn nhân.
+11,2,The generation gap,sourced,value,n,/ˈvæljuː/,/ˈvæljuː/,audio/uk/value.mp3,audio/us/value.mp3,giá trị,Family values are passed down from one generation to the next.,Các giá trị gia đình được truyền từ thế hệ này sang thế hệ khác.
+11,2,The generation gap,sourced,viewpoint,n,/ˈvjuːpɔɪnt/,/ˈvjuːpɔɪnt/,audio/uk/viewpoint.mp3,audio/us/viewpoint.mp3,quan điểm,Try to understand your parents' viewpoint before arguing with them.,Hãy cố gắng hiểu quan điểm của bố mẹ trước khi tranh cãi với họ.
+11,3,Cities of the future,sourced,city dweller,n,/ˈsɪti ˌdwelə(r)/,/ˈsɪti ˌdwelɚ/,audio/uk/city-dweller.mp3,audio/us/city-dweller.mp3,cư dân thành phố,City dwellers often suffer from noise and air pollution.,Cư dân thành phố thường phải chịu ô nhiễm tiếng ồn và không khí.
+11,3,Cities of the future,sourced,cycle path,n,/ˈsaɪkl pɑːθ/,/ˈsaɪkəl pæθ/,audio/uk/cycle-path.mp3,audio/us/cycle-path.mp3,đường dành cho xe đạp,The city plans to build more cycle paths to reduce traffic.,Thành phố dự định xây thêm nhiều đường dành cho xe đạp để giảm lưu lượng giao thông.
+11,3,Cities of the future,sourced,detect,v,/dɪˈtekt/,/dɪˈtekt/,audio/uk/detect.mp3,audio/us/detect.mp3,phát hiện,Smart sensors can detect air pollution in real time.,Cảm biến thông minh có thể phát hiện ô nhiễm không khí theo thời gian thực.
+11,3,Cities of the future,sourced,driverless,adj,/ˈdraɪvələs/,/ˈdraɪvɚlɪs/,audio/uk/driverless.mp3,audio/us/driverless.mp3,không người lái,Driverless cars may become common in cities of the future.,Xe ô tô không người lái có thể sẽ trở nên phổ biến ở các thành phố tương lai.
+11,3,Cities of the future,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,Future cities will use more eco-friendly means of transport.,Các thành phố tương lai sẽ sử dụng nhiều phương tiện giao thông thân thiện với môi trường hơn.
+11,3,Cities of the future,sourced,electric bus,n,/ɪˌlektrɪk ˈbʌs/,/ɪˌlektrɪk ˈbʌs/,audio/uk/electric-bus.mp3,audio/us/electric-bus.mp3,xe buýt điện,"Electric buses produce no exhaust fumes, so they help keep the air clean.",Xe buýt điện không thải ra khói nên giúp giữ cho không khí trong lành.
+11,3,Cities of the future,sourced,get around,phr v,/ˌɡet əˈraʊnd/,/ˌɡet əˈraʊnd/,audio/uk/get-around-phr-v.mp3,audio/us/get-around-phr-v.mp3,"đi lại, di chuyển",It's easy to get around the city by underground train.,Đi lại trong thành phố bằng tàu điện ngầm rất dễ dàng.
+11,3,Cities of the future,sourced,greenhouse gas,n,/ˌɡriːnhaʊs ˈɡæs/,/ˌɡriːnhaʊs ˈɡæs/,audio/uk/greenhouse-gas.mp3,audio/us/greenhouse-gas.mp3,khí nhà kính,Cars and factories release large amounts of greenhouse gases.,Ô tô và nhà máy thải ra một lượng lớn khí nhà kính.
+11,3,Cities of the future,sourced,high-rise,adj,/ˈhaɪ raɪz/,/ˈhaɪ raɪz/,audio/uk/high-rise.mp3,audio/us/high-rise.mp3,cao tầng,More high-rise buildings will be built to house the growing population.,Nhiều tòa nhà cao tầng hơn sẽ được xây dựng để đáp ứng nhu cầu nhà ở của dân số ngày càng tăng.
+11,3,Cities of the future,sourced,infrastructure,n,/ˈɪnfrəstrʌktʃə(r)/,/ˌɪnfrəˈstrʌktʃɚ/,audio/uk/infrastructure.mp3,audio/us/infrastructure.mp3,cơ sở hạ tầng,The government is investing heavily in the city's infrastructure.,Chính phủ đang đầu tư mạnh vào cơ sở hạ tầng của thành phố.
+11,3,Cities of the future,sourced,inhabitant,n,/ɪnˈhæbɪtənt/,/ɪnˈhæbɪtənt/,audio/uk/inhabitant.mp3,audio/us/inhabitant.mp3,cư dân,The city has more than eight million inhabitants.,Thành phố có hơn tám triệu cư dân.
+11,3,Cities of the future,sourced,interact,v,/ˌɪntərˈækt/,/ˌɪntəˈrækt/,audio/uk/interact.mp3,audio/us/interact.mp3,tương tác,"In smart cities, people will interact with buildings through their phones.","Ở các thành phố thông minh, mọi người sẽ tương tác với các tòa nhà thông qua điện thoại."
+11,3,Cities of the future,sourced,liveable,adj,/ˈlɪvəbl/,/ˈlɪvəbl/,audio/uk/liveable.mp3,audio/us/liveable.mp3,đáng sống,Green spaces make a city more liveable.,Không gian xanh giúp thành phố trở nên đáng sống hơn.
+11,3,Cities of the future,sourced,operate,v,/ˈɒpəreɪt/,/ˈɑːpəreɪt/,audio/uk/operate.mp3,audio/us/operate.mp3,"vận hành, hoạt động",The new metro line will start to operate next year.,Tuyến tàu điện ngầm mới sẽ bắt đầu vận hành vào năm sau.
+11,3,Cities of the future,sourced,pollution,n,/pəˈluːʃn/,/pəˈluːʃən/,audio/uk/pollution.mp3,audio/us/pollution.mp3,sự ô nhiễm,Air pollution is a serious problem in many big cities.,Ô nhiễm không khí là một vấn đề nghiêm trọng ở nhiều thành phố lớn.
+11,3,Cities of the future,sourced,public transport,n,/ˌpʌblɪk ˈtrænspɔːt/,/ˌpʌblɪk ˈtrænspɔːrt/,audio/uk/public-transport.mp3,audio/us/public-transport.mp3,phương tiện giao thông công cộng,Using public transport can help reduce traffic jams.,Sử dụng phương tiện giao thông công cộng có thể giúp giảm tắc đường.
+11,3,Cities of the future,sourced,quality of life,n,/ˌkwɒləti əv ˈlaɪf/,/ˌkwɑːləti əv ˈlaɪf/,audio/uk/quality-of-life.mp3,audio/us/quality-of-life.mp3,chất lượng cuộc sống,Smart technology can improve the quality of life in cities.,Công nghệ thông minh có thể nâng cao chất lượng cuộc sống ở các thành phố.
+11,3,Cities of the future,sourced,renewable,adj,/rɪˈnjuːəbl/,/riˈnuːəbəl/,audio/uk/renewable.mp3,audio/us/renewable.mp3,có thể tái tạo,Future cities will rely on renewable energy such as solar and wind power.,Các thành phố tương lai sẽ dựa vào năng lượng tái tạo như năng lượng mặt trời và năng lượng gió.
+11,3,Cities of the future,sourced,roof garden,n,/ˈruːf ɡɑːdn/,/ˈruːf ˌɡɑːrdən/,audio/uk/roof-garden.mp3,audio/us/roof-garden.mp3,vườn trên sân thượng,Residents grow vegetables in the roof garden of their apartment building.,Cư dân trồng rau trong khu vườn trên sân thượng của tòa chung cư.
+11,3,Cities of the future,sourced,sensor,n,/ˈsensə(r)/,/ˈsensɚ/,audio/uk/sensor.mp3,audio/us/sensor.mp3,cảm biến,Smart sensors will control the traffic lights.,Các cảm biến thông minh sẽ điều khiển đèn giao thông.
+11,3,Cities of the future,sourced,skyscraper,n,/ˈskaɪskreɪpə(r)/,/ˈskaɪskreɪpɚ/,audio/uk/skyscraper-n.mp3,audio/us/skyscraper-n.mp3,nhà chọc trời,The city skyline is full of modern skyscrapers.,Đường chân trời của thành phố dày đặc những tòa nhà chọc trời hiện đại.
+11,3,Cities of the future,sourced,sustainable,adj,/səˈsteɪnəbl/,/səˈsteɪnəbəl/,audio/uk/sustainable.mp3,audio/us/sustainable.mp3,bền vững,Planners are designing sustainable cities that use less energy.,Các nhà quy hoạch đang thiết kế những thành phố bền vững sử dụng ít năng lượng hơn.
+11,3,Cities of the future,sourced,traffic jam,n,/ˈtræfɪk dʒæm/,/ˈtræfɪk dʒæm/,audio/uk/traffic-jam.mp3,audio/us/traffic-jam.mp3,tắc đường,I was late for school because of a traffic jam.,Tôi đến trường muộn vì bị tắc đường.
+11,3,Cities of the future,sourced,tram,n,/træm/,/træm/,audio/uk/tram.mp3,audio/us/tram.mp3,"xe điện, tàu điện",Trams are a clean and convenient way to travel around the city centre.,Tàu điện là một cách di chuyển sạch sẽ và tiện lợi quanh trung tâm thành phố.
+11,3,Cities of the future,sourced,urban,adj,/ˈɜːbən/,/ˈɝːbən/,audio/uk/urban.mp3,audio/us/urban.mp3,thuộc đô thị,Urban areas are becoming more and more crowded.,Các khu vực đô thị đang ngày càng trở nên đông đúc.
+11,3,Cities of the future,sourced,vehicle,n,/ˈviːəkl/,/ˈviːɪkəl/,audio/uk/vehicle.mp3,audio/us/vehicle.mp3,"phương tiện giao thông, xe cộ",The number of private vehicles in the city keeps increasing.,Số lượng phương tiện cá nhân trong thành phố không ngừng tăng lên.
+11,4,ASEAN and Viet Nam,sourced,apply for,phr v,/əˈplaɪ fə(r)/,/əˈplaɪ fɚ/,audio/uk/apply-for.mp3,audio/us/apply-for.mp3,"nộp đơn xin, ứng tuyển",She applied for a scholarship to study in Singapore.,Cô ấy đã nộp đơn xin học bổng để du học Singapore.
+11,4,ASEAN and Viet Nam,sourced,association,n,/əˌsəʊsiˈeɪʃn/,/əˌsoʊsiˈeɪʃən/,audio/uk/association.mp3,audio/us/association.mp3,hiệp hội,ASEAN stands for the Association of Southeast Asian Nations.,ASEAN là viết tắt của Hiệp hội các quốc gia Đông Nam Á.
+11,4,ASEAN and Viet Nam,sourced,beneficial,adj,/ˌbenɪˈfɪʃl/,/ˌbenəˈfɪʃəl/,audio/uk/beneficial.mp3,audio/us/beneficial.mp3,"có lợi, có ích",Cultural exchange programmes are beneficial to young people in the region.,Các chương trình giao lưu văn hóa mang lại lợi ích cho giới trẻ trong khu vực.
+11,4,ASEAN and Viet Nam,sourced,bloc,n,/blɒk/,/blɑːk/,audio/uk/bloc.mp3,audio/us/bloc.mp3,khối (liên minh các nước),ASEAN has become an important economic bloc in Asia.,ASEAN đã trở thành một khối kinh tế quan trọng ở châu Á.
+11,4,ASEAN and Viet Nam,sourced,charter,n,/ˈtʃɑːtə(r)/,/ˈtʃɑːrtɚ/,audio/uk/charter.mp3,audio/us/charter.mp3,hiến chương,The ASEAN Charter came into force in 2008.,Hiến chương ASEAN có hiệu lực từ năm 2008.
+11,4,ASEAN and Viet Nam,sourced,community,n,/kəˈmjuːnəti/,/kəˈmjuːnəti/,audio/uk/community.mp3,audio/us/community.mp3,cộng đồng,The ASEAN Community was officially established in 2015.,Cộng đồng ASEAN được chính thức thành lập vào năm 2015.
+11,4,ASEAN and Viet Nam,sourced,constitution,n,/ˌkɒnstɪˈtjuːʃn/,/ˌkɑːnstəˈtuːʃən/,audio/uk/constitution.mp3,audio/us/constitution.mp3,hiến pháp,Each member state of ASEAN has its own constitution.,Mỗi quốc gia thành viên ASEAN đều có hiến pháp riêng.
+11,4,ASEAN and Viet Nam,sourced,contribution,n,/ˌkɒntrɪˈbjuːʃn/,/ˌkɑːntrəˈbjuːʃən/,audio/uk/contribution.mp3,audio/us/contribution.mp3,sự đóng góp,Viet Nam has made great contributions to the development of ASEAN.,Việt Nam đã có những đóng góp to lớn cho sự phát triển của ASEAN.
+11,4,ASEAN and Viet Nam,sourced,cooperation,n,/kəʊˌɒpəˈreɪʃn/,/koʊˌɑːpəˈreɪʃən/,audio/uk/cooperation.mp3,audio/us/cooperation.mp3,sự hợp tác,ASEAN countries promote cooperation in education and trade.,Các nước ASEAN thúc đẩy sự hợp tác trong giáo dục và thương mại.
+11,4,ASEAN and Viet Nam,sourced,cultural exchange,n,/ˌkʌltʃərəl ɪksˈtʃeɪndʒ/,/ˌkʌltʃɚəl ɪksˈtʃeɪndʒ/,audio/uk/cultural-exchange.mp3,audio/us/cultural-exchange.mp3,giao lưu văn hóa,The cultural exchange helped students learn about other ASEAN countries.,Chuyến giao lưu văn hóa đã giúp học sinh tìm hiểu về các nước ASEAN khác.
+11,4,ASEAN and Viet Nam,sourced,dispute,n,/dɪˈspjuːt/,/dɪˈspjuːt/,audio/uk/dispute.mp3,audio/us/dispute.mp3,tranh chấp,Member states try to settle disputes peacefully.,Các quốc gia thành viên cố gắng giải quyết tranh chấp một cách hòa bình.
+11,4,ASEAN and Viet Nam,sourced,diversity,n,/daɪˈvɜːsəti/,/daɪˈvɝːsɪti/,audio/uk/diversity.mp3,audio/us/diversity.mp3,sự đa dạng,ASEAN is famous for its cultural diversity.,ASEAN nổi tiếng về sự đa dạng văn hóa.
+11,4,ASEAN and Viet Nam,sourced,economic,adj,/ˌiːkəˈnɒmɪk/,/ˌiːkəˈnɑːmɪk/,audio/uk/economic.mp3,audio/us/economic.mp3,thuộc về kinh tế,ASEAN aims to promote economic growth in the region.,ASEAN hướng tới thúc đẩy tăng trưởng kinh tế trong khu vực.
+11,4,ASEAN and Viet Nam,sourced,economy,n,/ɪˈkɒnəmi/,/ɪˈkɑːnəmi/,audio/uk/economy.mp3,audio/us/economy.mp3,nền kinh tế,Viet Nam's economy has grown rapidly since it joined ASEAN.,Nền kinh tế Việt Nam đã tăng trưởng nhanh chóng kể từ khi gia nhập ASEAN.
+11,4,ASEAN and Viet Nam,sourced,eye-opening,adj,/ˈaɪ əʊpənɪŋ/,/ˈaɪ ˌoʊpənɪŋ/,audio/uk/eye-opening.mp3,audio/us/eye-opening.mp3,mở mang tầm mắt,Taking part in the ASEAN youth camp was an eye-opening experience for me.,Tham gia trại hè thanh niên ASEAN là một trải nghiệm mở mang tầm mắt đối với tôi.
+11,4,ASEAN and Viet Nam,sourced,host,v,/həʊst/,/hoʊst/,audio/uk/host.mp3,audio/us/host.mp3,"đăng cai, tổ chức",Viet Nam hosted the 22nd SEA Games in 2003.,Việt Nam đã đăng cai SEA Games lần thứ 22 vào năm 2003.
+11,4,ASEAN and Viet Nam,sourced,maintain,v,/meɪnˈteɪn/,/meɪnˈteɪn/,audio/uk/maintain.mp3,audio/us/maintain.mp3,duy trì,ASEAN works to maintain peace and stability in the region.,ASEAN nỗ lực duy trì hòa bình và ổn định trong khu vực.
+11,4,ASEAN and Viet Nam,sourced,member state,n,/ˌmembə ˈsteɪt/,/ˌmembɚ ˈsteɪt/,audio/uk/member-state.mp3,audio/us/member-state.mp3,quốc gia thành viên,Viet Nam became a member state of ASEAN in 1995.,Việt Nam trở thành quốc gia thành viên của ASEAN vào năm 1995.
+11,4,ASEAN and Viet Nam,sourced,motto,n,/ˈmɒtəʊ/,/ˈmɑːtoʊ/,audio/uk/motto.mp3,audio/us/motto.mp3,"phương châm, khẩu hiệu","The ASEAN motto is ""One Vision, One Identity, One Community"".","Phương châm của ASEAN là ""Một tầm nhìn, Một bản sắc, Một cộng đồng""."
+11,4,ASEAN and Viet Nam,sourced,principle,n,/ˈprɪnsəpl/,/ˈprɪnsəpəl/,audio/uk/principle.mp3,audio/us/principle.mp3,nguyên tắc,Non-interference is one of the basic principles of ASEAN.,Không can thiệp là một trong những nguyên tắc cơ bản của ASEAN.
+11,4,ASEAN and Viet Nam,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"thúc đẩy, quảng bá",The programme aims to promote friendship among young people in ASEAN.,Chương trình nhằm thúc đẩy tình hữu nghị giữa thanh niên các nước ASEAN.
+11,4,ASEAN and Viet Nam,sourced,region,n,/ˈriːdʒən/,/ˈriːdʒən/,audio/uk/region.mp3,audio/us/region.mp3,"khu vực, vùng",Southeast Asia is a region rich in culture and natural resources.,Đông Nam Á là khu vực giàu văn hóa và tài nguyên thiên nhiên.
+11,4,ASEAN and Viet Nam,sourced,regional,adj,/ˈriːdʒənl/,/ˈriːdʒənəl/,audio/uk/regional.mp3,audio/us/regional.mp3,thuộc khu vực,ASEAN plays an important role in regional security.,ASEAN đóng vai trò quan trọng trong an ninh khu vực.
+11,4,ASEAN and Viet Nam,sourced,scholarship,n,/ˈskɒləʃɪp/,/ˈskɑːlɚʃɪp/,audio/uk/scholarship.mp3,audio/us/scholarship.mp3,học bổng,He won a scholarship to study at a university in Thailand.,Anh ấy đã giành được học bổng để học tại một trường đại học ở Thái Lan.
+11,4,ASEAN and Viet Nam,sourced,solidarity,n,/ˌsɒlɪˈdærəti/,/ˌsɑːləˈderəti/,audio/uk/solidarity.mp3,audio/us/solidarity.mp3,sự đoàn kết,The ASEAN flag is a symbol of unity and solidarity.,Lá cờ ASEAN là biểu tượng của sự thống nhất và đoàn kết.
+11,4,ASEAN and Viet Nam,sourced,stability,n,/stəˈbɪləti/,/stəˈbɪlɪti/,audio/uk/stability.mp3,audio/us/stability.mp3,sự ổn định,Peace and stability are necessary for economic development.,Hòa bình và ổn định là điều cần thiết cho sự phát triển kinh tế.
+11,4,ASEAN and Viet Nam,sourced,summit,n,/ˈsʌmɪt/,/ˈsʌmɪt/,audio/uk/summit.mp3,audio/us/summit.mp3,hội nghị thượng đỉnh,Leaders of the member states met at the ASEAN Summit in Ha Noi.,Lãnh đạo các quốc gia thành viên đã gặp nhau tại Hội nghị Thượng đỉnh ASEAN ở Hà Nội.
+11,4,ASEAN and Viet Nam,sourced,take part in,phr v,/ˌteɪk ˈpɑːt ɪn/,/ˌteɪk ˈpɑːrt ɪn/,audio/uk/take-part-in-phr-v.mp3,audio/us/take-part-in-phr-v.mp3,tham gia,Students from ten countries took part in the ASEAN youth festival.,Học sinh từ mười quốc gia đã tham gia ngày hội thanh niên ASEAN.
+11,4,ASEAN and Viet Nam,sourced,vision,n,/ˈvɪʒn/,/ˈvɪʒən/,audio/uk/vision.mp3,audio/us/vision.mp3,tầm nhìn,The leaders shared a common vision for the future of ASEAN.,Các nhà lãnh đạo đã cùng chia sẻ một tầm nhìn chung về tương lai của ASEAN.
+11,4,ASEAN and Viet Nam,sourced,workshop,n,/ˈwɜːkʃɒp/,/ˈwɝːkʃɑːp/,audio/uk/workshop.mp3,audio/us/workshop.mp3,"hội thảo, buổi tập huấn",Our school held a workshop on ASEAN culture and history.,Trường tôi đã tổ chức một buổi hội thảo về văn hóa và lịch sử ASEAN.
+11,5,Global warming,sourced,absorb,v,/əbˈzɔːb/,/əbˈzɔːrb/,audio/uk/absorb.mp3,audio/us/absorb.mp3,hấp thụ,Forests absorb carbon dioxide from the air.,Rừng hấp thụ khí CO2 từ không khí.
+11,5,Global warming,sourced,atmosphere,n,/ˈætməsfɪə(r)/,/ˈætməsfɪr/,audio/uk/atmosphere.mp3,audio/us/atmosphere.mp3,khí quyển,Greenhouse gases trap heat in the Earth's atmosphere.,Khí nhà kính giữ nhiệt lại trong bầu khí quyển của Trái Đất.
+11,5,Global warming,sourced,carbon dioxide,n,/ˌkɑːbən daɪˈɒksaɪd/,/ˌkɑːrbən daɪˈɑːksaɪd/,audio/uk/carbon-dioxide.mp3,audio/us/carbon-dioxide.mp3,khí các-bon đi-ô-xít (CO2),Burning fossil fuels releases a lot of carbon dioxide.,Việc đốt nhiên liệu hóa thạch thải ra rất nhiều khí CO2.
+11,5,Global warming,sourced,climate change,n,/ˈklaɪmət tʃeɪndʒ/,/ˈklaɪmət tʃeɪndʒ/,audio/uk/climate-change.mp3,audio/us/climate-change.mp3,biến đổi khí hậu,Climate change is causing more extreme weather around the world.,Biến đổi khí hậu đang gây ra nhiều hiện tượng thời tiết cực đoan hơn trên khắp thế giới.
+11,5,Global warming,sourced,coal,n,/kəʊl/,/koʊl/,audio/uk/coal.mp3,audio/us/coal.mp3,than đá,Many power plants still burn coal to produce electricity.,Nhiều nhà máy điện vẫn đốt than đá để sản xuất điện.
+11,5,Global warming,sourced,consequence,n,/ˈkɒnsɪkwəns/,/ˈkɑːnsəkwəns/,audio/uk/consequence.mp3,audio/us/consequence.mp3,hậu quả,Rising sea levels are one of the consequences of global warming.,Mực nước biển dâng là một trong những hậu quả của sự nóng lên toàn cầu.
+11,5,Global warming,sourced,cut down,phr v,/ˌkʌt ˈdaʊn/,/ˌkʌt ˈdaʊn/,audio/uk/cut-down-phr-v.mp3,audio/us/cut-down-phr-v.mp3,chặt (cây),Thousands of trees are cut down every day to make space for farms.,Hàng nghìn cây xanh bị chặt hạ mỗi ngày để lấy đất làm trang trại.
+11,5,Global warming,sourced,deforestation,n,/ˌdiːˌfɒrɪˈsteɪʃn/,/dɪˌfɔːrɪˈsteɪʃən/,audio/uk/deforestation.mp3,audio/us/deforestation.mp3,sự phá rừng,Deforestation contributes to global warming.,Nạn phá rừng góp phần làm Trái Đất nóng lên.
+11,5,Global warming,sourced,emission,n,/iˈmɪʃn/,/ɪˈmɪʃən/,audio/uk/emission.mp3,audio/us/emission.mp3,"sự phát thải, khí thải",We must reduce carbon emissions to slow down climate change.,Chúng ta phải giảm lượng khí thải các-bon để làm chậm quá trình biến đổi khí hậu.
+11,5,Global warming,sourced,farmland,n,/ˈfɑːmlænd/,/ˈfɑːrmlænd/,audio/uk/farmland.mp3,audio/us/farmland.mp3,đất nông nghiệp,Forests are being cleared to create more farmland.,Rừng đang bị phá để lấy thêm đất nông nghiệp.
+11,5,Global warming,sourced,fossil fuel,n,/ˌfɒsl ˈfjuːəl/,/ˌfɑːsəl ˈfjuːəl/,audio/uk/fossil-fuel-n.mp3,audio/us/fossil-fuel-n.mp3,nhiên liệu hóa thạch,We should replace fossil fuels with renewable energy.,Chúng ta nên thay thế nhiên liệu hóa thạch bằng năng lượng tái tạo.
+11,5,Global warming,sourced,global warming,n,/ˌɡləʊbl ˈwɔːmɪŋ/,/ˌɡloʊbəl ˈwɔːrmɪŋ/,audio/uk/global-warming.mp3,audio/us/global-warming.mp3,sự nóng lên toàn cầu,Global warming is caused mainly by human activities.,Sự nóng lên toàn cầu chủ yếu do các hoạt động của con người gây ra.
+11,5,Global warming,sourced,greenhouse gas,n,/ˌɡriːnhaʊs ˈɡæs/,/ˌɡriːnhaʊs ˈɡæs/,audio/uk/greenhouse-gas.mp3,audio/us/greenhouse-gas.mp3,khí nhà kính,Carbon dioxide is the most common greenhouse gas.,CO2 là loại khí nhà kính phổ biến nhất.
+11,5,Global warming,sourced,heat-trapping,adj,/ˈhiːt træpɪŋ/,/ˈhiːt ˌtræpɪŋ/,audio/uk/heat-trapping.mp3,audio/us/heat-trapping.mp3,giữ nhiệt,Methane is a powerful heat-trapping gas.,Mê-tan là một loại khí giữ nhiệt rất mạnh.
+11,5,Global warming,sourced,human activity,n,/ˌhjuːmən ækˈtɪvəti/,/ˌhjuːmən ækˈtɪvəti/,audio/uk/human-activity.mp3,audio/us/human-activity.mp3,hoạt động của con người,Human activities such as burning coal increase greenhouse gases.,Các hoạt động của con người như đốt than đá làm tăng lượng khí nhà kính.
+11,5,Global warming,sourced,impact,n,/ˈɪmpækt/,/ˈɪmpækt/,audio/uk/impact.mp3,audio/us/impact.mp3,"tác động, ảnh hưởng",Global warming has a serious impact on agriculture.,Sự nóng lên toàn cầu có tác động nghiêm trọng đến nông nghiệp.
+11,5,Global warming,sourced,leaflet,n,/ˈliːflət/,/ˈliːflət/,audio/uk/leaflet.mp3,audio/us/leaflet.mp3,tờ rơi,We handed out leaflets about global warming to local residents.,Chúng tôi đã phát tờ rơi về sự nóng lên toàn cầu cho người dân địa phương.
+11,5,Global warming,sourced,melt,v,/melt/,/melt/,audio/uk/melt.mp3,audio/us/melt.mp3,tan chảy,Rising temperatures are causing glaciers to melt.,Nhiệt độ tăng cao đang khiến các sông băng tan chảy.
+11,5,Global warming,sourced,methane,n,/ˈmiːθeɪn/,/ˈmeθeɪn/,audio/uk/methane.mp3,audio/us/methane.mp3,khí mê-tan,Cattle farming produces a large amount of methane.,Chăn nuôi gia súc thải ra một lượng lớn khí mê-tan.
+11,5,Global warming,sourced,polar ice cap,n,/ˌpəʊlə ˈaɪs kæp/,/ˌpoʊlɚ ˈaɪs kæp/,audio/uk/polar-ice-cap.mp3,audio/us/polar-ice-cap.mp3,chỏm băng ở vùng cực,The polar ice caps are melting faster than expected.,Các chỏm băng ở vùng cực đang tan nhanh hơn dự đoán.
+11,5,Global warming,sourced,pollutant,n,/pəˈluːtənt/,/pəˈluːtənt/,audio/uk/pollutant.mp3,audio/us/pollutant.mp3,chất gây ô nhiễm,Factories release pollutants into the air and water.,Các nhà máy thải chất gây ô nhiễm vào không khí và nguồn nước.
+11,5,Global warming,sourced,release,v,/rɪˈliːs/,/riˈliːs/,audio/uk/release.mp3,audio/us/release.mp3,"thải ra, giải phóng",Cars release harmful gases into the atmosphere.,Ô tô thải ra các loại khí độc hại vào bầu khí quyển.
+11,5,Global warming,sourced,renewable,adj,/rɪˈnjuːəbl/,/riˈnuːəbəl/,audio/uk/renewable.mp3,audio/us/renewable.mp3,có thể tái tạo,Solar power is a clean and renewable source of energy.,Năng lượng mặt trời là một nguồn năng lượng sạch và có thể tái tạo.
+11,5,Global warming,sourced,sea level,n,/ˈsiː levl/,/ˈsiː ˌlevəl/,audio/uk/sea-level.mp3,audio/us/sea-level.mp3,mực nước biển,Rising sea levels threaten coastal cities.,Mực nước biển dâng đe dọa các thành phố ven biển.
+11,5,Global warming,sourced,solution,n,/səˈluːʃn/,/səˈluːʃən/,audio/uk/solution.mp3,audio/us/solution.mp3,giải pháp,Planting more trees is a simple solution to global warming.,Trồng thêm cây xanh là một giải pháp đơn giản cho sự nóng lên toàn cầu.
+11,5,Global warming,sourced,soot,n,/sʊt/,/sʊt/,audio/uk/soot.mp3,audio/us/soot.mp3,"bồ hóng, muội than","Soot from burning coal makes the ice darker, so it melts faster.",Muội than từ việc đốt than đá làm băng sẫm màu hơn nên tan nhanh hơn.
+11,5,Global warming,sourced,temperature,n,/ˈtemprətʃə(r)/,/ˈtemprətʃɚ/,audio/uk/temperature.mp3,audio/us/temperature.mp3,nhiệt độ,The Earth's average temperature has risen over the past century.,Nhiệt độ trung bình của Trái Đất đã tăng lên trong thế kỷ qua.
+11,6,Preserving our heritage,sourced,ancient,adj,/ˈeɪnʃənt/,/ˈeɪnʃənt/,audio/uk/ancient.mp3,audio/us/ancient.mp3,"cổ, cổ xưa",Hoi An is famous for its ancient houses and narrow streets.,Hội An nổi tiếng với những ngôi nhà cổ và các con phố nhỏ hẹp.
+11,6,Preserving our heritage,sourced,appreciate,v,/əˈpriːʃieɪt/,/əˈpriːʃieɪt/,audio/uk/appreciate.mp3,audio/us/appreciate.mp3,"trân trọng, đánh giá cao",We should appreciate the cultural heritage left by our ancestors.,Chúng ta nên trân trọng di sản văn hóa mà ông cha để lại.
+11,6,Preserving our heritage,sourced,archaeological,adj,/ˌɑːkiəˈlɒdʒɪkl/,/ˌɑːrkiəˈlɑːdʒɪkəl/,audio/uk/archaeological.mp3,audio/us/archaeological.mp3,thuộc về khảo cổ học,Archaeological excavations at the citadel have uncovered many relics.,Các cuộc khai quật khảo cổ tại kinh thành đã phát hiện nhiều di vật.
+11,6,Preserving our heritage,sourced,cave,n,/keɪv/,/keɪv/,audio/uk/cave.mp3,audio/us/cave.mp3,hang động,Son Doong is the largest cave in the world.,Sơn Đoòng là hang động lớn nhất thế giới.
+11,6,Preserving our heritage,sourced,citadel,n,/ˈsɪtədəl/,/ˈsɪtədel/,audio/uk/citadel.mp3,audio/us/citadel.mp3,"thành lũy, kinh thành",The Imperial Citadel of Thang Long is a World Heritage Site.,Hoàng thành Thăng Long là một Di sản Thế giới.
+11,6,Preserving our heritage,sourced,complex,n,/ˈkɒmpleks/,/ˈkɑːmpleks/,audio/uk/complex.mp3,audio/us/complex.mp3,"quần thể, khu liên hợp",The Complex of Hue Monuments attracts thousands of visitors every year.,Quần thể di tích Cố đô Huế thu hút hàng nghìn du khách mỗi năm.
+11,6,Preserving our heritage,sourced,crowdfunding,n,/ˈkraʊdfʌndɪŋ/,/ˈkraʊdfʌndɪŋ/,audio/uk/crowdfunding.mp3,audio/us/crowdfunding.mp3,gây quỹ cộng đồng,The students used crowdfunding to raise money for restoring the old temple.,Các bạn học sinh đã gây quỹ cộng đồng để quyên tiền trùng tu ngôi đền cổ.
+11,6,Preserving our heritage,sourced,die out,phr v,/ˌdaɪ ˈaʊt/,/ˌdaɪ ˈaʊt/,audio/uk/die-out.mp3,audio/us/die-out.mp3,"biến mất, mai một",Many traditional crafts are in danger of dying out.,Nhiều nghề thủ công truyền thống đang có nguy cơ mai một.
+11,6,Preserving our heritage,sourced,festive,adj,/ˈfestɪv/,/ˈfestɪv/,audio/uk/festive.mp3,audio/us/festive.mp3,thuộc về lễ hội,The streets are full of festive lanterns during the Mid-Autumn Festival.,Đường phố rực rỡ đèn lồng ngày hội trong dịp Tết Trung thu.
+11,6,Preserving our heritage,sourced,fine,n,/faɪn/,/faɪn/,audio/uk/fine.mp3,audio/us/fine.mp3,tiền phạt,Visitors who damage the relics will have to pay a fine.,Du khách làm hư hại di tích sẽ phải nộp phạt.
+11,6,Preserving our heritage,sourced,folk,adj,/fəʊk/,/foʊk/,audio/uk/folk.mp3,audio/us/folk.mp3,dân gian,Quan ho is a traditional folk song of Bac Ninh Province.,Quan họ là một làn điệu dân ca truyền thống của tỉnh Bắc Ninh.
+11,6,Preserving our heritage,sourced,heritage,n,/ˈherɪtɪdʒ/,/ˈherɪtɪdʒ/,audio/uk/heritage.mp3,audio/us/heritage.mp3,di sản,It is our duty to protect our national heritage.,Bảo vệ di sản dân tộc là nghĩa vụ của chúng ta.
+11,6,Preserving our heritage,sourced,heritage site,n,/ˈherɪtɪdʒ saɪt/,/ˈherɪtɪdʒ saɪt/,audio/uk/heritage-site.mp3,audio/us/heritage-site.mp3,khu di sản,Hoi An Ancient Town is a famous heritage site.,Phố cổ Hội An là một khu di sản nổi tiếng.
+11,6,Preserving our heritage,sourced,historic,adj,/hɪˈstɒrɪk/,/hɪˈstɔːrɪk/,audio/uk/historic.mp3,audio/us/historic.mp3,"có tính lịch sử, quan trọng về mặt lịch sử",The victory at Dien Bien Phu was a historic event.,Chiến thắng Điện Biên Phủ là một sự kiện mang tính lịch sử.
+11,6,Preserving our heritage,sourced,historical,adj,/hɪˈstɒrɪkl/,/hɪˈstɔːrɪkəl/,audio/uk/historical.mp3,audio/us/historical.mp3,thuộc về lịch sử,The museum displays many historical documents and objects.,Bảo tàng trưng bày nhiều tài liệu và hiện vật lịch sử.
+11,6,Preserving our heritage,sourced,imperial,adj,/ɪmˈpɪəriəl/,/ˌɪmˈpɪriəl/,audio/uk/imperial.mp3,audio/us/imperial.mp3,thuộc về hoàng triều,Hue was the imperial capital of the Nguyen Dynasty.,Huế từng là kinh đô của triều Nguyễn.
+11,6,Preserving our heritage,sourced,landscape,n,/ˈlændskeɪp/,/ˈlændskeɪp/,audio/uk/landscape.mp3,audio/us/landscape.mp3,phong cảnh,Trang An is famous for its beautiful natural landscape.,Tràng An nổi tiếng với phong cảnh thiên nhiên tuyệt đẹp.
+11,6,Preserving our heritage,sourced,limestone,n,/ˈlaɪmstəʊn/,/ˈlaɪmstoʊn/,audio/uk/limestone.mp3,audio/us/limestone.mp3,đá vôi,Ha Long Bay has thousands of limestone islands.,Vịnh Hạ Long có hàng nghìn hòn đảo đá vôi.
+11,6,Preserving our heritage,sourced,monument,n,/ˈmɒnjumənt/,/ˈmɑːnjuːmənt/,audio/uk/monument.mp3,audio/us/monument.mp3,"đài tưởng niệm, công trình kỷ niệm",The monument was built to honour soldiers who died in the war.,Đài tưởng niệm được xây dựng để tưởng nhớ những người lính đã hy sinh trong chiến tranh.
+11,6,Preserving our heritage,sourced,performing arts,n,/pəˌfɔːmɪŋ ˈɑːts/,/pɚˌfɔːrmɪŋ ˈɑːrts/,audio/uk/performing-arts.mp3,audio/us/performing-arts.mp3,nghệ thuật biểu diễn,Water puppetry is a traditional performing art of Viet Nam.,Múa rối nước là một loại hình nghệ thuật biểu diễn truyền thống của Việt Nam.
+11,6,Preserving our heritage,sourced,preservation,n,/ˌprezəˈveɪʃn/,/ˌprezɚˈveɪʃən/,audio/uk/preservation.mp3,audio/us/preservation.mp3,sự bảo tồn,The preservation of historic buildings requires a lot of money.,Việc bảo tồn các công trình lịch sử đòi hỏi rất nhiều tiền.
+11,6,Preserving our heritage,sourced,preserve,v,/prɪˈzɜːv/,/prɪˈzɝːv/,audio/uk/preserve.mp3,audio/us/preserve.mp3,"bảo tồn, gìn giữ",Young people should help preserve traditional folk music.,Giới trẻ nên góp phần gìn giữ âm nhạc dân gian truyền thống.
+11,6,Preserving our heritage,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,quảng bá,Social media can be used to promote local heritage sites.,Mạng xã hội có thể được dùng để quảng bá các khu di sản địa phương.
+11,6,Preserving our heritage,sourced,relic,n,/ˈrelɪk/,/ˈrelɪk/,audio/uk/relic.mp3,audio/us/relic.mp3,"di tích, di vật",Many ancient relics were found at the archaeological site.,Nhiều di vật cổ đã được tìm thấy tại khu khảo cổ.
+11,6,Preserving our heritage,sourced,restore,v,/rɪˈstɔː(r)/,/rɪˈstɔːr/,audio/uk/restore.mp3,audio/us/restore.mp3,"khôi phục, trùng tu",The old pagoda was restored after the storm.,Ngôi chùa cổ đã được trùng tu sau cơn bão.
+11,6,Preserving our heritage,sourced,state,n,/steɪt/,/steɪt/,audio/uk/state.mp3,audio/us/state.mp3,"nhà nước, quốc gia",The state provides funding for the preservation of heritage sites.,Nhà nước cấp kinh phí để bảo tồn các khu di sản.
+11,6,Preserving our heritage,sourced,take action,phr,/ˌteɪk ˈækʃn/,/ˌteɪk ˈækʃən/,audio/uk/take-action.mp3,audio/us/take-action.mp3,hành động,We must take action now to protect our cultural heritage.,Chúng ta phải hành động ngay bây giờ để bảo vệ di sản văn hóa.
+11,6,Preserving our heritage,sourced,temple,n,/ˈtempl/,/ˈtempəl/,audio/uk/temple.mp3,audio/us/temple.mp3,"đền, chùa",The Temple of Literature is considered Viet Nam's first university.,Văn Miếu được xem là trường đại học đầu tiên của Việt Nam.
+11,6,Preserving our heritage,sourced,trending,adj,/ˈtrendɪŋ/,/ˈtrendɪŋ/,audio/uk/trending.mp3,audio/us/trending.mp3,"đang thịnh hành, đang là xu hướng",Videos about Hoi An's lantern festival are trending on social media.,Các video về lễ hội đèn lồng Hội An đang là xu hướng trên mạng xã hội.
+11,6,Preserving our heritage,sourced,well-preserved,adj,/ˌwel prɪˈzɜːvd/,/ˌwel prɪˈzɝːvd/,audio/uk/well-preserved.mp3,audio/us/well-preserved.mp3,được bảo tồn tốt,My Son Sanctuary has many well-preserved Cham towers.,Thánh địa Mỹ Sơn có nhiều tháp Chăm được bảo tồn tốt.
+11,7,Education options for school-leavers,sourced,academic,adj,/ˌækəˈdemɪk/,/ˌækəˈdemɪk/,audio/uk/academic.mp3,audio/us/academic.mp3,"có tính học thuật, thuộc về học tập",Students with strong academic results can apply to top universities.,Học sinh có kết quả học tập tốt có thể nộp hồ sơ vào các trường đại học hàng đầu.
+11,7,Education options for school-leavers,sourced,advisor,n,/ədˈvaɪzə(r)/,/ədˈvaɪzɚ/,audio/uk/advisor.mp3,audio/us/advisor.mp3,người cố vấn,A career advisor helped me choose the right university course.,Một chuyên viên tư vấn hướng nghiệp đã giúp tôi chọn được ngành học phù hợp ở đại học.
+11,7,Education options for school-leavers,sourced,apprentice,n,/əˈprentɪs/,/əˈprentɪs/,audio/uk/apprentice.mp3,audio/us/apprentice.mp3,người học việc,He works as an apprentice at a car repair shop.,Anh ấy đang làm người học việc tại một tiệm sửa ô tô.
+11,7,Education options for school-leavers,sourced,apprenticeship,n,/əˈprentɪʃɪp/,/əˈprentəsʃɪp/,audio/uk/apprenticeship.mp3,audio/us/apprenticeship.mp3,"sự học việc, thời gian học nghề",An apprenticeship allows you to earn money while learning a trade.,Học việc cho phép bạn vừa kiếm tiền vừa học nghề.
+11,7,Education options for school-leavers,sourced,bachelor's degree,n,/ˈbætʃələz dɪɡriː/,/ˈbætʃəlɚz dɪˌɡriː/,audio/uk/bachelor-s-degree.mp3,audio/us/bachelor-s-degree.mp3,bằng cử nhân,It usually takes four years to get a bachelor's degree.,Thường phải mất bốn năm để lấy bằng cử nhân.
+11,7,Education options for school-leavers,sourced,brochure,n,/ˈbrəʊʃə(r)/,/broʊˈʃʊr/,audio/uk/brochure.mp3,audio/us/brochure.mp3,"tờ quảng cáo, sách giới thiệu",I picked up a few university brochures at the education fair.,Tôi đã lấy vài cuốn sách giới thiệu về các trường đại học tại ngày hội tư vấn tuyển sinh.
+11,7,Education options for school-leavers,sourced,college,n,/ˈkɒlɪdʒ/,/ˈkɑːlɪdʒ/,audio/uk/college.mp3,audio/us/college.mp3,trường cao đẳng,"After finishing school, she went to a college to study nursing.","Sau khi học xong phổ thông, cô ấy vào học ngành điều dưỡng ở một trường cao đẳng."
+11,7,Education options for school-leavers,sourced,convince,v,/kənˈvɪns/,/kənˈvɪns/,audio/uk/convince.mp3,audio/us/convince.mp3,thuyết phục,I tried to convince my parents to let me attend a vocational school.,Tôi đã cố thuyết phục bố mẹ cho tôi theo học trường dạy nghề.
+11,7,Education options for school-leavers,sourced,doctorate,n,/ˈdɒktərət/,/ˈdɑːktɚət/,audio/uk/doctorate.mp3,audio/us/doctorate.mp3,học vị tiến sĩ,She is doing a doctorate in biology at a university in Australia.,Cô ấy đang học tiến sĩ ngành sinh học tại một trường đại học ở Úc.
+11,7,Education options for school-leavers,sourced,education fair,n,/ˌedʒuˈkeɪʃn feə(r)/,/ˌedʒjuːˈkeɪʃən fer/,audio/uk/education-fair.mp3,audio/us/education-fair.mp3,"hội chợ giáo dục, ngày hội tư vấn tuyển sinh",Many school-leavers visit the education fair to find out about universities.,Nhiều học sinh vừa tốt nghiệp phổ thông đến ngày hội tư vấn tuyển sinh để tìm hiểu về các trường đại học.
+11,7,Education options for school-leavers,sourced,entrance exam,n,/ˈentrəns ɪɡzæm/,/ˈentrəns ɪɡˌzæm/,audio/uk/entrance-exam-n.mp3,audio/us/entrance-exam-n.mp3,"kỳ thi tuyển sinh, kỳ thi đầu vào",She studied hard to pass the university entrance exam.,Cô ấy đã học hành chăm chỉ để vượt qua kỳ thi tuyển sinh đại học.
+11,7,Education options for school-leavers,sourced,formal,adj,/ˈfɔːml/,/ˈfɔːrməl/,audio/uk/formal.mp3,audio/us/formal.mp3,"chính quy, trang trọng",Some people prefer learning a trade to receiving formal education.,Một số người thích học nghề hơn là theo học chính quy.
+11,7,Education options for school-leavers,sourced,graduation,n,/ˌɡrædʒuˈeɪʃn/,/ˌɡrædʒuˈeɪʃən/,audio/uk/graduation.mp3,audio/us/graduation.mp3,sự tốt nghiệp,"After graduation, he found a job at a software company.","Sau khi tốt nghiệp, anh ấy tìm được việc làm tại một công ty phần mềm."
+11,7,Education options for school-leavers,sourced,higher education,n,/ˌhaɪər edʒuˈkeɪʃn/,/ˌhaɪɚ ˌedʒjuːˈkeɪʃən/,audio/uk/higher-education.mp3,audio/us/higher-education.mp3,giáo dục đại học,Higher education can open up more career opportunities.,Giáo dục đại học có thể mở ra nhiều cơ hội nghề nghiệp hơn.
+11,7,Education options for school-leavers,sourced,institution,n,/ˌɪnstɪˈtjuːʃn/,/ˌɪnstɪˈtuːʃən/,audio/uk/institution.mp3,audio/us/institution.mp3,"học viện, cơ sở giáo dục",This institution offers a wide range of courses for school-leavers.,Cơ sở giáo dục này cung cấp nhiều khóa học cho học sinh vừa tốt nghiệp phổ thông.
+11,7,Education options for school-leavers,sourced,manage,v,/ˈmænɪdʒ/,/ˈmænɪdʒ/,audio/uk/manage.mp3,audio/us/manage.mp3,"xoay xở, quản lý",She managed to study and work part-time at the same time.,Cô ấy đã xoay xở vừa học vừa làm thêm bán thời gian.
+11,7,Education options for school-leavers,sourced,master's degree,n,/ˈmɑːstəz dɪɡriː/,/ˈmæstɚz dɪˌɡriː/,audio/uk/master-s-degree.mp3,audio/us/master-s-degree.mp3,bằng thạc sĩ,He wants to get a master's degree after finishing university.,Anh ấy muốn lấy bằng thạc sĩ sau khi học xong đại học.
+11,7,Education options for school-leavers,sourced,mechanic,n,/məˈkænɪk/,/məˈkænɪk/,audio/uk/mechanic.mp3,audio/us/mechanic.mp3,thợ cơ khí,My brother trained as a mechanic at a vocational school.,Anh trai tôi được đào tạo thành thợ cơ khí tại một trường dạy nghề.
+11,7,Education options for school-leavers,sourced,option,n,/ˈɒpʃn/,/ˈɑːpʃən/,audio/uk/option.mp3,audio/us/option.mp3,sự lựa chọn,Going to university is not the only option for school-leavers.,Vào đại học không phải là lựa chọn duy nhất cho học sinh vừa tốt nghiệp phổ thông.
+11,7,Education options for school-leavers,sourced,professional,adj,/prəˈfeʃənl/,/prəˈfeʃənəl/,audio/uk/professional.mp3,audio/us/professional.mp3,chuyên nghiệp,You need professional training to become a chef.,Bạn cần được đào tạo chuyên nghiệp để trở thành đầu bếp.
+11,7,Education options for school-leavers,sourced,qualification,n,/ˌkwɒlɪfɪˈkeɪʃn/,/ˌkwɑːləfəˈkeɪʃən/,audio/uk/qualification.mp3,audio/us/qualification.mp3,"bằng cấp, trình độ chuyên môn",Good qualifications will help you find a well-paid job.,Bằng cấp tốt sẽ giúp bạn tìm được một công việc lương cao.
+11,7,Education options for school-leavers,sourced,representative,n,/ˌreprɪˈzentətɪv/,/ˌreprɪˈzentətɪv/,audio/uk/representative.mp3,audio/us/representative.mp3,người đại diện,A representative from the university answered students' questions about courses.,Một đại diện của trường đại học đã trả lời các câu hỏi của học sinh về các khóa học.
+11,7,Education options for school-leavers,sourced,salary,n,/ˈsæləri/,/ˈsælɚi/,audio/uk/salary.mp3,audio/us/salary.mp3,tiền lương,Doctors usually earn a high salary.,Bác sĩ thường có mức lương cao.
+11,7,Education options for school-leavers,sourced,school-leaver,n,/ˈskuːl liːvə(r)/,/ˈskuːl ˌliːvɚ/,audio/uk/school-leaver.mp3,audio/us/school-leaver.mp3,học sinh vừa tốt nghiệp phổ thông,Many school-leavers choose to go to university.,Nhiều học sinh vừa tốt nghiệp phổ thông chọn học đại học.
+11,7,Education options for school-leavers,sourced,sensible,adj,/ˈsensəbl/,/ˈsensəbəl/,audio/uk/sensible.mp3,audio/us/sensible.mp3,"hợp lý, khôn ngoan",Learning a trade is a sensible choice if you want to start working early.,Học nghề là một lựa chọn khôn ngoan nếu bạn muốn đi làm sớm.
+11,7,Education options for school-leavers,sourced,sensitive,adj,/ˈsensətɪv/,/ˈsensətɪv/,audio/uk/sensitive.mp3,audio/us/sensitive.mp3,nhạy cảm,Teachers should be sensitive to students' feelings when giving career advice.,Giáo viên cần tinh ý với cảm xúc của học sinh khi đưa ra lời khuyên về nghề nghiệp.
+11,7,Education options for school-leavers,sourced,sixth-form college,n,/ˈsɪksθ fɔːm kɒlɪdʒ/,/ˈsɪksθ fɔːrm ˌkɑːlɪdʒ/,audio/uk/sixth-form-college.mp3,audio/us/sixth-form-college.mp3,trường dự bị đại học (ở Anh),"In the UK, many students study at a sixth-form college before going to university.","Ở Anh, nhiều học sinh học tại trường dự bị đại học trước khi vào đại học."
+11,7,Education options for school-leavers,sourced,trade,n,/treɪd/,/treɪd/,audio/uk/trade.mp3,audio/us/trade.mp3,nghề (thủ công),He decided to learn a trade instead of going to university.,Anh ấy quyết định học nghề thay vì học đại học.
+11,7,Education options for school-leavers,sourced,vocational school,n,/vəʊˈkeɪʃənl skuːl/,/voʊˈkeɪʃənəl skuːl/,audio/uk/vocational-school.mp3,audio/us/vocational-school.mp3,trường dạy nghề,She went to a vocational school to become a hairdresser.,Cô ấy vào học trường dạy nghề để trở thành thợ làm tóc.
+11,7,Education options for school-leavers,sourced,wage,n,/weɪdʒ/,/weɪdʒ/,audio/uk/wage.mp3,audio/us/wage.mp3,tiền công,Apprentices earn a small wage while they are learning.,Người học việc được trả một khoản tiền công nhỏ trong thời gian học nghề.
+11,8,Becoming independent,sourced,achieve,v,/əˈtʃiːv/,/əˈtʃiːv/,audio/uk/achieve.mp3,audio/us/achieve.mp3,đạt được,You need to work hard to achieve your goals.,Bạn cần làm việc chăm chỉ để đạt được mục tiêu của mình.
+11,8,Becoming independent,sourced,carry out,phr v,/ˌkæri ˈaʊt/,/ˌkæri ˈaʊt/,audio/uk/carry-out.mp3,audio/us/carry-out.mp3,"thực hiện, tiến hành",We carried out a survey on teenagers' life skills.,Chúng tôi đã tiến hành một cuộc khảo sát về kỹ năng sống của thanh thiếu niên.
+11,8,Becoming independent,sourced,combine,v,/kəmˈbaɪn/,/kəmˈbaɪn/,audio/uk/combine.mp3,audio/us/combine.mp3,kết hợp,It's not easy to combine studying with a part-time job.,Kết hợp việc học với công việc bán thời gian không hề dễ dàng.
+11,8,Becoming independent,sourced,come up with,phr v,/ˌkʌm ˈʌp wɪð/,/ˌkʌm ˈʌp wɪð/,audio/uk/come-up-with-phr-v.mp3,audio/us/come-up-with-phr-v.mp3,"nghĩ ra, nảy ra (ý tưởng)",She came up with a great idea to save money.,Cô ấy đã nghĩ ra một ý tưởng tuyệt vời để tiết kiệm tiền.
+11,8,Becoming independent,sourced,confidence,n,/ˈkɒnfɪdəns/,/ˈkɑːnfədəns/,audio/uk/confidence.mp3,audio/us/confidence.mp3,sự tự tin,Living away from home helped him gain confidence.,Sống xa nhà đã giúp anh ấy trở nên tự tin hơn.
+11,8,Becoming independent,sourced,confident,adj,/ˈkɒnfɪdənt/,/ˈkɑːnfədənt/,audio/uk/confident.mp3,audio/us/confident.mp3,tự tin,She feels confident enough to travel alone.,Cô ấy đủ tự tin để đi du lịch một mình.
+11,8,Becoming independent,sourced,deal with,phr v,/ˈdiːl wɪð/,/ˈdiːl wɪð/,audio/uk/deal-with.mp3,audio/us/deal-with.mp3,"giải quyết, đối phó với",Independent teenagers know how to deal with problems on their own.,Những thanh thiếu niên độc lập biết cách tự giải quyết vấn đề.
+11,8,Becoming independent,sourced,decision-making skill,n,/dɪˈsɪʒn meɪkɪŋ skɪl/,/dɪˈsɪʒən ˌmeɪkɪŋ skɪl/,audio/uk/decision-making-skill.mp3,audio/us/decision-making-skill.mp3,kỹ năng ra quyết định,Good decision-making skills help you make the right choices in life.,Kỹ năng ra quyết định tốt giúp bạn đưa ra những lựa chọn đúng đắn trong cuộc sống.
+11,8,Becoming independent,sourced,dependent,adj,/dɪˈpendənt/,/dɪˈpendənt/,audio/uk/dependent.mp3,audio/us/dependent.mp3,phụ thuộc,Many teenagers are still dependent on their parents for money.,Nhiều thanh thiếu niên vẫn phụ thuộc vào bố mẹ về tiền bạc.
+11,8,Becoming independent,sourced,fold,v,/fəʊld/,/foʊld/,audio/uk/fold.mp3,audio/us/fold.mp3,gấp (quần áo),Please fold your clothes neatly and put them away.,Hãy gấp quần áo gọn gàng và cất đi.
+11,8,Becoming independent,sourced,get around,phr v,/ˌɡet əˈraʊnd/,/ˌɡet əˈraʊnd/,audio/uk/get-around-phr-v.mp3,audio/us/get-around-phr-v.mp3,đi lại,Knowing how to use public transport helps you get around on your own.,Biết cách sử dụng phương tiện giao thông công cộng giúp bạn tự đi lại.
+11,8,Becoming independent,sourced,get into the habit of,idiom,/ˌɡet ˌɪntə ðə ˈhæbɪt əv/,/ˌɡet ˌɪntə ðə ˈhæbət əv/,audio/uk/get-into-the-habit-of.mp3,audio/us/get-into-the-habit-of.mp3,tập thói quen,I've got into the habit of making my bed every morning.,Tôi đã tập được thói quen dọn giường mỗi sáng.
+11,8,Becoming independent,sourced,identify,v,/aɪˈdentɪfaɪ/,/aɪˈdentəfaɪ/,audio/uk/identify.mp3,audio/us/identify.mp3,"xác định, nhận biết","First, you need to identify your strengths and weaknesses.","Trước tiên, bạn cần xác định điểm mạnh và điểm yếu của mình."
+11,8,Becoming independent,sourced,independence,n,/ˌɪndɪˈpendəns/,/ˌɪndɪˈpendəns/,audio/uk/independence.mp3,audio/us/independence.mp3,sự độc lập,Getting a part-time job gave her a sense of independence.,Có được một công việc làm thêm đã mang lại cho cô ấy cảm giác độc lập.
+11,8,Becoming independent,sourced,independent,adj,/ˌɪndɪˈpendənt/,/ˌɪndɪˈpendənt/,audio/uk/independent.mp3,audio/us/independent.mp3,độc lập,Teenagers want to become more independent.,Thanh thiếu niên muốn trở nên độc lập hơn.
+11,8,Becoming independent,sourced,install,v,/ɪnˈstɔːl/,/ˌɪnˈstɑːl/,audio/uk/install.mp3,audio/us/install.mp3,cài đặt,I installed a time management app on my phone.,Tôi đã cài đặt một ứng dụng quản lý thời gian trên điện thoại.
+11,8,Becoming independent,sourced,iron,v,/ˈaɪən/,/ˈaɪɚn/,audio/uk/iron.mp3,audio/us/iron.mp3,"là, ủi (quần áo)",He learned to iron his own shirts when he was 15.,Cậu ấy học cách tự là áo sơ mi khi 15 tuổi.
+11,8,Becoming independent,sourced,learner,n,/ˈlɜːnə(r)/,/ˈlɝːnɚ/,audio/uk/learner.mp3,audio/us/learner.mp3,người học,Independent learners take responsibility for their own studies.,Những người học độc lập tự chịu trách nhiệm về việc học của mình.
+11,8,Becoming independent,sourced,learning goal,n,/ˈlɜːnɪŋ ɡəʊl/,/ˈlɝːnɪŋ ɡoʊl/,audio/uk/learning-goal.mp3,audio/us/learning-goal.mp3,mục tiêu học tập,Setting clear learning goals helps you stay motivated.,Đặt ra những mục tiêu học tập rõ ràng giúp bạn duy trì động lực.
+11,8,Becoming independent,sourced,life skill,n,/ˈlaɪf skɪl/,/ˈlaɪf skɪl/,audio/uk/life-skill.mp3,audio/us/life-skill.mp3,kỹ năng sống,Cooking is an important life skill for teenagers.,Nấu ăn là một kỹ năng sống quan trọng đối với thanh thiếu niên.
+11,8,Becoming independent,sourced,make use of,phr,/ˌmeɪk ˈjuːs əv/,/ˌmeɪk ˈjuːs əv/,audio/uk/make-use-of.mp3,audio/us/make-use-of.mp3,tận dụng,You should make use of your free time to learn new skills.,Bạn nên tận dụng thời gian rảnh để học những kỹ năng mới.
+11,8,Becoming independent,sourced,manage,v,/ˈmænɪdʒ/,/ˈmænɪdʒ/,audio/uk/manage.mp3,audio/us/manage.mp3,"quản lý, xoay xở","She manages her time well, so she is never late for school.",Cô ấy quản lý thời gian tốt nên không bao giờ đi học muộn.
+11,8,Becoming independent,sourced,measure,v,/ˈmeʒə(r)/,/ˈmeʒɚ/,audio/uk/measure.mp3,audio/us/measure.mp3,đo lường,It's important to measure your progress towards your goals.,Điều quan trọng là phải đo lường sự tiến bộ của bạn trong việc đạt được mục tiêu.
+11,8,Becoming independent,sourced,money management skill,n,/ˈmʌni mænɪdʒmənt skɪl/,/ˈmʌni ˌmænɪdʒmənt skɪl/,audio/uk/money-management-skill.mp3,audio/us/money-management-skill.mp3,kỹ năng quản lý tiền bạc,Money management skills help teenagers avoid spending too much.,Kỹ năng quản lý tiền bạc giúp thanh thiếu niên tránh tiêu xài quá mức.
+11,8,Becoming independent,sourced,reliable,adj,/rɪˈlaɪəbl/,/rɪˈlaɪəbəl/,audio/uk/reliable.mp3,audio/us/reliable.mp3,đáng tin cậy,He is a reliable person who always keeps his promises.,"Anh ấy là một người đáng tin cậy, luôn giữ lời hứa."
+11,8,Becoming independent,sourced,remove,v,/rɪˈmuːv/,/riˈmuːv/,audio/uk/remove.mp3,audio/us/remove.mp3,"loại bỏ, tẩy (vết bẩn)",Use this liquid to remove stains from your clothes.,Hãy dùng dung dịch này để tẩy vết bẩn trên quần áo.
+11,8,Becoming independent,sourced,responsibility,n,/rɪˌspɒnsəˈbɪləti/,/riˌspɑːnsəˈbɪləti/,audio/uk/responsibility.mp3,audio/us/responsibility.mp3,trách nhiệm,Doing household chores teaches children a sense of responsibility.,Làm việc nhà dạy cho trẻ em tinh thần trách nhiệm.
+11,8,Becoming independent,sourced,responsible,adj,/rɪˈspɒnsəbl/,/riˈspɑːnsəbəl/,audio/uk/responsible.mp3,audio/us/responsible.mp3,có trách nhiệm,Independent teenagers are responsible for their own actions.,Những thanh thiếu niên độc lập tự chịu trách nhiệm về hành động của mình.
+11,8,Becoming independent,sourced,rinse,v,/rɪns/,/rɪns/,audio/uk/rinse.mp3,audio/us/rinse.mp3,"xả, tráng (nước)",Rinse the clothes in clean water after washing them.,Hãy xả quần áo bằng nước sạch sau khi giặt.
+11,8,Becoming independent,sourced,schedule,n,/ˈʃedjuːl/,/ˈskedʒuːl/,audio/uk/schedule.mp3,audio/us/schedule.mp3,"lịch trình, thời gian biểu",I made a weekly schedule to balance my study and free time.,Tôi đã lập thời gian biểu hằng tuần để cân bằng giữa việc học và thời gian rảnh.
+11,8,Becoming independent,sourced,self-study,n,/ˌself ˈstʌdi/,/ˌself ˈstʌdi/,audio/uk/self-study.mp3,audio/us/self-study.mp3,sự tự học,Self-study is an important skill for independent learners.,Tự học là một kỹ năng quan trọng đối với những người học độc lập.
+11,8,Becoming independent,sourced,time management skill,n,/ˈtaɪm mænɪdʒmənt skɪl/,/ˈtaɪm ˌmænɪdʒmənt skɪl/,audio/uk/time-management-skill.mp3,audio/us/time-management-skill.mp3,kỹ năng quản lý thời gian,Good time management skills help students reduce stress.,Kỹ năng quản lý thời gian tốt giúp học sinh giảm căng thẳng.
+11,9,Social issues,sourced,admit,v,/ədˈmɪt/,/ədˈmɪt/,audio/uk/admit.mp3,audio/us/admit.mp3,thừa nhận,He finally admitted that he had bullied his classmate.,Cuối cùng cậu ta đã thừa nhận rằng mình đã bắt nạt bạn cùng lớp.
+11,9,Social issues,sourced,alcohol,n,/ˈælkəhɒl/,/ˈælkəhɑːl/,audio/uk/alcohol.mp3,audio/us/alcohol.mp3,"rượu, đồ uống có cồn",It is illegal to sell alcohol to people under 18.,Bán đồ uống có cồn cho người dưới 18 tuổi là vi phạm pháp luật.
+11,9,Social issues,sourced,anti-bullying,adj,/ˌænti ˈbʊliɪŋ/,/ˌæntiː ˈbʊliɪŋ/,audio/uk/anti-bullying.mp3,audio/us/anti-bullying.mp3,chống bắt nạt,Our school launched an anti-bullying campaign last month.,Trường tôi đã phát động một chiến dịch chống bắt nạt vào tháng trước.
+11,9,Social issues,sourced,anxiety,n,/æŋˈzaɪəti/,/æŋˈzaɪəti/,audio/uk/anxiety.mp3,audio/us/anxiety.mp3,sự lo âu,Exam pressure can cause anxiety among students.,Áp lực thi cử có thể gây ra sự lo âu ở học sinh.
+11,9,Social issues,sourced,ashamed,adj,/əˈʃeɪmd/,/əˈʃeɪmd/,audio/uk/ashamed.mp3,audio/us/ashamed.mp3,xấu hổ,Victims of bullying often feel too ashamed to tell anyone.,Nạn nhân của bắt nạt thường quá xấu hổ để kể với bất kỳ ai.
+11,9,Social issues,sourced,awareness,n,/əˈweənəs/,/əˈwernəs/,audio/uk/awareness.mp3,audio/us/awareness.mp3,"nhận thức, sự hiểu biết",The campaign aims to raise awareness of cyberbullying.,Chiến dịch nhằm nâng cao nhận thức về nạn bắt nạt trên mạng.
+11,9,Social issues,sourced,body shaming,n,/ˈbɒdi ʃeɪmɪŋ/,/ˈbɑːdi ˌʃeɪmɪŋ/,audio/uk/body-shaming.mp3,audio/us/body-shaming.mp3,sự chê bai ngoại hình,Body shaming can seriously damage a teenager's self-confidence.,Việc chê bai ngoại hình có thể làm tổn hại nghiêm trọng đến sự tự tin của thanh thiếu niên.
+11,9,Social issues,sourced,bully,v,/ˈbʊli/,/ˈbʊli/,audio/uk/bully.mp3,audio/us/bully.mp3,bắt nạt,Some students are bullied because they look different.,Một số học sinh bị bắt nạt vì có ngoại hình khác biệt.
+11,9,Social issues,sourced,campaign,n,/kæmˈpeɪn/,/kæmˈpeɪn/,audio/uk/campaign.mp3,audio/us/campaign.mp3,chiến dịch,The students started a campaign to stop littering in their neighbourhood.,Các bạn học sinh đã phát động một chiến dịch chống xả rác trong khu phố của mình.
+11,9,Social issues,sourced,crime,n,/kraɪm/,/kraɪm/,audio/uk/crime.mp3,audio/us/crime.mp3,"tội phạm, tội ác",Poverty and unemployment can lead to an increase in crime.,Nghèo đói và thất nghiệp có thể dẫn đến sự gia tăng tội phạm.
+11,9,Social issues,sourced,cyberbullying,n,/ˈsaɪbəbʊliɪŋ/,/ˈsaɪbɚbʊliɪŋ/,audio/uk/cyberbullying.mp3,audio/us/cyberbullying.mp3,bắt nạt trên mạng,Cyberbullying has become a serious problem among teenagers.,Bắt nạt trên mạng đã trở thành một vấn đề nghiêm trọng ở thanh thiếu niên.
+11,9,Social issues,sourced,depression,n,/dɪˈpreʃn/,/dɪˈpreʃən/,audio/uk/depression.mp3,audio/us/depression.mp3,chứng trầm cảm,Victims of bullying may suffer from depression.,Nạn nhân của bắt nạt có thể mắc chứng trầm cảm.
+11,9,Social issues,sourced,drug,n,/drʌɡ/,/drʌɡ/,audio/uk/drug.mp3,audio/us/drug.mp3,ma túy; thuốc,Taking drugs can destroy young people's health and future.,Sử dụng ma túy có thể hủy hoại sức khỏe và tương lai của người trẻ.
+11,9,Social issues,sourced,drunk,adj,/drʌŋk/,/drʌŋk/,audio/uk/drunk.mp3,audio/us/drunk.mp3,say rượu,Never get in a car with a driver who is drunk.,Đừng bao giờ lên xe của tài xế đang say rượu.
+11,9,Social issues,sourced,frighten,v,/ˈfraɪtn/,/ˈfraɪtən/,audio/uk/frighten.mp3,audio/us/frighten.mp3,làm hoảng sợ,The violent scenes in the film frightened the young children.,Những cảnh bạo lực trong bộ phim đã làm lũ trẻ hoảng sợ.
+11,9,Social issues,sourced,hang out,phr v,/ˌhæŋ ˈaʊt/,/ˌhæŋ ˈaʊt/,audio/uk/hang-out-phr-v.mp3,audio/us/hang-out-phr-v.mp3,đi chơi,Teenagers like to hang out with their friends at weekends.,Thanh thiếu niên thích đi chơi với bạn bè vào cuối tuần.
+11,9,Social issues,sourced,hesitate,v,/ˈhezɪteɪt/,/ˈhezəteɪt/,audio/uk/hesitate.mp3,audio/us/hesitate.mp3,"do dự, ngập ngừng",Don't hesitate to ask a teacher for help if you are bullied.,Đừng ngần ngại nhờ thầy cô giúp đỡ nếu bạn bị bắt nạt.
+11,9,Social issues,sourced,make fun of,phr,/ˌmeɪk ˈfʌn əv/,/ˌmeɪk ˈfʌn əv/,audio/uk/make-fun-of.mp3,audio/us/make-fun-of.mp3,"chế giễu, trêu chọc",It's cruel to make fun of someone's appearance.,Chế giễu ngoại hình của người khác là một hành động tàn nhẫn.
+11,9,Social issues,sourced,obey,v,/əˈbeɪ/,/oʊˈbeɪ/,audio/uk/obey.mp3,audio/us/obey.mp3,"tuân theo, vâng lời",All students must obey the school rules.,Tất cả học sinh phải tuân thủ nội quy của trường.
+11,9,Social issues,sourced,offensive,adj,/əˈfensɪv/,/əˈfensɪv/,audio/uk/offensive.mp3,audio/us/offensive.mp3,"xúc phạm, công kích",Posting offensive comments online is a form of cyberbullying.,Đăng những bình luận xúc phạm trên mạng là một hình thức bắt nạt trực tuyến.
+11,9,Social issues,sourced,overpopulation,n,/ˌəʊvəˌpɒpjuˈleɪʃn/,/ˌoʊvɚˌpɑːpjəˈleɪʃən/,audio/uk/overpopulation.mp3,audio/us/overpopulation.mp3,sự bùng nổ dân số,"Overpopulation puts pressure on housing, schools and hospitals.","Bùng nổ dân số gây áp lực lên nhà ở, trường học và bệnh viện."
+11,9,Social issues,sourced,painful,adj,/ˈpeɪnfl/,/ˈpeɪnfəl/,audio/uk/painful.mp3,audio/us/painful.mp3,đau đớn,Being bullied was a painful experience for him.,Bị bắt nạt là một trải nghiệm đau đớn đối với cậu ấy.
+11,9,Social issues,sourced,peer influence,n,/ˈpɪər ɪnfluəns/,/ˈpɪr ˌɪnfluəns/,audio/uk/peer-influence.mp3,audio/us/peer-influence.mp3,ảnh hưởng từ bạn bè đồng trang lứa,Peer influence can be positive if your friends have good habits.,Ảnh hưởng từ bạn bè có thể tích cực nếu bạn bè bạn có những thói quen tốt.
+11,9,Social issues,sourced,peer pressure,n,/ˈpɪə preʃə(r)/,/ˈpɪr ˌpreʃɚ/,audio/uk/peer-pressure-n.mp3,audio/us/peer-pressure-n.mp3,áp lực từ bạn bè đồng trang lứa,Many teenagers smoke because of peer pressure.,Nhiều thanh thiếu niên hút thuốc vì áp lực từ bạn bè đồng trang lứa.
+11,9,Social issues,sourced,physical,adj,/ˈfɪzɪkl/,/ˈfɪzɪkəl/,audio/uk/physical.mp3,audio/us/physical.mp3,thuộc về thể chất,"Bullying can be physical, verbal or online.","Bắt nạt có thể là bắt nạt thể chất, bằng lời nói hoặc trên mạng."
+11,9,Social issues,sourced,policy,n,/ˈpɒləsi/,/ˈpɑːləsi/,audio/uk/policy.mp3,audio/us/policy.mp3,chính sách,The school has a strict policy against bullying.,Nhà trường có chính sách nghiêm khắc chống lại nạn bắt nạt.
+11,9,Social issues,sourced,poverty,n,/ˈpɒvəti/,/ˈpɑːvɚti/,audio/uk/poverty.mp3,audio/us/poverty.mp3,sự nghèo đói,Millions of people around the world still live in poverty.,Hàng triệu người trên thế giới vẫn đang sống trong cảnh nghèo đói.
+11,9,Social issues,sourced,pressing,adj,/ˈpresɪŋ/,/ˈpresɪŋ/,audio/uk/pressing.mp3,audio/us/pressing.mp3,cấp bách,Unemployment is one of the most pressing social issues today.,Thất nghiệp là một trong những vấn đề xã hội cấp bách nhất hiện nay.
+11,9,Social issues,sourced,self-confidence,n,/ˌself ˈkɒnfɪdəns/,/ˌself ˈkɑːnfədəns/,audio/uk/self-confidence.mp3,audio/us/self-confidence.mp3,sự tự tin,Joining clubs can help shy students build self-confidence.,Tham gia câu lạc bộ có thể giúp những học sinh nhút nhát xây dựng sự tự tin.
+11,9,Social issues,sourced,skip,v,/skɪp/,/skɪp/,audio/uk/skip.mp3,audio/us/skip.mp3,"bỏ, trốn (học)",He was punished for skipping classes to play computer games.,Cậu ấy bị phạt vì trốn học để chơi điện tử.
+11,9,Social issues,sourced,social issue,n,/ˌsəʊʃl ˈɪʃuː/,/ˌsoʊʃəl ˈɪʃuː/,audio/uk/social-issue.mp3,audio/us/social-issue.mp3,vấn đề xã hội,Poverty is a serious social issue in many developing countries.,Nghèo đói là một vấn đề xã hội nghiêm trọng ở nhiều nước đang phát triển.
+11,9,Social issues,sourced,sympathy,n,/ˈsɪmpəθi/,/ˈsɪmpəθi/,audio/uk/sympathy.mp3,audio/us/sympathy.mp3,sự cảm thông,We should show sympathy for victims of bullying.,Chúng ta nên thể hiện sự cảm thông với các nạn nhân của bắt nạt.
+11,9,Social issues,sourced,verbal,adj,/ˈvɜːbl/,/ˈvɝːbəl/,audio/uk/verbal.mp3,audio/us/verbal.mp3,bằng lời nói,Name-calling is a form of verbal bullying.,Gọi người khác bằng biệt danh xấu là một hình thức bắt nạt bằng lời nói.
+11,9,Social issues,sourced,victim,n,/ˈvɪktɪm/,/ˈvɪktɪm/,audio/uk/victim.mp3,audio/us/victim.mp3,nạn nhân,Victims of cyberbullying often feel lonely and afraid.,Nạn nhân của bắt nạt trên mạng thường cảm thấy cô đơn và sợ hãi.
+11,9,Social issues,sourced,violent,adj,/ˈvaɪələnt/,/ˈvaɪələnt/,audio/uk/violent.mp3,audio/us/violent.mp3,bạo lực,Watching violent films may make children more aggressive.,Xem phim bạo lực có thể khiến trẻ em trở nên hung hăng hơn.
+11,10,The ecosystem,sourced,biodiversity,n,/ˌbaɪəʊdaɪˈvɜːsəti/,/ˌbaɪoʊdaɪˈvɝːsəti/,audio/uk/biodiversity.mp3,audio/us/biodiversity.mp3,đa dạng sinh học,Cuc Phuong National Park is rich in biodiversity.,Vườn quốc gia Cúc Phương có sự đa dạng sinh học phong phú.
+11,10,The ecosystem,sourced,bird-watching,n,/ˈbɜːd wɒtʃɪŋ/,/ˈbɝːd ˌwɑːtʃɪŋ/,audio/uk/bird-watching-n.mp3,audio/us/bird-watching-n.mp3,hoạt động ngắm chim,Bird-watching is a popular activity in Tram Chim National Park.,Ngắm chim là một hoạt động được ưa chuộng ở Vườn quốc gia Tràm Chim.
+11,10,The ecosystem,sourced,conservation,n,/ˌkɒnsəˈveɪʃn/,/ˌkɑːnsɚˈveɪʃən/,audio/uk/conservation.mp3,audio/us/conservation.mp3,sự bảo tồn,Wildlife conservation is important for the balance of ecosystems.,Bảo tồn động vật hoang dã có vai trò quan trọng đối với sự cân bằng của các hệ sinh thái.
+11,10,The ecosystem,sourced,continent,n,/ˈkɒntɪnənt/,/ˈkɑːntənənt/,audio/uk/continent.mp3,audio/us/continent.mp3,"lục địa, châu lục",Koalas are found only on the continent of Australia.,Gấu túi koala chỉ có ở lục địa Úc.
+11,10,The ecosystem,sourced,coral reef,n,/ˈkɒrəl riːf/,/ˈkɔːrəl riːf/,audio/uk/coral-reef.mp3,audio/us/coral-reef.mp3,rạn san hô,Coral reefs are home to thousands of marine species.,Rạn san hô là nơi sinh sống của hàng nghìn loài sinh vật biển.
+11,10,The ecosystem,sourced,creature,n,/ˈkriːtʃə(r)/,/ˈkriːtʃɚ/,audio/uk/creature-n.mp3,audio/us/creature-n.mp3,sinh vật,Many sea creatures die because of plastic waste in the ocean.,Nhiều sinh vật biển chết vì rác thải nhựa trong đại dương.
+11,10,The ecosystem,sourced,cruelty,n,/ˈkruːəlti/,/ˈkruːəlti/,audio/uk/cruelty.mp3,audio/us/cruelty.mp3,sự tàn ác,Keeping wild animals in small cages is an act of cruelty.,Nhốt động vật hoang dã trong những chiếc lồng chật hẹp là một hành động tàn ác.
+11,10,The ecosystem,sourced,delta,n,/ˈdeltə/,/ˈdeltə/,audio/uk/delta.mp3,audio/us/delta.mp3,"châu thổ, đồng bằng",The Mekong Delta has a unique wetland ecosystem.,Đồng bằng sông Cửu Long có một hệ sinh thái đất ngập nước độc đáo.
+11,10,The ecosystem,sourced,destroy,v,/dɪˈstrɔɪ/,/dɪˈstrɔɪ/,audio/uk/destroy.mp3,audio/us/destroy.mp3,phá hủy,Forest fires destroy the habitats of many animals.,Cháy rừng phá hủy môi trường sống của nhiều loài động vật.
+11,10,The ecosystem,sourced,diversity,n,/daɪˈvɜːsəti/,/daɪˈvɝːsɪti/,audio/uk/diversity.mp3,audio/us/diversity.mp3,sự đa dạng,Rainforests have a great diversity of plants and animals.,Rừng mưa nhiệt đới có sự đa dạng lớn về các loài thực vật và động vật.
+11,10,The ecosystem,sourced,ecosystem,n,/ˈiːkəʊsɪstəm/,/ˈiːkoʊsɪstəm/,audio/uk/ecosystem.mp3,audio/us/ecosystem.mp3,hệ sinh thái,Every species plays a role in the ecosystem.,Mỗi loài đều đóng một vai trò trong hệ sinh thái.
+11,10,The ecosystem,sourced,endanger,v,/ɪnˈdeɪndʒə(r)/,/enˈdeɪndʒɚ/,audio/uk/endanger.mp3,audio/us/endanger.mp3,gây nguy hiểm,Pollution endangers the lives of many sea animals.,Ô nhiễm gây nguy hiểm đến tính mạng của nhiều loài động vật biển.
+11,10,The ecosystem,sourced,endangered,adj,/ɪnˈdeɪndʒəd/,/ɪnˈdeɪndʒɚd/,audio/uk/endangered.mp3,audio/us/endangered.mp3,có nguy cơ tuyệt chủng,Pangolins are endangered because of illegal hunting.,Tê tê đang có nguy cơ tuyệt chủng do nạn săn bắt trái phép.
+11,10,The ecosystem,sourced,fauna,n,/ˈfɔːnə/,/ˈfɑːnə/,audio/uk/fauna.mp3,audio/us/fauna.mp3,hệ động vật,The national park is home to a wide variety of fauna.,Vườn quốc gia là nơi sinh sống của hệ động vật vô cùng phong phú.
+11,10,The ecosystem,sourced,flora,n,/ˈflɔːrə/,/ˈflɔːrə/,audio/uk/flora.mp3,audio/us/flora.mp3,hệ thực vật,Scientists are studying the flora of the tropical forest.,Các nhà khoa học đang nghiên cứu hệ thực vật của khu rừng nhiệt đới.
+11,10,The ecosystem,sourced,food chain,n,/ˈfuːd tʃeɪn/,/ˈfuːd tʃeɪn/,audio/uk/food-chain.mp3,audio/us/food-chain.mp3,chuỗi thức ăn,"If one species disappears, the whole food chain may be affected.","Nếu một loài biến mất, toàn bộ chuỗi thức ăn có thể bị ảnh hưởng."
+11,10,The ecosystem,sourced,green,adj,/ɡriːn/,/ɡriːn/,audio/uk/green.mp3,audio/us/green.mp3,"xanh, thân thiện với môi trường",We should follow a green lifestyle to protect the ecosystem.,Chúng ta nên theo đuổi lối sống xanh để bảo vệ hệ sinh thái.
+11,10,The ecosystem,sourced,habitat,n,/ˈhæbɪtæt/,/ˈhæbətæt/,audio/uk/habitat.mp3,audio/us/habitat.mp3,môi trường sống,Deforestation is destroying the natural habitat of many animals.,Nạn phá rừng đang hủy hoại môi trường sống tự nhiên của nhiều loài động vật.
+11,10,The ecosystem,sourced,koala,n,/kəʊˈɑːlə/,/koʊˈɑːlə/,audio/uk/koala.mp3,audio/us/koala.mp3,gấu túi koala,Koalas spend most of their time sleeping in eucalyptus trees.,Gấu túi koala dành phần lớn thời gian để ngủ trên cây bạch đàn.
+11,10,The ecosystem,sourced,living things,n,/ˌlɪvɪŋ ˈθɪŋz/,/ˌlɪvɪŋ ˈθɪŋz/,audio/uk/living-things.mp3,audio/us/living-things.mp3,sinh vật sống,All living things depend on one another to survive.,Mọi sinh vật sống đều phụ thuộc lẫn nhau để tồn tại.
+11,10,The ecosystem,sourced,mammal,n,/ˈmæml/,/ˈmæməl/,audio/uk/mammal.mp3,audio/us/mammal.mp3,động vật có vú,Whales are the largest mammals on Earth.,Cá voi là loài động vật có vú lớn nhất trên Trái Đất.
+11,10,The ecosystem,sourced,national park,n,/ˌnæʃnəl ˈpɑːk/,/ˌnæʃnəl ˈpɑːrk/,audio/uk/national-park.mp3,audio/us/national-park.mp3,vườn quốc gia,Cat Tien National Park is home to many rare animals.,Vườn quốc gia Cát Tiên là nơi sinh sống của nhiều loài động vật quý hiếm.
+11,10,The ecosystem,sourced,nature reserve,n,/ˈneɪtʃə rɪzɜːv/,/ˈneɪtʃɚ rɪˌzɝːv/,audio/uk/nature-reserve-n.mp3,audio/us/nature-reserve-n.mp3,khu bảo tồn thiên nhiên,The nature reserve protects many endangered birds.,Khu bảo tồn thiên nhiên bảo vệ nhiều loài chim có nguy cơ tuyệt chủng.
+11,10,The ecosystem,sourced,organism,n,/ˈɔːɡənɪzəm/,/ˈɔːrɡənɪzəm/,audio/uk/organism.mp3,audio/us/organism.mp3,sinh vật,Every organism in an ecosystem plays an important role.,Mỗi sinh vật trong hệ sinh thái đều đóng một vai trò quan trọng.
+11,10,The ecosystem,sourced,overuse,n,/ˌəʊvəˈjuːs/,/ˌoʊvɚˈjuːz/,audio/uk/overuse.mp3,audio/us/overuse.mp3,"sự lạm dụng, sử dụng quá mức",The overuse of chemicals in farming harms the soil and water.,Việc lạm dụng hóa chất trong nông nghiệp gây hại cho đất và nguồn nước.
+11,10,The ecosystem,sourced,pangolin,n,/pæŋˈɡəʊlɪn/,/ˈpæŋɡəlɪn/,audio/uk/pangolin.mp3,audio/us/pangolin.mp3,con tê tê,The pangolin is one of the most trafficked animals in the world.,Tê tê là một trong những loài động vật bị buôn bán trái phép nhiều nhất thế giới.
+11,10,The ecosystem,sourced,resource,n,/rɪˈzɔːs/,/ˈriːsɔːrs/,audio/uk/resource-n.mp3,audio/us/resource-n.mp3,tài nguyên,We must use natural resources wisely.,Chúng ta phải sử dụng tài nguyên thiên nhiên một cách khôn ngoan.
+11,10,The ecosystem,sourced,restoration,n,/ˌrestəˈreɪʃn/,/ˌrestəˈreɪʃən/,audio/uk/restoration.mp3,audio/us/restoration.mp3,sự phục hồi,The restoration of the mangrove forest has brought back many bird species.,Việc phục hồi rừng ngập mặn đã giúp nhiều loài chim quay trở lại.
+11,10,The ecosystem,sourced,restore,v,/rɪˈstɔː(r)/,/rɪˈstɔːr/,audio/uk/restore.mp3,audio/us/restore.mp3,phục hồi,Volunteers are planting trees to restore the damaged forest.,Các tình nguyện viên đang trồng cây để phục hồi khu rừng bị tàn phá.
+11,10,The ecosystem,sourced,run out,phr v,/ˌrʌn ˈaʊt/,/ˌrʌn ˈaʊt/,audio/uk/run-out-phr-v.mp3,audio/us/run-out-phr-v.mp3,cạn kiệt,"If we keep wasting water, we will soon run out.","Nếu chúng ta cứ tiếp tục lãng phí nước, chúng ta sẽ sớm cạn kiệt nguồn nước."
+11,10,The ecosystem,sourced,shelter,n,/ˈʃeltə(r)/,/ˈʃeltɚ/,audio/uk/shelter.mp3,audio/us/shelter.mp3,nơi trú ẩn,Trees provide food and shelter for many animals.,Cây xanh cung cấp thức ăn và nơi trú ẩn cho nhiều loài động vật.
+11,10,The ecosystem,sourced,snorkelling,n,/ˈsnɔːkəlɪŋ/,/ˈsnɔːrkəlɪŋ/,audio/uk/snorkelling.mp3,audio/us/snorkelling.mp3,lặn với ống thở,We went snorkelling to see the colourful coral reefs.,Chúng tôi đã đi lặn với ống thở để ngắm những rạn san hô đầy màu sắc.
+11,10,The ecosystem,sourced,species,n,/ˈspiːʃiːz/,/ˈspiːʃiz/,audio/uk/species.mp3,audio/us/species.mp3,loài,Many species of plants and animals are in danger of extinction.,Nhiều loài thực vật và động vật đang có nguy cơ tuyệt chủng.
+11,10,The ecosystem,sourced,survival,n,/səˈvaɪvl/,/sɚˈvaɪvəl/,audio/uk/survival.mp3,audio/us/survival.mp3,"sự sống sót, tồn tại",The survival of many species depends on healthy forests.,Sự sống còn của nhiều loài phụ thuộc vào những khu rừng khỏe mạnh.
+11,10,The ecosystem,sourced,tropical forest,n,/ˌtrɒpɪkl ˈfɒrɪst/,/ˌtrɑːpɪkəl ˈfɔːrɪst/,audio/uk/tropical-forest.mp3,audio/us/tropical-forest.mp3,rừng nhiệt đới,Tropical forests are home to more than half of the world's species.,Rừng nhiệt đới là nơi sinh sống của hơn một nửa số loài trên thế giới.
+11,10,The ecosystem,sourced,waterway,n,/ˈwɔːtəweɪ/,/ˈwɑːtɚweɪ/,audio/uk/waterway.mp3,audio/us/waterway.mp3,đường thủy,Plastic waste is polluting rivers and other waterways.,Rác thải nhựa đang gây ô nhiễm các dòng sông và đường thủy khác.
+11,10,The ecosystem,sourced,wetland,n,/ˈwetlənd/,/ˈwetlænd/,audio/uk/wetland.mp3,audio/us/wetland.mp3,vùng đất ngập nước,Wetlands provide an important habitat for water birds.,Vùng đất ngập nước là môi trường sống quan trọng của các loài chim nước.
+11,10,The ecosystem,sourced,wildlife,n,/ˈwaɪldlaɪf/,/ˈwaɪldlaɪf/,audio/uk/wildlife.mp3,audio/us/wildlife.mp3,động vật hoang dã,The national park is home to a lot of wildlife.,Vườn quốc gia là nơi sinh sống của rất nhiều loài động vật hoang dã.

@@ -23,7 +23,8 @@
           "audio_uk": "audio/uk/hello.mp3",
           "audio_us": "audio/us/hello.mp3",
           "meaning": "xin chào",
-          "example": "Hello, I'm Mary."
+          "example": "Hello, I'm Mary.",
+          "example_vi": "Xin chào, mình là Mary."
         },
         {
           "word": "hi",
@@ -33,7 +34,8 @@
           "audio_uk": "audio/uk/hi.mp3",
           "audio_us": "audio/us/hi.mp3",
           "meaning": "chào (thân mật)",
-          "example": "Hi, Ben. I'm Mai."
+          "example": "Hi, Ben. I'm Mai.",
+          "example_vi": "Chào Ben. Mình là Mai."
         },
         {
           "word": "goodbye",
@@ -43,7 +45,8 @@
           "audio_uk": "audio/uk/goodbye.mp3",
           "audio_us": "audio/us/goodbye.mp3",
           "meaning": "tạm biệt",
-          "example": "Goodbye, Lucy."
+          "example": "Goodbye, Lucy.",
+          "example_vi": "Tạm biệt Lucy."
         },
         {
           "word": "bye",
@@ -53,7 +56,8 @@
           "audio_uk": "audio/uk/bye.mp3",
           "audio_us": "audio/us/bye.mp3",
           "meaning": "tạm biệt (thân mật)",
-          "example": "Bye, Mai."
+          "example": "Bye, Mai.",
+          "example_vi": "Tạm biệt Mai."
         },
         {
           "word": "how are you?",
@@ -63,7 +67,8 @@
           "audio_uk": "audio/uk/how-are-you.mp3",
           "audio_us": "audio/us/how-are-you.mp3",
           "meaning": "bạn có khỏe không?",
-          "example": "How are you, Nam?"
+          "example": "How are you, Nam?",
+          "example_vi": "Bạn có khỏe không, Nam?"
         },
         {
           "word": "fine",
@@ -73,7 +78,8 @@
           "audio_uk": "audio/uk/fine.mp3",
           "audio_us": "audio/us/fine.mp3",
           "meaning": "khỏe, ổn",
-          "example": "I'm fine, thank you."
+          "example": "I'm fine, thank you.",
+          "example_vi": "Mình khỏe, cảm ơn bạn."
         },
         {
           "word": "thank you",
@@ -83,7 +89,8 @@
           "audio_uk": "audio/uk/thank-you.mp3",
           "audio_us": "audio/us/thank-you.mp3",
           "meaning": "cảm ơn",
-          "example": "Fine, thank you."
+          "example": "Fine, thank you.",
+          "example_vi": "Mình khỏe, cảm ơn bạn."
         },
         {
           "word": "I'm",
@@ -93,7 +100,8 @@
           "audio_uk": "audio/uk/i-m.mp3",
           "audio_us": "audio/us/i-m.mp3",
           "meaning": "tôi là, mình là",
-          "example": "I'm Ben."
+          "example": "I'm Ben.",
+          "example_vi": "Mình là Ben."
         }
       ]
     },
@@ -117,7 +125,8 @@
           "audio_uk": "audio/uk/name.mp3",
           "audio_us": "audio/us/name.mp3",
           "meaning": "tên",
-          "example": "What's your name?"
+          "example": "What's your name?",
+          "example_vi": "Bạn tên là gì?"
         },
         {
           "word": "what's your name?",
@@ -127,7 +136,8 @@
           "audio_uk": "audio/uk/what-s-your-name.mp3",
           "audio_us": "audio/us/what-s-your-name.mp3",
           "meaning": "bạn tên là gì?",
-          "example": "What's your name? – My name's Linh."
+          "example": "What's your name? – My name's Linh.",
+          "example_vi": "Bạn tên là gì? – Mình tên là Linh."
         },
         {
           "word": "my name's",
@@ -137,7 +147,8 @@
           "audio_uk": "audio/uk/my-name-s.mp3",
           "audio_us": "audio/us/my-name-s.mp3",
           "meaning": "tên mình là",
-          "example": "My name's Bill."
+          "example": "My name's Bill.",
+          "example_vi": "Mình tên là Bill."
         },
         {
           "word": "his",
@@ -147,7 +158,8 @@
           "audio_uk": "audio/uk/his.mp3",
           "audio_us": "audio/us/his.mp3",
           "meaning": "của anh ấy, của bạn ấy (nam)",
-          "example": "His name is Ben."
+          "example": "His name is Ben.",
+          "example_vi": "Bạn ấy tên là Ben."
         },
         {
           "word": "her",
@@ -157,7 +169,8 @@
           "audio_uk": "audio/uk/her.mp3",
           "audio_us": "audio/us/her.mp3",
           "meaning": "của chị ấy, của bạn ấy (nữ)",
-          "example": "Her name is Mary."
+          "example": "Her name is Mary.",
+          "example_vi": "Bạn ấy tên là Mary."
         },
         {
           "word": "how old are you?",
@@ -167,7 +180,8 @@
           "audio_uk": "audio/uk/how-old-are-you.mp3",
           "audio_us": "audio/us/how-old-are-you.mp3",
           "meaning": "bạn bao nhiêu tuổi?",
-          "example": "How old are you? – I'm eight."
+          "example": "How old are you? – I'm eight.",
+          "example_vi": "Bạn bao nhiêu tuổi? – Mình tám tuổi."
         },
         {
           "word": "years old",
@@ -177,7 +191,8 @@
           "audio_uk": "audio/uk/years-old.mp3",
           "audio_us": "audio/us/years-old.mp3",
           "meaning": "... tuổi",
-          "example": "I'm eight years old."
+          "example": "I'm eight years old.",
+          "example_vi": "Mình tám tuổi."
         },
         {
           "word": "one",
@@ -187,7 +202,8 @@
           "audio_uk": "audio/uk/one.mp3",
           "audio_us": "audio/us/one.mp3",
           "meaning": "một",
-          "example": "One, two, three."
+          "example": "One, two, three.",
+          "example_vi": "Một, hai, ba."
         },
         {
           "word": "two",
@@ -196,7 +212,9 @@
           "ipa_us": "/tuː/",
           "audio_uk": "audio/uk/two.mp3",
           "audio_us": "audio/us/two.mp3",
-          "meaning": "hai"
+          "meaning": "hai",
+          "example": "My brother is two years old.",
+          "example_vi": "Em trai mình hai tuổi."
         },
         {
           "word": "three",
@@ -205,7 +223,9 @@
           "ipa_us": "/θriː/",
           "audio_uk": "audio/uk/three.mp3",
           "audio_us": "audio/us/three.mp3",
-          "meaning": "ba"
+          "meaning": "ba",
+          "example": "My sister is three years old.",
+          "example_vi": "Em gái mình ba tuổi."
         },
         {
           "word": "four",
@@ -214,7 +234,9 @@
           "ipa_us": "/fɔːr/",
           "audio_uk": "audio/uk/four.mp3",
           "audio_us": "audio/us/four.mp3",
-          "meaning": "bốn"
+          "meaning": "bốn",
+          "example": "Tom is four years old.",
+          "example_vi": "Tom bốn tuổi."
         },
         {
           "word": "five",
@@ -223,7 +245,9 @@
           "ipa_us": "/faɪv/",
           "audio_uk": "audio/uk/five.mp3",
           "audio_us": "audio/us/five.mp3",
-          "meaning": "năm"
+          "meaning": "năm",
+          "example": "I can count to five.",
+          "example_vi": "Mình có thể đếm đến năm."
         },
         {
           "word": "six",
@@ -232,7 +256,9 @@
           "ipa_us": "/sɪks/",
           "audio_uk": "audio/uk/six.mp3",
           "audio_us": "audio/us/six.mp3",
-          "meaning": "sáu"
+          "meaning": "sáu",
+          "example": "Lucy is six years old.",
+          "example_vi": "Lucy sáu tuổi."
         },
         {
           "word": "seven",
@@ -241,7 +267,9 @@
           "ipa_us": "/ˈsevən/",
           "audio_uk": "audio/uk/seven.mp3",
           "audio_us": "audio/us/seven.mp3",
-          "meaning": "bảy"
+          "meaning": "bảy",
+          "example": "I'm seven years old.",
+          "example_vi": "Mình bảy tuổi."
         },
         {
           "word": "eight",
@@ -251,7 +279,8 @@
           "audio_uk": "audio/uk/eight.mp3",
           "audio_us": "audio/us/eight.mp3",
           "meaning": "tám",
-          "example": "I'm eight years old."
+          "example": "I'm eight years old.",
+          "example_vi": "Mình tám tuổi."
         },
         {
           "word": "nine",
@@ -260,7 +289,9 @@
           "ipa_us": "/naɪn/",
           "audio_uk": "audio/uk/nine.mp3",
           "audio_us": "audio/us/nine.mp3",
-          "meaning": "chín"
+          "meaning": "chín",
+          "example": "I'm nine years old.",
+          "example_vi": "Mình chín tuổi."
         },
         {
           "word": "ten",
@@ -270,7 +301,8 @@
           "audio_uk": "audio/uk/ten.mp3",
           "audio_us": "audio/us/ten.mp3",
           "meaning": "mười",
-          "example": "I'm ten years old."
+          "example": "I'm ten years old.",
+          "example_vi": "Mình mười tuổi."
         }
       ]
     },
@@ -293,7 +325,8 @@
           "audio_uk": "audio/uk/friend.mp3",
           "audio_us": "audio/us/friend.mp3",
           "meaning": "bạn, bạn bè",
-          "example": "This is my friend."
+          "example": "This is my friend.",
+          "example_vi": "Đây là bạn của mình."
         },
         {
           "word": "this",
@@ -303,7 +336,8 @@
           "audio_uk": "audio/uk/this.mp3",
           "audio_us": "audio/us/this.mp3",
           "meaning": "đây, cái này, người này",
-          "example": "This is Mary."
+          "example": "This is Mary.",
+          "example_vi": "Đây là Mary."
         },
         {
           "word": "that",
@@ -313,7 +347,8 @@
           "audio_uk": "audio/uk/that.mp3",
           "audio_us": "audio/us/that.mp3",
           "meaning": "kia, cái kia, người kia",
-          "example": "That is my friend."
+          "example": "That is my friend.",
+          "example_vi": "Kia là bạn của mình."
         },
         {
           "word": "is this ...?",
@@ -323,7 +358,8 @@
           "audio_uk": "audio/uk/is-this.mp3",
           "audio_us": "audio/us/is-this.mp3",
           "meaning": "đây có phải là ... không?",
-          "example": "Is this Lucy?"
+          "example": "Is this Lucy?",
+          "example_vi": "Đây có phải là Lucy không?"
         },
         {
           "word": "is that ...?",
@@ -333,7 +369,8 @@
           "audio_uk": "audio/uk/is-that.mp3",
           "audio_us": "audio/us/is-that.mp3",
           "meaning": "kia có phải là ... không?",
-          "example": "Is that Minh?"
+          "example": "Is that Minh?",
+          "example_vi": "Kia có phải là Minh không?"
         },
         {
           "word": "yes, it is",
@@ -343,7 +380,8 @@
           "audio_uk": "audio/uk/yes-it-is.mp3",
           "audio_us": "audio/us/yes-it-is.mp3",
           "meaning": "vâng, đúng vậy",
-          "example": "Is that Minh? – Yes, it is."
+          "example": "Is that Minh? – Yes, it is.",
+          "example_vi": "Kia có phải là Minh không? – Vâng, đúng vậy."
         },
         {
           "word": "no, it isn't",
@@ -353,7 +391,8 @@
           "audio_uk": "audio/uk/no-it-isn-t.mp3",
           "audio_us": "audio/us/no-it-isn-t.mp3",
           "meaning": "không, không phải",
-          "example": "Is that Ben? – No, it isn't."
+          "example": "Is that Ben? – No, it isn't.",
+          "example_vi": "Kia có phải là Ben không? – Không, không phải."
         }
       ]
     },
@@ -376,7 +415,9 @@
           "ipa_us": "/ˈbɑːdi/",
           "audio_uk": "audio/uk/body.mp3",
           "audio_us": "audio/us/body.mp3",
-          "meaning": "cơ thể"
+          "meaning": "cơ thể",
+          "example": "This is my body.",
+          "example_vi": "Đây là cơ thể của mình."
         },
         {
           "word": "face",
@@ -386,7 +427,8 @@
           "audio_uk": "audio/uk/face.mp3",
           "audio_us": "audio/us/face.mp3",
           "meaning": "khuôn mặt",
-          "example": "It's a face."
+          "example": "It's a face.",
+          "example_vi": "Đó là khuôn mặt."
         },
         {
           "word": "hand",
@@ -396,7 +438,8 @@
           "audio_uk": "audio/uk/hand.mp3",
           "audio_us": "audio/us/hand.mp3",
           "meaning": "bàn tay",
-          "example": "Touch your hand."
+          "example": "Touch your hand.",
+          "example_vi": "Hãy chạm vào bàn tay của em."
         },
         {
           "word": "ear",
@@ -406,7 +449,8 @@
           "audio_uk": "audio/uk/ear.mp3",
           "audio_us": "audio/us/ear.mp3",
           "meaning": "tai",
-          "example": "It's an ear."
+          "example": "It's an ear.",
+          "example_vi": "Đó là cái tai."
         },
         {
           "word": "eye",
@@ -416,7 +460,8 @@
           "audio_uk": "audio/uk/eye.mp3",
           "audio_us": "audio/us/eye.mp3",
           "meaning": "mắt",
-          "example": "It's an eye."
+          "example": "It's an eye.",
+          "example_vi": "Đó là con mắt."
         },
         {
           "word": "nose",
@@ -426,7 +471,8 @@
           "audio_uk": "audio/uk/nose.mp3",
           "audio_us": "audio/us/nose.mp3",
           "meaning": "mũi",
-          "example": "It's a nose."
+          "example": "It's a nose.",
+          "example_vi": "Đó là cái mũi."
         },
         {
           "word": "mouth",
@@ -436,7 +482,8 @@
           "audio_uk": "audio/uk/mouth.mp3",
           "audio_us": "audio/us/mouth.mp3",
           "meaning": "miệng",
-          "example": "It's a mouth."
+          "example": "It's a mouth.",
+          "example_vi": "Đó là cái miệng."
         },
         {
           "word": "open",
@@ -446,7 +493,8 @@
           "audio_uk": "audio/uk/open.mp3",
           "audio_us": "audio/us/open.mp3",
           "meaning": "mở",
-          "example": "Open your mouth."
+          "example": "Open your mouth.",
+          "example_vi": "Hãy mở miệng ra."
         },
         {
           "word": "touch",
@@ -456,7 +504,8 @@
           "audio_uk": "audio/uk/touch.mp3",
           "audio_us": "audio/us/touch.mp3",
           "meaning": "chạm vào, sờ vào",
-          "example": "Touch your nose."
+          "example": "Touch your nose.",
+          "example_vi": "Hãy chạm vào mũi của em."
         },
         {
           "word": "what's this?",
@@ -466,7 +515,8 @@
           "audio_uk": "audio/uk/what-s-this.mp3",
           "audio_us": "audio/us/what-s-this.mp3",
           "meaning": "đây là cái gì?",
-          "example": "What's this? – It's a hand."
+          "example": "What's this? – It's a hand.",
+          "example_vi": "Đây là cái gì? – Đó là bàn tay."
         }
       ]
     },
@@ -490,7 +540,8 @@
           "audio_uk": "audio/uk/hobby.mp3",
           "audio_us": "audio/us/hobby.mp3",
           "meaning": "sở thích",
-          "example": "What's your hobby?"
+          "example": "What's your hobby?",
+          "example_vi": "Sở thích của bạn là gì?"
         },
         {
           "word": "dancing",
@@ -500,7 +551,8 @@
           "audio_uk": "audio/uk/dancing.mp3",
           "audio_us": "audio/us/dancing.mp3",
           "meaning": "nhảy múa",
-          "example": "My hobby is dancing."
+          "example": "My hobby is dancing.",
+          "example_vi": "Sở thích của mình là nhảy múa."
         },
         {
           "word": "drawing",
@@ -510,7 +562,8 @@
           "audio_uk": "audio/uk/drawing.mp3",
           "audio_us": "audio/us/drawing.mp3",
           "meaning": "vẽ (bằng bút chì)",
-          "example": "I like drawing."
+          "example": "I like drawing.",
+          "example_vi": "Mình thích vẽ."
         },
         {
           "word": "painting",
@@ -520,7 +573,8 @@
           "audio_uk": "audio/uk/painting.mp3",
           "audio_us": "audio/us/painting.mp3",
           "meaning": "vẽ tranh, tô màu",
-          "example": "It's painting."
+          "example": "It's painting.",
+          "example_vi": "Đó là vẽ tranh."
         },
         {
           "word": "singing",
@@ -530,7 +584,8 @@
           "audio_uk": "audio/uk/singing.mp3",
           "audio_us": "audio/us/singing.mp3",
           "meaning": "ca hát",
-          "example": "My hobby is singing."
+          "example": "My hobby is singing.",
+          "example_vi": "Sở thích của mình là ca hát."
         },
         {
           "word": "swimming",
@@ -540,7 +595,8 @@
           "audio_uk": "audio/uk/swimming.mp3",
           "audio_us": "audio/us/swimming.mp3",
           "meaning": "bơi lội",
-          "example": "I like swimming."
+          "example": "I like swimming.",
+          "example_vi": "Mình thích bơi lội."
         },
         {
           "word": "running",
@@ -550,7 +606,8 @@
           "audio_uk": "audio/uk/running.mp3",
           "audio_us": "audio/us/running.mp3",
           "meaning": "chạy bộ",
-          "example": "It's running."
+          "example": "It's running.",
+          "example_vi": "Đó là chạy bộ."
         },
         {
           "word": "cooking",
@@ -560,7 +617,8 @@
           "audio_uk": "audio/uk/cooking.mp3",
           "audio_us": "audio/us/cooking.mp3",
           "meaning": "nấu ăn",
-          "example": "My hobby is cooking."
+          "example": "My hobby is cooking.",
+          "example_vi": "Sở thích của mình là nấu ăn."
         },
         {
           "word": "walking",
@@ -570,7 +628,8 @@
           "audio_uk": "audio/uk/walking.mp3",
           "audio_us": "audio/us/walking.mp3",
           "meaning": "đi bộ",
-          "example": "I like walking."
+          "example": "I like walking.",
+          "example_vi": "Mình thích đi bộ."
         },
         {
           "word": "what's your hobby?",
@@ -580,7 +639,8 @@
           "audio_uk": "audio/uk/what-s-your-hobby.mp3",
           "audio_us": "audio/us/what-s-your-hobby.mp3",
           "meaning": "sở thích của bạn là gì?",
-          "example": "What's your hobby? – It's swimming."
+          "example": "What's your hobby? – It's swimming.",
+          "example_vi": "Sở thích của bạn là gì? – Đó là bơi lội."
         },
         {
           "word": "like",
@@ -590,7 +650,8 @@
           "audio_uk": "audio/uk/like.mp3",
           "audio_us": "audio/us/like.mp3",
           "meaning": "thích",
-          "example": "I like drawing."
+          "example": "I like drawing.",
+          "example_vi": "Mình thích vẽ."
         }
       ]
     },
@@ -614,7 +675,8 @@
           "audio_uk": "audio/uk/school.mp3",
           "audio_us": "audio/us/school.mp3",
           "meaning": "trường học",
-          "example": "Is this our school?"
+          "example": "Is this our school?",
+          "example_vi": "Đây có phải là trường của chúng mình không?"
         },
         {
           "word": "classroom",
@@ -624,7 +686,8 @@
           "audio_uk": "audio/uk/classroom.mp3",
           "audio_us": "audio/us/classroom.mp3",
           "meaning": "lớp học, phòng học",
-          "example": "This is our classroom."
+          "example": "This is our classroom.",
+          "example_vi": "Đây là lớp học của chúng mình."
         },
         {
           "word": "library",
@@ -634,7 +697,8 @@
           "audio_uk": "audio/uk/library.mp3",
           "audio_us": "audio/us/library.mp3",
           "meaning": "thư viện",
-          "example": "Is this our library?"
+          "example": "Is this our library?",
+          "example_vi": "Đây có phải là thư viện của chúng mình không?"
         },
         {
           "word": "playground",
@@ -644,7 +708,8 @@
           "audio_uk": "audio/uk/playground.mp3",
           "audio_us": "audio/us/playground.mp3",
           "meaning": "sân chơi",
-          "example": "That's our playground."
+          "example": "That's our playground.",
+          "example_vi": "Kia là sân chơi của chúng mình."
         },
         {
           "word": "computer room",
@@ -654,7 +719,8 @@
           "audio_uk": "audio/uk/computer-room.mp3",
           "audio_us": "audio/us/computer-room.mp3",
           "meaning": "phòng máy tính",
-          "example": "Let's go to the computer room."
+          "example": "Let's go to the computer room.",
+          "example_vi": "Chúng mình cùng đến phòng máy tính nào."
         },
         {
           "word": "music room",
@@ -664,7 +730,8 @@
           "audio_uk": "audio/uk/music-room.mp3",
           "audio_us": "audio/us/music-room.mp3",
           "meaning": "phòng âm nhạc",
-          "example": "This is the music room."
+          "example": "This is the music room.",
+          "example_vi": "Đây là phòng âm nhạc."
         },
         {
           "word": "art room",
@@ -674,7 +741,8 @@
           "audio_uk": "audio/uk/art-room.mp3",
           "audio_us": "audio/us/art-room.mp3",
           "meaning": "phòng mỹ thuật",
-          "example": "Is that the art room?"
+          "example": "Is that the art room?",
+          "example_vi": "Kia có phải là phòng mỹ thuật không?"
         },
         {
           "word": "our",
@@ -684,7 +752,8 @@
           "audio_uk": "audio/uk/our.mp3",
           "audio_us": "audio/us/our.mp3",
           "meaning": "của chúng mình",
-          "example": "This is our school."
+          "example": "This is our school.",
+          "example_vi": "Đây là trường của chúng mình."
         }
       ]
     },
@@ -708,7 +777,8 @@
           "audio_uk": "audio/uk/stand-up.mp3",
           "audio_us": "audio/us/stand-up.mp3",
           "meaning": "đứng lên",
-          "example": "Stand up, please!"
+          "example": "Stand up, please!",
+          "example_vi": "Các em đứng lên nào!"
         },
         {
           "word": "sit down",
@@ -718,7 +788,8 @@
           "audio_uk": "audio/uk/sit-down.mp3",
           "audio_us": "audio/us/sit-down.mp3",
           "meaning": "ngồi xuống",
-          "example": "Sit down, please!"
+          "example": "Sit down, please!",
+          "example_vi": "Các em ngồi xuống nào!"
         },
         {
           "word": "open your book",
@@ -728,7 +799,8 @@
           "audio_uk": "audio/uk/open-your-book.mp3",
           "audio_us": "audio/us/open-your-book.mp3",
           "meaning": "mở sách ra",
-          "example": "Open your book, please!"
+          "example": "Open your book, please!",
+          "example_vi": "Các em mở sách ra nào!"
         },
         {
           "word": "close your book",
@@ -738,7 +810,8 @@
           "audio_uk": "audio/uk/close-your-book.mp3",
           "audio_us": "audio/us/close-your-book.mp3",
           "meaning": "gấp sách lại",
-          "example": "Close your book, please!"
+          "example": "Close your book, please!",
+          "example_vi": "Các em gấp sách lại nào!"
         },
         {
           "word": "be quiet",
@@ -748,7 +821,8 @@
           "audio_uk": "audio/uk/be-quiet.mp3",
           "audio_us": "audio/us/be-quiet.mp3",
           "meaning": "giữ trật tự",
-          "example": "Be quiet, please!"
+          "example": "Be quiet, please!",
+          "example_vi": "Các em giữ trật tự nào!"
         },
         {
           "word": "come in",
@@ -758,7 +832,8 @@
           "audio_uk": "audio/uk/come-in.mp3",
           "audio_us": "audio/us/come-in.mp3",
           "meaning": "đi vào",
-          "example": "May I come in?"
+          "example": "May I come in?",
+          "example_vi": "Em có thể vào lớp được không ạ?"
         },
         {
           "word": "go out",
@@ -768,7 +843,8 @@
           "audio_uk": "audio/uk/go-out.mp3",
           "audio_us": "audio/us/go-out.mp3",
           "meaning": "đi ra ngoài",
-          "example": "May I go out?"
+          "example": "May I go out?",
+          "example_vi": "Em có thể ra ngoài được không ạ?"
         },
         {
           "word": "speak",
@@ -778,7 +854,8 @@
           "audio_uk": "audio/uk/speak.mp3",
           "audio_us": "audio/us/speak.mp3",
           "meaning": "nói",
-          "example": "May I speak Vietnamese?"
+          "example": "May I speak Vietnamese?",
+          "example_vi": "Em có thể nói tiếng Việt được không ạ?"
         },
         {
           "word": "please",
@@ -788,7 +865,8 @@
           "audio_uk": "audio/uk/please.mp3",
           "audio_us": "audio/us/please.mp3",
           "meaning": "làm ơn, xin vui lòng",
-          "example": "Sit down, please."
+          "example": "Sit down, please.",
+          "example_vi": "Mời các em ngồi xuống."
         },
         {
           "word": "may I ...?",
@@ -798,7 +876,8 @@
           "audio_uk": "audio/uk/may-i.mp3",
           "audio_us": "audio/us/may-i.mp3",
           "meaning": "em có thể ... không ạ?",
-          "example": "May I open the book?"
+          "example": "May I open the book?",
+          "example_vi": "Em có thể mở sách ra được không ạ?"
         },
         {
           "word": "yes, you can",
@@ -808,7 +887,8 @@
           "audio_uk": "audio/uk/yes-you-can.mp3",
           "audio_us": "audio/us/yes-you-can.mp3",
           "meaning": "được, em có thể",
-          "example": "May I come in? – Yes, you can."
+          "example": "May I come in? – Yes, you can.",
+          "example_vi": "Em có thể vào lớp được không ạ? – Được, em vào đi."
         },
         {
           "word": "no, you can't",
@@ -818,7 +898,8 @@
           "audio_uk": "audio/uk/no-you-can-t.mp3",
           "audio_us": "audio/us/no-you-can-t.mp3",
           "meaning": "không, em không thể",
-          "example": "May I go out? – No, you can't."
+          "example": "May I go out? – No, you can't.",
+          "example_vi": "Em có thể ra ngoài được không ạ? – Không, em không được ra ngoài."
         }
       ]
     },
@@ -841,7 +922,8 @@
           "audio_uk": "audio/uk/book.mp3",
           "audio_us": "audio/us/book.mp3",
           "meaning": "quyển sách",
-          "example": "I have a book."
+          "example": "I have a book.",
+          "example_vi": "Mình có một quyển sách."
         },
         {
           "word": "notebook",
@@ -851,7 +933,8 @@
           "audio_uk": "audio/uk/notebook.mp3",
           "audio_us": "audio/us/notebook.mp3",
           "meaning": "quyển vở",
-          "example": "I have a notebook."
+          "example": "I have a notebook.",
+          "example_vi": "Mình có một quyển vở."
         },
         {
           "word": "pen",
@@ -861,7 +944,8 @@
           "audio_uk": "audio/uk/pen.mp3",
           "audio_us": "audio/us/pen.mp3",
           "meaning": "bút mực",
-          "example": "I have a pen."
+          "example": "I have a pen.",
+          "example_vi": "Mình có một cái bút mực."
         },
         {
           "word": "pencil case",
@@ -871,7 +955,8 @@
           "audio_uk": "audio/uk/pencil-case.mp3",
           "audio_us": "audio/us/pencil-case.mp3",
           "meaning": "hộp bút",
-          "example": "I have a pencil case."
+          "example": "I have a pencil case.",
+          "example_vi": "Mình có một cái hộp bút."
         },
         {
           "word": "eraser",
@@ -881,7 +966,8 @@
           "audio_uk": "audio/uk/eraser.mp3",
           "audio_us": "audio/us/eraser.mp3",
           "meaning": "cục tẩy",
-          "example": "I have an eraser."
+          "example": "I have an eraser.",
+          "example_vi": "Mình có một cục tẩy."
         },
         {
           "word": "ruler",
@@ -891,7 +977,8 @@
           "audio_uk": "audio/uk/ruler.mp3",
           "audio_us": "audio/us/ruler.mp3",
           "meaning": "thước kẻ",
-          "example": "This is my ruler."
+          "example": "This is my ruler.",
+          "example_vi": "Đây là thước kẻ của mình."
         },
         {
           "word": "school bag",
@@ -901,7 +988,8 @@
           "audio_uk": "audio/uk/school-bag.mp3",
           "audio_us": "audio/us/school-bag.mp3",
           "meaning": "cặp sách",
-          "example": "I have a school bag."
+          "example": "I have a school bag.",
+          "example_vi": "Mình có một cái cặp sách."
         },
         {
           "word": "have",
@@ -911,7 +999,8 @@
           "audio_uk": "audio/uk/have.mp3",
           "audio_us": "audio/us/have.mp3",
           "meaning": "có",
-          "example": "I have a notebook."
+          "example": "I have a notebook.",
+          "example_vi": "Mình có một quyển vở."
         }
       ]
     },
@@ -935,7 +1024,8 @@
           "audio_uk": "audio/uk/colour.mp3",
           "audio_us": "audio/us/colour.mp3",
           "meaning": "màu sắc",
-          "example": "What colour is it?"
+          "example": "What colour is it?",
+          "example_vi": "Nó màu gì?"
         },
         {
           "word": "red",
@@ -945,7 +1035,8 @@
           "audio_uk": "audio/uk/red.mp3",
           "audio_us": "audio/us/red.mp3",
           "meaning": "màu đỏ",
-          "example": "It's red."
+          "example": "It's red.",
+          "example_vi": "Nó màu đỏ."
         },
         {
           "word": "blue",
@@ -955,7 +1046,8 @@
           "audio_uk": "audio/uk/blue.mp3",
           "audio_us": "audio/us/blue.mp3",
           "meaning": "màu xanh dương",
-          "example": "It's blue."
+          "example": "It's blue.",
+          "example_vi": "Nó màu xanh dương."
         },
         {
           "word": "green",
@@ -965,7 +1057,8 @@
           "audio_uk": "audio/uk/green.mp3",
           "audio_us": "audio/us/green.mp3",
           "meaning": "màu xanh lá cây",
-          "example": "It's green."
+          "example": "It's green.",
+          "example_vi": "Nó màu xanh lá cây."
         },
         {
           "word": "yellow",
@@ -975,7 +1068,8 @@
           "audio_uk": "audio/uk/yellow.mp3",
           "audio_us": "audio/us/yellow.mp3",
           "meaning": "màu vàng",
-          "example": "It's yellow."
+          "example": "It's yellow.",
+          "example_vi": "Nó màu vàng."
         },
         {
           "word": "white",
@@ -985,7 +1079,8 @@
           "audio_uk": "audio/uk/white.mp3",
           "audio_us": "audio/us/white.mp3",
           "meaning": "màu trắng",
-          "example": "It's white."
+          "example": "It's white.",
+          "example_vi": "Nó màu trắng."
         },
         {
           "word": "black",
@@ -995,7 +1090,8 @@
           "audio_uk": "audio/uk/black.mp3",
           "audio_us": "audio/us/black.mp3",
           "meaning": "màu đen",
-          "example": "They're black."
+          "example": "They're black.",
+          "example_vi": "Chúng màu đen."
         },
         {
           "word": "brown",
@@ -1005,7 +1101,8 @@
           "audio_uk": "audio/uk/brown.mp3",
           "audio_us": "audio/us/brown.mp3",
           "meaning": "màu nâu",
-          "example": "It's brown."
+          "example": "It's brown.",
+          "example_vi": "Nó màu nâu."
         },
         {
           "word": "orange",
@@ -1015,7 +1112,8 @@
           "audio_uk": "audio/uk/orange.mp3",
           "audio_us": "audio/us/orange.mp3",
           "meaning": "màu cam",
-          "example": "They're orange."
+          "example": "They're orange.",
+          "example_vi": "Chúng màu cam."
         },
         {
           "word": "what colour is it?",
@@ -1025,7 +1123,8 @@
           "audio_uk": "audio/uk/what-colour-is-it.mp3",
           "audio_us": "audio/us/what-colour-is-it.mp3",
           "meaning": "nó màu gì?",
-          "example": "What colour is it? – It's red."
+          "example": "What colour is it? – It's red.",
+          "example_vi": "Nó màu gì? – Nó màu đỏ."
         },
         {
           "word": "what colour are they?",
@@ -1035,7 +1134,8 @@
           "audio_uk": "audio/uk/what-colour-are-they.mp3",
           "audio_us": "audio/us/what-colour-are-they.mp3",
           "meaning": "chúng màu gì?",
-          "example": "What colour are they? – They're blue."
+          "example": "What colour are they? – They're blue.",
+          "example_vi": "Chúng màu gì? – Chúng màu xanh dương."
         }
       ]
     },
@@ -1058,7 +1158,8 @@
           "audio_uk": "audio/uk/break-time.mp3",
           "audio_us": "audio/us/break-time.mp3",
           "meaning": "giờ ra chơi",
-          "example": "I play chess at break time."
+          "example": "I play chess at break time.",
+          "example_vi": "Mình chơi cờ vua vào giờ ra chơi."
         },
         {
           "word": "play chess",
@@ -1068,7 +1169,8 @@
           "audio_uk": "audio/uk/play-chess.mp3",
           "audio_us": "audio/us/play-chess.mp3",
           "meaning": "chơi cờ vua",
-          "example": "I play chess at break time."
+          "example": "I play chess at break time.",
+          "example_vi": "Mình chơi cờ vua vào giờ ra chơi."
         },
         {
           "word": "play volleyball",
@@ -1078,7 +1180,8 @@
           "audio_uk": "audio/uk/play-volleyball.mp3",
           "audio_us": "audio/us/play-volleyball.mp3",
           "meaning": "chơi bóng chuyền",
-          "example": "We play volleyball."
+          "example": "We play volleyball.",
+          "example_vi": "Chúng mình chơi bóng chuyền."
         },
         {
           "word": "play basketball",
@@ -1088,7 +1191,8 @@
           "audio_uk": "audio/uk/play-basketball.mp3",
           "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
-          "example": "I play basketball at break time."
+          "example": "I play basketball at break time.",
+          "example_vi": "Mình chơi bóng rổ vào giờ ra chơi."
         },
         {
           "word": "play badminton",
@@ -1098,7 +1202,8 @@
           "audio_uk": "audio/uk/play-badminton.mp3",
           "audio_us": "audio/us/play-badminton.mp3",
           "meaning": "chơi cầu lông",
-          "example": "We play badminton."
+          "example": "We play badminton.",
+          "example_vi": "Chúng mình chơi cầu lông."
         },
         {
           "word": "play football",
@@ -1108,7 +1213,8 @@
           "audio_uk": "audio/uk/play-football.mp3",
           "audio_us": "audio/us/play-football.mp3",
           "meaning": "chơi bóng đá",
-          "example": "I play football at break time."
+          "example": "I play football at break time.",
+          "example_vi": "Mình chơi bóng đá vào giờ ra chơi."
         },
         {
           "word": "play table tennis",
@@ -1118,7 +1224,8 @@
           "audio_uk": "audio/uk/play-table-tennis.mp3",
           "audio_us": "audio/us/play-table-tennis.mp3",
           "meaning": "chơi bóng bàn",
-          "example": "We play table tennis."
+          "example": "We play table tennis.",
+          "example_vi": "Chúng mình chơi bóng bàn."
         },
         {
           "word": "chat with friends",
@@ -1128,7 +1235,8 @@
           "audio_uk": "audio/uk/chat-with-friends.mp3",
           "audio_us": "audio/us/chat-with-friends.mp3",
           "meaning": "trò chuyện với bạn bè",
-          "example": "I chat with my friends."
+          "example": "I chat with my friends.",
+          "example_vi": "Mình trò chuyện với các bạn."
         },
         {
           "word": "do word puzzles",
@@ -1138,7 +1246,8 @@
           "audio_uk": "audio/uk/do-word-puzzles.mp3",
           "audio_us": "audio/us/do-word-puzzles.mp3",
           "meaning": "chơi giải ô chữ",
-          "example": "I do word puzzles at break time."
+          "example": "I do word puzzles at break time.",
+          "example_vi": "Mình chơi giải ô chữ vào giờ ra chơi."
         },
         {
           "word": "what do you do at break time?",
@@ -1147,7 +1256,9 @@
           "ipa_us": "/ˌwʌt duː juː ˈduː æt ˈbreɪk taɪm/",
           "audio_uk": "audio/uk/what-do-you-do-at-break-time.mp3",
           "audio_us": "audio/us/what-do-you-do-at-break-time.mp3",
-          "meaning": "bạn làm gì vào giờ ra chơi?"
+          "meaning": "bạn làm gì vào giờ ra chơi?",
+          "example": "What do you do at break time? – I play football.",
+          "example_vi": "Bạn làm gì vào giờ ra chơi? – Mình chơi bóng đá."
         }
       ]
     },
@@ -1170,7 +1281,8 @@
           "audio_uk": "audio/uk/family.mp3",
           "audio_us": "audio/us/family.mp3",
           "meaning": "gia đình",
-          "example": "This is my family."
+          "example": "This is my family.",
+          "example_vi": "Đây là gia đình của mình."
         },
         {
           "word": "grandfather",
@@ -1180,7 +1292,8 @@
           "audio_uk": "audio/uk/grandfather.mp3",
           "audio_us": "audio/us/grandfather.mp3",
           "meaning": "ông",
-          "example": "It's my grandfather."
+          "example": "It's my grandfather.",
+          "example_vi": "Đó là ông của mình."
         },
         {
           "word": "grandmother",
@@ -1190,7 +1303,8 @@
           "audio_uk": "audio/uk/grandmother.mp3",
           "audio_us": "audio/us/grandmother.mp3",
           "meaning": "bà",
-          "example": "That's my grandmother."
+          "example": "That's my grandmother.",
+          "example_vi": "Kia là bà của mình."
         },
         {
           "word": "father",
@@ -1200,7 +1314,8 @@
           "audio_uk": "audio/uk/father.mp3",
           "audio_us": "audio/us/father.mp3",
           "meaning": "bố",
-          "example": "Who's that? – It's my father."
+          "example": "Who's that? – It's my father.",
+          "example_vi": "Kia là ai? – Đó là bố của mình."
         },
         {
           "word": "mother",
@@ -1210,7 +1325,8 @@
           "audio_uk": "audio/uk/mother.mp3",
           "audio_us": "audio/us/mother.mp3",
           "meaning": "mẹ",
-          "example": "Who's that? – It's my mother."
+          "example": "Who's that? – It's my mother.",
+          "example_vi": "Kia là ai? – Đó là mẹ của mình."
         },
         {
           "word": "brother",
@@ -1220,7 +1336,8 @@
           "audio_uk": "audio/uk/brother.mp3",
           "audio_us": "audio/us/brother.mp3",
           "meaning": "anh trai, em trai",
-          "example": "It's my brother."
+          "example": "It's my brother.",
+          "example_vi": "Đó là anh trai của mình."
         },
         {
           "word": "sister",
@@ -1230,7 +1347,8 @@
           "audio_uk": "audio/uk/sister.mp3",
           "audio_us": "audio/us/sister.mp3",
           "meaning": "chị gái, em gái",
-          "example": "It's my sister."
+          "example": "It's my sister.",
+          "example_vi": "Đó là chị gái của mình."
         },
         {
           "word": "man",
@@ -1240,7 +1358,8 @@
           "audio_uk": "audio/uk/man.mp3",
           "audio_us": "audio/us/man.mp3",
           "meaning": "người đàn ông",
-          "example": "Who's the man?"
+          "example": "Who's the man?",
+          "example_vi": "Người đàn ông đó là ai?"
         },
         {
           "word": "woman",
@@ -1250,7 +1369,8 @@
           "audio_uk": "audio/uk/woman.mp3",
           "audio_us": "audio/us/woman.mp3",
           "meaning": "người phụ nữ",
-          "example": "Who's the woman?"
+          "example": "Who's the woman?",
+          "example_vi": "Người phụ nữ đó là ai?"
         },
         {
           "word": "photo",
@@ -1260,7 +1380,8 @@
           "audio_uk": "audio/uk/photo.mp3",
           "audio_us": "audio/us/photo.mp3",
           "meaning": "bức ảnh",
-          "example": "Look at this photo."
+          "example": "Look at this photo.",
+          "example_vi": "Hãy nhìn bức ảnh này."
         },
         {
           "word": "who",
@@ -1270,7 +1391,8 @@
           "audio_uk": "audio/uk/who.mp3",
           "audio_us": "audio/us/who.mp3",
           "meaning": "ai",
-          "example": "Who's that?"
+          "example": "Who's that?",
+          "example_vi": "Kia là ai?"
         },
         {
           "word": "who's that?",
@@ -1280,7 +1402,8 @@
           "audio_uk": "audio/uk/who-s-that.mp3",
           "audio_us": "audio/us/who-s-that.mp3",
           "meaning": "kia là ai?",
-          "example": "Who's that? – It's my brother."
+          "example": "Who's that? – It's my brother.",
+          "example_vi": "Kia là ai? – Đó là anh trai của mình."
         },
         {
           "word": "nineteen",
@@ -1290,7 +1413,8 @@
           "audio_uk": "audio/uk/nineteen.mp3",
           "audio_us": "audio/us/nineteen.mp3",
           "meaning": "mười chín",
-          "example": "My sister is nineteen."
+          "example": "My sister is nineteen.",
+          "example_vi": "Chị gái mình mười chín tuổi."
         }
       ]
     },
@@ -1312,7 +1436,8 @@
           "audio_uk": "audio/uk/job.mp3",
           "audio_us": "audio/us/job.mp3",
           "meaning": "nghề nghiệp, công việc",
-          "example": "What's his job?"
+          "example": "What's his job?",
+          "example_vi": "Nghề nghiệp của chú ấy là gì?"
         },
         {
           "word": "doctor",
@@ -1322,7 +1447,8 @@
           "audio_uk": "audio/uk/doctor.mp3",
           "audio_us": "audio/us/doctor.mp3",
           "meaning": "bác sĩ",
-          "example": "She's a doctor."
+          "example": "She's a doctor.",
+          "example_vi": "Cô ấy là bác sĩ."
         },
         {
           "word": "nurse",
@@ -1332,7 +1458,8 @@
           "audio_uk": "audio/uk/nurse.mp3",
           "audio_us": "audio/us/nurse.mp3",
           "meaning": "y tá",
-          "example": "My mother is a nurse."
+          "example": "My mother is a nurse.",
+          "example_vi": "Mẹ mình là y tá."
         },
         {
           "word": "farmer",
@@ -1342,7 +1469,8 @@
           "audio_uk": "audio/uk/farmer.mp3",
           "audio_us": "audio/us/farmer.mp3",
           "meaning": "nông dân",
-          "example": "He's a farmer."
+          "example": "He's a farmer.",
+          "example_vi": "Chú ấy là nông dân."
         },
         {
           "word": "cook",
@@ -1352,7 +1480,8 @@
           "audio_uk": "audio/uk/cook.mp3",
           "audio_us": "audio/us/cook.mp3",
           "meaning": "đầu bếp",
-          "example": "My father is a cook."
+          "example": "My father is a cook.",
+          "example_vi": "Bố mình là đầu bếp."
         },
         {
           "word": "singer",
@@ -1362,7 +1491,8 @@
           "audio_uk": "audio/uk/singer.mp3",
           "audio_us": "audio/us/singer.mp3",
           "meaning": "ca sĩ",
-          "example": "She's a singer."
+          "example": "She's a singer.",
+          "example_vi": "Cô ấy là ca sĩ."
         }
       ]
     },
@@ -1386,7 +1516,8 @@
           "audio_uk": "audio/uk/house.mp3",
           "audio_us": "audio/us/house.mp3",
           "meaning": "ngôi nhà",
-          "example": "This is my house."
+          "example": "This is my house.",
+          "example_vi": "Đây là ngôi nhà của mình."
         },
         {
           "word": "living room",
@@ -1396,7 +1527,8 @@
           "audio_uk": "audio/uk/living-room.mp3",
           "audio_us": "audio/us/living-room.mp3",
           "meaning": "phòng khách",
-          "example": "Where's the living room?"
+          "example": "Where's the living room?",
+          "example_vi": "Phòng khách ở đâu?"
         },
         {
           "word": "kitchen",
@@ -1406,7 +1538,8 @@
           "audio_uk": "audio/uk/kitchen.mp3",
           "audio_us": "audio/us/kitchen.mp3",
           "meaning": "nhà bếp",
-          "example": "The kitchen is there."
+          "example": "The kitchen is there.",
+          "example_vi": "Nhà bếp ở đằng kia."
         },
         {
           "word": "bedroom",
@@ -1416,7 +1549,8 @@
           "audio_uk": "audio/uk/bedroom.mp3",
           "audio_us": "audio/us/bedroom.mp3",
           "meaning": "phòng ngủ",
-          "example": "Where's the bedroom? – It's here."
+          "example": "Where's the bedroom? – It's here.",
+          "example_vi": "Phòng ngủ ở đâu? – Nó ở đây."
         },
         {
           "word": "bathroom",
@@ -1426,7 +1560,8 @@
           "audio_uk": "audio/uk/bathroom.mp3",
           "audio_us": "audio/us/bathroom.mp3",
           "meaning": "phòng tắm",
-          "example": "Where's the bathroom?"
+          "example": "Where's the bathroom?",
+          "example_vi": "Phòng tắm ở đâu?"
         },
         {
           "word": "here",
@@ -1436,7 +1571,8 @@
           "audio_uk": "audio/uk/here.mp3",
           "audio_us": "audio/us/here.mp3",
           "meaning": "ở đây",
-          "example": "It's here."
+          "example": "It's here.",
+          "example_vi": "Nó ở đây."
         },
         {
           "word": "there",
@@ -1446,7 +1582,8 @@
           "audio_uk": "audio/uk/there.mp3",
           "audio_us": "audio/us/there.mp3",
           "meaning": "ở đằng kia",
-          "example": "It's there."
+          "example": "It's there.",
+          "example_vi": "Nó ở đằng kia."
         },
         {
           "word": "table",
@@ -1456,7 +1593,8 @@
           "audio_uk": "audio/uk/table.mp3",
           "audio_us": "audio/us/table.mp3",
           "meaning": "cái bàn",
-          "example": "Where are the tables?"
+          "example": "Where are the tables?",
+          "example_vi": "Những cái bàn ở đâu?"
         },
         {
           "word": "chair",
@@ -1466,7 +1604,8 @@
           "audio_uk": "audio/uk/chair.mp3",
           "audio_us": "audio/us/chair.mp3",
           "meaning": "cái ghế",
-          "example": "They're in the living room."
+          "example": "The chairs are in the living room.",
+          "example_vi": "Những cái ghế ở trong phòng khách."
         },
         {
           "word": "where's the ...?",
@@ -1476,7 +1615,8 @@
           "audio_uk": "audio/uk/where-s-the.mp3",
           "audio_us": "audio/us/where-s-the.mp3",
           "meaning": "... ở đâu?",
-          "example": "Where's the kitchen?"
+          "example": "Where's the kitchen?",
+          "example_vi": "Nhà bếp ở đâu?"
         },
         {
           "word": "where are the ...?",
@@ -1486,7 +1626,8 @@
           "audio_uk": "audio/uk/where-are-the.mp3",
           "audio_us": "audio/us/where-are-the.mp3",
           "meaning": "những ... ở đâu?",
-          "example": "Where are the chairs?"
+          "example": "Where are the chairs?",
+          "example_vi": "Những cái ghế ở đâu?"
         }
       ]
     },
@@ -1509,7 +1650,8 @@
           "audio_uk": "audio/uk/bedroom.mp3",
           "audio_us": "audio/us/bedroom.mp3",
           "meaning": "phòng ngủ",
-          "example": "This is my bedroom."
+          "example": "This is my bedroom.",
+          "example_vi": "Đây là phòng ngủ của mình."
         },
         {
           "word": "bed",
@@ -1519,7 +1661,8 @@
           "audio_uk": "audio/uk/bed.mp3",
           "audio_us": "audio/us/bed.mp3",
           "meaning": "cái giường",
-          "example": "There's a bed in the room."
+          "example": "There's a bed in the room.",
+          "example_vi": "Có một cái giường trong phòng."
         },
         {
           "word": "desk",
@@ -1529,7 +1672,8 @@
           "audio_uk": "audio/uk/desk.mp3",
           "audio_us": "audio/us/desk.mp3",
           "meaning": "bàn học",
-          "example": "There's a desk."
+          "example": "There's a desk.",
+          "example_vi": "Có một cái bàn học."
         },
         {
           "word": "lamp",
@@ -1539,7 +1683,8 @@
           "audio_uk": "audio/uk/lamp.mp3",
           "audio_us": "audio/us/lamp.mp3",
           "meaning": "đèn bàn",
-          "example": "There are two lamps."
+          "example": "There are two lamps.",
+          "example_vi": "Có hai cái đèn bàn."
         },
         {
           "word": "window",
@@ -1549,7 +1694,8 @@
           "audio_uk": "audio/uk/window.mp3",
           "audio_us": "audio/us/window.mp3",
           "meaning": "cửa sổ",
-          "example": "There are two windows."
+          "example": "There are two windows.",
+          "example_vi": "Có hai cái cửa sổ."
         },
         {
           "word": "door",
@@ -1559,7 +1705,8 @@
           "audio_uk": "audio/uk/door.mp3",
           "audio_us": "audio/us/door.mp3",
           "meaning": "cửa ra vào",
-          "example": "The door is big."
+          "example": "The door is big.",
+          "example_vi": "Cái cửa ra vào thì to."
         },
         {
           "word": "chair",
@@ -1569,7 +1716,8 @@
           "audio_uk": "audio/uk/chair.mp3",
           "audio_us": "audio/us/chair.mp3",
           "meaning": "cái ghế",
-          "example": "The chairs are new."
+          "example": "The chairs are new.",
+          "example_vi": "Những cái ghế còn mới."
         },
         {
           "word": "big",
@@ -1579,7 +1727,8 @@
           "audio_uk": "audio/uk/big.mp3",
           "audio_us": "audio/us/big.mp3",
           "meaning": "to, lớn",
-          "example": "The door is big."
+          "example": "The door is big.",
+          "example_vi": "Cái cửa ra vào thì to."
         },
         {
           "word": "small",
@@ -1589,7 +1738,8 @@
           "audio_uk": "audio/uk/small.mp3",
           "audio_us": "audio/us/small.mp3",
           "meaning": "nhỏ",
-          "example": "The windows are small."
+          "example": "The windows are small.",
+          "example_vi": "Những cái cửa sổ thì nhỏ."
         },
         {
           "word": "new",
@@ -1599,7 +1749,8 @@
           "audio_uk": "audio/uk/new.mp3",
           "audio_us": "audio/us/new.mp3",
           "meaning": "mới",
-          "example": "The chair is new."
+          "example": "The chair is new.",
+          "example_vi": "Cái ghế còn mới."
         },
         {
           "word": "old",
@@ -1609,7 +1760,8 @@
           "audio_uk": "audio/uk/old.mp3",
           "audio_us": "audio/us/old.mp3",
           "meaning": "cũ",
-          "example": "The desk is old."
+          "example": "The desk is old.",
+          "example_vi": "Cái bàn học đã cũ."
         },
         {
           "word": "there's",
@@ -1619,7 +1771,8 @@
           "audio_uk": "audio/uk/there-s.mp3",
           "audio_us": "audio/us/there-s.mp3",
           "meaning": "có (một)",
-          "example": "There's a bed in the room."
+          "example": "There's a bed in the room.",
+          "example_vi": "Có một cái giường trong phòng."
         },
         {
           "word": "there are",
@@ -1629,7 +1782,8 @@
           "audio_uk": "audio/uk/there-are.mp3",
           "audio_us": "audio/us/there-are.mp3",
           "meaning": "có (nhiều)",
-          "example": "There are two windows."
+          "example": "There are two windows.",
+          "example_vi": "Có hai cái cửa sổ."
         }
       ]
     },
@@ -1651,7 +1805,9 @@
           "ipa_us": "/ˈdaɪnɪŋ ˌteɪbəl/",
           "audio_uk": "audio/uk/dining-table.mp3",
           "audio_us": "audio/us/dining-table.mp3",
-          "meaning": "bàn ăn"
+          "meaning": "bàn ăn",
+          "example": "The food is on the dining table.",
+          "example_vi": "Thức ăn ở trên bàn ăn."
         },
         {
           "word": "beans",
@@ -1661,7 +1817,8 @@
           "audio_uk": "audio/uk/beans.mp3",
           "audio_us": "audio/us/beans.mp3",
           "meaning": "đậu",
-          "example": "Would you like some beans?"
+          "example": "Would you like some beans?",
+          "example_vi": "Bạn có muốn ăn một ít đậu không?"
         },
         {
           "word": "bread",
@@ -1671,7 +1828,8 @@
           "audio_uk": "audio/uk/bread.mp3",
           "audio_us": "audio/us/bread.mp3",
           "meaning": "bánh mì",
-          "example": "I'd like some bread."
+          "example": "I'd like some bread.",
+          "example_vi": "Mình muốn ăn một ít bánh mì."
         },
         {
           "word": "chicken",
@@ -1681,7 +1839,8 @@
           "audio_uk": "audio/uk/chicken.mp3",
           "audio_us": "audio/us/chicken.mp3",
           "meaning": "thịt gà",
-          "example": "I'd like some chicken, please."
+          "example": "I'd like some chicken, please.",
+          "example_vi": "Cho mình xin một ít thịt gà."
         },
         {
           "word": "egg",
@@ -1691,7 +1850,8 @@
           "audio_uk": "audio/uk/egg.mp3",
           "audio_us": "audio/us/egg.mp3",
           "meaning": "quả trứng",
-          "example": "I'd like some eggs, please."
+          "example": "I'd like some eggs, please.",
+          "example_vi": "Cho mình xin vài quả trứng."
         },
         {
           "word": "fish",
@@ -1701,7 +1861,8 @@
           "audio_uk": "audio/uk/fish.mp3",
           "audio_us": "audio/us/fish.mp3",
           "meaning": "cá",
-          "example": "Would you like some fish?"
+          "example": "Would you like some fish?",
+          "example_vi": "Bạn có muốn ăn một ít cá không?"
         },
         {
           "word": "meat",
@@ -1711,7 +1872,8 @@
           "audio_uk": "audio/uk/meat.mp3",
           "audio_us": "audio/us/meat.mp3",
           "meaning": "thịt",
-          "example": "Would you like some meat?"
+          "example": "Would you like some meat?",
+          "example_vi": "Bạn có muốn ăn một ít thịt không?"
         },
         {
           "word": "rice",
@@ -1721,7 +1883,8 @@
           "audio_uk": "audio/uk/rice.mp3",
           "audio_us": "audio/us/rice.mp3",
           "meaning": "cơm, gạo",
-          "example": "I'd like some rice."
+          "example": "I'd like some rice.",
+          "example_vi": "Mình muốn ăn một ít cơm."
         },
         {
           "word": "milk",
@@ -1731,7 +1894,8 @@
           "audio_uk": "audio/uk/milk.mp3",
           "audio_us": "audio/us/milk.mp3",
           "meaning": "sữa",
-          "example": "Would you like some milk?"
+          "example": "Would you like some milk?",
+          "example_vi": "Bạn có muốn uống một ít sữa không?"
         },
         {
           "word": "juice",
@@ -1741,7 +1905,8 @@
           "audio_uk": "audio/uk/juice.mp3",
           "audio_us": "audio/us/juice.mp3",
           "meaning": "nước ép",
-          "example": "Would you like some juice?"
+          "example": "Would you like some juice?",
+          "example_vi": "Bạn có muốn uống một ít nước ép không?"
         },
         {
           "word": "water",
@@ -1751,7 +1916,8 @@
           "audio_uk": "audio/uk/water.mp3",
           "audio_us": "audio/us/water.mp3",
           "meaning": "nước",
-          "example": "I'd like some water."
+          "example": "I'd like some water.",
+          "example_vi": "Mình muốn uống một ít nước."
         },
         {
           "word": "would you like some ...?",
@@ -1761,7 +1927,8 @@
           "audio_uk": "audio/uk/would-you-like-some.mp3",
           "audio_us": "audio/us/would-you-like-some.mp3",
           "meaning": "bạn có muốn dùng một ít ... không?",
-          "example": "Would you like some juice? – Yes, please."
+          "example": "Would you like some juice? – Yes, please.",
+          "example_vi": "Bạn có muốn uống một ít nước ép không? – Vâng, cho mình xin."
         },
         {
           "word": "yes, please",
@@ -1771,7 +1938,8 @@
           "audio_uk": "audio/uk/yes-please.mp3",
           "audio_us": "audio/us/yes-please.mp3",
           "meaning": "vâng, cho mình xin",
-          "example": "Would you like some beans? – Yes, please."
+          "example": "Would you like some beans? – Yes, please.",
+          "example_vi": "Bạn có muốn ăn một ít đậu không? – Vâng, cho mình xin."
         },
         {
           "word": "no, thanks",
@@ -1781,7 +1949,8 @@
           "audio_uk": "audio/uk/no-thanks.mp3",
           "audio_us": "audio/us/no-thanks.mp3",
           "meaning": "không, cảm ơn",
-          "example": "Would you like some fish? – No, thanks."
+          "example": "Would you like some fish? – No, thanks.",
+          "example_vi": "Bạn có muốn ăn một ít cá không? – Không, cảm ơn bạn."
         },
         {
           "word": "what would you like to eat?",
@@ -1791,7 +1960,8 @@
           "audio_uk": "audio/uk/what-would-you-like-to-eat.mp3",
           "audio_us": "audio/us/what-would-you-like-to-eat.mp3",
           "meaning": "bạn muốn ăn gì?",
-          "example": "What would you like to eat? – I'd like some eggs."
+          "example": "What would you like to eat? – I'd like some eggs.",
+          "example_vi": "Bạn muốn ăn gì? – Mình muốn ăn một ít trứng."
         }
       ]
     },
@@ -1814,7 +1984,8 @@
           "audio_uk": "audio/uk/pet.mp3",
           "audio_us": "audio/us/pet.mp3",
           "meaning": "thú cưng",
-          "example": "How many pets do you have?"
+          "example": "How many pets do you have?",
+          "example_vi": "Bạn có bao nhiêu thú cưng?"
         },
         {
           "word": "dog",
@@ -1824,7 +1995,8 @@
           "audio_uk": "audio/uk/dog.mp3",
           "audio_us": "audio/us/dog.mp3",
           "meaning": "con chó",
-          "example": "I have two dogs."
+          "example": "I have two dogs.",
+          "example_vi": "Mình có hai con chó."
         },
         {
           "word": "cat",
@@ -1834,7 +2006,8 @@
           "audio_uk": "audio/uk/cat.mp3",
           "audio_us": "audio/us/cat.mp3",
           "meaning": "con mèo",
-          "example": "I have a cat."
+          "example": "I have a cat.",
+          "example_vi": "Mình có một con mèo."
         },
         {
           "word": "bird",
@@ -1844,7 +2017,8 @@
           "audio_uk": "audio/uk/bird.mp3",
           "audio_us": "audio/us/bird.mp3",
           "meaning": "con chim",
-          "example": "I have some birds."
+          "example": "I have some birds.",
+          "example_vi": "Mình có vài con chim."
         },
         {
           "word": "rabbit",
@@ -1854,7 +2028,8 @@
           "audio_uk": "audio/uk/rabbit.mp3",
           "audio_us": "audio/us/rabbit.mp3",
           "meaning": "con thỏ",
-          "example": "I have three rabbits."
+          "example": "I have three rabbits.",
+          "example_vi": "Mình có ba con thỏ."
         },
         {
           "word": "parrot",
@@ -1864,7 +2039,8 @@
           "audio_uk": "audio/uk/parrot.mp3",
           "audio_us": "audio/us/parrot.mp3",
           "meaning": "con vẹt",
-          "example": "How many parrots do you have?"
+          "example": "How many parrots do you have?",
+          "example_vi": "Bạn có bao nhiêu con vẹt?"
         },
         {
           "word": "goldfish",
@@ -1874,7 +2050,8 @@
           "audio_uk": "audio/uk/goldfish.mp3",
           "audio_us": "audio/us/goldfish.mp3",
           "meaning": "cá vàng",
-          "example": "I have two goldfish."
+          "example": "I have two goldfish.",
+          "example_vi": "Mình có hai con cá vàng."
         },
         {
           "word": "turtle",
@@ -1884,7 +2061,8 @@
           "audio_uk": "audio/uk/turtle.mp3",
           "audio_us": "audio/us/turtle.mp3",
           "meaning": "con rùa",
-          "example": "I have a turtle."
+          "example": "I have a turtle.",
+          "example_vi": "Mình có một con rùa."
         },
         {
           "word": "many",
@@ -1894,7 +2072,8 @@
           "audio_uk": "audio/uk/many.mp3",
           "audio_us": "audio/us/many.mp3",
           "meaning": "nhiều",
-          "example": "I have many birds."
+          "example": "I have many birds.",
+          "example_vi": "Mình có nhiều chim."
         },
         {
           "word": "some",
@@ -1904,7 +2083,8 @@
           "audio_uk": "audio/uk/some.mp3",
           "audio_us": "audio/us/some.mp3",
           "meaning": "một vài, một ít",
-          "example": "I have some parrots."
+          "example": "I have some parrots.",
+          "example_vi": "Mình có vài con vẹt."
         },
         {
           "word": "how many ... do you have?",
@@ -1914,7 +2094,8 @@
           "audio_uk": "audio/uk/how-many-do-you-have.mp3",
           "audio_us": "audio/us/how-many-do-you-have.mp3",
           "meaning": "bạn có bao nhiêu ...?",
-          "example": "How many dogs do you have?"
+          "example": "How many dogs do you have?",
+          "example_vi": "Bạn có bao nhiêu con chó?"
         }
       ]
     },
@@ -1937,7 +2118,8 @@
           "audio_uk": "audio/uk/toy.mp3",
           "audio_us": "audio/us/toy.mp3",
           "meaning": "đồ chơi",
-          "example": "These are our toys."
+          "example": "These are our toys.",
+          "example_vi": "Đây là đồ chơi của chúng mình."
         },
         {
           "word": "doll",
@@ -1947,7 +2129,8 @@
           "audio_uk": "audio/uk/doll.mp3",
           "audio_us": "audio/us/doll.mp3",
           "meaning": "búp bê",
-          "example": "She has a doll."
+          "example": "She has a doll.",
+          "example_vi": "Bạn ấy có một con búp bê."
         },
         {
           "word": "teddy bear",
@@ -1957,7 +2140,8 @@
           "audio_uk": "audio/uk/teddy-bear.mp3",
           "audio_us": "audio/us/teddy-bear.mp3",
           "meaning": "gấu bông",
-          "example": "He has a teddy bear."
+          "example": "He has a teddy bear.",
+          "example_vi": "Bạn ấy có một chú gấu bông."
         },
         {
           "word": "robot",
@@ -1967,7 +2151,8 @@
           "audio_uk": "audio/uk/robot.mp3",
           "audio_us": "audio/us/robot.mp3",
           "meaning": "người máy, rô-bốt",
-          "example": "I have a robot."
+          "example": "I have a robot.",
+          "example_vi": "Mình có một con rô-bốt."
         },
         {
           "word": "ball",
@@ -1977,7 +2162,8 @@
           "audio_uk": "audio/uk/ball.mp3",
           "audio_us": "audio/us/ball.mp3",
           "meaning": "quả bóng",
-          "example": "He has two balls."
+          "example": "He has two balls.",
+          "example_vi": "Bạn ấy có hai quả bóng."
         },
         {
           "word": "kite",
@@ -1987,7 +2173,8 @@
           "audio_uk": "audio/uk/kite.mp3",
           "audio_us": "audio/us/kite.mp3",
           "meaning": "con diều",
-          "example": "She has a kite."
+          "example": "She has a kite.",
+          "example_vi": "Bạn ấy có một con diều."
         },
         {
           "word": "car",
@@ -1997,7 +2184,8 @@
           "audio_uk": "audio/uk/car.mp3",
           "audio_us": "audio/us/car.mp3",
           "meaning": "ô tô",
-          "example": "He has a car."
+          "example": "He has a car.",
+          "example_vi": "Bạn ấy có một chiếc ô tô."
         },
         {
           "word": "plane",
@@ -2007,7 +2195,8 @@
           "audio_uk": "audio/uk/plane.mp3",
           "audio_us": "audio/us/plane.mp3",
           "meaning": "máy bay",
-          "example": "He has three planes."
+          "example": "He has three planes.",
+          "example_vi": "Bạn ấy có ba chiếc máy bay."
         },
         {
           "word": "ship",
@@ -2017,7 +2206,8 @@
           "audio_uk": "audio/uk/ship.mp3",
           "audio_us": "audio/us/ship.mp3",
           "meaning": "tàu thủy",
-          "example": "They have two ships."
+          "example": "They have two ships.",
+          "example_vi": "Các bạn ấy có hai con tàu thủy."
         },
         {
           "word": "train",
@@ -2027,7 +2217,8 @@
           "audio_uk": "audio/uk/train.mp3",
           "audio_us": "audio/us/train.mp3",
           "meaning": "tàu hỏa",
-          "example": "They have four trains."
+          "example": "They have four trains.",
+          "example_vi": "Các bạn ấy có bốn đoàn tàu hỏa."
         },
         {
           "word": "truck",
@@ -2037,7 +2228,8 @@
           "audio_uk": "audio/uk/truck.mp3",
           "audio_us": "audio/us/truck.mp3",
           "meaning": "xe tải",
-          "example": "They have five trucks."
+          "example": "They have five trucks.",
+          "example_vi": "Các bạn ấy có năm chiếc xe tải."
         }
       ]
     },
@@ -2060,7 +2252,8 @@
           "audio_uk": "audio/uk/what-are-you-doing.mp3",
           "audio_us": "audio/us/what-are-you-doing.mp3",
           "meaning": "bạn đang làm gì?",
-          "example": "What are you doing? – I'm reading."
+          "example": "What are you doing? – I'm reading.",
+          "example_vi": "Bạn đang làm gì? – Mình đang đọc sách."
         },
         {
           "word": "play basketball",
@@ -2070,7 +2263,8 @@
           "audio_uk": "audio/uk/play-basketball.mp3",
           "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
-          "example": "I'm playing basketball."
+          "example": "I'm playing basketball.",
+          "example_vi": "Mình đang chơi bóng rổ."
         },
         {
           "word": "draw a picture",
@@ -2080,7 +2274,8 @@
           "audio_uk": "audio/uk/draw-a-picture.mp3",
           "audio_us": "audio/us/draw-a-picture.mp3",
           "meaning": "vẽ tranh",
-          "example": "I'm drawing a picture."
+          "example": "I'm drawing a picture.",
+          "example_vi": "Mình đang vẽ tranh."
         },
         {
           "word": "watch TV",
@@ -2090,7 +2285,8 @@
           "audio_uk": "audio/uk/watch-tv.mp3",
           "audio_us": "audio/us/watch-tv.mp3",
           "meaning": "xem ti vi",
-          "example": "I'm watching TV."
+          "example": "I'm watching TV.",
+          "example_vi": "Mình đang xem ti vi."
         },
         {
           "word": "listen to music",
@@ -2100,7 +2296,8 @@
           "audio_uk": "audio/uk/listen-to-music.mp3",
           "audio_us": "audio/us/listen-to-music.mp3",
           "meaning": "nghe nhạc",
-          "example": "I'm listening to music."
+          "example": "I'm listening to music.",
+          "example_vi": "Mình đang nghe nhạc."
         },
         {
           "word": "dance",
@@ -2110,7 +2307,8 @@
           "audio_uk": "audio/uk/dance.mp3",
           "audio_us": "audio/us/dance.mp3",
           "meaning": "nhảy, múa",
-          "example": "She's dancing."
+          "example": "She's dancing.",
+          "example_vi": "Bạn ấy đang nhảy múa."
         },
         {
           "word": "read",
@@ -2120,7 +2318,8 @@
           "audio_uk": "audio/uk/read.mp3",
           "audio_us": "audio/us/read.mp3",
           "meaning": "đọc",
-          "example": "He's reading."
+          "example": "He's reading.",
+          "example_vi": "Bạn ấy đang đọc sách."
         },
         {
           "word": "sing",
@@ -2130,7 +2329,8 @@
           "audio_uk": "audio/uk/sing.mp3",
           "audio_us": "audio/us/sing.mp3",
           "meaning": "hát",
-          "example": "They're singing."
+          "example": "They're singing.",
+          "example_vi": "Các bạn ấy đang hát."
         },
         {
           "word": "write",
@@ -2140,7 +2340,8 @@
           "audio_uk": "audio/uk/write.mp3",
           "audio_us": "audio/us/write.mp3",
           "meaning": "viết",
-          "example": "I'm writing."
+          "example": "I'm writing.",
+          "example_vi": "Mình đang viết."
         },
         {
           "word": "music room",
@@ -2150,7 +2351,8 @@
           "audio_uk": "audio/uk/music-room.mp3",
           "audio_us": "audio/us/music-room.mp3",
           "meaning": "phòng âm nhạc",
-          "example": "I'm in the music room."
+          "example": "I'm in the music room.",
+          "example_vi": "Mình đang ở phòng âm nhạc."
         }
       ]
     },
@@ -2172,7 +2374,9 @@
           "ipa_us": "/ˌaʊtdɔːr ækˈtɪvəti/",
           "audio_uk": "audio/uk/outdoor-activity.mp3",
           "audio_us": "audio/us/outdoor-activity.mp3",
-          "meaning": "hoạt động ngoài trời"
+          "meaning": "hoạt động ngoài trời",
+          "example": "I like outdoor activities.",
+          "example_vi": "Mình thích các hoạt động ngoài trời."
         },
         {
           "word": "cycle",
@@ -2182,7 +2386,8 @@
           "audio_uk": "audio/uk/cycle.mp3",
           "audio_us": "audio/us/cycle.mp3",
           "meaning": "đạp xe",
-          "example": "She's cycling."
+          "example": "She's cycling.",
+          "example_vi": "Bạn ấy đang đạp xe."
         },
         {
           "word": "fly a kite",
@@ -2192,7 +2397,8 @@
           "audio_uk": "audio/uk/fly-a-kite.mp3",
           "audio_us": "audio/us/fly-a-kite.mp3",
           "meaning": "thả diều",
-          "example": "He's flying a kite."
+          "example": "He's flying a kite.",
+          "example_vi": "Bạn ấy đang thả diều."
         },
         {
           "word": "skate",
@@ -2202,7 +2408,8 @@
           "audio_uk": "audio/uk/skate.mp3",
           "audio_us": "audio/us/skate.mp3",
           "meaning": "trượt pa-tanh",
-          "example": "He's skating."
+          "example": "He's skating.",
+          "example_vi": "Bạn ấy đang trượt pa-tanh."
         },
         {
           "word": "skip",
@@ -2212,7 +2419,8 @@
           "audio_uk": "audio/uk/skip.mp3",
           "audio_us": "audio/us/skip.mp3",
           "meaning": "nhảy dây",
-          "example": "She's skipping."
+          "example": "She's skipping.",
+          "example_vi": "Bạn ấy đang nhảy dây."
         },
         {
           "word": "walk",
@@ -2222,7 +2430,8 @@
           "audio_uk": "audio/uk/walk.mp3",
           "audio_us": "audio/us/walk.mp3",
           "meaning": "đi bộ",
-          "example": "They're walking."
+          "example": "They're walking.",
+          "example_vi": "Các bạn ấy đang đi bộ."
         },
         {
           "word": "run",
@@ -2232,7 +2441,8 @@
           "audio_uk": "audio/uk/run.mp3",
           "audio_us": "audio/us/run.mp3",
           "meaning": "chạy",
-          "example": "He's running."
+          "example": "He's running.",
+          "example_vi": "Bạn ấy đang chạy."
         },
         {
           "word": "play football",
@@ -2242,7 +2452,8 @@
           "audio_uk": "audio/uk/play-football.mp3",
           "audio_us": "audio/us/play-football.mp3",
           "meaning": "chơi bóng đá",
-          "example": "They're playing football."
+          "example": "They're playing football.",
+          "example_vi": "Các bạn ấy đang chơi bóng đá."
         },
         {
           "word": "play badminton",
@@ -2252,7 +2463,8 @@
           "audio_uk": "audio/uk/play-badminton.mp3",
           "audio_us": "audio/us/play-badminton.mp3",
           "meaning": "chơi cầu lông",
-          "example": "She's playing badminton."
+          "example": "She's playing badminton.",
+          "example_vi": "Bạn ấy đang chơi cầu lông."
         },
         {
           "word": "what's he doing?",
@@ -2262,7 +2474,8 @@
           "audio_uk": "audio/uk/what-s-he-doing.mp3",
           "audio_us": "audio/us/what-s-he-doing.mp3",
           "meaning": "bạn ấy (nam) đang làm gì?",
-          "example": "What's he doing? – He's skating."
+          "example": "What's he doing? – He's skating.",
+          "example_vi": "Bạn ấy đang làm gì? – Bạn ấy đang trượt pa-tanh."
         },
         {
           "word": "what's she doing?",
@@ -2272,7 +2485,8 @@
           "audio_uk": "audio/uk/what-s-she-doing.mp3",
           "audio_us": "audio/us/what-s-she-doing.mp3",
           "meaning": "bạn ấy (nữ) đang làm gì?",
-          "example": "What's she doing? – She's cycling."
+          "example": "What's she doing? – She's cycling.",
+          "example_vi": "Bạn ấy đang làm gì? – Bạn ấy đang đạp xe."
         }
       ]
     },
@@ -2296,7 +2510,8 @@
           "audio_uk": "audio/uk/zoo.mp3",
           "audio_us": "audio/us/zoo.mp3",
           "meaning": "vườn thú",
-          "example": "We're at the zoo."
+          "example": "We're at the zoo.",
+          "example_vi": "Chúng mình đang ở vườn thú."
         },
         {
           "word": "tiger",
@@ -2306,7 +2521,8 @@
           "audio_uk": "audio/uk/tiger.mp3",
           "audio_us": "audio/us/tiger.mp3",
           "meaning": "con hổ",
-          "example": "I can see a tiger."
+          "example": "I can see a tiger.",
+          "example_vi": "Mình nhìn thấy một con hổ."
         },
         {
           "word": "horse",
@@ -2316,7 +2532,8 @@
           "audio_uk": "audio/uk/horse.mp3",
           "audio_us": "audio/us/horse.mp3",
           "meaning": "con ngựa",
-          "example": "I can see a horse."
+          "example": "I can see a horse.",
+          "example_vi": "Mình nhìn thấy một con ngựa."
         },
         {
           "word": "monkey",
@@ -2326,7 +2543,8 @@
           "audio_uk": "audio/uk/monkey.mp3",
           "audio_us": "audio/us/monkey.mp3",
           "meaning": "con khỉ",
-          "example": "The monkey is swinging."
+          "example": "The monkey is swinging.",
+          "example_vi": "Con khỉ đang đu cành."
         },
         {
           "word": "peacock",
@@ -2336,7 +2554,8 @@
           "audio_uk": "audio/uk/peacock.mp3",
           "audio_us": "audio/us/peacock.mp3",
           "meaning": "con công",
-          "example": "I can see a peacock."
+          "example": "I can see a peacock.",
+          "example_vi": "Mình nhìn thấy một con công."
         },
         {
           "word": "elephant",
@@ -2346,7 +2565,8 @@
           "audio_uk": "audio/uk/elephant.mp3",
           "audio_us": "audio/us/elephant.mp3",
           "meaning": "con voi",
-          "example": "The elephant is counting."
+          "example": "The elephant is counting.",
+          "example_vi": "Con voi đang đếm."
         },
         {
           "word": "parrot",
@@ -2356,7 +2576,8 @@
           "audio_uk": "audio/uk/parrot.mp3",
           "audio_us": "audio/us/parrot.mp3",
           "meaning": "con vẹt",
-          "example": "The parrot is dancing."
+          "example": "The parrot is dancing.",
+          "example_vi": "Con vẹt đang nhảy múa."
         },
         {
           "word": "climb",
@@ -2366,7 +2587,8 @@
           "audio_uk": "audio/uk/climb.mp3",
           "audio_us": "audio/us/climb.mp3",
           "meaning": "leo, trèo",
-          "example": "The monkey is climbing."
+          "example": "The monkey is climbing.",
+          "example_vi": "Con khỉ đang leo trèo."
         },
         {
           "word": "count",
@@ -2376,7 +2598,8 @@
           "audio_uk": "audio/uk/count.mp3",
           "audio_us": "audio/us/count.mp3",
           "meaning": "đếm",
-          "example": "The elephant is counting."
+          "example": "The elephant is counting.",
+          "example_vi": "Con voi đang đếm."
         },
         {
           "word": "dance",
@@ -2386,7 +2609,8 @@
           "audio_uk": "audio/uk/dance.mp3",
           "audio_us": "audio/us/dance.mp3",
           "meaning": "nhảy múa",
-          "example": "The peacock is dancing."
+          "example": "The peacock is dancing.",
+          "example_vi": "Con công đang nhảy múa."
         },
         {
           "word": "swing",
@@ -2396,7 +2620,8 @@
           "audio_uk": "audio/uk/swing.mp3",
           "audio_us": "audio/us/swing.mp3",
           "meaning": "đu, đung đưa",
-          "example": "The monkey is swinging."
+          "example": "The monkey is swinging.",
+          "example_vi": "Con khỉ đang đu cành."
         }
       ]
     }

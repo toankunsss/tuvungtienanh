@@ -26,7 +26,9 @@
           "ipa_us": "/ˌæntibaɪˈɑːtɪk/",
           "audio_uk": "audio/uk/antibiotic.mp3",
           "audio_us": "audio/us/antibiotic.mp3",
-          "meaning": "thuốc kháng sinh"
+          "meaning": "thuốc kháng sinh",
+          "example": "The doctor gave me antibiotics to treat the infection.",
+          "example_vi": "Bác sĩ đã kê cho tôi thuốc kháng sinh để điều trị nhiễm trùng."
         },
         {
           "word": "avoid",
@@ -35,7 +37,9 @@
           "ipa_us": "/əˈvɔɪd/",
           "audio_uk": "audio/uk/avoid.mp3",
           "audio_us": "audio/us/avoid.mp3",
-          "meaning": "tránh, né tránh"
+          "meaning": "tránh, né tránh",
+          "example": "You should avoid eating too much fast food if you want to stay healthy.",
+          "example_vi": "Bạn nên tránh ăn quá nhiều đồ ăn nhanh nếu muốn giữ gìn sức khỏe."
         },
         {
           "word": "bacteria",
@@ -44,7 +48,9 @@
           "ipa_us": "/bækˈtɪriə/",
           "audio_uk": "audio/uk/bacteria.mp3",
           "audio_us": "audio/us/bacteria.mp3",
-          "meaning": "vi khuẩn"
+          "meaning": "vi khuẩn",
+          "example": "Washing your hands regularly helps to remove harmful bacteria.",
+          "example_vi": "Rửa tay thường xuyên giúp loại bỏ vi khuẩn có hại."
         },
         {
           "word": "balanced",
@@ -53,7 +59,9 @@
           "ipa_us": "/ˈbælənst/",
           "audio_uk": "audio/uk/balanced.mp3",
           "audio_us": "audio/us/balanced.mp3",
-          "meaning": "cân bằng, cân đối"
+          "meaning": "cân bằng, cân đối",
+          "example": "A balanced lifestyle includes healthy food, regular exercise and enough sleep.",
+          "example_vi": "Một lối sống cân bằng bao gồm thực phẩm lành mạnh, tập thể dục đều đặn và ngủ đủ giấc."
         },
         {
           "word": "balanced diet",
@@ -63,7 +71,8 @@
           "audio_uk": "audio/uk/balanced-diet.mp3",
           "audio_us": "audio/us/balanced-diet.mp3",
           "meaning": "chế độ ăn uống cân bằng",
-          "example": "A balanced diet is the key to a long and healthy life."
+          "example": "A balanced diet is the key to a long and healthy life.",
+          "example_vi": "Chế độ ăn uống cân bằng là chìa khóa cho một cuộc sống khỏe mạnh và trường thọ."
         },
         {
           "word": "cut down on",
@@ -73,7 +82,8 @@
           "audio_uk": "audio/uk/cut-down-on-phr-v.mp3",
           "audio_us": "audio/us/cut-down-on-phr-v.mp3",
           "meaning": "cắt giảm",
-          "example": "You should cut down on sugar."
+          "example": "You should cut down on sugar.",
+          "example_vi": "Bạn nên cắt giảm lượng đường."
         },
         {
           "word": "examine",
@@ -82,7 +92,9 @@
           "ipa_us": "/ɪɡˈzæmɪn/",
           "audio_uk": "audio/uk/examine.mp3",
           "audio_us": "audio/us/examine.mp3",
-          "meaning": "khám (bệnh), kiểm tra"
+          "meaning": "khám (bệnh), kiểm tra",
+          "example": "The doctor examined my throat and said I had a mild infection.",
+          "example_vi": "Bác sĩ đã khám họng cho tôi và nói rằng tôi bị nhiễm trùng nhẹ."
         },
         {
           "word": "fit",
@@ -91,7 +103,9 @@
           "ipa_us": "/fɪt/",
           "audio_uk": "audio/uk/fit.mp3",
           "audio_us": "audio/us/fit.mp3",
-          "meaning": "khỏe mạnh, cân đối"
+          "meaning": "khỏe mạnh, cân đối",
+          "example": "My grandfather is still fit because he goes jogging every morning.",
+          "example_vi": "Ông tôi vẫn khỏe mạnh vì sáng nào ông cũng chạy bộ."
         },
         {
           "word": "fitness",
@@ -100,7 +114,9 @@
           "ipa_us": "/ˈfɪtnəs/",
           "audio_uk": "audio/uk/fitness.mp3",
           "audio_us": "audio/us/fitness.mp3",
-          "meaning": "sự khỏe mạnh, thể lực"
+          "meaning": "sự khỏe mạnh, thể lực",
+          "example": "Swimming is a great way to improve your fitness.",
+          "example_vi": "Bơi lội là một cách tuyệt vời để nâng cao thể lực."
         },
         {
           "word": "food poisoning",
@@ -109,7 +125,9 @@
           "ipa_us": "/ˈfuːd ˌpɔɪzənɪŋ/",
           "audio_uk": "audio/uk/food-poisoning.mp3",
           "audio_us": "audio/us/food-poisoning.mp3",
-          "meaning": "ngộ độc thực phẩm"
+          "meaning": "ngộ độc thực phẩm",
+          "example": "Several students got food poisoning after eating at a street stall.",
+          "example_vi": "Một vài học sinh đã bị ngộ độc thực phẩm sau khi ăn ở một quán vỉa hè."
         },
         {
           "word": "germ",
@@ -118,7 +136,9 @@
           "ipa_us": "/dʒɝːm/",
           "audio_uk": "audio/uk/germ.mp3",
           "audio_us": "audio/us/germ.mp3",
-          "meaning": "vi trùng"
+          "meaning": "vi trùng",
+          "example": "Germs can spread easily if you don't wash your hands before meals.",
+          "example_vi": "Vi trùng có thể lây lan dễ dàng nếu bạn không rửa tay trước bữa ăn."
         },
         {
           "word": "give up",
@@ -127,7 +147,9 @@
           "ipa_us": "/ˌɡɪv ˈʌp/",
           "audio_uk": "audio/uk/give-up.mp3",
           "audio_us": "audio/us/give-up.mp3",
-          "meaning": "từ bỏ"
+          "meaning": "từ bỏ",
+          "example": "My father gave up smoking to protect his health.",
+          "example_vi": "Bố tôi đã bỏ thuốc lá để bảo vệ sức khỏe."
         },
         {
           "word": "infection",
@@ -136,7 +158,9 @@
           "ipa_us": "/ˌɪnˈfekʃən/",
           "audio_uk": "audio/uk/infection.mp3",
           "audio_us": "audio/us/infection.mp3",
-          "meaning": "sự nhiễm trùng, bệnh lây nhiễm"
+          "meaning": "sự nhiễm trùng, bệnh lây nhiễm",
+          "example": "Clean the cut carefully to prevent infection.",
+          "example_vi": "Hãy làm sạch vết cắt cẩn thận để tránh nhiễm trùng."
         },
         {
           "word": "ingredient",
@@ -145,7 +169,9 @@
           "ipa_us": "/ˌɪnˈɡriːdiənt/",
           "audio_uk": "audio/uk/ingredient.mp3",
           "audio_us": "audio/us/ingredient.mp3",
-          "meaning": "thành phần, nguyên liệu"
+          "meaning": "thành phần, nguyên liệu",
+          "example": "Fresh vegetables are the main ingredients of this healthy salad.",
+          "example_vi": "Rau tươi là nguyên liệu chính của món salad tốt cho sức khỏe này."
         },
         {
           "word": "junk food",
@@ -154,7 +180,9 @@
           "ipa_us": "/ˈdʒʌŋk fuːd/",
           "audio_uk": "audio/uk/junk-food.mp3",
           "audio_us": "audio/us/junk-food.mp3",
-          "meaning": "đồ ăn vặt không có lợi cho sức khỏe"
+          "meaning": "đồ ăn vặt không có lợi cho sức khỏe",
+          "example": "Eating too much junk food can lead to obesity.",
+          "example_vi": "Ăn quá nhiều đồ ăn vặt không lành mạnh có thể dẫn đến béo phì."
         },
         {
           "word": "keep fit",
@@ -163,7 +191,9 @@
           "ipa_us": "/ˌkiːp ˈfɪt/",
           "audio_uk": "audio/uk/keep-fit.mp3",
           "audio_us": "audio/us/keep-fit.mp3",
-          "meaning": "giữ dáng, giữ sức khỏe"
+          "meaning": "giữ dáng, giữ sức khỏe",
+          "example": "She goes cycling every weekend to keep fit.",
+          "example_vi": "Cuối tuần nào cô ấy cũng đạp xe để giữ gìn sức khỏe."
         },
         {
           "word": "life expectancy",
@@ -173,7 +203,8 @@
           "audio_uk": "audio/uk/life-expectancy.mp3",
           "audio_us": "audio/us/life-expectancy.mp3",
           "meaning": "tuổi thọ",
-          "example": "Life expectancy has increased in many countries."
+          "example": "Life expectancy has increased in many countries.",
+          "example_vi": "Tuổi thọ đã tăng lên ở nhiều quốc gia."
         },
         {
           "word": "muscle",
@@ -182,7 +213,9 @@
           "ipa_us": "/ˈmʌsəl/",
           "audio_uk": "audio/uk/muscle.mp3",
           "audio_us": "audio/us/muscle.mp3",
-          "meaning": "cơ, cơ bắp"
+          "meaning": "cơ, cơ bắp",
+          "example": "Regular exercise helps build strong muscles and bones.",
+          "example_vi": "Tập thể dục đều đặn giúp cơ bắp và xương chắc khỏe."
         },
         {
           "word": "nutrient",
@@ -191,7 +224,9 @@
           "ipa_us": "/ˈnuːtriənt/",
           "audio_uk": "audio/uk/nutrient.mp3",
           "audio_us": "audio/us/nutrient.mp3",
-          "meaning": "chất dinh dưỡng"
+          "meaning": "chất dinh dưỡng",
+          "example": "Fruit and vegetables provide many important nutrients for the body.",
+          "example_vi": "Trái cây và rau củ cung cấp nhiều chất dinh dưỡng quan trọng cho cơ thể."
         },
         {
           "word": "organism",
@@ -200,7 +235,9 @@
           "ipa_us": "/ˈɔːrɡənɪzəm/",
           "audio_uk": "audio/uk/organism.mp3",
           "audio_us": "audio/us/organism.mp3",
-          "meaning": "sinh vật, cơ thể sống"
+          "meaning": "sinh vật, cơ thể sống",
+          "example": "Bacteria are tiny organisms that can live almost anywhere.",
+          "example_vi": "Vi khuẩn là những sinh vật nhỏ bé có thể sống ở hầu như mọi nơi."
         },
         {
           "word": "press-up",
@@ -209,7 +246,9 @@
           "ipa_us": "/ˈpres ʌp/",
           "audio_uk": "audio/uk/press-up.mp3",
           "audio_us": "audio/us/press-up.mp3",
-          "meaning": "động tác chống đẩy"
+          "meaning": "động tác chống đẩy",
+          "example": "He does fifty press-ups every morning to stay strong.",
+          "example_vi": "Mỗi sáng anh ấy chống đẩy năm mươi cái để giữ cơ thể khỏe mạnh."
         },
         {
           "word": "recipe",
@@ -218,7 +257,9 @@
           "ipa_us": "/ˈresəpi/",
           "audio_uk": "audio/uk/recipe.mp3",
           "audio_us": "audio/us/recipe.mp3",
-          "meaning": "công thức nấu ăn"
+          "meaning": "công thức nấu ăn",
+          "example": "My mother found a healthy recipe for vegetable soup online.",
+          "example_vi": "Mẹ tôi đã tìm được một công thức nấu súp rau tốt cho sức khỏe trên mạng."
         },
         {
           "word": "regular",
@@ -227,7 +268,9 @@
           "ipa_us": "/ˈreɡjəlɚ/",
           "audio_uk": "audio/uk/regular.mp3",
           "audio_us": "audio/us/regular.mp3",
-          "meaning": "đều đặn, thường xuyên"
+          "meaning": "đều đặn, thường xuyên",
+          "example": "Regular check-ups can help detect health problems early.",
+          "example_vi": "Khám sức khỏe định kỳ có thể giúp phát hiện sớm các vấn đề sức khỏe."
         },
         {
           "word": "strength",
@@ -236,7 +279,9 @@
           "ipa_us": "/streŋθ/",
           "audio_uk": "audio/uk/strength.mp3",
           "audio_us": "audio/us/strength.mp3",
-          "meaning": "sức mạnh, sức khỏe"
+          "meaning": "sức mạnh, sức khỏe",
+          "example": "Weight training can increase your strength and fitness.",
+          "example_vi": "Tập tạ có thể tăng cường sức mạnh và thể lực của bạn."
         },
         {
           "word": "suffer from",
@@ -245,7 +290,9 @@
           "ipa_us": "/ˈsʌfɚ frʌm/",
           "audio_uk": "audio/uk/suffer-from.mp3",
           "audio_us": "audio/us/suffer-from.mp3",
-          "meaning": "mắc (bệnh), chịu đựng"
+          "meaning": "mắc (bệnh), chịu đựng",
+          "example": "Many elderly people suffer from heart disease.",
+          "example_vi": "Nhiều người cao tuổi mắc bệnh tim."
         },
         {
           "word": "treatment",
@@ -254,7 +301,9 @@
           "ipa_us": "/ˈtriːtmənt/",
           "audio_uk": "audio/uk/treatment.mp3",
           "audio_us": "audio/us/treatment.mp3",
-          "meaning": "sự điều trị"
+          "meaning": "sự điều trị",
+          "example": "The patient is receiving treatment for a lung infection.",
+          "example_vi": "Bệnh nhân đang được điều trị nhiễm trùng phổi."
         },
         {
           "word": "virus",
@@ -263,7 +312,9 @@
           "ipa_us": "/ˈvaɪrəs/",
           "audio_uk": "audio/uk/virus.mp3",
           "audio_us": "audio/us/virus.mp3",
-          "meaning": "vi-rút"
+          "meaning": "vi-rút",
+          "example": "Antibiotics cannot kill viruses, so they don't work against the flu.",
+          "example_vi": "Thuốc kháng sinh không thể tiêu diệt vi-rút nên chúng không có tác dụng với bệnh cúm."
         },
         {
           "word": "work out",
@@ -273,7 +324,8 @@
           "audio_uk": "audio/uk/work-out-phr-v.mp3",
           "audio_us": "audio/us/work-out-phr-v.mp3",
           "meaning": "tập thể dục",
-          "example": "I work out at the gym three times a week."
+          "example": "I work out at the gym three times a week.",
+          "example_vi": "Tôi tập thể dục ở phòng gym ba lần một tuần."
         }
       ]
     },
@@ -298,7 +350,9 @@
           "ipa_us": "/əˈdæpt/",
           "audio_uk": "audio/uk/adapt.mp3",
           "audio_us": "audio/us/adapt.mp3",
-          "meaning": "thích nghi"
+          "meaning": "thích nghi",
+          "example": "Older people sometimes find it hard to adapt to new technology.",
+          "example_vi": "Người lớn tuổi đôi khi thấy khó thích nghi với công nghệ mới."
         },
         {
           "word": "argument",
@@ -307,7 +361,9 @@
           "ipa_us": "/ˈɑːrɡjəmənt/",
           "audio_uk": "audio/uk/argument.mp3",
           "audio_us": "audio/us/argument.mp3",
-          "meaning": "cuộc tranh cãi"
+          "meaning": "cuộc tranh cãi",
+          "example": "I had an argument with my parents about my curfew.",
+          "example_vi": "Tôi đã cãi nhau với bố mẹ về giờ phải về nhà."
         },
         {
           "word": "attitude",
@@ -316,7 +372,9 @@
           "ipa_us": "/ˈætətuːd/",
           "audio_uk": "audio/uk/attitude.mp3",
           "audio_us": "audio/us/attitude.mp3",
-          "meaning": "thái độ"
+          "meaning": "thái độ",
+          "example": "Young people often have a different attitude towards work than their parents.",
+          "example_vi": "Người trẻ thường có thái độ đối với công việc khác với bố mẹ mình."
         },
         {
           "word": "behaviour",
@@ -325,7 +383,9 @@
           "ipa_us": "/bɪˈheɪvjɚ/",
           "audio_uk": "audio/uk/behaviour.mp3",
           "audio_us": "audio/us/behaviour.mp3",
-          "meaning": "hành vi, cách cư xử"
+          "meaning": "hành vi, cách cư xử",
+          "example": "My grandparents think teenagers' behaviour today is quite rude.",
+          "example_vi": "Ông bà tôi cho rằng cách cư xử của thanh thiếu niên ngày nay khá thô lỗ."
         },
         {
           "word": "belief",
@@ -334,7 +394,9 @@
           "ipa_us": "/bɪˈliːf/",
           "audio_uk": "audio/uk/belief.mp3",
           "audio_us": "audio/us/belief.mp3",
-          "meaning": "niềm tin, tín ngưỡng"
+          "meaning": "niềm tin, tín ngưỡng",
+          "example": "Each generation has its own beliefs and values.",
+          "example_vi": "Mỗi thế hệ đều có niềm tin và giá trị riêng."
         },
         {
           "word": "bridge the gap",
@@ -343,7 +405,9 @@
           "ipa_us": "/ˌbrɪdʒ ðə ˈɡæp/",
           "audio_uk": "audio/uk/bridge-the-gap.mp3",
           "audio_us": "audio/us/bridge-the-gap.mp3",
-          "meaning": "thu hẹp khoảng cách"
+          "meaning": "thu hẹp khoảng cách",
+          "example": "Spending time together can help bridge the gap between generations.",
+          "example_vi": "Dành thời gian bên nhau có thể giúp thu hẹp khoảng cách giữa các thế hệ."
         },
         {
           "word": "burden",
@@ -352,7 +416,9 @@
           "ipa_us": "/ˈbɝːdən/",
           "audio_uk": "audio/uk/burden.mp3",
           "audio_us": "audio/us/burden.mp3",
-          "meaning": "gánh nặng"
+          "meaning": "gánh nặng",
+          "example": "Children should not become a financial burden on their parents.",
+          "example_vi": "Con cái không nên trở thành gánh nặng tài chính cho bố mẹ."
         },
         {
           "word": "characteristic",
@@ -361,7 +427,9 @@
           "ipa_us": "/ˌkerəktəˈrɪstɪk/",
           "audio_uk": "audio/uk/characteristic.mp3",
           "audio_us": "audio/us/characteristic.mp3",
-          "meaning": "đặc điểm, đặc trưng"
+          "meaning": "đặc điểm, đặc trưng",
+          "example": "Being independent is a common characteristic of Generation Z.",
+          "example_vi": "Tính độc lập là một đặc điểm phổ biến của thế hệ Z."
         },
         {
           "word": "conflict",
@@ -370,7 +438,9 @@
           "ipa_us": "/ˈkɑːnflɪkt/",
           "audio_uk": "audio/uk/conflict.mp3",
           "audio_us": "audio/us/conflict.mp3",
-          "meaning": "sự xung đột, mâu thuẫn"
+          "meaning": "sự xung đột, mâu thuẫn",
+          "example": "Different opinions on lifestyle often lead to conflicts between parents and children.",
+          "example_vi": "Những quan điểm khác nhau về lối sống thường dẫn đến mâu thuẫn giữa bố mẹ và con cái."
         },
         {
           "word": "conservative",
@@ -379,7 +449,9 @@
           "ipa_us": "/kənˈsɝːvətɪv/",
           "audio_uk": "audio/uk/conservative.mp3",
           "audio_us": "audio/us/conservative.mp3",
-          "meaning": "bảo thủ"
+          "meaning": "bảo thủ",
+          "example": "My grandfather is quite conservative and doesn't like modern fashion.",
+          "example_vi": "Ông tôi khá bảo thủ và không thích thời trang hiện đại."
         },
         {
           "word": "curfew",
@@ -388,7 +460,9 @@
           "ipa_us": "/ˈkɝːfjuː/",
           "audio_uk": "audio/uk/curfew.mp3",
           "audio_us": "audio/us/curfew.mp3",
-          "meaning": "giờ giới nghiêm (giờ phải về nhà)"
+          "meaning": "giờ giới nghiêm (giờ phải về nhà)",
+          "example": "My parents set a curfew of 10 p.m. on weekdays.",
+          "example_vi": "Bố mẹ tôi quy định giờ phải về nhà là 10 giờ tối vào các ngày trong tuần."
         },
         {
           "word": "curious",
@@ -397,7 +471,9 @@
           "ipa_us": "/ˈkjʊriəs/",
           "audio_uk": "audio/uk/curious.mp3",
           "audio_us": "audio/us/curious.mp3",
-          "meaning": "tò mò, ham hiểu biết"
+          "meaning": "tò mò, ham hiểu biết",
+          "example": "Teenagers are naturally curious about new trends.",
+          "example_vi": "Thanh thiếu niên vốn tò mò về những xu hướng mới."
         },
         {
           "word": "deal with",
@@ -406,7 +482,9 @@
           "ipa_us": "/ˈdiːl wɪð/",
           "audio_uk": "audio/uk/deal-with.mp3",
           "audio_us": "audio/us/deal-with.mp3",
-          "meaning": "giải quyết, đối phó với"
+          "meaning": "giải quyết, đối phó với",
+          "example": "Parents need to learn how to deal with conflicts with their teenage children.",
+          "example_vi": "Cha mẹ cần học cách giải quyết mâu thuẫn với con cái ở tuổi mới lớn."
         },
         {
           "word": "digital native",
@@ -415,7 +493,9 @@
           "ipa_us": "/ˌdɪdʒɪtəl ˈneɪtɪv/",
           "audio_uk": "audio/uk/digital-native.mp3",
           "audio_us": "audio/us/digital-native.mp3",
-          "meaning": "người sinh ra trong thời đại kỹ thuật số"
+          "meaning": "người sinh ra trong thời đại kỹ thuật số",
+          "example": "As digital natives, young people learn new apps very quickly.",
+          "example_vi": "Là những người sinh ra trong thời đại kỹ thuật số, giới trẻ học cách dùng ứng dụng mới rất nhanh."
         },
         {
           "word": "extended family",
@@ -424,7 +504,9 @@
           "ipa_us": "/ɪkˌstendɪd ˈfæməli/",
           "audio_uk": "audio/uk/extended-family.mp3",
           "audio_us": "audio/us/extended-family.mp3",
-          "meaning": "đại gia đình (nhiều thế hệ)"
+          "meaning": "đại gia đình (nhiều thế hệ)",
+          "example": "I live in an extended family with my parents, grandparents and an uncle.",
+          "example_vi": "Tôi sống trong một đại gia đình gồm bố mẹ, ông bà và một người chú."
         },
         {
           "word": "financial",
@@ -433,7 +515,9 @@
           "ipa_us": "/faɪˈnænʃəl/",
           "audio_uk": "audio/uk/financial.mp3",
           "audio_us": "audio/us/financial.mp3",
-          "meaning": "thuộc về tài chính"
+          "meaning": "thuộc về tài chính",
+          "example": "Many young adults still depend on their parents for financial support.",
+          "example_vi": "Nhiều người trẻ vẫn phụ thuộc vào bố mẹ về mặt tài chính."
         },
         {
           "word": "follow in someone's footsteps",
@@ -442,7 +526,9 @@
           "ipa_us": "/ˌfɑːloʊ ɪn ˌsʌmwʌnz ˈfʊtsteps/",
           "audio_uk": "audio/uk/follow-in-someone-s-footsteps.mp3",
           "audio_us": "audio/us/follow-in-someone-s-footsteps.mp3",
-          "meaning": "nối nghiệp, theo bước ai đó"
+          "meaning": "nối nghiệp, theo bước ai đó",
+          "example": "He decided to follow in his father's footsteps and become a doctor.",
+          "example_vi": "Anh ấy quyết định nối nghiệp bố và trở thành bác sĩ."
         },
         {
           "word": "generation gap",
@@ -452,7 +538,8 @@
           "audio_uk": "audio/uk/generation-gap.mp3",
           "audio_us": "audio/us/generation-gap.mp3",
           "meaning": "khoảng cách thế hệ",
-          "example": "The generation gap can cause conflicts in families."
+          "example": "The generation gap can cause conflicts in families.",
+          "example_vi": "Khoảng cách thế hệ có thể gây ra mâu thuẫn trong gia đình."
         },
         {
           "word": "generational",
@@ -461,7 +548,9 @@
           "ipa_us": "/ˌdʒenəˈreɪʃənəl/",
           "audio_uk": "audio/uk/generational.mp3",
           "audio_us": "audio/us/generational.mp3",
-          "meaning": "thuộc về thế hệ"
+          "meaning": "thuộc về thế hệ",
+          "example": "Generational differences can be seen in the way people use technology.",
+          "example_vi": "Sự khác biệt giữa các thế hệ có thể thấy rõ qua cách mọi người sử dụng công nghệ."
         },
         {
           "word": "multi-generational",
@@ -470,7 +559,9 @@
           "ipa_us": "/ˈmʌlti ˌdʒenəˈreɪʃənəl/",
           "audio_uk": "audio/uk/multi-generational.mp3",
           "audio_us": "audio/us/multi-generational.mp3",
-          "meaning": "nhiều thế hệ"
+          "meaning": "nhiều thế hệ",
+          "example": "Living in a multi-generational family teaches children to respect older people.",
+          "example_vi": "Sống trong gia đình nhiều thế hệ dạy trẻ em biết kính trọng người lớn tuổi."
         },
         {
           "word": "nuclear family",
@@ -479,7 +570,9 @@
           "ipa_us": "/ˌnuːkliɚ ˈfæməli/",
           "audio_uk": "audio/uk/nuclear-family.mp3",
           "audio_us": "audio/us/nuclear-family.mp3",
-          "meaning": "gia đình hạt nhân (chỉ có bố mẹ và con cái)"
+          "meaning": "gia đình hạt nhân (chỉ có bố mẹ và con cái)",
+          "example": "Nowadays, more and more people live in nuclear families.",
+          "example_vi": "Ngày nay, ngày càng nhiều người sống trong gia đình hạt nhân."
         },
         {
           "word": "respect",
@@ -488,7 +581,9 @@
           "ipa_us": "/rɪˈspekt/",
           "audio_uk": "audio/uk/respect.mp3",
           "audio_us": "audio/us/respect.mp3",
-          "meaning": "tôn trọng, kính trọng"
+          "meaning": "tôn trọng, kính trọng",
+          "example": "We should respect our grandparents' opinions even when we disagree.",
+          "example_vi": "Chúng ta nên tôn trọng ý kiến của ông bà ngay cả khi không đồng tình."
         },
         {
           "word": "traditional",
@@ -497,7 +592,9 @@
           "ipa_us": "/trəˈdɪʃənəl/",
           "audio_uk": "audio/uk/traditional.mp3",
           "audio_us": "audio/us/traditional.mp3",
-          "meaning": "truyền thống"
+          "meaning": "truyền thống",
+          "example": "My grandmother still holds traditional views about marriage.",
+          "example_vi": "Bà tôi vẫn giữ quan điểm truyền thống về hôn nhân."
         },
         {
           "word": "value",
@@ -506,7 +603,9 @@
           "ipa_us": "/ˈvæljuː/",
           "audio_uk": "audio/uk/value.mp3",
           "audio_us": "audio/us/value.mp3",
-          "meaning": "giá trị"
+          "meaning": "giá trị",
+          "example": "Family values are passed down from one generation to the next.",
+          "example_vi": "Các giá trị gia đình được truyền từ thế hệ này sang thế hệ khác."
         },
         {
           "word": "viewpoint",
@@ -515,7 +614,9 @@
           "ipa_us": "/ˈvjuːpɔɪnt/",
           "audio_uk": "audio/uk/viewpoint.mp3",
           "audio_us": "audio/us/viewpoint.mp3",
-          "meaning": "quan điểm"
+          "meaning": "quan điểm",
+          "example": "Try to understand your parents' viewpoint before arguing with them.",
+          "example_vi": "Hãy cố gắng hiểu quan điểm của bố mẹ trước khi tranh cãi với họ."
         }
       ]
     },
@@ -540,7 +641,9 @@
           "ipa_us": "/ˈsɪti ˌdwelɚ/",
           "audio_uk": "audio/uk/city-dweller.mp3",
           "audio_us": "audio/us/city-dweller.mp3",
-          "meaning": "cư dân thành phố"
+          "meaning": "cư dân thành phố",
+          "example": "City dwellers often suffer from noise and air pollution.",
+          "example_vi": "Cư dân thành phố thường phải chịu ô nhiễm tiếng ồn và không khí."
         },
         {
           "word": "cycle path",
@@ -549,7 +652,9 @@
           "ipa_us": "/ˈsaɪkəl pæθ/",
           "audio_uk": "audio/uk/cycle-path.mp3",
           "audio_us": "audio/us/cycle-path.mp3",
-          "meaning": "đường dành cho xe đạp"
+          "meaning": "đường dành cho xe đạp",
+          "example": "The city plans to build more cycle paths to reduce traffic.",
+          "example_vi": "Thành phố dự định xây thêm nhiều đường dành cho xe đạp để giảm lưu lượng giao thông."
         },
         {
           "word": "detect",
@@ -558,7 +663,9 @@
           "ipa_us": "/dɪˈtekt/",
           "audio_uk": "audio/uk/detect.mp3",
           "audio_us": "audio/us/detect.mp3",
-          "meaning": "phát hiện"
+          "meaning": "phát hiện",
+          "example": "Smart sensors can detect air pollution in real time.",
+          "example_vi": "Cảm biến thông minh có thể phát hiện ô nhiễm không khí theo thời gian thực."
         },
         {
           "word": "driverless",
@@ -567,7 +674,9 @@
           "ipa_us": "/ˈdraɪvɚlɪs/",
           "audio_uk": "audio/uk/driverless.mp3",
           "audio_us": "audio/us/driverless.mp3",
-          "meaning": "không người lái"
+          "meaning": "không người lái",
+          "example": "Driverless cars may become common in cities of the future.",
+          "example_vi": "Xe ô tô không người lái có thể sẽ trở nên phổ biến ở các thành phố tương lai."
         },
         {
           "word": "eco-friendly",
@@ -576,7 +685,9 @@
           "ipa_us": "/ˌiːkoʊ ˈfrendli/",
           "audio_uk": "audio/uk/eco-friendly.mp3",
           "audio_us": "audio/us/eco-friendly.mp3",
-          "meaning": "thân thiện với môi trường"
+          "meaning": "thân thiện với môi trường",
+          "example": "Future cities will use more eco-friendly means of transport.",
+          "example_vi": "Các thành phố tương lai sẽ sử dụng nhiều phương tiện giao thông thân thiện với môi trường hơn."
         },
         {
           "word": "electric bus",
@@ -585,7 +696,9 @@
           "ipa_us": "/ɪˌlektrɪk ˈbʌs/",
           "audio_uk": "audio/uk/electric-bus.mp3",
           "audio_us": "audio/us/electric-bus.mp3",
-          "meaning": "xe buýt điện"
+          "meaning": "xe buýt điện",
+          "example": "Electric buses produce no exhaust fumes, so they help keep the air clean.",
+          "example_vi": "Xe buýt điện không thải ra khói nên giúp giữ cho không khí trong lành."
         },
         {
           "word": "get around",
@@ -594,7 +707,9 @@
           "ipa_us": "/ˌɡet əˈraʊnd/",
           "audio_uk": "audio/uk/get-around-phr-v.mp3",
           "audio_us": "audio/us/get-around-phr-v.mp3",
-          "meaning": "đi lại, di chuyển"
+          "meaning": "đi lại, di chuyển",
+          "example": "It's easy to get around the city by underground train.",
+          "example_vi": "Đi lại trong thành phố bằng tàu điện ngầm rất dễ dàng."
         },
         {
           "word": "greenhouse gas",
@@ -603,7 +718,9 @@
           "ipa_us": "/ˌɡriːnhaʊs ˈɡæs/",
           "audio_uk": "audio/uk/greenhouse-gas.mp3",
           "audio_us": "audio/us/greenhouse-gas.mp3",
-          "meaning": "khí nhà kính"
+          "meaning": "khí nhà kính",
+          "example": "Cars and factories release large amounts of greenhouse gases.",
+          "example_vi": "Ô tô và nhà máy thải ra một lượng lớn khí nhà kính."
         },
         {
           "word": "high-rise",
@@ -612,7 +729,9 @@
           "ipa_us": "/ˈhaɪ raɪz/",
           "audio_uk": "audio/uk/high-rise.mp3",
           "audio_us": "audio/us/high-rise.mp3",
-          "meaning": "cao tầng"
+          "meaning": "cao tầng",
+          "example": "More high-rise buildings will be built to house the growing population.",
+          "example_vi": "Nhiều tòa nhà cao tầng hơn sẽ được xây dựng để đáp ứng nhu cầu nhà ở của dân số ngày càng tăng."
         },
         {
           "word": "infrastructure",
@@ -621,7 +740,9 @@
           "ipa_us": "/ˌɪnfrəˈstrʌktʃɚ/",
           "audio_uk": "audio/uk/infrastructure.mp3",
           "audio_us": "audio/us/infrastructure.mp3",
-          "meaning": "cơ sở hạ tầng"
+          "meaning": "cơ sở hạ tầng",
+          "example": "The government is investing heavily in the city's infrastructure.",
+          "example_vi": "Chính phủ đang đầu tư mạnh vào cơ sở hạ tầng của thành phố."
         },
         {
           "word": "inhabitant",
@@ -630,7 +751,9 @@
           "ipa_us": "/ɪnˈhæbɪtənt/",
           "audio_uk": "audio/uk/inhabitant.mp3",
           "audio_us": "audio/us/inhabitant.mp3",
-          "meaning": "cư dân"
+          "meaning": "cư dân",
+          "example": "The city has more than eight million inhabitants.",
+          "example_vi": "Thành phố có hơn tám triệu cư dân."
         },
         {
           "word": "interact",
@@ -639,7 +762,9 @@
           "ipa_us": "/ˌɪntəˈrækt/",
           "audio_uk": "audio/uk/interact.mp3",
           "audio_us": "audio/us/interact.mp3",
-          "meaning": "tương tác"
+          "meaning": "tương tác",
+          "example": "In smart cities, people will interact with buildings through their phones.",
+          "example_vi": "Ở các thành phố thông minh, mọi người sẽ tương tác với các tòa nhà thông qua điện thoại."
         },
         {
           "word": "liveable",
@@ -648,7 +773,9 @@
           "ipa_us": "/ˈlɪvəbl/",
           "audio_uk": "audio/uk/liveable.mp3",
           "audio_us": "audio/us/liveable.mp3",
-          "meaning": "đáng sống"
+          "meaning": "đáng sống",
+          "example": "Green spaces make a city more liveable.",
+          "example_vi": "Không gian xanh giúp thành phố trở nên đáng sống hơn."
         },
         {
           "word": "operate",
@@ -657,7 +784,9 @@
           "ipa_us": "/ˈɑːpəreɪt/",
           "audio_uk": "audio/uk/operate.mp3",
           "audio_us": "audio/us/operate.mp3",
-          "meaning": "vận hành, hoạt động"
+          "meaning": "vận hành, hoạt động",
+          "example": "The new metro line will start to operate next year.",
+          "example_vi": "Tuyến tàu điện ngầm mới sẽ bắt đầu vận hành vào năm sau."
         },
         {
           "word": "pollution",
@@ -666,7 +795,9 @@
           "ipa_us": "/pəˈluːʃən/",
           "audio_uk": "audio/uk/pollution.mp3",
           "audio_us": "audio/us/pollution.mp3",
-          "meaning": "sự ô nhiễm"
+          "meaning": "sự ô nhiễm",
+          "example": "Air pollution is a serious problem in many big cities.",
+          "example_vi": "Ô nhiễm không khí là một vấn đề nghiêm trọng ở nhiều thành phố lớn."
         },
         {
           "word": "public transport",
@@ -675,7 +806,9 @@
           "ipa_us": "/ˌpʌblɪk ˈtrænspɔːrt/",
           "audio_uk": "audio/uk/public-transport.mp3",
           "audio_us": "audio/us/public-transport.mp3",
-          "meaning": "phương tiện giao thông công cộng"
+          "meaning": "phương tiện giao thông công cộng",
+          "example": "Using public transport can help reduce traffic jams.",
+          "example_vi": "Sử dụng phương tiện giao thông công cộng có thể giúp giảm tắc đường."
         },
         {
           "word": "quality of life",
@@ -684,7 +817,9 @@
           "ipa_us": "/ˌkwɑːləti əv ˈlaɪf/",
           "audio_uk": "audio/uk/quality-of-life.mp3",
           "audio_us": "audio/us/quality-of-life.mp3",
-          "meaning": "chất lượng cuộc sống"
+          "meaning": "chất lượng cuộc sống",
+          "example": "Smart technology can improve the quality of life in cities.",
+          "example_vi": "Công nghệ thông minh có thể nâng cao chất lượng cuộc sống ở các thành phố."
         },
         {
           "word": "renewable",
@@ -693,7 +828,9 @@
           "ipa_us": "/riˈnuːəbəl/",
           "audio_uk": "audio/uk/renewable.mp3",
           "audio_us": "audio/us/renewable.mp3",
-          "meaning": "có thể tái tạo"
+          "meaning": "có thể tái tạo",
+          "example": "Future cities will rely on renewable energy such as solar and wind power.",
+          "example_vi": "Các thành phố tương lai sẽ dựa vào năng lượng tái tạo như năng lượng mặt trời và năng lượng gió."
         },
         {
           "word": "roof garden",
@@ -702,7 +839,9 @@
           "ipa_us": "/ˈruːf ˌɡɑːrdən/",
           "audio_uk": "audio/uk/roof-garden.mp3",
           "audio_us": "audio/us/roof-garden.mp3",
-          "meaning": "vườn trên sân thượng"
+          "meaning": "vườn trên sân thượng",
+          "example": "Residents grow vegetables in the roof garden of their apartment building.",
+          "example_vi": "Cư dân trồng rau trong khu vườn trên sân thượng của tòa chung cư."
         },
         {
           "word": "sensor",
@@ -712,7 +851,8 @@
           "audio_uk": "audio/uk/sensor.mp3",
           "audio_us": "audio/us/sensor.mp3",
           "meaning": "cảm biến",
-          "example": "Smart sensors will control the traffic lights."
+          "example": "Smart sensors will control the traffic lights.",
+          "example_vi": "Các cảm biến thông minh sẽ điều khiển đèn giao thông."
         },
         {
           "word": "skyscraper",
@@ -721,7 +861,9 @@
           "ipa_us": "/ˈskaɪskreɪpɚ/",
           "audio_uk": "audio/uk/skyscraper-n.mp3",
           "audio_us": "audio/us/skyscraper-n.mp3",
-          "meaning": "nhà chọc trời"
+          "meaning": "nhà chọc trời",
+          "example": "The city skyline is full of modern skyscrapers.",
+          "example_vi": "Đường chân trời của thành phố dày đặc những tòa nhà chọc trời hiện đại."
         },
         {
           "word": "sustainable",
@@ -730,7 +872,9 @@
           "ipa_us": "/səˈsteɪnəbəl/",
           "audio_uk": "audio/uk/sustainable.mp3",
           "audio_us": "audio/us/sustainable.mp3",
-          "meaning": "bền vững"
+          "meaning": "bền vững",
+          "example": "Planners are designing sustainable cities that use less energy.",
+          "example_vi": "Các nhà quy hoạch đang thiết kế những thành phố bền vững sử dụng ít năng lượng hơn."
         },
         {
           "word": "traffic jam",
@@ -739,7 +883,9 @@
           "ipa_us": "/ˈtræfɪk dʒæm/",
           "audio_uk": "audio/uk/traffic-jam.mp3",
           "audio_us": "audio/us/traffic-jam.mp3",
-          "meaning": "tắc đường"
+          "meaning": "tắc đường",
+          "example": "I was late for school because of a traffic jam.",
+          "example_vi": "Tôi đến trường muộn vì bị tắc đường."
         },
         {
           "word": "tram",
@@ -748,7 +894,9 @@
           "ipa_us": "/træm/",
           "audio_uk": "audio/uk/tram.mp3",
           "audio_us": "audio/us/tram.mp3",
-          "meaning": "xe điện, tàu điện"
+          "meaning": "xe điện, tàu điện",
+          "example": "Trams are a clean and convenient way to travel around the city centre.",
+          "example_vi": "Tàu điện là một cách di chuyển sạch sẽ và tiện lợi quanh trung tâm thành phố."
         },
         {
           "word": "urban",
@@ -757,7 +905,9 @@
           "ipa_us": "/ˈɝːbən/",
           "audio_uk": "audio/uk/urban.mp3",
           "audio_us": "audio/us/urban.mp3",
-          "meaning": "thuộc đô thị"
+          "meaning": "thuộc đô thị",
+          "example": "Urban areas are becoming more and more crowded.",
+          "example_vi": "Các khu vực đô thị đang ngày càng trở nên đông đúc."
         },
         {
           "word": "vehicle",
@@ -766,7 +916,9 @@
           "ipa_us": "/ˈviːɪkəl/",
           "audio_uk": "audio/uk/vehicle.mp3",
           "audio_us": "audio/us/vehicle.mp3",
-          "meaning": "phương tiện giao thông, xe cộ"
+          "meaning": "phương tiện giao thông, xe cộ",
+          "example": "The number of private vehicles in the city keeps increasing.",
+          "example_vi": "Số lượng phương tiện cá nhân trong thành phố không ngừng tăng lên."
         }
       ]
     },
@@ -790,7 +942,9 @@
           "ipa_us": "/əˈplaɪ fɚ/",
           "audio_uk": "audio/uk/apply-for.mp3",
           "audio_us": "audio/us/apply-for.mp3",
-          "meaning": "nộp đơn xin, ứng tuyển"
+          "meaning": "nộp đơn xin, ứng tuyển",
+          "example": "She applied for a scholarship to study in Singapore.",
+          "example_vi": "Cô ấy đã nộp đơn xin học bổng để du học Singapore."
         },
         {
           "word": "association",
@@ -799,7 +953,9 @@
           "ipa_us": "/əˌsoʊsiˈeɪʃən/",
           "audio_uk": "audio/uk/association.mp3",
           "audio_us": "audio/us/association.mp3",
-          "meaning": "hiệp hội"
+          "meaning": "hiệp hội",
+          "example": "ASEAN stands for the Association of Southeast Asian Nations.",
+          "example_vi": "ASEAN là viết tắt của Hiệp hội các quốc gia Đông Nam Á."
         },
         {
           "word": "beneficial",
@@ -808,7 +964,9 @@
           "ipa_us": "/ˌbenəˈfɪʃəl/",
           "audio_uk": "audio/uk/beneficial.mp3",
           "audio_us": "audio/us/beneficial.mp3",
-          "meaning": "có lợi, có ích"
+          "meaning": "có lợi, có ích",
+          "example": "Cultural exchange programmes are beneficial to young people in the region.",
+          "example_vi": "Các chương trình giao lưu văn hóa mang lại lợi ích cho giới trẻ trong khu vực."
         },
         {
           "word": "bloc",
@@ -817,7 +975,9 @@
           "ipa_us": "/blɑːk/",
           "audio_uk": "audio/uk/bloc.mp3",
           "audio_us": "audio/us/bloc.mp3",
-          "meaning": "khối (liên minh các nước)"
+          "meaning": "khối (liên minh các nước)",
+          "example": "ASEAN has become an important economic bloc in Asia.",
+          "example_vi": "ASEAN đã trở thành một khối kinh tế quan trọng ở châu Á."
         },
         {
           "word": "charter",
@@ -826,7 +986,9 @@
           "ipa_us": "/ˈtʃɑːrtɚ/",
           "audio_uk": "audio/uk/charter.mp3",
           "audio_us": "audio/us/charter.mp3",
-          "meaning": "hiến chương"
+          "meaning": "hiến chương",
+          "example": "The ASEAN Charter came into force in 2008.",
+          "example_vi": "Hiến chương ASEAN có hiệu lực từ năm 2008."
         },
         {
           "word": "community",
@@ -835,7 +997,9 @@
           "ipa_us": "/kəˈmjuːnəti/",
           "audio_uk": "audio/uk/community.mp3",
           "audio_us": "audio/us/community.mp3",
-          "meaning": "cộng đồng"
+          "meaning": "cộng đồng",
+          "example": "The ASEAN Community was officially established in 2015.",
+          "example_vi": "Cộng đồng ASEAN được chính thức thành lập vào năm 2015."
         },
         {
           "word": "constitution",
@@ -844,7 +1008,9 @@
           "ipa_us": "/ˌkɑːnstəˈtuːʃən/",
           "audio_uk": "audio/uk/constitution.mp3",
           "audio_us": "audio/us/constitution.mp3",
-          "meaning": "hiến pháp"
+          "meaning": "hiến pháp",
+          "example": "Each member state of ASEAN has its own constitution.",
+          "example_vi": "Mỗi quốc gia thành viên ASEAN đều có hiến pháp riêng."
         },
         {
           "word": "contribution",
@@ -853,7 +1019,9 @@
           "ipa_us": "/ˌkɑːntrəˈbjuːʃən/",
           "audio_uk": "audio/uk/contribution.mp3",
           "audio_us": "audio/us/contribution.mp3",
-          "meaning": "sự đóng góp"
+          "meaning": "sự đóng góp",
+          "example": "Viet Nam has made great contributions to the development of ASEAN.",
+          "example_vi": "Việt Nam đã có những đóng góp to lớn cho sự phát triển của ASEAN."
         },
         {
           "word": "cooperation",
@@ -862,7 +1030,9 @@
           "ipa_us": "/koʊˌɑːpəˈreɪʃən/",
           "audio_uk": "audio/uk/cooperation.mp3",
           "audio_us": "audio/us/cooperation.mp3",
-          "meaning": "sự hợp tác"
+          "meaning": "sự hợp tác",
+          "example": "ASEAN countries promote cooperation in education and trade.",
+          "example_vi": "Các nước ASEAN thúc đẩy sự hợp tác trong giáo dục và thương mại."
         },
         {
           "word": "cultural exchange",
@@ -871,7 +1041,9 @@
           "ipa_us": "/ˌkʌltʃɚəl ɪksˈtʃeɪndʒ/",
           "audio_uk": "audio/uk/cultural-exchange.mp3",
           "audio_us": "audio/us/cultural-exchange.mp3",
-          "meaning": "giao lưu văn hóa"
+          "meaning": "giao lưu văn hóa",
+          "example": "The cultural exchange helped students learn about other ASEAN countries.",
+          "example_vi": "Chuyến giao lưu văn hóa đã giúp học sinh tìm hiểu về các nước ASEAN khác."
         },
         {
           "word": "dispute",
@@ -880,7 +1052,9 @@
           "ipa_us": "/dɪˈspjuːt/",
           "audio_uk": "audio/uk/dispute.mp3",
           "audio_us": "audio/us/dispute.mp3",
-          "meaning": "tranh chấp"
+          "meaning": "tranh chấp",
+          "example": "Member states try to settle disputes peacefully.",
+          "example_vi": "Các quốc gia thành viên cố gắng giải quyết tranh chấp một cách hòa bình."
         },
         {
           "word": "diversity",
@@ -889,7 +1063,9 @@
           "ipa_us": "/daɪˈvɝːsɪti/",
           "audio_uk": "audio/uk/diversity.mp3",
           "audio_us": "audio/us/diversity.mp3",
-          "meaning": "sự đa dạng"
+          "meaning": "sự đa dạng",
+          "example": "ASEAN is famous for its cultural diversity.",
+          "example_vi": "ASEAN nổi tiếng về sự đa dạng văn hóa."
         },
         {
           "word": "economic",
@@ -898,7 +1074,9 @@
           "ipa_us": "/ˌiːkəˈnɑːmɪk/",
           "audio_uk": "audio/uk/economic.mp3",
           "audio_us": "audio/us/economic.mp3",
-          "meaning": "thuộc về kinh tế"
+          "meaning": "thuộc về kinh tế",
+          "example": "ASEAN aims to promote economic growth in the region.",
+          "example_vi": "ASEAN hướng tới thúc đẩy tăng trưởng kinh tế trong khu vực."
         },
         {
           "word": "economy",
@@ -907,7 +1085,9 @@
           "ipa_us": "/ɪˈkɑːnəmi/",
           "audio_uk": "audio/uk/economy.mp3",
           "audio_us": "audio/us/economy.mp3",
-          "meaning": "nền kinh tế"
+          "meaning": "nền kinh tế",
+          "example": "Viet Nam's economy has grown rapidly since it joined ASEAN.",
+          "example_vi": "Nền kinh tế Việt Nam đã tăng trưởng nhanh chóng kể từ khi gia nhập ASEAN."
         },
         {
           "word": "eye-opening",
@@ -916,7 +1096,9 @@
           "ipa_us": "/ˈaɪ ˌoʊpənɪŋ/",
           "audio_uk": "audio/uk/eye-opening.mp3",
           "audio_us": "audio/us/eye-opening.mp3",
-          "meaning": "mở mang tầm mắt"
+          "meaning": "mở mang tầm mắt",
+          "example": "Taking part in the ASEAN youth camp was an eye-opening experience for me.",
+          "example_vi": "Tham gia trại hè thanh niên ASEAN là một trải nghiệm mở mang tầm mắt đối với tôi."
         },
         {
           "word": "host",
@@ -925,7 +1107,9 @@
           "ipa_us": "/hoʊst/",
           "audio_uk": "audio/uk/host.mp3",
           "audio_us": "audio/us/host.mp3",
-          "meaning": "đăng cai, tổ chức"
+          "meaning": "đăng cai, tổ chức",
+          "example": "Viet Nam hosted the 22nd SEA Games in 2003.",
+          "example_vi": "Việt Nam đã đăng cai SEA Games lần thứ 22 vào năm 2003."
         },
         {
           "word": "maintain",
@@ -934,7 +1118,9 @@
           "ipa_us": "/meɪnˈteɪn/",
           "audio_uk": "audio/uk/maintain.mp3",
           "audio_us": "audio/us/maintain.mp3",
-          "meaning": "duy trì"
+          "meaning": "duy trì",
+          "example": "ASEAN works to maintain peace and stability in the region.",
+          "example_vi": "ASEAN nỗ lực duy trì hòa bình và ổn định trong khu vực."
         },
         {
           "word": "member state",
@@ -944,7 +1130,8 @@
           "audio_uk": "audio/uk/member-state.mp3",
           "audio_us": "audio/us/member-state.mp3",
           "meaning": "quốc gia thành viên",
-          "example": "Viet Nam became a member state of ASEAN in 1995."
+          "example": "Viet Nam became a member state of ASEAN in 1995.",
+          "example_vi": "Việt Nam trở thành quốc gia thành viên của ASEAN vào năm 1995."
         },
         {
           "word": "motto",
@@ -953,7 +1140,9 @@
           "ipa_us": "/ˈmɑːtoʊ/",
           "audio_uk": "audio/uk/motto.mp3",
           "audio_us": "audio/us/motto.mp3",
-          "meaning": "phương châm, khẩu hiệu"
+          "meaning": "phương châm, khẩu hiệu",
+          "example": "The ASEAN motto is \"One Vision, One Identity, One Community\".",
+          "example_vi": "Phương châm của ASEAN là \"Một tầm nhìn, Một bản sắc, Một cộng đồng\"."
         },
         {
           "word": "principle",
@@ -962,7 +1151,9 @@
           "ipa_us": "/ˈprɪnsəpəl/",
           "audio_uk": "audio/uk/principle.mp3",
           "audio_us": "audio/us/principle.mp3",
-          "meaning": "nguyên tắc"
+          "meaning": "nguyên tắc",
+          "example": "Non-interference is one of the basic principles of ASEAN.",
+          "example_vi": "Không can thiệp là một trong những nguyên tắc cơ bản của ASEAN."
         },
         {
           "word": "promote",
@@ -971,7 +1162,9 @@
           "ipa_us": "/prəˈmoʊt/",
           "audio_uk": "audio/uk/promote.mp3",
           "audio_us": "audio/us/promote.mp3",
-          "meaning": "thúc đẩy, quảng bá"
+          "meaning": "thúc đẩy, quảng bá",
+          "example": "The programme aims to promote friendship among young people in ASEAN.",
+          "example_vi": "Chương trình nhằm thúc đẩy tình hữu nghị giữa thanh niên các nước ASEAN."
         },
         {
           "word": "region",
@@ -980,7 +1173,9 @@
           "ipa_us": "/ˈriːdʒən/",
           "audio_uk": "audio/uk/region.mp3",
           "audio_us": "audio/us/region.mp3",
-          "meaning": "khu vực, vùng"
+          "meaning": "khu vực, vùng",
+          "example": "Southeast Asia is a region rich in culture and natural resources.",
+          "example_vi": "Đông Nam Á là khu vực giàu văn hóa và tài nguyên thiên nhiên."
         },
         {
           "word": "regional",
@@ -989,7 +1184,9 @@
           "ipa_us": "/ˈriːdʒənəl/",
           "audio_uk": "audio/uk/regional.mp3",
           "audio_us": "audio/us/regional.mp3",
-          "meaning": "thuộc khu vực"
+          "meaning": "thuộc khu vực",
+          "example": "ASEAN plays an important role in regional security.",
+          "example_vi": "ASEAN đóng vai trò quan trọng trong an ninh khu vực."
         },
         {
           "word": "scholarship",
@@ -998,7 +1195,9 @@
           "ipa_us": "/ˈskɑːlɚʃɪp/",
           "audio_uk": "audio/uk/scholarship.mp3",
           "audio_us": "audio/us/scholarship.mp3",
-          "meaning": "học bổng"
+          "meaning": "học bổng",
+          "example": "He won a scholarship to study at a university in Thailand.",
+          "example_vi": "Anh ấy đã giành được học bổng để học tại một trường đại học ở Thái Lan."
         },
         {
           "word": "solidarity",
@@ -1007,7 +1206,9 @@
           "ipa_us": "/ˌsɑːləˈderəti/",
           "audio_uk": "audio/uk/solidarity.mp3",
           "audio_us": "audio/us/solidarity.mp3",
-          "meaning": "sự đoàn kết"
+          "meaning": "sự đoàn kết",
+          "example": "The ASEAN flag is a symbol of unity and solidarity.",
+          "example_vi": "Lá cờ ASEAN là biểu tượng của sự thống nhất và đoàn kết."
         },
         {
           "word": "stability",
@@ -1016,7 +1217,9 @@
           "ipa_us": "/stəˈbɪlɪti/",
           "audio_uk": "audio/uk/stability.mp3",
           "audio_us": "audio/us/stability.mp3",
-          "meaning": "sự ổn định"
+          "meaning": "sự ổn định",
+          "example": "Peace and stability are necessary for economic development.",
+          "example_vi": "Hòa bình và ổn định là điều cần thiết cho sự phát triển kinh tế."
         },
         {
           "word": "summit",
@@ -1025,7 +1228,9 @@
           "ipa_us": "/ˈsʌmɪt/",
           "audio_uk": "audio/uk/summit.mp3",
           "audio_us": "audio/us/summit.mp3",
-          "meaning": "hội nghị thượng đỉnh"
+          "meaning": "hội nghị thượng đỉnh",
+          "example": "Leaders of the member states met at the ASEAN Summit in Ha Noi.",
+          "example_vi": "Lãnh đạo các quốc gia thành viên đã gặp nhau tại Hội nghị Thượng đỉnh ASEAN ở Hà Nội."
         },
         {
           "word": "take part in",
@@ -1034,7 +1239,9 @@
           "ipa_us": "/ˌteɪk ˈpɑːrt ɪn/",
           "audio_uk": "audio/uk/take-part-in-phr-v.mp3",
           "audio_us": "audio/us/take-part-in-phr-v.mp3",
-          "meaning": "tham gia"
+          "meaning": "tham gia",
+          "example": "Students from ten countries took part in the ASEAN youth festival.",
+          "example_vi": "Học sinh từ mười quốc gia đã tham gia ngày hội thanh niên ASEAN."
         },
         {
           "word": "vision",
@@ -1043,7 +1250,9 @@
           "ipa_us": "/ˈvɪʒən/",
           "audio_uk": "audio/uk/vision.mp3",
           "audio_us": "audio/us/vision.mp3",
-          "meaning": "tầm nhìn"
+          "meaning": "tầm nhìn",
+          "example": "The leaders shared a common vision for the future of ASEAN.",
+          "example_vi": "Các nhà lãnh đạo đã cùng chia sẻ một tầm nhìn chung về tương lai của ASEAN."
         },
         {
           "word": "workshop",
@@ -1052,7 +1261,9 @@
           "ipa_us": "/ˈwɝːkʃɑːp/",
           "audio_uk": "audio/uk/workshop.mp3",
           "audio_us": "audio/us/workshop.mp3",
-          "meaning": "hội thảo, buổi tập huấn"
+          "meaning": "hội thảo, buổi tập huấn",
+          "example": "Our school held a workshop on ASEAN culture and history.",
+          "example_vi": "Trường tôi đã tổ chức một buổi hội thảo về văn hóa và lịch sử ASEAN."
         }
       ]
     },
@@ -1075,7 +1286,9 @@
           "ipa_us": "/əbˈzɔːrb/",
           "audio_uk": "audio/uk/absorb.mp3",
           "audio_us": "audio/us/absorb.mp3",
-          "meaning": "hấp thụ"
+          "meaning": "hấp thụ",
+          "example": "Forests absorb carbon dioxide from the air.",
+          "example_vi": "Rừng hấp thụ khí CO2 từ không khí."
         },
         {
           "word": "atmosphere",
@@ -1084,7 +1297,9 @@
           "ipa_us": "/ˈætməsfɪr/",
           "audio_uk": "audio/uk/atmosphere.mp3",
           "audio_us": "audio/us/atmosphere.mp3",
-          "meaning": "khí quyển"
+          "meaning": "khí quyển",
+          "example": "Greenhouse gases trap heat in the Earth's atmosphere.",
+          "example_vi": "Khí nhà kính giữ nhiệt lại trong bầu khí quyển của Trái Đất."
         },
         {
           "word": "carbon dioxide",
@@ -1093,7 +1308,9 @@
           "ipa_us": "/ˌkɑːrbən daɪˈɑːksaɪd/",
           "audio_uk": "audio/uk/carbon-dioxide.mp3",
           "audio_us": "audio/us/carbon-dioxide.mp3",
-          "meaning": "khí các-bon đi-ô-xít (CO2)"
+          "meaning": "khí các-bon đi-ô-xít (CO2)",
+          "example": "Burning fossil fuels releases a lot of carbon dioxide.",
+          "example_vi": "Việc đốt nhiên liệu hóa thạch thải ra rất nhiều khí CO2."
         },
         {
           "word": "climate change",
@@ -1102,7 +1319,9 @@
           "ipa_us": "/ˈklaɪmət tʃeɪndʒ/",
           "audio_uk": "audio/uk/climate-change.mp3",
           "audio_us": "audio/us/climate-change.mp3",
-          "meaning": "biến đổi khí hậu"
+          "meaning": "biến đổi khí hậu",
+          "example": "Climate change is causing more extreme weather around the world.",
+          "example_vi": "Biến đổi khí hậu đang gây ra nhiều hiện tượng thời tiết cực đoan hơn trên khắp thế giới."
         },
         {
           "word": "coal",
@@ -1111,7 +1330,9 @@
           "ipa_us": "/koʊl/",
           "audio_uk": "audio/uk/coal.mp3",
           "audio_us": "audio/us/coal.mp3",
-          "meaning": "than đá"
+          "meaning": "than đá",
+          "example": "Many power plants still burn coal to produce electricity.",
+          "example_vi": "Nhiều nhà máy điện vẫn đốt than đá để sản xuất điện."
         },
         {
           "word": "consequence",
@@ -1120,7 +1341,9 @@
           "ipa_us": "/ˈkɑːnsəkwəns/",
           "audio_uk": "audio/uk/consequence.mp3",
           "audio_us": "audio/us/consequence.mp3",
-          "meaning": "hậu quả"
+          "meaning": "hậu quả",
+          "example": "Rising sea levels are one of the consequences of global warming.",
+          "example_vi": "Mực nước biển dâng là một trong những hậu quả của sự nóng lên toàn cầu."
         },
         {
           "word": "cut down",
@@ -1129,7 +1352,9 @@
           "ipa_us": "/ˌkʌt ˈdaʊn/",
           "audio_uk": "audio/uk/cut-down-phr-v.mp3",
           "audio_us": "audio/us/cut-down-phr-v.mp3",
-          "meaning": "chặt (cây)"
+          "meaning": "chặt (cây)",
+          "example": "Thousands of trees are cut down every day to make space for farms.",
+          "example_vi": "Hàng nghìn cây xanh bị chặt hạ mỗi ngày để lấy đất làm trang trại."
         },
         {
           "word": "deforestation",
@@ -1138,7 +1363,9 @@
           "ipa_us": "/dɪˌfɔːrɪˈsteɪʃən/",
           "audio_uk": "audio/uk/deforestation.mp3",
           "audio_us": "audio/us/deforestation.mp3",
-          "meaning": "sự phá rừng"
+          "meaning": "sự phá rừng",
+          "example": "Deforestation contributes to global warming.",
+          "example_vi": "Nạn phá rừng góp phần làm Trái Đất nóng lên."
         },
         {
           "word": "emission",
@@ -1147,7 +1374,9 @@
           "ipa_us": "/ɪˈmɪʃən/",
           "audio_uk": "audio/uk/emission.mp3",
           "audio_us": "audio/us/emission.mp3",
-          "meaning": "sự phát thải, khí thải"
+          "meaning": "sự phát thải, khí thải",
+          "example": "We must reduce carbon emissions to slow down climate change.",
+          "example_vi": "Chúng ta phải giảm lượng khí thải các-bon để làm chậm quá trình biến đổi khí hậu."
         },
         {
           "word": "farmland",
@@ -1156,7 +1385,9 @@
           "ipa_us": "/ˈfɑːrmlænd/",
           "audio_uk": "audio/uk/farmland.mp3",
           "audio_us": "audio/us/farmland.mp3",
-          "meaning": "đất nông nghiệp"
+          "meaning": "đất nông nghiệp",
+          "example": "Forests are being cleared to create more farmland.",
+          "example_vi": "Rừng đang bị phá để lấy thêm đất nông nghiệp."
         },
         {
           "word": "fossil fuel",
@@ -1165,7 +1396,9 @@
           "ipa_us": "/ˌfɑːsəl ˈfjuːəl/",
           "audio_uk": "audio/uk/fossil-fuel-n.mp3",
           "audio_us": "audio/us/fossil-fuel-n.mp3",
-          "meaning": "nhiên liệu hóa thạch"
+          "meaning": "nhiên liệu hóa thạch",
+          "example": "We should replace fossil fuels with renewable energy.",
+          "example_vi": "Chúng ta nên thay thế nhiên liệu hóa thạch bằng năng lượng tái tạo."
         },
         {
           "word": "global warming",
@@ -1175,7 +1408,8 @@
           "audio_uk": "audio/uk/global-warming.mp3",
           "audio_us": "audio/us/global-warming.mp3",
           "meaning": "sự nóng lên toàn cầu",
-          "example": "Global warming is caused mainly by human activities."
+          "example": "Global warming is caused mainly by human activities.",
+          "example_vi": "Sự nóng lên toàn cầu chủ yếu do các hoạt động của con người gây ra."
         },
         {
           "word": "greenhouse gas",
@@ -1184,7 +1418,9 @@
           "ipa_us": "/ˌɡriːnhaʊs ˈɡæs/",
           "audio_uk": "audio/uk/greenhouse-gas.mp3",
           "audio_us": "audio/us/greenhouse-gas.mp3",
-          "meaning": "khí nhà kính"
+          "meaning": "khí nhà kính",
+          "example": "Carbon dioxide is the most common greenhouse gas.",
+          "example_vi": "CO2 là loại khí nhà kính phổ biến nhất."
         },
         {
           "word": "heat-trapping",
@@ -1193,7 +1429,9 @@
           "ipa_us": "/ˈhiːt ˌtræpɪŋ/",
           "audio_uk": "audio/uk/heat-trapping.mp3",
           "audio_us": "audio/us/heat-trapping.mp3",
-          "meaning": "giữ nhiệt"
+          "meaning": "giữ nhiệt",
+          "example": "Methane is a powerful heat-trapping gas.",
+          "example_vi": "Mê-tan là một loại khí giữ nhiệt rất mạnh."
         },
         {
           "word": "human activity",
@@ -1202,7 +1440,9 @@
           "ipa_us": "/ˌhjuːmən ækˈtɪvəti/",
           "audio_uk": "audio/uk/human-activity.mp3",
           "audio_us": "audio/us/human-activity.mp3",
-          "meaning": "hoạt động của con người"
+          "meaning": "hoạt động của con người",
+          "example": "Human activities such as burning coal increase greenhouse gases.",
+          "example_vi": "Các hoạt động của con người như đốt than đá làm tăng lượng khí nhà kính."
         },
         {
           "word": "impact",
@@ -1211,7 +1451,9 @@
           "ipa_us": "/ˈɪmpækt/",
           "audio_uk": "audio/uk/impact.mp3",
           "audio_us": "audio/us/impact.mp3",
-          "meaning": "tác động, ảnh hưởng"
+          "meaning": "tác động, ảnh hưởng",
+          "example": "Global warming has a serious impact on agriculture.",
+          "example_vi": "Sự nóng lên toàn cầu có tác động nghiêm trọng đến nông nghiệp."
         },
         {
           "word": "leaflet",
@@ -1220,7 +1462,9 @@
           "ipa_us": "/ˈliːflət/",
           "audio_uk": "audio/uk/leaflet.mp3",
           "audio_us": "audio/us/leaflet.mp3",
-          "meaning": "tờ rơi"
+          "meaning": "tờ rơi",
+          "example": "We handed out leaflets about global warming to local residents.",
+          "example_vi": "Chúng tôi đã phát tờ rơi về sự nóng lên toàn cầu cho người dân địa phương."
         },
         {
           "word": "melt",
@@ -1229,7 +1473,9 @@
           "ipa_us": "/melt/",
           "audio_uk": "audio/uk/melt.mp3",
           "audio_us": "audio/us/melt.mp3",
-          "meaning": "tan chảy"
+          "meaning": "tan chảy",
+          "example": "Rising temperatures are causing glaciers to melt.",
+          "example_vi": "Nhiệt độ tăng cao đang khiến các sông băng tan chảy."
         },
         {
           "word": "methane",
@@ -1238,7 +1484,9 @@
           "ipa_us": "/ˈmeθeɪn/",
           "audio_uk": "audio/uk/methane.mp3",
           "audio_us": "audio/us/methane.mp3",
-          "meaning": "khí mê-tan"
+          "meaning": "khí mê-tan",
+          "example": "Cattle farming produces a large amount of methane.",
+          "example_vi": "Chăn nuôi gia súc thải ra một lượng lớn khí mê-tan."
         },
         {
           "word": "polar ice cap",
@@ -1247,7 +1495,9 @@
           "ipa_us": "/ˌpoʊlɚ ˈaɪs kæp/",
           "audio_uk": "audio/uk/polar-ice-cap.mp3",
           "audio_us": "audio/us/polar-ice-cap.mp3",
-          "meaning": "chỏm băng ở vùng cực"
+          "meaning": "chỏm băng ở vùng cực",
+          "example": "The polar ice caps are melting faster than expected.",
+          "example_vi": "Các chỏm băng ở vùng cực đang tan nhanh hơn dự đoán."
         },
         {
           "word": "pollutant",
@@ -1256,7 +1506,9 @@
           "ipa_us": "/pəˈluːtənt/",
           "audio_uk": "audio/uk/pollutant.mp3",
           "audio_us": "audio/us/pollutant.mp3",
-          "meaning": "chất gây ô nhiễm"
+          "meaning": "chất gây ô nhiễm",
+          "example": "Factories release pollutants into the air and water.",
+          "example_vi": "Các nhà máy thải chất gây ô nhiễm vào không khí và nguồn nước."
         },
         {
           "word": "release",
@@ -1265,7 +1517,9 @@
           "ipa_us": "/riˈliːs/",
           "audio_uk": "audio/uk/release.mp3",
           "audio_us": "audio/us/release.mp3",
-          "meaning": "thải ra, giải phóng"
+          "meaning": "thải ra, giải phóng",
+          "example": "Cars release harmful gases into the atmosphere.",
+          "example_vi": "Ô tô thải ra các loại khí độc hại vào bầu khí quyển."
         },
         {
           "word": "renewable",
@@ -1274,7 +1528,9 @@
           "ipa_us": "/riˈnuːəbəl/",
           "audio_uk": "audio/uk/renewable.mp3",
           "audio_us": "audio/us/renewable.mp3",
-          "meaning": "có thể tái tạo"
+          "meaning": "có thể tái tạo",
+          "example": "Solar power is a clean and renewable source of energy.",
+          "example_vi": "Năng lượng mặt trời là một nguồn năng lượng sạch và có thể tái tạo."
         },
         {
           "word": "sea level",
@@ -1283,7 +1539,9 @@
           "ipa_us": "/ˈsiː ˌlevəl/",
           "audio_uk": "audio/uk/sea-level.mp3",
           "audio_us": "audio/us/sea-level.mp3",
-          "meaning": "mực nước biển"
+          "meaning": "mực nước biển",
+          "example": "Rising sea levels threaten coastal cities.",
+          "example_vi": "Mực nước biển dâng đe dọa các thành phố ven biển."
         },
         {
           "word": "solution",
@@ -1292,7 +1550,9 @@
           "ipa_us": "/səˈluːʃən/",
           "audio_uk": "audio/uk/solution.mp3",
           "audio_us": "audio/us/solution.mp3",
-          "meaning": "giải pháp"
+          "meaning": "giải pháp",
+          "example": "Planting more trees is a simple solution to global warming.",
+          "example_vi": "Trồng thêm cây xanh là một giải pháp đơn giản cho sự nóng lên toàn cầu."
         },
         {
           "word": "soot",
@@ -1301,7 +1561,9 @@
           "ipa_us": "/sʊt/",
           "audio_uk": "audio/uk/soot.mp3",
           "audio_us": "audio/us/soot.mp3",
-          "meaning": "bồ hóng, muội than"
+          "meaning": "bồ hóng, muội than",
+          "example": "Soot from burning coal makes the ice darker, so it melts faster.",
+          "example_vi": "Muội than từ việc đốt than đá làm băng sẫm màu hơn nên tan nhanh hơn."
         },
         {
           "word": "temperature",
@@ -1310,7 +1572,9 @@
           "ipa_us": "/ˈtemprətʃɚ/",
           "audio_uk": "audio/uk/temperature.mp3",
           "audio_us": "audio/us/temperature.mp3",
-          "meaning": "nhiệt độ"
+          "meaning": "nhiệt độ",
+          "example": "The Earth's average temperature has risen over the past century.",
+          "example_vi": "Nhiệt độ trung bình của Trái Đất đã tăng lên trong thế kỷ qua."
         }
       ]
     },
@@ -1334,7 +1598,9 @@
           "ipa_us": "/ˈeɪnʃənt/",
           "audio_uk": "audio/uk/ancient.mp3",
           "audio_us": "audio/us/ancient.mp3",
-          "meaning": "cổ, cổ xưa"
+          "meaning": "cổ, cổ xưa",
+          "example": "Hoi An is famous for its ancient houses and narrow streets.",
+          "example_vi": "Hội An nổi tiếng với những ngôi nhà cổ và các con phố nhỏ hẹp."
         },
         {
           "word": "appreciate",
@@ -1343,7 +1609,9 @@
           "ipa_us": "/əˈpriːʃieɪt/",
           "audio_uk": "audio/uk/appreciate.mp3",
           "audio_us": "audio/us/appreciate.mp3",
-          "meaning": "trân trọng, đánh giá cao"
+          "meaning": "trân trọng, đánh giá cao",
+          "example": "We should appreciate the cultural heritage left by our ancestors.",
+          "example_vi": "Chúng ta nên trân trọng di sản văn hóa mà ông cha để lại."
         },
         {
           "word": "archaeological",
@@ -1352,7 +1620,9 @@
           "ipa_us": "/ˌɑːrkiəˈlɑːdʒɪkəl/",
           "audio_uk": "audio/uk/archaeological.mp3",
           "audio_us": "audio/us/archaeological.mp3",
-          "meaning": "thuộc về khảo cổ học"
+          "meaning": "thuộc về khảo cổ học",
+          "example": "Archaeological excavations at the citadel have uncovered many relics.",
+          "example_vi": "Các cuộc khai quật khảo cổ tại kinh thành đã phát hiện nhiều di vật."
         },
         {
           "word": "cave",
@@ -1361,7 +1631,9 @@
           "ipa_us": "/keɪv/",
           "audio_uk": "audio/uk/cave.mp3",
           "audio_us": "audio/us/cave.mp3",
-          "meaning": "hang động"
+          "meaning": "hang động",
+          "example": "Son Doong is the largest cave in the world.",
+          "example_vi": "Sơn Đoòng là hang động lớn nhất thế giới."
         },
         {
           "word": "citadel",
@@ -1370,7 +1642,9 @@
           "ipa_us": "/ˈsɪtədel/",
           "audio_uk": "audio/uk/citadel.mp3",
           "audio_us": "audio/us/citadel.mp3",
-          "meaning": "thành lũy, kinh thành"
+          "meaning": "thành lũy, kinh thành",
+          "example": "The Imperial Citadel of Thang Long is a World Heritage Site.",
+          "example_vi": "Hoàng thành Thăng Long là một Di sản Thế giới."
         },
         {
           "word": "complex",
@@ -1379,7 +1653,9 @@
           "ipa_us": "/ˈkɑːmpleks/",
           "audio_uk": "audio/uk/complex.mp3",
           "audio_us": "audio/us/complex.mp3",
-          "meaning": "quần thể, khu liên hợp"
+          "meaning": "quần thể, khu liên hợp",
+          "example": "The Complex of Hue Monuments attracts thousands of visitors every year.",
+          "example_vi": "Quần thể di tích Cố đô Huế thu hút hàng nghìn du khách mỗi năm."
         },
         {
           "word": "crowdfunding",
@@ -1388,7 +1664,9 @@
           "ipa_us": "/ˈkraʊdfʌndɪŋ/",
           "audio_uk": "audio/uk/crowdfunding.mp3",
           "audio_us": "audio/us/crowdfunding.mp3",
-          "meaning": "gây quỹ cộng đồng"
+          "meaning": "gây quỹ cộng đồng",
+          "example": "The students used crowdfunding to raise money for restoring the old temple.",
+          "example_vi": "Các bạn học sinh đã gây quỹ cộng đồng để quyên tiền trùng tu ngôi đền cổ."
         },
         {
           "word": "die out",
@@ -1397,7 +1675,9 @@
           "ipa_us": "/ˌdaɪ ˈaʊt/",
           "audio_uk": "audio/uk/die-out.mp3",
           "audio_us": "audio/us/die-out.mp3",
-          "meaning": "biến mất, mai một"
+          "meaning": "biến mất, mai một",
+          "example": "Many traditional crafts are in danger of dying out.",
+          "example_vi": "Nhiều nghề thủ công truyền thống đang có nguy cơ mai một."
         },
         {
           "word": "festive",
@@ -1406,7 +1686,9 @@
           "ipa_us": "/ˈfestɪv/",
           "audio_uk": "audio/uk/festive.mp3",
           "audio_us": "audio/us/festive.mp3",
-          "meaning": "thuộc về lễ hội"
+          "meaning": "thuộc về lễ hội",
+          "example": "The streets are full of festive lanterns during the Mid-Autumn Festival.",
+          "example_vi": "Đường phố rực rỡ đèn lồng ngày hội trong dịp Tết Trung thu."
         },
         {
           "word": "fine",
@@ -1415,7 +1697,9 @@
           "ipa_us": "/faɪn/",
           "audio_uk": "audio/uk/fine.mp3",
           "audio_us": "audio/us/fine.mp3",
-          "meaning": "tiền phạt"
+          "meaning": "tiền phạt",
+          "example": "Visitors who damage the relics will have to pay a fine.",
+          "example_vi": "Du khách làm hư hại di tích sẽ phải nộp phạt."
         },
         {
           "word": "folk",
@@ -1424,7 +1708,9 @@
           "ipa_us": "/foʊk/",
           "audio_uk": "audio/uk/folk.mp3",
           "audio_us": "audio/us/folk.mp3",
-          "meaning": "dân gian"
+          "meaning": "dân gian",
+          "example": "Quan ho is a traditional folk song of Bac Ninh Province.",
+          "example_vi": "Quan họ là một làn điệu dân ca truyền thống của tỉnh Bắc Ninh."
         },
         {
           "word": "heritage",
@@ -1433,7 +1719,9 @@
           "ipa_us": "/ˈherɪtɪdʒ/",
           "audio_uk": "audio/uk/heritage.mp3",
           "audio_us": "audio/us/heritage.mp3",
-          "meaning": "di sản"
+          "meaning": "di sản",
+          "example": "It is our duty to protect our national heritage.",
+          "example_vi": "Bảo vệ di sản dân tộc là nghĩa vụ của chúng ta."
         },
         {
           "word": "heritage site",
@@ -1443,7 +1731,8 @@
           "audio_uk": "audio/uk/heritage-site.mp3",
           "audio_us": "audio/us/heritage-site.mp3",
           "meaning": "khu di sản",
-          "example": "Hoi An Ancient Town is a famous heritage site."
+          "example": "Hoi An Ancient Town is a famous heritage site.",
+          "example_vi": "Phố cổ Hội An là một khu di sản nổi tiếng."
         },
         {
           "word": "historic",
@@ -1452,7 +1741,9 @@
           "ipa_us": "/hɪˈstɔːrɪk/",
           "audio_uk": "audio/uk/historic.mp3",
           "audio_us": "audio/us/historic.mp3",
-          "meaning": "có tính lịch sử, quan trọng về mặt lịch sử"
+          "meaning": "có tính lịch sử, quan trọng về mặt lịch sử",
+          "example": "The victory at Dien Bien Phu was a historic event.",
+          "example_vi": "Chiến thắng Điện Biên Phủ là một sự kiện mang tính lịch sử."
         },
         {
           "word": "historical",
@@ -1461,7 +1752,9 @@
           "ipa_us": "/hɪˈstɔːrɪkəl/",
           "audio_uk": "audio/uk/historical.mp3",
           "audio_us": "audio/us/historical.mp3",
-          "meaning": "thuộc về lịch sử"
+          "meaning": "thuộc về lịch sử",
+          "example": "The museum displays many historical documents and objects.",
+          "example_vi": "Bảo tàng trưng bày nhiều tài liệu và hiện vật lịch sử."
         },
         {
           "word": "imperial",
@@ -1470,7 +1763,9 @@
           "ipa_us": "/ˌɪmˈpɪriəl/",
           "audio_uk": "audio/uk/imperial.mp3",
           "audio_us": "audio/us/imperial.mp3",
-          "meaning": "thuộc về hoàng triều"
+          "meaning": "thuộc về hoàng triều",
+          "example": "Hue was the imperial capital of the Nguyen Dynasty.",
+          "example_vi": "Huế từng là kinh đô của triều Nguyễn."
         },
         {
           "word": "landscape",
@@ -1479,7 +1774,9 @@
           "ipa_us": "/ˈlændskeɪp/",
           "audio_uk": "audio/uk/landscape.mp3",
           "audio_us": "audio/us/landscape.mp3",
-          "meaning": "phong cảnh"
+          "meaning": "phong cảnh",
+          "example": "Trang An is famous for its beautiful natural landscape.",
+          "example_vi": "Tràng An nổi tiếng với phong cảnh thiên nhiên tuyệt đẹp."
         },
         {
           "word": "limestone",
@@ -1488,7 +1785,9 @@
           "ipa_us": "/ˈlaɪmstoʊn/",
           "audio_uk": "audio/uk/limestone.mp3",
           "audio_us": "audio/us/limestone.mp3",
-          "meaning": "đá vôi"
+          "meaning": "đá vôi",
+          "example": "Ha Long Bay has thousands of limestone islands.",
+          "example_vi": "Vịnh Hạ Long có hàng nghìn hòn đảo đá vôi."
         },
         {
           "word": "monument",
@@ -1497,7 +1796,9 @@
           "ipa_us": "/ˈmɑːnjuːmənt/",
           "audio_uk": "audio/uk/monument.mp3",
           "audio_us": "audio/us/monument.mp3",
-          "meaning": "đài tưởng niệm, công trình kỷ niệm"
+          "meaning": "đài tưởng niệm, công trình kỷ niệm",
+          "example": "The monument was built to honour soldiers who died in the war.",
+          "example_vi": "Đài tưởng niệm được xây dựng để tưởng nhớ những người lính đã hy sinh trong chiến tranh."
         },
         {
           "word": "performing arts",
@@ -1506,7 +1807,9 @@
           "ipa_us": "/pɚˌfɔːrmɪŋ ˈɑːrts/",
           "audio_uk": "audio/uk/performing-arts.mp3",
           "audio_us": "audio/us/performing-arts.mp3",
-          "meaning": "nghệ thuật biểu diễn"
+          "meaning": "nghệ thuật biểu diễn",
+          "example": "Water puppetry is a traditional performing art of Viet Nam.",
+          "example_vi": "Múa rối nước là một loại hình nghệ thuật biểu diễn truyền thống của Việt Nam."
         },
         {
           "word": "preservation",
@@ -1515,7 +1818,9 @@
           "ipa_us": "/ˌprezɚˈveɪʃən/",
           "audio_uk": "audio/uk/preservation.mp3",
           "audio_us": "audio/us/preservation.mp3",
-          "meaning": "sự bảo tồn"
+          "meaning": "sự bảo tồn",
+          "example": "The preservation of historic buildings requires a lot of money.",
+          "example_vi": "Việc bảo tồn các công trình lịch sử đòi hỏi rất nhiều tiền."
         },
         {
           "word": "preserve",
@@ -1524,7 +1829,9 @@
           "ipa_us": "/prɪˈzɝːv/",
           "audio_uk": "audio/uk/preserve.mp3",
           "audio_us": "audio/us/preserve.mp3",
-          "meaning": "bảo tồn, gìn giữ"
+          "meaning": "bảo tồn, gìn giữ",
+          "example": "Young people should help preserve traditional folk music.",
+          "example_vi": "Giới trẻ nên góp phần gìn giữ âm nhạc dân gian truyền thống."
         },
         {
           "word": "promote",
@@ -1533,7 +1840,9 @@
           "ipa_us": "/prəˈmoʊt/",
           "audio_uk": "audio/uk/promote.mp3",
           "audio_us": "audio/us/promote.mp3",
-          "meaning": "quảng bá"
+          "meaning": "quảng bá",
+          "example": "Social media can be used to promote local heritage sites.",
+          "example_vi": "Mạng xã hội có thể được dùng để quảng bá các khu di sản địa phương."
         },
         {
           "word": "relic",
@@ -1542,7 +1851,9 @@
           "ipa_us": "/ˈrelɪk/",
           "audio_uk": "audio/uk/relic.mp3",
           "audio_us": "audio/us/relic.mp3",
-          "meaning": "di tích, di vật"
+          "meaning": "di tích, di vật",
+          "example": "Many ancient relics were found at the archaeological site.",
+          "example_vi": "Nhiều di vật cổ đã được tìm thấy tại khu khảo cổ."
         },
         {
           "word": "restore",
@@ -1551,7 +1862,9 @@
           "ipa_us": "/rɪˈstɔːr/",
           "audio_uk": "audio/uk/restore.mp3",
           "audio_us": "audio/us/restore.mp3",
-          "meaning": "khôi phục, trùng tu"
+          "meaning": "khôi phục, trùng tu",
+          "example": "The old pagoda was restored after the storm.",
+          "example_vi": "Ngôi chùa cổ đã được trùng tu sau cơn bão."
         },
         {
           "word": "state",
@@ -1560,7 +1873,9 @@
           "ipa_us": "/steɪt/",
           "audio_uk": "audio/uk/state.mp3",
           "audio_us": "audio/us/state.mp3",
-          "meaning": "nhà nước, quốc gia"
+          "meaning": "nhà nước, quốc gia",
+          "example": "The state provides funding for the preservation of heritage sites.",
+          "example_vi": "Nhà nước cấp kinh phí để bảo tồn các khu di sản."
         },
         {
           "word": "take action",
@@ -1569,7 +1884,9 @@
           "ipa_us": "/ˌteɪk ˈækʃən/",
           "audio_uk": "audio/uk/take-action.mp3",
           "audio_us": "audio/us/take-action.mp3",
-          "meaning": "hành động"
+          "meaning": "hành động",
+          "example": "We must take action now to protect our cultural heritage.",
+          "example_vi": "Chúng ta phải hành động ngay bây giờ để bảo vệ di sản văn hóa."
         },
         {
           "word": "temple",
@@ -1578,7 +1895,9 @@
           "ipa_us": "/ˈtempəl/",
           "audio_uk": "audio/uk/temple.mp3",
           "audio_us": "audio/us/temple.mp3",
-          "meaning": "đền, chùa"
+          "meaning": "đền, chùa",
+          "example": "The Temple of Literature is considered Viet Nam's first university.",
+          "example_vi": "Văn Miếu được xem là trường đại học đầu tiên của Việt Nam."
         },
         {
           "word": "trending",
@@ -1587,7 +1906,9 @@
           "ipa_us": "/ˈtrendɪŋ/",
           "audio_uk": "audio/uk/trending.mp3",
           "audio_us": "audio/us/trending.mp3",
-          "meaning": "đang thịnh hành, đang là xu hướng"
+          "meaning": "đang thịnh hành, đang là xu hướng",
+          "example": "Videos about Hoi An's lantern festival are trending on social media.",
+          "example_vi": "Các video về lễ hội đèn lồng Hội An đang là xu hướng trên mạng xã hội."
         },
         {
           "word": "well-preserved",
@@ -1596,7 +1917,9 @@
           "ipa_us": "/ˌwel prɪˈzɝːvd/",
           "audio_uk": "audio/uk/well-preserved.mp3",
           "audio_us": "audio/us/well-preserved.mp3",
-          "meaning": "được bảo tồn tốt"
+          "meaning": "được bảo tồn tốt",
+          "example": "My Son Sanctuary has many well-preserved Cham towers.",
+          "example_vi": "Thánh địa Mỹ Sơn có nhiều tháp Chăm được bảo tồn tốt."
         }
       ]
     },
@@ -1619,7 +1942,9 @@
           "ipa_us": "/ˌækəˈdemɪk/",
           "audio_uk": "audio/uk/academic.mp3",
           "audio_us": "audio/us/academic.mp3",
-          "meaning": "có tính học thuật, thuộc về học tập"
+          "meaning": "có tính học thuật, thuộc về học tập",
+          "example": "Students with strong academic results can apply to top universities.",
+          "example_vi": "Học sinh có kết quả học tập tốt có thể nộp hồ sơ vào các trường đại học hàng đầu."
         },
         {
           "word": "advisor",
@@ -1628,7 +1953,9 @@
           "ipa_us": "/ədˈvaɪzɚ/",
           "audio_uk": "audio/uk/advisor.mp3",
           "audio_us": "audio/us/advisor.mp3",
-          "meaning": "người cố vấn"
+          "meaning": "người cố vấn",
+          "example": "A career advisor helped me choose the right university course.",
+          "example_vi": "Một chuyên viên tư vấn hướng nghiệp đã giúp tôi chọn được ngành học phù hợp ở đại học."
         },
         {
           "word": "apprentice",
@@ -1637,7 +1964,9 @@
           "ipa_us": "/əˈprentɪs/",
           "audio_uk": "audio/uk/apprentice.mp3",
           "audio_us": "audio/us/apprentice.mp3",
-          "meaning": "người học việc"
+          "meaning": "người học việc",
+          "example": "He works as an apprentice at a car repair shop.",
+          "example_vi": "Anh ấy đang làm người học việc tại một tiệm sửa ô tô."
         },
         {
           "word": "apprenticeship",
@@ -1646,7 +1975,9 @@
           "ipa_us": "/əˈprentəsʃɪp/",
           "audio_uk": "audio/uk/apprenticeship.mp3",
           "audio_us": "audio/us/apprenticeship.mp3",
-          "meaning": "sự học việc, thời gian học nghề"
+          "meaning": "sự học việc, thời gian học nghề",
+          "example": "An apprenticeship allows you to earn money while learning a trade.",
+          "example_vi": "Học việc cho phép bạn vừa kiếm tiền vừa học nghề."
         },
         {
           "word": "bachelor's degree",
@@ -1655,7 +1986,9 @@
           "ipa_us": "/ˈbætʃəlɚz dɪˌɡriː/",
           "audio_uk": "audio/uk/bachelor-s-degree.mp3",
           "audio_us": "audio/us/bachelor-s-degree.mp3",
-          "meaning": "bằng cử nhân"
+          "meaning": "bằng cử nhân",
+          "example": "It usually takes four years to get a bachelor's degree.",
+          "example_vi": "Thường phải mất bốn năm để lấy bằng cử nhân."
         },
         {
           "word": "brochure",
@@ -1664,7 +1997,9 @@
           "ipa_us": "/broʊˈʃʊr/",
           "audio_uk": "audio/uk/brochure.mp3",
           "audio_us": "audio/us/brochure.mp3",
-          "meaning": "tờ quảng cáo, sách giới thiệu"
+          "meaning": "tờ quảng cáo, sách giới thiệu",
+          "example": "I picked up a few university brochures at the education fair.",
+          "example_vi": "Tôi đã lấy vài cuốn sách giới thiệu về các trường đại học tại ngày hội tư vấn tuyển sinh."
         },
         {
           "word": "college",
@@ -1673,7 +2008,9 @@
           "ipa_us": "/ˈkɑːlɪdʒ/",
           "audio_uk": "audio/uk/college.mp3",
           "audio_us": "audio/us/college.mp3",
-          "meaning": "trường cao đẳng"
+          "meaning": "trường cao đẳng",
+          "example": "After finishing school, she went to a college to study nursing.",
+          "example_vi": "Sau khi học xong phổ thông, cô ấy vào học ngành điều dưỡng ở một trường cao đẳng."
         },
         {
           "word": "convince",
@@ -1682,7 +2019,9 @@
           "ipa_us": "/kənˈvɪns/",
           "audio_uk": "audio/uk/convince.mp3",
           "audio_us": "audio/us/convince.mp3",
-          "meaning": "thuyết phục"
+          "meaning": "thuyết phục",
+          "example": "I tried to convince my parents to let me attend a vocational school.",
+          "example_vi": "Tôi đã cố thuyết phục bố mẹ cho tôi theo học trường dạy nghề."
         },
         {
           "word": "doctorate",
@@ -1691,7 +2030,9 @@
           "ipa_us": "/ˈdɑːktɚət/",
           "audio_uk": "audio/uk/doctorate.mp3",
           "audio_us": "audio/us/doctorate.mp3",
-          "meaning": "học vị tiến sĩ"
+          "meaning": "học vị tiến sĩ",
+          "example": "She is doing a doctorate in biology at a university in Australia.",
+          "example_vi": "Cô ấy đang học tiến sĩ ngành sinh học tại một trường đại học ở Úc."
         },
         {
           "word": "education fair",
@@ -1700,7 +2041,9 @@
           "ipa_us": "/ˌedʒjuːˈkeɪʃən fer/",
           "audio_uk": "audio/uk/education-fair.mp3",
           "audio_us": "audio/us/education-fair.mp3",
-          "meaning": "hội chợ giáo dục, ngày hội tư vấn tuyển sinh"
+          "meaning": "hội chợ giáo dục, ngày hội tư vấn tuyển sinh",
+          "example": "Many school-leavers visit the education fair to find out about universities.",
+          "example_vi": "Nhiều học sinh vừa tốt nghiệp phổ thông đến ngày hội tư vấn tuyển sinh để tìm hiểu về các trường đại học."
         },
         {
           "word": "entrance exam",
@@ -1709,7 +2052,9 @@
           "ipa_us": "/ˈentrəns ɪɡˌzæm/",
           "audio_uk": "audio/uk/entrance-exam-n.mp3",
           "audio_us": "audio/us/entrance-exam-n.mp3",
-          "meaning": "kỳ thi tuyển sinh, kỳ thi đầu vào"
+          "meaning": "kỳ thi tuyển sinh, kỳ thi đầu vào",
+          "example": "She studied hard to pass the university entrance exam.",
+          "example_vi": "Cô ấy đã học hành chăm chỉ để vượt qua kỳ thi tuyển sinh đại học."
         },
         {
           "word": "formal",
@@ -1718,7 +2063,9 @@
           "ipa_us": "/ˈfɔːrməl/",
           "audio_uk": "audio/uk/formal.mp3",
           "audio_us": "audio/us/formal.mp3",
-          "meaning": "chính quy, trang trọng"
+          "meaning": "chính quy, trang trọng",
+          "example": "Some people prefer learning a trade to receiving formal education.",
+          "example_vi": "Một số người thích học nghề hơn là theo học chính quy."
         },
         {
           "word": "graduation",
@@ -1727,7 +2074,9 @@
           "ipa_us": "/ˌɡrædʒuˈeɪʃən/",
           "audio_uk": "audio/uk/graduation.mp3",
           "audio_us": "audio/us/graduation.mp3",
-          "meaning": "sự tốt nghiệp"
+          "meaning": "sự tốt nghiệp",
+          "example": "After graduation, he found a job at a software company.",
+          "example_vi": "Sau khi tốt nghiệp, anh ấy tìm được việc làm tại một công ty phần mềm."
         },
         {
           "word": "higher education",
@@ -1736,7 +2085,9 @@
           "ipa_us": "/ˌhaɪɚ ˌedʒjuːˈkeɪʃən/",
           "audio_uk": "audio/uk/higher-education.mp3",
           "audio_us": "audio/us/higher-education.mp3",
-          "meaning": "giáo dục đại học"
+          "meaning": "giáo dục đại học",
+          "example": "Higher education can open up more career opportunities.",
+          "example_vi": "Giáo dục đại học có thể mở ra nhiều cơ hội nghề nghiệp hơn."
         },
         {
           "word": "institution",
@@ -1745,7 +2096,9 @@
           "ipa_us": "/ˌɪnstɪˈtuːʃən/",
           "audio_uk": "audio/uk/institution.mp3",
           "audio_us": "audio/us/institution.mp3",
-          "meaning": "học viện, cơ sở giáo dục"
+          "meaning": "học viện, cơ sở giáo dục",
+          "example": "This institution offers a wide range of courses for school-leavers.",
+          "example_vi": "Cơ sở giáo dục này cung cấp nhiều khóa học cho học sinh vừa tốt nghiệp phổ thông."
         },
         {
           "word": "manage",
@@ -1754,7 +2107,9 @@
           "ipa_us": "/ˈmænɪdʒ/",
           "audio_uk": "audio/uk/manage.mp3",
           "audio_us": "audio/us/manage.mp3",
-          "meaning": "xoay xở, quản lý"
+          "meaning": "xoay xở, quản lý",
+          "example": "She managed to study and work part-time at the same time.",
+          "example_vi": "Cô ấy đã xoay xở vừa học vừa làm thêm bán thời gian."
         },
         {
           "word": "master's degree",
@@ -1763,7 +2118,9 @@
           "ipa_us": "/ˈmæstɚz dɪˌɡriː/",
           "audio_uk": "audio/uk/master-s-degree.mp3",
           "audio_us": "audio/us/master-s-degree.mp3",
-          "meaning": "bằng thạc sĩ"
+          "meaning": "bằng thạc sĩ",
+          "example": "He wants to get a master's degree after finishing university.",
+          "example_vi": "Anh ấy muốn lấy bằng thạc sĩ sau khi học xong đại học."
         },
         {
           "word": "mechanic",
@@ -1772,7 +2129,9 @@
           "ipa_us": "/məˈkænɪk/",
           "audio_uk": "audio/uk/mechanic.mp3",
           "audio_us": "audio/us/mechanic.mp3",
-          "meaning": "thợ cơ khí"
+          "meaning": "thợ cơ khí",
+          "example": "My brother trained as a mechanic at a vocational school.",
+          "example_vi": "Anh trai tôi được đào tạo thành thợ cơ khí tại một trường dạy nghề."
         },
         {
           "word": "option",
@@ -1781,7 +2140,9 @@
           "ipa_us": "/ˈɑːpʃən/",
           "audio_uk": "audio/uk/option.mp3",
           "audio_us": "audio/us/option.mp3",
-          "meaning": "sự lựa chọn"
+          "meaning": "sự lựa chọn",
+          "example": "Going to university is not the only option for school-leavers.",
+          "example_vi": "Vào đại học không phải là lựa chọn duy nhất cho học sinh vừa tốt nghiệp phổ thông."
         },
         {
           "word": "professional",
@@ -1790,7 +2151,9 @@
           "ipa_us": "/prəˈfeʃənəl/",
           "audio_uk": "audio/uk/professional.mp3",
           "audio_us": "audio/us/professional.mp3",
-          "meaning": "chuyên nghiệp"
+          "meaning": "chuyên nghiệp",
+          "example": "You need professional training to become a chef.",
+          "example_vi": "Bạn cần được đào tạo chuyên nghiệp để trở thành đầu bếp."
         },
         {
           "word": "qualification",
@@ -1799,7 +2162,9 @@
           "ipa_us": "/ˌkwɑːləfəˈkeɪʃən/",
           "audio_uk": "audio/uk/qualification.mp3",
           "audio_us": "audio/us/qualification.mp3",
-          "meaning": "bằng cấp, trình độ chuyên môn"
+          "meaning": "bằng cấp, trình độ chuyên môn",
+          "example": "Good qualifications will help you find a well-paid job.",
+          "example_vi": "Bằng cấp tốt sẽ giúp bạn tìm được một công việc lương cao."
         },
         {
           "word": "representative",
@@ -1808,7 +2173,9 @@
           "ipa_us": "/ˌreprɪˈzentətɪv/",
           "audio_uk": "audio/uk/representative.mp3",
           "audio_us": "audio/us/representative.mp3",
-          "meaning": "người đại diện"
+          "meaning": "người đại diện",
+          "example": "A representative from the university answered students' questions about courses.",
+          "example_vi": "Một đại diện của trường đại học đã trả lời các câu hỏi của học sinh về các khóa học."
         },
         {
           "word": "salary",
@@ -1817,7 +2184,9 @@
           "ipa_us": "/ˈsælɚi/",
           "audio_uk": "audio/uk/salary.mp3",
           "audio_us": "audio/us/salary.mp3",
-          "meaning": "tiền lương"
+          "meaning": "tiền lương",
+          "example": "Doctors usually earn a high salary.",
+          "example_vi": "Bác sĩ thường có mức lương cao."
         },
         {
           "word": "school-leaver",
@@ -1827,7 +2196,8 @@
           "audio_uk": "audio/uk/school-leaver.mp3",
           "audio_us": "audio/us/school-leaver.mp3",
           "meaning": "học sinh vừa tốt nghiệp phổ thông",
-          "example": "Many school-leavers choose to go to university."
+          "example": "Many school-leavers choose to go to university.",
+          "example_vi": "Nhiều học sinh vừa tốt nghiệp phổ thông chọn học đại học."
         },
         {
           "word": "sensible",
@@ -1836,7 +2206,9 @@
           "ipa_us": "/ˈsensəbəl/",
           "audio_uk": "audio/uk/sensible.mp3",
           "audio_us": "audio/us/sensible.mp3",
-          "meaning": "hợp lý, khôn ngoan"
+          "meaning": "hợp lý, khôn ngoan",
+          "example": "Learning a trade is a sensible choice if you want to start working early.",
+          "example_vi": "Học nghề là một lựa chọn khôn ngoan nếu bạn muốn đi làm sớm."
         },
         {
           "word": "sensitive",
@@ -1845,7 +2217,9 @@
           "ipa_us": "/ˈsensətɪv/",
           "audio_uk": "audio/uk/sensitive.mp3",
           "audio_us": "audio/us/sensitive.mp3",
-          "meaning": "nhạy cảm"
+          "meaning": "nhạy cảm",
+          "example": "Teachers should be sensitive to students' feelings when giving career advice.",
+          "example_vi": "Giáo viên cần tinh ý với cảm xúc của học sinh khi đưa ra lời khuyên về nghề nghiệp."
         },
         {
           "word": "sixth-form college",
@@ -1854,7 +2228,9 @@
           "ipa_us": "/ˈsɪksθ fɔːrm ˌkɑːlɪdʒ/",
           "audio_uk": "audio/uk/sixth-form-college.mp3",
           "audio_us": "audio/us/sixth-form-college.mp3",
-          "meaning": "trường dự bị đại học (ở Anh)"
+          "meaning": "trường dự bị đại học (ở Anh)",
+          "example": "In the UK, many students study at a sixth-form college before going to university.",
+          "example_vi": "Ở Anh, nhiều học sinh học tại trường dự bị đại học trước khi vào đại học."
         },
         {
           "word": "trade",
@@ -1863,7 +2239,9 @@
           "ipa_us": "/treɪd/",
           "audio_uk": "audio/uk/trade.mp3",
           "audio_us": "audio/us/trade.mp3",
-          "meaning": "nghề (thủ công)"
+          "meaning": "nghề (thủ công)",
+          "example": "He decided to learn a trade instead of going to university.",
+          "example_vi": "Anh ấy quyết định học nghề thay vì học đại học."
         },
         {
           "word": "vocational school",
@@ -1872,7 +2250,9 @@
           "ipa_us": "/voʊˈkeɪʃənəl skuːl/",
           "audio_uk": "audio/uk/vocational-school.mp3",
           "audio_us": "audio/us/vocational-school.mp3",
-          "meaning": "trường dạy nghề"
+          "meaning": "trường dạy nghề",
+          "example": "She went to a vocational school to become a hairdresser.",
+          "example_vi": "Cô ấy vào học trường dạy nghề để trở thành thợ làm tóc."
         },
         {
           "word": "wage",
@@ -1881,7 +2261,9 @@
           "ipa_us": "/weɪdʒ/",
           "audio_uk": "audio/uk/wage.mp3",
           "audio_us": "audio/us/wage.mp3",
-          "meaning": "tiền công"
+          "meaning": "tiền công",
+          "example": "Apprentices earn a small wage while they are learning.",
+          "example_vi": "Người học việc được trả một khoản tiền công nhỏ trong thời gian học nghề."
         }
       ]
     },
@@ -1905,7 +2287,9 @@
           "ipa_us": "/əˈtʃiːv/",
           "audio_uk": "audio/uk/achieve.mp3",
           "audio_us": "audio/us/achieve.mp3",
-          "meaning": "đạt được"
+          "meaning": "đạt được",
+          "example": "You need to work hard to achieve your goals.",
+          "example_vi": "Bạn cần làm việc chăm chỉ để đạt được mục tiêu của mình."
         },
         {
           "word": "carry out",
@@ -1914,7 +2298,9 @@
           "ipa_us": "/ˌkæri ˈaʊt/",
           "audio_uk": "audio/uk/carry-out.mp3",
           "audio_us": "audio/us/carry-out.mp3",
-          "meaning": "thực hiện, tiến hành"
+          "meaning": "thực hiện, tiến hành",
+          "example": "We carried out a survey on teenagers' life skills.",
+          "example_vi": "Chúng tôi đã tiến hành một cuộc khảo sát về kỹ năng sống của thanh thiếu niên."
         },
         {
           "word": "combine",
@@ -1923,7 +2309,9 @@
           "ipa_us": "/kəmˈbaɪn/",
           "audio_uk": "audio/uk/combine.mp3",
           "audio_us": "audio/us/combine.mp3",
-          "meaning": "kết hợp"
+          "meaning": "kết hợp",
+          "example": "It's not easy to combine studying with a part-time job.",
+          "example_vi": "Kết hợp việc học với công việc bán thời gian không hề dễ dàng."
         },
         {
           "word": "come up with",
@@ -1932,7 +2320,9 @@
           "ipa_us": "/ˌkʌm ˈʌp wɪð/",
           "audio_uk": "audio/uk/come-up-with-phr-v.mp3",
           "audio_us": "audio/us/come-up-with-phr-v.mp3",
-          "meaning": "nghĩ ra, nảy ra (ý tưởng)"
+          "meaning": "nghĩ ra, nảy ra (ý tưởng)",
+          "example": "She came up with a great idea to save money.",
+          "example_vi": "Cô ấy đã nghĩ ra một ý tưởng tuyệt vời để tiết kiệm tiền."
         },
         {
           "word": "confidence",
@@ -1941,7 +2331,9 @@
           "ipa_us": "/ˈkɑːnfədəns/",
           "audio_uk": "audio/uk/confidence.mp3",
           "audio_us": "audio/us/confidence.mp3",
-          "meaning": "sự tự tin"
+          "meaning": "sự tự tin",
+          "example": "Living away from home helped him gain confidence.",
+          "example_vi": "Sống xa nhà đã giúp anh ấy trở nên tự tin hơn."
         },
         {
           "word": "confident",
@@ -1950,7 +2342,9 @@
           "ipa_us": "/ˈkɑːnfədənt/",
           "audio_uk": "audio/uk/confident.mp3",
           "audio_us": "audio/us/confident.mp3",
-          "meaning": "tự tin"
+          "meaning": "tự tin",
+          "example": "She feels confident enough to travel alone.",
+          "example_vi": "Cô ấy đủ tự tin để đi du lịch một mình."
         },
         {
           "word": "deal with",
@@ -1959,7 +2353,9 @@
           "ipa_us": "/ˈdiːl wɪð/",
           "audio_uk": "audio/uk/deal-with.mp3",
           "audio_us": "audio/us/deal-with.mp3",
-          "meaning": "giải quyết, đối phó với"
+          "meaning": "giải quyết, đối phó với",
+          "example": "Independent teenagers know how to deal with problems on their own.",
+          "example_vi": "Những thanh thiếu niên độc lập biết cách tự giải quyết vấn đề."
         },
         {
           "word": "decision-making skill",
@@ -1968,7 +2364,9 @@
           "ipa_us": "/dɪˈsɪʒən ˌmeɪkɪŋ skɪl/",
           "audio_uk": "audio/uk/decision-making-skill.mp3",
           "audio_us": "audio/us/decision-making-skill.mp3",
-          "meaning": "kỹ năng ra quyết định"
+          "meaning": "kỹ năng ra quyết định",
+          "example": "Good decision-making skills help you make the right choices in life.",
+          "example_vi": "Kỹ năng ra quyết định tốt giúp bạn đưa ra những lựa chọn đúng đắn trong cuộc sống."
         },
         {
           "word": "dependent",
@@ -1977,7 +2375,9 @@
           "ipa_us": "/dɪˈpendənt/",
           "audio_uk": "audio/uk/dependent.mp3",
           "audio_us": "audio/us/dependent.mp3",
-          "meaning": "phụ thuộc"
+          "meaning": "phụ thuộc",
+          "example": "Many teenagers are still dependent on their parents for money.",
+          "example_vi": "Nhiều thanh thiếu niên vẫn phụ thuộc vào bố mẹ về tiền bạc."
         },
         {
           "word": "fold",
@@ -1986,7 +2386,9 @@
           "ipa_us": "/foʊld/",
           "audio_uk": "audio/uk/fold.mp3",
           "audio_us": "audio/us/fold.mp3",
-          "meaning": "gấp (quần áo)"
+          "meaning": "gấp (quần áo)",
+          "example": "Please fold your clothes neatly and put them away.",
+          "example_vi": "Hãy gấp quần áo gọn gàng và cất đi."
         },
         {
           "word": "get around",
@@ -1995,7 +2397,9 @@
           "ipa_us": "/ˌɡet əˈraʊnd/",
           "audio_uk": "audio/uk/get-around-phr-v.mp3",
           "audio_us": "audio/us/get-around-phr-v.mp3",
-          "meaning": "đi lại"
+          "meaning": "đi lại",
+          "example": "Knowing how to use public transport helps you get around on your own.",
+          "example_vi": "Biết cách sử dụng phương tiện giao thông công cộng giúp bạn tự đi lại."
         },
         {
           "word": "get into the habit of",
@@ -2004,7 +2408,9 @@
           "ipa_us": "/ˌɡet ˌɪntə ðə ˈhæbət əv/",
           "audio_uk": "audio/uk/get-into-the-habit-of.mp3",
           "audio_us": "audio/us/get-into-the-habit-of.mp3",
-          "meaning": "tập thói quen"
+          "meaning": "tập thói quen",
+          "example": "I've got into the habit of making my bed every morning.",
+          "example_vi": "Tôi đã tập được thói quen dọn giường mỗi sáng."
         },
         {
           "word": "identify",
@@ -2013,7 +2419,9 @@
           "ipa_us": "/aɪˈdentəfaɪ/",
           "audio_uk": "audio/uk/identify.mp3",
           "audio_us": "audio/us/identify.mp3",
-          "meaning": "xác định, nhận biết"
+          "meaning": "xác định, nhận biết",
+          "example": "First, you need to identify your strengths and weaknesses.",
+          "example_vi": "Trước tiên, bạn cần xác định điểm mạnh và điểm yếu của mình."
         },
         {
           "word": "independence",
@@ -2022,7 +2430,9 @@
           "ipa_us": "/ˌɪndɪˈpendəns/",
           "audio_uk": "audio/uk/independence.mp3",
           "audio_us": "audio/us/independence.mp3",
-          "meaning": "sự độc lập"
+          "meaning": "sự độc lập",
+          "example": "Getting a part-time job gave her a sense of independence.",
+          "example_vi": "Có được một công việc làm thêm đã mang lại cho cô ấy cảm giác độc lập."
         },
         {
           "word": "independent",
@@ -2032,7 +2442,8 @@
           "audio_uk": "audio/uk/independent.mp3",
           "audio_us": "audio/us/independent.mp3",
           "meaning": "độc lập",
-          "example": "Teenagers want to become more independent."
+          "example": "Teenagers want to become more independent.",
+          "example_vi": "Thanh thiếu niên muốn trở nên độc lập hơn."
         },
         {
           "word": "install",
@@ -2041,7 +2452,9 @@
           "ipa_us": "/ˌɪnˈstɑːl/",
           "audio_uk": "audio/uk/install.mp3",
           "audio_us": "audio/us/install.mp3",
-          "meaning": "cài đặt"
+          "meaning": "cài đặt",
+          "example": "I installed a time management app on my phone.",
+          "example_vi": "Tôi đã cài đặt một ứng dụng quản lý thời gian trên điện thoại."
         },
         {
           "word": "iron",
@@ -2050,7 +2463,9 @@
           "ipa_us": "/ˈaɪɚn/",
           "audio_uk": "audio/uk/iron.mp3",
           "audio_us": "audio/us/iron.mp3",
-          "meaning": "là, ủi (quần áo)"
+          "meaning": "là, ủi (quần áo)",
+          "example": "He learned to iron his own shirts when he was 15.",
+          "example_vi": "Cậu ấy học cách tự là áo sơ mi khi 15 tuổi."
         },
         {
           "word": "learner",
@@ -2059,7 +2474,9 @@
           "ipa_us": "/ˈlɝːnɚ/",
           "audio_uk": "audio/uk/learner.mp3",
           "audio_us": "audio/us/learner.mp3",
-          "meaning": "người học"
+          "meaning": "người học",
+          "example": "Independent learners take responsibility for their own studies.",
+          "example_vi": "Những người học độc lập tự chịu trách nhiệm về việc học của mình."
         },
         {
           "word": "learning goal",
@@ -2068,7 +2485,9 @@
           "ipa_us": "/ˈlɝːnɪŋ ɡoʊl/",
           "audio_uk": "audio/uk/learning-goal.mp3",
           "audio_us": "audio/us/learning-goal.mp3",
-          "meaning": "mục tiêu học tập"
+          "meaning": "mục tiêu học tập",
+          "example": "Setting clear learning goals helps you stay motivated.",
+          "example_vi": "Đặt ra những mục tiêu học tập rõ ràng giúp bạn duy trì động lực."
         },
         {
           "word": "life skill",
@@ -2077,7 +2496,9 @@
           "ipa_us": "/ˈlaɪf skɪl/",
           "audio_uk": "audio/uk/life-skill.mp3",
           "audio_us": "audio/us/life-skill.mp3",
-          "meaning": "kỹ năng sống"
+          "meaning": "kỹ năng sống",
+          "example": "Cooking is an important life skill for teenagers.",
+          "example_vi": "Nấu ăn là một kỹ năng sống quan trọng đối với thanh thiếu niên."
         },
         {
           "word": "make use of",
@@ -2086,7 +2507,9 @@
           "ipa_us": "/ˌmeɪk ˈjuːs əv/",
           "audio_uk": "audio/uk/make-use-of.mp3",
           "audio_us": "audio/us/make-use-of.mp3",
-          "meaning": "tận dụng"
+          "meaning": "tận dụng",
+          "example": "You should make use of your free time to learn new skills.",
+          "example_vi": "Bạn nên tận dụng thời gian rảnh để học những kỹ năng mới."
         },
         {
           "word": "manage",
@@ -2095,7 +2518,9 @@
           "ipa_us": "/ˈmænɪdʒ/",
           "audio_uk": "audio/uk/manage.mp3",
           "audio_us": "audio/us/manage.mp3",
-          "meaning": "quản lý, xoay xở"
+          "meaning": "quản lý, xoay xở",
+          "example": "She manages her time well, so she is never late for school.",
+          "example_vi": "Cô ấy quản lý thời gian tốt nên không bao giờ đi học muộn."
         },
         {
           "word": "measure",
@@ -2104,7 +2529,9 @@
           "ipa_us": "/ˈmeʒɚ/",
           "audio_uk": "audio/uk/measure.mp3",
           "audio_us": "audio/us/measure.mp3",
-          "meaning": "đo lường"
+          "meaning": "đo lường",
+          "example": "It's important to measure your progress towards your goals.",
+          "example_vi": "Điều quan trọng là phải đo lường sự tiến bộ của bạn trong việc đạt được mục tiêu."
         },
         {
           "word": "money management skill",
@@ -2113,7 +2540,9 @@
           "ipa_us": "/ˈmʌni ˌmænɪdʒmənt skɪl/",
           "audio_uk": "audio/uk/money-management-skill.mp3",
           "audio_us": "audio/us/money-management-skill.mp3",
-          "meaning": "kỹ năng quản lý tiền bạc"
+          "meaning": "kỹ năng quản lý tiền bạc",
+          "example": "Money management skills help teenagers avoid spending too much.",
+          "example_vi": "Kỹ năng quản lý tiền bạc giúp thanh thiếu niên tránh tiêu xài quá mức."
         },
         {
           "word": "reliable",
@@ -2122,7 +2551,9 @@
           "ipa_us": "/rɪˈlaɪəbəl/",
           "audio_uk": "audio/uk/reliable.mp3",
           "audio_us": "audio/us/reliable.mp3",
-          "meaning": "đáng tin cậy"
+          "meaning": "đáng tin cậy",
+          "example": "He is a reliable person who always keeps his promises.",
+          "example_vi": "Anh ấy là một người đáng tin cậy, luôn giữ lời hứa."
         },
         {
           "word": "remove",
@@ -2131,7 +2562,9 @@
           "ipa_us": "/riˈmuːv/",
           "audio_uk": "audio/uk/remove.mp3",
           "audio_us": "audio/us/remove.mp3",
-          "meaning": "loại bỏ, tẩy (vết bẩn)"
+          "meaning": "loại bỏ, tẩy (vết bẩn)",
+          "example": "Use this liquid to remove stains from your clothes.",
+          "example_vi": "Hãy dùng dung dịch này để tẩy vết bẩn trên quần áo."
         },
         {
           "word": "responsibility",
@@ -2140,7 +2573,9 @@
           "ipa_us": "/riˌspɑːnsəˈbɪləti/",
           "audio_uk": "audio/uk/responsibility.mp3",
           "audio_us": "audio/us/responsibility.mp3",
-          "meaning": "trách nhiệm"
+          "meaning": "trách nhiệm",
+          "example": "Doing household chores teaches children a sense of responsibility.",
+          "example_vi": "Làm việc nhà dạy cho trẻ em tinh thần trách nhiệm."
         },
         {
           "word": "responsible",
@@ -2149,7 +2584,9 @@
           "ipa_us": "/riˈspɑːnsəbəl/",
           "audio_uk": "audio/uk/responsible.mp3",
           "audio_us": "audio/us/responsible.mp3",
-          "meaning": "có trách nhiệm"
+          "meaning": "có trách nhiệm",
+          "example": "Independent teenagers are responsible for their own actions.",
+          "example_vi": "Những thanh thiếu niên độc lập tự chịu trách nhiệm về hành động của mình."
         },
         {
           "word": "rinse",
@@ -2158,7 +2595,9 @@
           "ipa_us": "/rɪns/",
           "audio_uk": "audio/uk/rinse.mp3",
           "audio_us": "audio/us/rinse.mp3",
-          "meaning": "xả, tráng (nước)"
+          "meaning": "xả, tráng (nước)",
+          "example": "Rinse the clothes in clean water after washing them.",
+          "example_vi": "Hãy xả quần áo bằng nước sạch sau khi giặt."
         },
         {
           "word": "schedule",
@@ -2167,7 +2606,9 @@
           "ipa_us": "/ˈskedʒuːl/",
           "audio_uk": "audio/uk/schedule.mp3",
           "audio_us": "audio/us/schedule.mp3",
-          "meaning": "lịch trình, thời gian biểu"
+          "meaning": "lịch trình, thời gian biểu",
+          "example": "I made a weekly schedule to balance my study and free time.",
+          "example_vi": "Tôi đã lập thời gian biểu hằng tuần để cân bằng giữa việc học và thời gian rảnh."
         },
         {
           "word": "self-study",
@@ -2176,7 +2617,9 @@
           "ipa_us": "/ˌself ˈstʌdi/",
           "audio_uk": "audio/uk/self-study.mp3",
           "audio_us": "audio/us/self-study.mp3",
-          "meaning": "sự tự học"
+          "meaning": "sự tự học",
+          "example": "Self-study is an important skill for independent learners.",
+          "example_vi": "Tự học là một kỹ năng quan trọng đối với những người học độc lập."
         },
         {
           "word": "time management skill",
@@ -2185,7 +2628,9 @@
           "ipa_us": "/ˈtaɪm ˌmænɪdʒmənt skɪl/",
           "audio_uk": "audio/uk/time-management-skill.mp3",
           "audio_us": "audio/us/time-management-skill.mp3",
-          "meaning": "kỹ năng quản lý thời gian"
+          "meaning": "kỹ năng quản lý thời gian",
+          "example": "Good time management skills help students reduce stress.",
+          "example_vi": "Kỹ năng quản lý thời gian tốt giúp học sinh giảm căng thẳng."
         }
       ]
     },
@@ -2210,7 +2655,9 @@
           "ipa_us": "/ədˈmɪt/",
           "audio_uk": "audio/uk/admit.mp3",
           "audio_us": "audio/us/admit.mp3",
-          "meaning": "thừa nhận"
+          "meaning": "thừa nhận",
+          "example": "He finally admitted that he had bullied his classmate.",
+          "example_vi": "Cuối cùng cậu ta đã thừa nhận rằng mình đã bắt nạt bạn cùng lớp."
         },
         {
           "word": "alcohol",
@@ -2219,7 +2666,9 @@
           "ipa_us": "/ˈælkəhɑːl/",
           "audio_uk": "audio/uk/alcohol.mp3",
           "audio_us": "audio/us/alcohol.mp3",
-          "meaning": "rượu, đồ uống có cồn"
+          "meaning": "rượu, đồ uống có cồn",
+          "example": "It is illegal to sell alcohol to people under 18.",
+          "example_vi": "Bán đồ uống có cồn cho người dưới 18 tuổi là vi phạm pháp luật."
         },
         {
           "word": "anti-bullying",
@@ -2228,7 +2677,9 @@
           "ipa_us": "/ˌæntiː ˈbʊliɪŋ/",
           "audio_uk": "audio/uk/anti-bullying.mp3",
           "audio_us": "audio/us/anti-bullying.mp3",
-          "meaning": "chống bắt nạt"
+          "meaning": "chống bắt nạt",
+          "example": "Our school launched an anti-bullying campaign last month.",
+          "example_vi": "Trường tôi đã phát động một chiến dịch chống bắt nạt vào tháng trước."
         },
         {
           "word": "anxiety",
@@ -2237,7 +2688,9 @@
           "ipa_us": "/æŋˈzaɪəti/",
           "audio_uk": "audio/uk/anxiety.mp3",
           "audio_us": "audio/us/anxiety.mp3",
-          "meaning": "sự lo âu"
+          "meaning": "sự lo âu",
+          "example": "Exam pressure can cause anxiety among students.",
+          "example_vi": "Áp lực thi cử có thể gây ra sự lo âu ở học sinh."
         },
         {
           "word": "ashamed",
@@ -2246,7 +2699,9 @@
           "ipa_us": "/əˈʃeɪmd/",
           "audio_uk": "audio/uk/ashamed.mp3",
           "audio_us": "audio/us/ashamed.mp3",
-          "meaning": "xấu hổ"
+          "meaning": "xấu hổ",
+          "example": "Victims of bullying often feel too ashamed to tell anyone.",
+          "example_vi": "Nạn nhân của bắt nạt thường quá xấu hổ để kể với bất kỳ ai."
         },
         {
           "word": "awareness",
@@ -2255,7 +2710,9 @@
           "ipa_us": "/əˈwernəs/",
           "audio_uk": "audio/uk/awareness.mp3",
           "audio_us": "audio/us/awareness.mp3",
-          "meaning": "nhận thức, sự hiểu biết"
+          "meaning": "nhận thức, sự hiểu biết",
+          "example": "The campaign aims to raise awareness of cyberbullying.",
+          "example_vi": "Chiến dịch nhằm nâng cao nhận thức về nạn bắt nạt trên mạng."
         },
         {
           "word": "body shaming",
@@ -2264,7 +2721,9 @@
           "ipa_us": "/ˈbɑːdi ˌʃeɪmɪŋ/",
           "audio_uk": "audio/uk/body-shaming.mp3",
           "audio_us": "audio/us/body-shaming.mp3",
-          "meaning": "sự chê bai ngoại hình"
+          "meaning": "sự chê bai ngoại hình",
+          "example": "Body shaming can seriously damage a teenager's self-confidence.",
+          "example_vi": "Việc chê bai ngoại hình có thể làm tổn hại nghiêm trọng đến sự tự tin của thanh thiếu niên."
         },
         {
           "word": "bully",
@@ -2273,7 +2732,9 @@
           "ipa_us": "/ˈbʊli/",
           "audio_uk": "audio/uk/bully.mp3",
           "audio_us": "audio/us/bully.mp3",
-          "meaning": "bắt nạt"
+          "meaning": "bắt nạt",
+          "example": "Some students are bullied because they look different.",
+          "example_vi": "Một số học sinh bị bắt nạt vì có ngoại hình khác biệt."
         },
         {
           "word": "campaign",
@@ -2282,7 +2743,9 @@
           "ipa_us": "/kæmˈpeɪn/",
           "audio_uk": "audio/uk/campaign.mp3",
           "audio_us": "audio/us/campaign.mp3",
-          "meaning": "chiến dịch"
+          "meaning": "chiến dịch",
+          "example": "The students started a campaign to stop littering in their neighbourhood.",
+          "example_vi": "Các bạn học sinh đã phát động một chiến dịch chống xả rác trong khu phố của mình."
         },
         {
           "word": "crime",
@@ -2291,7 +2754,9 @@
           "ipa_us": "/kraɪm/",
           "audio_uk": "audio/uk/crime.mp3",
           "audio_us": "audio/us/crime.mp3",
-          "meaning": "tội phạm, tội ác"
+          "meaning": "tội phạm, tội ác",
+          "example": "Poverty and unemployment can lead to an increase in crime.",
+          "example_vi": "Nghèo đói và thất nghiệp có thể dẫn đến sự gia tăng tội phạm."
         },
         {
           "word": "cyberbullying",
@@ -2300,7 +2765,9 @@
           "ipa_us": "/ˈsaɪbɚbʊliɪŋ/",
           "audio_uk": "audio/uk/cyberbullying.mp3",
           "audio_us": "audio/us/cyberbullying.mp3",
-          "meaning": "bắt nạt trên mạng"
+          "meaning": "bắt nạt trên mạng",
+          "example": "Cyberbullying has become a serious problem among teenagers.",
+          "example_vi": "Bắt nạt trên mạng đã trở thành một vấn đề nghiêm trọng ở thanh thiếu niên."
         },
         {
           "word": "depression",
@@ -2309,7 +2776,9 @@
           "ipa_us": "/dɪˈpreʃən/",
           "audio_uk": "audio/uk/depression.mp3",
           "audio_us": "audio/us/depression.mp3",
-          "meaning": "chứng trầm cảm"
+          "meaning": "chứng trầm cảm",
+          "example": "Victims of bullying may suffer from depression.",
+          "example_vi": "Nạn nhân của bắt nạt có thể mắc chứng trầm cảm."
         },
         {
           "word": "drug",
@@ -2318,7 +2787,9 @@
           "ipa_us": "/drʌɡ/",
           "audio_uk": "audio/uk/drug.mp3",
           "audio_us": "audio/us/drug.mp3",
-          "meaning": "ma túy; thuốc"
+          "meaning": "ma túy; thuốc",
+          "example": "Taking drugs can destroy young people's health and future.",
+          "example_vi": "Sử dụng ma túy có thể hủy hoại sức khỏe và tương lai của người trẻ."
         },
         {
           "word": "drunk",
@@ -2327,7 +2798,9 @@
           "ipa_us": "/drʌŋk/",
           "audio_uk": "audio/uk/drunk.mp3",
           "audio_us": "audio/us/drunk.mp3",
-          "meaning": "say rượu"
+          "meaning": "say rượu",
+          "example": "Never get in a car with a driver who is drunk.",
+          "example_vi": "Đừng bao giờ lên xe của tài xế đang say rượu."
         },
         {
           "word": "frighten",
@@ -2336,7 +2809,9 @@
           "ipa_us": "/ˈfraɪtən/",
           "audio_uk": "audio/uk/frighten.mp3",
           "audio_us": "audio/us/frighten.mp3",
-          "meaning": "làm hoảng sợ"
+          "meaning": "làm hoảng sợ",
+          "example": "The violent scenes in the film frightened the young children.",
+          "example_vi": "Những cảnh bạo lực trong bộ phim đã làm lũ trẻ hoảng sợ."
         },
         {
           "word": "hang out",
@@ -2345,7 +2820,9 @@
           "ipa_us": "/ˌhæŋ ˈaʊt/",
           "audio_uk": "audio/uk/hang-out-phr-v.mp3",
           "audio_us": "audio/us/hang-out-phr-v.mp3",
-          "meaning": "đi chơi"
+          "meaning": "đi chơi",
+          "example": "Teenagers like to hang out with their friends at weekends.",
+          "example_vi": "Thanh thiếu niên thích đi chơi với bạn bè vào cuối tuần."
         },
         {
           "word": "hesitate",
@@ -2354,7 +2831,9 @@
           "ipa_us": "/ˈhezəteɪt/",
           "audio_uk": "audio/uk/hesitate.mp3",
           "audio_us": "audio/us/hesitate.mp3",
-          "meaning": "do dự, ngập ngừng"
+          "meaning": "do dự, ngập ngừng",
+          "example": "Don't hesitate to ask a teacher for help if you are bullied.",
+          "example_vi": "Đừng ngần ngại nhờ thầy cô giúp đỡ nếu bạn bị bắt nạt."
         },
         {
           "word": "make fun of",
@@ -2363,7 +2842,9 @@
           "ipa_us": "/ˌmeɪk ˈfʌn əv/",
           "audio_uk": "audio/uk/make-fun-of.mp3",
           "audio_us": "audio/us/make-fun-of.mp3",
-          "meaning": "chế giễu, trêu chọc"
+          "meaning": "chế giễu, trêu chọc",
+          "example": "It's cruel to make fun of someone's appearance.",
+          "example_vi": "Chế giễu ngoại hình của người khác là một hành động tàn nhẫn."
         },
         {
           "word": "obey",
@@ -2372,7 +2853,9 @@
           "ipa_us": "/oʊˈbeɪ/",
           "audio_uk": "audio/uk/obey.mp3",
           "audio_us": "audio/us/obey.mp3",
-          "meaning": "tuân theo, vâng lời"
+          "meaning": "tuân theo, vâng lời",
+          "example": "All students must obey the school rules.",
+          "example_vi": "Tất cả học sinh phải tuân thủ nội quy của trường."
         },
         {
           "word": "offensive",
@@ -2381,7 +2864,9 @@
           "ipa_us": "/əˈfensɪv/",
           "audio_uk": "audio/uk/offensive.mp3",
           "audio_us": "audio/us/offensive.mp3",
-          "meaning": "xúc phạm, công kích"
+          "meaning": "xúc phạm, công kích",
+          "example": "Posting offensive comments online is a form of cyberbullying.",
+          "example_vi": "Đăng những bình luận xúc phạm trên mạng là một hình thức bắt nạt trực tuyến."
         },
         {
           "word": "overpopulation",
@@ -2390,7 +2875,9 @@
           "ipa_us": "/ˌoʊvɚˌpɑːpjəˈleɪʃən/",
           "audio_uk": "audio/uk/overpopulation.mp3",
           "audio_us": "audio/us/overpopulation.mp3",
-          "meaning": "sự bùng nổ dân số"
+          "meaning": "sự bùng nổ dân số",
+          "example": "Overpopulation puts pressure on housing, schools and hospitals.",
+          "example_vi": "Bùng nổ dân số gây áp lực lên nhà ở, trường học và bệnh viện."
         },
         {
           "word": "painful",
@@ -2399,7 +2886,9 @@
           "ipa_us": "/ˈpeɪnfəl/",
           "audio_uk": "audio/uk/painful.mp3",
           "audio_us": "audio/us/painful.mp3",
-          "meaning": "đau đớn"
+          "meaning": "đau đớn",
+          "example": "Being bullied was a painful experience for him.",
+          "example_vi": "Bị bắt nạt là một trải nghiệm đau đớn đối với cậu ấy."
         },
         {
           "word": "peer influence",
@@ -2408,7 +2897,9 @@
           "ipa_us": "/ˈpɪr ˌɪnfluəns/",
           "audio_uk": "audio/uk/peer-influence.mp3",
           "audio_us": "audio/us/peer-influence.mp3",
-          "meaning": "ảnh hưởng từ bạn bè đồng trang lứa"
+          "meaning": "ảnh hưởng từ bạn bè đồng trang lứa",
+          "example": "Peer influence can be positive if your friends have good habits.",
+          "example_vi": "Ảnh hưởng từ bạn bè có thể tích cực nếu bạn bè bạn có những thói quen tốt."
         },
         {
           "word": "peer pressure",
@@ -2418,7 +2909,8 @@
           "audio_uk": "audio/uk/peer-pressure-n.mp3",
           "audio_us": "audio/us/peer-pressure-n.mp3",
           "meaning": "áp lực từ bạn bè đồng trang lứa",
-          "example": "Many teenagers smoke because of peer pressure."
+          "example": "Many teenagers smoke because of peer pressure.",
+          "example_vi": "Nhiều thanh thiếu niên hút thuốc vì áp lực từ bạn bè đồng trang lứa."
         },
         {
           "word": "physical",
@@ -2427,7 +2919,9 @@
           "ipa_us": "/ˈfɪzɪkəl/",
           "audio_uk": "audio/uk/physical.mp3",
           "audio_us": "audio/us/physical.mp3",
-          "meaning": "thuộc về thể chất"
+          "meaning": "thuộc về thể chất",
+          "example": "Bullying can be physical, verbal or online.",
+          "example_vi": "Bắt nạt có thể là bắt nạt thể chất, bằng lời nói hoặc trên mạng."
         },
         {
           "word": "policy",
@@ -2436,7 +2930,9 @@
           "ipa_us": "/ˈpɑːləsi/",
           "audio_uk": "audio/uk/policy.mp3",
           "audio_us": "audio/us/policy.mp3",
-          "meaning": "chính sách"
+          "meaning": "chính sách",
+          "example": "The school has a strict policy against bullying.",
+          "example_vi": "Nhà trường có chính sách nghiêm khắc chống lại nạn bắt nạt."
         },
         {
           "word": "poverty",
@@ -2445,7 +2941,9 @@
           "ipa_us": "/ˈpɑːvɚti/",
           "audio_uk": "audio/uk/poverty.mp3",
           "audio_us": "audio/us/poverty.mp3",
-          "meaning": "sự nghèo đói"
+          "meaning": "sự nghèo đói",
+          "example": "Millions of people around the world still live in poverty.",
+          "example_vi": "Hàng triệu người trên thế giới vẫn đang sống trong cảnh nghèo đói."
         },
         {
           "word": "pressing",
@@ -2454,7 +2952,9 @@
           "ipa_us": "/ˈpresɪŋ/",
           "audio_uk": "audio/uk/pressing.mp3",
           "audio_us": "audio/us/pressing.mp3",
-          "meaning": "cấp bách"
+          "meaning": "cấp bách",
+          "example": "Unemployment is one of the most pressing social issues today.",
+          "example_vi": "Thất nghiệp là một trong những vấn đề xã hội cấp bách nhất hiện nay."
         },
         {
           "word": "self-confidence",
@@ -2463,7 +2963,9 @@
           "ipa_us": "/ˌself ˈkɑːnfədəns/",
           "audio_uk": "audio/uk/self-confidence.mp3",
           "audio_us": "audio/us/self-confidence.mp3",
-          "meaning": "sự tự tin"
+          "meaning": "sự tự tin",
+          "example": "Joining clubs can help shy students build self-confidence.",
+          "example_vi": "Tham gia câu lạc bộ có thể giúp những học sinh nhút nhát xây dựng sự tự tin."
         },
         {
           "word": "skip",
@@ -2472,7 +2974,9 @@
           "ipa_us": "/skɪp/",
           "audio_uk": "audio/uk/skip.mp3",
           "audio_us": "audio/us/skip.mp3",
-          "meaning": "bỏ, trốn (học)"
+          "meaning": "bỏ, trốn (học)",
+          "example": "He was punished for skipping classes to play computer games.",
+          "example_vi": "Cậu ấy bị phạt vì trốn học để chơi điện tử."
         },
         {
           "word": "social issue",
@@ -2481,7 +2985,9 @@
           "ipa_us": "/ˌsoʊʃəl ˈɪʃuː/",
           "audio_uk": "audio/uk/social-issue.mp3",
           "audio_us": "audio/us/social-issue.mp3",
-          "meaning": "vấn đề xã hội"
+          "meaning": "vấn đề xã hội",
+          "example": "Poverty is a serious social issue in many developing countries.",
+          "example_vi": "Nghèo đói là một vấn đề xã hội nghiêm trọng ở nhiều nước đang phát triển."
         },
         {
           "word": "sympathy",
@@ -2490,7 +2996,9 @@
           "ipa_us": "/ˈsɪmpəθi/",
           "audio_uk": "audio/uk/sympathy.mp3",
           "audio_us": "audio/us/sympathy.mp3",
-          "meaning": "sự cảm thông"
+          "meaning": "sự cảm thông",
+          "example": "We should show sympathy for victims of bullying.",
+          "example_vi": "Chúng ta nên thể hiện sự cảm thông với các nạn nhân của bắt nạt."
         },
         {
           "word": "verbal",
@@ -2499,7 +3007,9 @@
           "ipa_us": "/ˈvɝːbəl/",
           "audio_uk": "audio/uk/verbal.mp3",
           "audio_us": "audio/us/verbal.mp3",
-          "meaning": "bằng lời nói"
+          "meaning": "bằng lời nói",
+          "example": "Name-calling is a form of verbal bullying.",
+          "example_vi": "Gọi người khác bằng biệt danh xấu là một hình thức bắt nạt bằng lời nói."
         },
         {
           "word": "victim",
@@ -2508,7 +3018,9 @@
           "ipa_us": "/ˈvɪktɪm/",
           "audio_uk": "audio/uk/victim.mp3",
           "audio_us": "audio/us/victim.mp3",
-          "meaning": "nạn nhân"
+          "meaning": "nạn nhân",
+          "example": "Victims of cyberbullying often feel lonely and afraid.",
+          "example_vi": "Nạn nhân của bắt nạt trên mạng thường cảm thấy cô đơn và sợ hãi."
         },
         {
           "word": "violent",
@@ -2517,7 +3029,9 @@
           "ipa_us": "/ˈvaɪələnt/",
           "audio_uk": "audio/uk/violent.mp3",
           "audio_us": "audio/us/violent.mp3",
-          "meaning": "bạo lực"
+          "meaning": "bạo lực",
+          "example": "Watching violent films may make children more aggressive.",
+          "example_vi": "Xem phim bạo lực có thể khiến trẻ em trở nên hung hăng hơn."
         }
       ]
     },
@@ -2541,7 +3055,9 @@
           "ipa_us": "/ˌbaɪoʊdaɪˈvɝːsəti/",
           "audio_uk": "audio/uk/biodiversity.mp3",
           "audio_us": "audio/us/biodiversity.mp3",
-          "meaning": "đa dạng sinh học"
+          "meaning": "đa dạng sinh học",
+          "example": "Cuc Phuong National Park is rich in biodiversity.",
+          "example_vi": "Vườn quốc gia Cúc Phương có sự đa dạng sinh học phong phú."
         },
         {
           "word": "bird-watching",
@@ -2550,7 +3066,9 @@
           "ipa_us": "/ˈbɝːd ˌwɑːtʃɪŋ/",
           "audio_uk": "audio/uk/bird-watching-n.mp3",
           "audio_us": "audio/us/bird-watching-n.mp3",
-          "meaning": "hoạt động ngắm chim"
+          "meaning": "hoạt động ngắm chim",
+          "example": "Bird-watching is a popular activity in Tram Chim National Park.",
+          "example_vi": "Ngắm chim là một hoạt động được ưa chuộng ở Vườn quốc gia Tràm Chim."
         },
         {
           "word": "conservation",
@@ -2559,7 +3077,9 @@
           "ipa_us": "/ˌkɑːnsɚˈveɪʃən/",
           "audio_uk": "audio/uk/conservation.mp3",
           "audio_us": "audio/us/conservation.mp3",
-          "meaning": "sự bảo tồn"
+          "meaning": "sự bảo tồn",
+          "example": "Wildlife conservation is important for the balance of ecosystems.",
+          "example_vi": "Bảo tồn động vật hoang dã có vai trò quan trọng đối với sự cân bằng của các hệ sinh thái."
         },
         {
           "word": "continent",
@@ -2568,7 +3088,9 @@
           "ipa_us": "/ˈkɑːntənənt/",
           "audio_uk": "audio/uk/continent.mp3",
           "audio_us": "audio/us/continent.mp3",
-          "meaning": "lục địa, châu lục"
+          "meaning": "lục địa, châu lục",
+          "example": "Koalas are found only on the continent of Australia.",
+          "example_vi": "Gấu túi koala chỉ có ở lục địa Úc."
         },
         {
           "word": "coral reef",
@@ -2577,7 +3099,9 @@
           "ipa_us": "/ˈkɔːrəl riːf/",
           "audio_uk": "audio/uk/coral-reef.mp3",
           "audio_us": "audio/us/coral-reef.mp3",
-          "meaning": "rạn san hô"
+          "meaning": "rạn san hô",
+          "example": "Coral reefs are home to thousands of marine species.",
+          "example_vi": "Rạn san hô là nơi sinh sống của hàng nghìn loài sinh vật biển."
         },
         {
           "word": "creature",
@@ -2586,7 +3110,9 @@
           "ipa_us": "/ˈkriːtʃɚ/",
           "audio_uk": "audio/uk/creature-n.mp3",
           "audio_us": "audio/us/creature-n.mp3",
-          "meaning": "sinh vật"
+          "meaning": "sinh vật",
+          "example": "Many sea creatures die because of plastic waste in the ocean.",
+          "example_vi": "Nhiều sinh vật biển chết vì rác thải nhựa trong đại dương."
         },
         {
           "word": "cruelty",
@@ -2595,7 +3121,9 @@
           "ipa_us": "/ˈkruːəlti/",
           "audio_uk": "audio/uk/cruelty.mp3",
           "audio_us": "audio/us/cruelty.mp3",
-          "meaning": "sự tàn ác"
+          "meaning": "sự tàn ác",
+          "example": "Keeping wild animals in small cages is an act of cruelty.",
+          "example_vi": "Nhốt động vật hoang dã trong những chiếc lồng chật hẹp là một hành động tàn ác."
         },
         {
           "word": "delta",
@@ -2604,7 +3132,9 @@
           "ipa_us": "/ˈdeltə/",
           "audio_uk": "audio/uk/delta.mp3",
           "audio_us": "audio/us/delta.mp3",
-          "meaning": "châu thổ, đồng bằng"
+          "meaning": "châu thổ, đồng bằng",
+          "example": "The Mekong Delta has a unique wetland ecosystem.",
+          "example_vi": "Đồng bằng sông Cửu Long có một hệ sinh thái đất ngập nước độc đáo."
         },
         {
           "word": "destroy",
@@ -2613,7 +3143,9 @@
           "ipa_us": "/dɪˈstrɔɪ/",
           "audio_uk": "audio/uk/destroy.mp3",
           "audio_us": "audio/us/destroy.mp3",
-          "meaning": "phá hủy"
+          "meaning": "phá hủy",
+          "example": "Forest fires destroy the habitats of many animals.",
+          "example_vi": "Cháy rừng phá hủy môi trường sống của nhiều loài động vật."
         },
         {
           "word": "diversity",
@@ -2622,7 +3154,9 @@
           "ipa_us": "/daɪˈvɝːsɪti/",
           "audio_uk": "audio/uk/diversity.mp3",
           "audio_us": "audio/us/diversity.mp3",
-          "meaning": "sự đa dạng"
+          "meaning": "sự đa dạng",
+          "example": "Rainforests have a great diversity of plants and animals.",
+          "example_vi": "Rừng mưa nhiệt đới có sự đa dạng lớn về các loài thực vật và động vật."
         },
         {
           "word": "ecosystem",
@@ -2632,7 +3166,8 @@
           "audio_uk": "audio/uk/ecosystem.mp3",
           "audio_us": "audio/us/ecosystem.mp3",
           "meaning": "hệ sinh thái",
-          "example": "Every species plays a role in the ecosystem."
+          "example": "Every species plays a role in the ecosystem.",
+          "example_vi": "Mỗi loài đều đóng một vai trò trong hệ sinh thái."
         },
         {
           "word": "endanger",
@@ -2641,7 +3176,9 @@
           "ipa_us": "/enˈdeɪndʒɚ/",
           "audio_uk": "audio/uk/endanger.mp3",
           "audio_us": "audio/us/endanger.mp3",
-          "meaning": "gây nguy hiểm"
+          "meaning": "gây nguy hiểm",
+          "example": "Pollution endangers the lives of many sea animals.",
+          "example_vi": "Ô nhiễm gây nguy hiểm đến tính mạng của nhiều loài động vật biển."
         },
         {
           "word": "endangered",
@@ -2650,7 +3187,9 @@
           "ipa_us": "/ɪnˈdeɪndʒɚd/",
           "audio_uk": "audio/uk/endangered.mp3",
           "audio_us": "audio/us/endangered.mp3",
-          "meaning": "có nguy cơ tuyệt chủng"
+          "meaning": "có nguy cơ tuyệt chủng",
+          "example": "Pangolins are endangered because of illegal hunting.",
+          "example_vi": "Tê tê đang có nguy cơ tuyệt chủng do nạn săn bắt trái phép."
         },
         {
           "word": "fauna",
@@ -2659,7 +3198,9 @@
           "ipa_us": "/ˈfɑːnə/",
           "audio_uk": "audio/uk/fauna.mp3",
           "audio_us": "audio/us/fauna.mp3",
-          "meaning": "hệ động vật"
+          "meaning": "hệ động vật",
+          "example": "The national park is home to a wide variety of fauna.",
+          "example_vi": "Vườn quốc gia là nơi sinh sống của hệ động vật vô cùng phong phú."
         },
         {
           "word": "flora",
@@ -2668,7 +3209,9 @@
           "ipa_us": "/ˈflɔːrə/",
           "audio_uk": "audio/uk/flora.mp3",
           "audio_us": "audio/us/flora.mp3",
-          "meaning": "hệ thực vật"
+          "meaning": "hệ thực vật",
+          "example": "Scientists are studying the flora of the tropical forest.",
+          "example_vi": "Các nhà khoa học đang nghiên cứu hệ thực vật của khu rừng nhiệt đới."
         },
         {
           "word": "food chain",
@@ -2677,7 +3220,9 @@
           "ipa_us": "/ˈfuːd tʃeɪn/",
           "audio_uk": "audio/uk/food-chain.mp3",
           "audio_us": "audio/us/food-chain.mp3",
-          "meaning": "chuỗi thức ăn"
+          "meaning": "chuỗi thức ăn",
+          "example": "If one species disappears, the whole food chain may be affected.",
+          "example_vi": "Nếu một loài biến mất, toàn bộ chuỗi thức ăn có thể bị ảnh hưởng."
         },
         {
           "word": "green",
@@ -2686,7 +3231,9 @@
           "ipa_us": "/ɡriːn/",
           "audio_uk": "audio/uk/green.mp3",
           "audio_us": "audio/us/green.mp3",
-          "meaning": "xanh, thân thiện với môi trường"
+          "meaning": "xanh, thân thiện với môi trường",
+          "example": "We should follow a green lifestyle to protect the ecosystem.",
+          "example_vi": "Chúng ta nên theo đuổi lối sống xanh để bảo vệ hệ sinh thái."
         },
         {
           "word": "habitat",
@@ -2695,7 +3242,9 @@
           "ipa_us": "/ˈhæbətæt/",
           "audio_uk": "audio/uk/habitat.mp3",
           "audio_us": "audio/us/habitat.mp3",
-          "meaning": "môi trường sống"
+          "meaning": "môi trường sống",
+          "example": "Deforestation is destroying the natural habitat of many animals.",
+          "example_vi": "Nạn phá rừng đang hủy hoại môi trường sống tự nhiên của nhiều loài động vật."
         },
         {
           "word": "koala",
@@ -2704,7 +3253,9 @@
           "ipa_us": "/koʊˈɑːlə/",
           "audio_uk": "audio/uk/koala.mp3",
           "audio_us": "audio/us/koala.mp3",
-          "meaning": "gấu túi koala"
+          "meaning": "gấu túi koala",
+          "example": "Koalas spend most of their time sleeping in eucalyptus trees.",
+          "example_vi": "Gấu túi koala dành phần lớn thời gian để ngủ trên cây bạch đàn."
         },
         {
           "word": "living things",
@@ -2713,7 +3264,9 @@
           "ipa_us": "/ˌlɪvɪŋ ˈθɪŋz/",
           "audio_uk": "audio/uk/living-things.mp3",
           "audio_us": "audio/us/living-things.mp3",
-          "meaning": "sinh vật sống"
+          "meaning": "sinh vật sống",
+          "example": "All living things depend on one another to survive.",
+          "example_vi": "Mọi sinh vật sống đều phụ thuộc lẫn nhau để tồn tại."
         },
         {
           "word": "mammal",
@@ -2722,7 +3275,9 @@
           "ipa_us": "/ˈmæməl/",
           "audio_uk": "audio/uk/mammal.mp3",
           "audio_us": "audio/us/mammal.mp3",
-          "meaning": "động vật có vú"
+          "meaning": "động vật có vú",
+          "example": "Whales are the largest mammals on Earth.",
+          "example_vi": "Cá voi là loài động vật có vú lớn nhất trên Trái Đất."
         },
         {
           "word": "national park",
@@ -2731,7 +3286,9 @@
           "ipa_us": "/ˌnæʃnəl ˈpɑːrk/",
           "audio_uk": "audio/uk/national-park.mp3",
           "audio_us": "audio/us/national-park.mp3",
-          "meaning": "vườn quốc gia"
+          "meaning": "vườn quốc gia",
+          "example": "Cat Tien National Park is home to many rare animals.",
+          "example_vi": "Vườn quốc gia Cát Tiên là nơi sinh sống của nhiều loài động vật quý hiếm."
         },
         {
           "word": "nature reserve",
@@ -2740,7 +3297,9 @@
           "ipa_us": "/ˈneɪtʃɚ rɪˌzɝːv/",
           "audio_uk": "audio/uk/nature-reserve-n.mp3",
           "audio_us": "audio/us/nature-reserve-n.mp3",
-          "meaning": "khu bảo tồn thiên nhiên"
+          "meaning": "khu bảo tồn thiên nhiên",
+          "example": "The nature reserve protects many endangered birds.",
+          "example_vi": "Khu bảo tồn thiên nhiên bảo vệ nhiều loài chim có nguy cơ tuyệt chủng."
         },
         {
           "word": "organism",
@@ -2749,7 +3308,9 @@
           "ipa_us": "/ˈɔːrɡənɪzəm/",
           "audio_uk": "audio/uk/organism.mp3",
           "audio_us": "audio/us/organism.mp3",
-          "meaning": "sinh vật"
+          "meaning": "sinh vật",
+          "example": "Every organism in an ecosystem plays an important role.",
+          "example_vi": "Mỗi sinh vật trong hệ sinh thái đều đóng một vai trò quan trọng."
         },
         {
           "word": "overuse",
@@ -2758,7 +3319,9 @@
           "ipa_us": "/ˌoʊvɚˈjuːz/",
           "audio_uk": "audio/uk/overuse.mp3",
           "audio_us": "audio/us/overuse.mp3",
-          "meaning": "sự lạm dụng, sử dụng quá mức"
+          "meaning": "sự lạm dụng, sử dụng quá mức",
+          "example": "The overuse of chemicals in farming harms the soil and water.",
+          "example_vi": "Việc lạm dụng hóa chất trong nông nghiệp gây hại cho đất và nguồn nước."
         },
         {
           "word": "pangolin",
@@ -2767,7 +3330,9 @@
           "ipa_us": "/ˈpæŋɡəlɪn/",
           "audio_uk": "audio/uk/pangolin.mp3",
           "audio_us": "audio/us/pangolin.mp3",
-          "meaning": "con tê tê"
+          "meaning": "con tê tê",
+          "example": "The pangolin is one of the most trafficked animals in the world.",
+          "example_vi": "Tê tê là một trong những loài động vật bị buôn bán trái phép nhiều nhất thế giới."
         },
         {
           "word": "resource",
@@ -2776,7 +3341,9 @@
           "ipa_us": "/ˈriːsɔːrs/",
           "audio_uk": "audio/uk/resource-n.mp3",
           "audio_us": "audio/us/resource-n.mp3",
-          "meaning": "tài nguyên"
+          "meaning": "tài nguyên",
+          "example": "We must use natural resources wisely.",
+          "example_vi": "Chúng ta phải sử dụng tài nguyên thiên nhiên một cách khôn ngoan."
         },
         {
           "word": "restoration",
@@ -2785,7 +3352,9 @@
           "ipa_us": "/ˌrestəˈreɪʃən/",
           "audio_uk": "audio/uk/restoration.mp3",
           "audio_us": "audio/us/restoration.mp3",
-          "meaning": "sự phục hồi"
+          "meaning": "sự phục hồi",
+          "example": "The restoration of the mangrove forest has brought back many bird species.",
+          "example_vi": "Việc phục hồi rừng ngập mặn đã giúp nhiều loài chim quay trở lại."
         },
         {
           "word": "restore",
@@ -2794,7 +3363,9 @@
           "ipa_us": "/rɪˈstɔːr/",
           "audio_uk": "audio/uk/restore.mp3",
           "audio_us": "audio/us/restore.mp3",
-          "meaning": "phục hồi"
+          "meaning": "phục hồi",
+          "example": "Volunteers are planting trees to restore the damaged forest.",
+          "example_vi": "Các tình nguyện viên đang trồng cây để phục hồi khu rừng bị tàn phá."
         },
         {
           "word": "run out",
@@ -2803,7 +3374,9 @@
           "ipa_us": "/ˌrʌn ˈaʊt/",
           "audio_uk": "audio/uk/run-out-phr-v.mp3",
           "audio_us": "audio/us/run-out-phr-v.mp3",
-          "meaning": "cạn kiệt"
+          "meaning": "cạn kiệt",
+          "example": "If we keep wasting water, we will soon run out.",
+          "example_vi": "Nếu chúng ta cứ tiếp tục lãng phí nước, chúng ta sẽ sớm cạn kiệt nguồn nước."
         },
         {
           "word": "shelter",
@@ -2812,7 +3385,9 @@
           "ipa_us": "/ˈʃeltɚ/",
           "audio_uk": "audio/uk/shelter.mp3",
           "audio_us": "audio/us/shelter.mp3",
-          "meaning": "nơi trú ẩn"
+          "meaning": "nơi trú ẩn",
+          "example": "Trees provide food and shelter for many animals.",
+          "example_vi": "Cây xanh cung cấp thức ăn và nơi trú ẩn cho nhiều loài động vật."
         },
         {
           "word": "snorkelling",
@@ -2821,7 +3396,9 @@
           "ipa_us": "/ˈsnɔːrkəlɪŋ/",
           "audio_uk": "audio/uk/snorkelling.mp3",
           "audio_us": "audio/us/snorkelling.mp3",
-          "meaning": "lặn với ống thở"
+          "meaning": "lặn với ống thở",
+          "example": "We went snorkelling to see the colourful coral reefs.",
+          "example_vi": "Chúng tôi đã đi lặn với ống thở để ngắm những rạn san hô đầy màu sắc."
         },
         {
           "word": "species",
@@ -2830,7 +3407,9 @@
           "ipa_us": "/ˈspiːʃiz/",
           "audio_uk": "audio/uk/species.mp3",
           "audio_us": "audio/us/species.mp3",
-          "meaning": "loài"
+          "meaning": "loài",
+          "example": "Many species of plants and animals are in danger of extinction.",
+          "example_vi": "Nhiều loài thực vật và động vật đang có nguy cơ tuyệt chủng."
         },
         {
           "word": "survival",
@@ -2839,7 +3418,9 @@
           "ipa_us": "/sɚˈvaɪvəl/",
           "audio_uk": "audio/uk/survival.mp3",
           "audio_us": "audio/us/survival.mp3",
-          "meaning": "sự sống sót, tồn tại"
+          "meaning": "sự sống sót, tồn tại",
+          "example": "The survival of many species depends on healthy forests.",
+          "example_vi": "Sự sống còn của nhiều loài phụ thuộc vào những khu rừng khỏe mạnh."
         },
         {
           "word": "tropical forest",
@@ -2848,7 +3429,9 @@
           "ipa_us": "/ˌtrɑːpɪkəl ˈfɔːrɪst/",
           "audio_uk": "audio/uk/tropical-forest.mp3",
           "audio_us": "audio/us/tropical-forest.mp3",
-          "meaning": "rừng nhiệt đới"
+          "meaning": "rừng nhiệt đới",
+          "example": "Tropical forests are home to more than half of the world's species.",
+          "example_vi": "Rừng nhiệt đới là nơi sinh sống của hơn một nửa số loài trên thế giới."
         },
         {
           "word": "waterway",
@@ -2857,7 +3440,9 @@
           "ipa_us": "/ˈwɑːtɚweɪ/",
           "audio_uk": "audio/uk/waterway.mp3",
           "audio_us": "audio/us/waterway.mp3",
-          "meaning": "đường thủy"
+          "meaning": "đường thủy",
+          "example": "Plastic waste is polluting rivers and other waterways.",
+          "example_vi": "Rác thải nhựa đang gây ô nhiễm các dòng sông và đường thủy khác."
         },
         {
           "word": "wetland",
@@ -2866,7 +3451,9 @@
           "ipa_us": "/ˈwetlænd/",
           "audio_uk": "audio/uk/wetland.mp3",
           "audio_us": "audio/us/wetland.mp3",
-          "meaning": "vùng đất ngập nước"
+          "meaning": "vùng đất ngập nước",
+          "example": "Wetlands provide an important habitat for water birds.",
+          "example_vi": "Vùng đất ngập nước là môi trường sống quan trọng của các loài chim nước."
         },
         {
           "word": "wildlife",
@@ -2875,7 +3462,9 @@
           "ipa_us": "/ˈwaɪldlaɪf/",
           "audio_uk": "audio/uk/wildlife.mp3",
           "audio_us": "audio/us/wildlife.mp3",
-          "meaning": "động vật hoang dã"
+          "meaning": "động vật hoang dã",
+          "example": "The national park is home to a lot of wildlife.",
+          "example_vi": "Vườn quốc gia là nơi sinh sống của rất nhiều loài động vật hoang dã."
         }
       ]
     }

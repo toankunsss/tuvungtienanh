@@ -3,7 +3,7 @@
 Bộ dữ liệu **từ vựng theo từng unit** của bộ sách giáo khoa **Tiếng Anh Global Success**
 (NXB Giáo dục Việt Nam, bộ *Kết nối tri thức với cuộc sống*) từ lớp 1 đến lớp 12, lưu dưới dạng **JSON** (kèm bản **CSV**).
 
-Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và giọng Mỹ (US)**, **file giọng đọc UK và US (MP3)**, **nghĩa tiếng Việt** và đôi khi **câu ví dụ**.
+Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và giọng Mỹ (US)**, **file giọng đọc UK và US (MP3)**, **nghĩa tiếng Việt** và **câu ví dụ kèm bản dịch tiếng Việt**.
 
 > ⚠️ **Đọc kỹ phần [Trạng thái dữ liệu](#trạng-thái-dữ-liệu) trước khi dùng.**
 > Mỗi unit có trường `status`: `sourced` = danh sách từ đã được đối chiếu với nguồn trên mạng;
@@ -76,7 +76,8 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và
           "audio_uk": "audio/uk/activity.mp3",
           "audio_us": "audio/us/activity.mp3",
           "meaning": "hoạt động",
-          "example": "We have many activities at school."
+          "example": "We have many activities at school.",
+          "example_vi": "Ở trường chúng mình có nhiều hoạt động."
         }
       ]
     }
@@ -97,7 +98,8 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và
 | `words[].audio_uk` | Đường dẫn file MP3 giọng Anh (tính từ gốc repo) |
 | `words[].audio_us` | Đường dẫn file MP3 giọng Mỹ |
 | `words[].meaning` | Nghĩa tiếng Việt |
-| `words[].example` | Câu ví dụ (không bắt buộc) |
+| `words[].example` | Câu ví dụ tiếng Anh |
+| `words[].example_vi` | Bản dịch tiếng Việt của câu ví dụ |
 
 **Từ loại (`pos`)**
 
@@ -119,7 +121,8 @@ Mỗi từ có: **từ**, **từ loại**, **phiên âm IPA giọng Anh (UK) và
     "grade": 6, "unit": 1, "unit_title": "My new school", "status": "sourced",
     "word": "activity", "pos": "n", "ipa_uk": "/ækˈtɪvəti/", "ipa_us": "/ækˈtɪvəti/",
     "audio_uk": "audio/uk/activity.mp3", "audio_us": "audio/us/activity.mp3",
-    "meaning": "hoạt động", "example": "We have many activities at school."
+    "meaning": "hoạt động", "example": "We have many activities at school.",
+    "example_vi": "Ở trường chúng mình có nhiều hoạt động."
   }
 ]
 ```
@@ -518,7 +521,7 @@ python3 scripts/make_audio.py --model /đường/dẫn/thư-mục-model
   Đây là các nguồn **tổng hợp của bên thứ ba**, không phải bảng Glossary in trong sách, và đôi khi không khớp nhau, nên:
   - một unit có thể **thiếu** vài từ so với sách, hoặc có vài từ sách không liệt kê;
   - các unit lớp 1–2 chỉ gồm các từ trọng tâm theo âm/chữ cái của bài (3–5 từ/unit).
-- **Phiên âm IPA UK, từ loại, nghĩa tiếng Việt và câu ví dụ** được biên soạn theo chuẩn từ điển Anh – Anh (Cambridge / Oxford), không chép từ sách. **IPA US** và **giọng đọc** được sinh như mô tả ở mục [Phát âm](#phát-âm-ipa-và-giọng-đọc-uk--us).
+- **Phiên âm IPA UK, từ loại, nghĩa tiếng Việt, câu ví dụ và bản dịch** được biên soạn theo chuẩn từ điển Anh – Anh (Cambridge / Oxford), không chép từ sách. Câu ví dụ được viết theo trình độ từng lớp (lớp 1–2: câu 3–6 từ; lớp 10–12: tối đa ~18 từ), không phải câu trích từ sách. **IPA US** và **giọng đọc** được sinh như mô tả ở mục [Phát âm](#phát-âm-ipa-và-giọng-đọc-uk--us).
 - Một số **tên unit** chưa được nguồn nào xác nhận: lớp 1 Unit 8 (*In the park*), lớp 2 Unit 8 (*In the village*).
 
 Nếu bạn có sách giáo khoa trong tay, hãy so với phần **Glossary** cuối sách và sửa giúp (xem bên dưới).

@@ -24,7 +24,8 @@
           "audio_uk": "audio/uk/yourself.mp3",
           "audio_us": "audio/us/yourself.mp3",
           "meaning": "bản thân bạn",
-          "example": "Can you tell me about yourself?"
+          "example": "Can you tell me about yourself?",
+          "example_vi": "Bạn có thể kể cho mình nghe về bản thân bạn không?"
         },
         {
           "word": "city",
@@ -34,7 +35,8 @@
           "audio_uk": "audio/uk/city.mp3",
           "audio_us": "audio/us/city.mp3",
           "meaning": "thành phố",
-          "example": "I live in the city."
+          "example": "I live in the city.",
+          "example_vi": "Mình sống ở thành phố."
         },
         {
           "word": "countryside",
@@ -44,7 +46,8 @@
           "audio_uk": "audio/uk/countryside.mp3",
           "audio_us": "audio/us/countryside.mp3",
           "meaning": "vùng nông thôn",
-          "example": "My grandparents live in the countryside."
+          "example": "My grandparents live in the countryside.",
+          "example_vi": "Ông bà mình sống ở vùng nông thôn."
         },
         {
           "word": "class",
@@ -54,7 +57,8 @@
           "audio_uk": "audio/uk/class.mp3",
           "audio_us": "audio/us/class.mp3",
           "meaning": "lớp học",
-          "example": "I'm in class 5A."
+          "example": "I'm in class 5A.",
+          "example_vi": "Mình học lớp 5A."
         },
         {
           "word": "favourite",
@@ -64,7 +68,8 @@
           "audio_uk": "audio/uk/favourite.mp3",
           "audio_us": "audio/us/favourite.mp3",
           "meaning": "yêu thích",
-          "example": "What's your favourite colour?"
+          "example": "What's your favourite colour?",
+          "example_vi": "Màu yêu thích của bạn là màu gì?"
         },
         {
           "word": "pink",
@@ -73,7 +78,9 @@
           "ipa_us": "/pɪŋk/",
           "audio_uk": "audio/uk/pink.mp3",
           "audio_us": "audio/us/pink.mp3",
-          "meaning": "màu hồng"
+          "meaning": "màu hồng",
+          "example": "My favourite colour is pink.",
+          "example_vi": "Màu yêu thích của mình là màu hồng."
         },
         {
           "word": "green",
@@ -82,7 +89,9 @@
           "ipa_us": "/ɡriːn/",
           "audio_uk": "audio/uk/green.mp3",
           "audio_us": "audio/us/green.mp3",
-          "meaning": "màu xanh lá cây"
+          "meaning": "màu xanh lá cây",
+          "example": "I have a green school bag.",
+          "example_vi": "Mình có một chiếc cặp sách màu xanh lá cây."
         },
         {
           "word": "purple",
@@ -91,7 +100,9 @@
           "ipa_us": "/ˈpɝːpəl/",
           "audio_uk": "audio/uk/purple.mp3",
           "audio_us": "audio/us/purple.mp3",
-          "meaning": "màu tím"
+          "meaning": "màu tím",
+          "example": "Her new dress is purple.",
+          "example_vi": "Chiếc váy mới của bạn ấy màu tím."
         },
         {
           "word": "pasta",
@@ -100,7 +111,9 @@
           "ipa_us": "/ˈpɑːstə/",
           "audio_uk": "audio/uk/pasta.mp3",
           "audio_us": "audio/us/pasta.mp3",
-          "meaning": "mì Ý"
+          "meaning": "mì Ý",
+          "example": "My favourite food is pasta.",
+          "example_vi": "Món ăn yêu thích của mình là mì Ý."
         },
         {
           "word": "noodles",
@@ -109,7 +122,9 @@
           "ipa_us": "/ˈnuːdəlz/",
           "audio_uk": "audio/uk/noodles.mp3",
           "audio_us": "audio/us/noodles.mp3",
-          "meaning": "mì, bún, phở (sợi)"
+          "meaning": "mì, bún, phở (sợi)",
+          "example": "I have noodles for breakfast.",
+          "example_vi": "Mình ăn mì vào bữa sáng."
         },
         {
           "word": "sandwich",
@@ -118,7 +133,9 @@
           "ipa_us": "/ˈsænwɪtʃ/",
           "audio_uk": "audio/uk/sandwich.mp3",
           "audio_us": "audio/us/sandwich.mp3",
-          "meaning": "bánh mì kẹp"
+          "meaning": "bánh mì kẹp",
+          "example": "I'd like a sandwich, please.",
+          "example_vi": "Cho mình một chiếc bánh mì kẹp nhé."
         },
         {
           "word": "table tennis",
@@ -127,7 +144,9 @@
           "ipa_us": "/ˈteɪbəl ˌtenɪs/",
           "audio_uk": "audio/uk/table-tennis.mp3",
           "audio_us": "audio/us/table-tennis.mp3",
-          "meaning": "bóng bàn"
+          "meaning": "bóng bàn",
+          "example": "I play table tennis with my brother.",
+          "example_vi": "Mình chơi bóng bàn với anh trai."
         },
         {
           "word": "basketball",
@@ -136,7 +155,9 @@
           "ipa_us": "/ˈbæskətbɑːl/",
           "audio_uk": "audio/uk/basketball.mp3",
           "audio_us": "audio/us/basketball.mp3",
-          "meaning": "bóng rổ"
+          "meaning": "bóng rổ",
+          "example": "My favourite sport is basketball.",
+          "example_vi": "Môn thể thao yêu thích của mình là bóng rổ."
         },
         {
           "word": "baseball",
@@ -145,7 +166,9 @@
           "ipa_us": "/ˈbeɪsbɑːl/",
           "audio_uk": "audio/uk/baseball.mp3",
           "audio_us": "audio/us/baseball.mp3",
-          "meaning": "bóng chày"
+          "meaning": "bóng chày",
+          "example": "They play baseball after school.",
+          "example_vi": "Các bạn ấy chơi bóng chày sau giờ học."
         },
         {
           "word": "tennis",
@@ -154,7 +177,9 @@
           "ipa_us": "/ˈtenɪs/",
           "audio_uk": "audio/uk/tennis.mp3",
           "audio_us": "audio/us/tennis.mp3",
-          "meaning": "quần vợt"
+          "meaning": "quần vợt",
+          "example": "Mai plays tennis on Sundays.",
+          "example_vi": "Mai chơi quần vợt vào các ngày Chủ nhật."
         },
         {
           "word": "swimming",
@@ -163,7 +188,9 @@
           "ipa_us": "/ˈswɪmɪŋ/",
           "audio_uk": "audio/uk/swimming.mp3",
           "audio_us": "audio/us/swimming.mp3",
-          "meaning": "bơi lội"
+          "meaning": "bơi lội",
+          "example": "I like swimming in the summer.",
+          "example_vi": "Mình thích bơi lội vào mùa hè."
         },
         {
           "word": "dolphin",
@@ -173,7 +200,8 @@
           "audio_uk": "audio/uk/dolphin.mp3",
           "audio_us": "audio/us/dolphin.mp3",
           "meaning": "cá heo",
-          "example": "My favourite animal is the dolphin."
+          "example": "My favourite animal is the dolphin.",
+          "example_vi": "Con vật yêu thích của mình là cá heo."
         }
       ]
     },
@@ -196,7 +224,8 @@
           "audio_uk": "audio/uk/house.mp3",
           "audio_us": "audio/us/house.mp3",
           "meaning": "ngôi nhà",
-          "example": "Do you live in this house?"
+          "example": "Do you live in this house?",
+          "example_vi": "Bạn có sống trong ngôi nhà này không?"
         },
         {
           "word": "flat",
@@ -206,7 +235,8 @@
           "audio_uk": "audio/uk/flat.mp3",
           "audio_us": "audio/us/flat.mp3",
           "meaning": "căn hộ",
-          "example": "I live in a flat."
+          "example": "I live in a flat.",
+          "example_vi": "Mình sống trong một căn hộ."
         },
         {
           "word": "building",
@@ -216,7 +246,8 @@
           "audio_uk": "audio/uk/building.mp3",
           "audio_us": "audio/us/building.mp3",
           "meaning": "tòa nhà",
-          "example": "Do you live in that building?"
+          "example": "Do you live in that building?",
+          "example_vi": "Bạn có sống trong tòa nhà kia không?"
         },
         {
           "word": "tower",
@@ -226,7 +257,8 @@
           "audio_uk": "audio/uk/tower.mp3",
           "audio_us": "audio/us/tower.mp3",
           "meaning": "tòa tháp, tòa nhà cao tầng",
-          "example": "I live in Lotus Tower."
+          "example": "I live in Lotus Tower.",
+          "example_vi": "Mình sống ở tòa nhà Lotus Tower."
         },
         {
           "word": "live",
@@ -235,7 +267,9 @@
           "ipa_us": "/lɪv/",
           "audio_uk": "audio/uk/live.mp3",
           "audio_us": "audio/us/live.mp3",
-          "meaning": "sống, ở"
+          "meaning": "sống, ở",
+          "example": "I live in a small house.",
+          "example_vi": "Mình sống trong một ngôi nhà nhỏ."
         },
         {
           "word": "address",
@@ -245,7 +279,8 @@
           "audio_uk": "audio/uk/address.mp3",
           "audio_us": "audio/us/address.mp3",
           "meaning": "địa chỉ",
-          "example": "What's your address?"
+          "example": "What's your address?",
+          "example_vi": "Địa chỉ của bạn là gì?"
         },
         {
           "word": "street",
@@ -255,7 +290,8 @@
           "audio_uk": "audio/uk/street.mp3",
           "audio_us": "audio/us/street.mp3",
           "meaning": "đường phố",
-          "example": "It's 23 Le Thanh Tong Street."
+          "example": "It's 23 Le Thanh Tong Street.",
+          "example_vi": "Đó là số 23 phố Lê Thánh Tông."
         },
         {
           "word": "road",
@@ -264,7 +300,9 @@
           "ipa_us": "/roʊd/",
           "audio_uk": "audio/uk/road.mp3",
           "audio_us": "audio/us/road.mp3",
-          "meaning": "con đường"
+          "meaning": "con đường",
+          "example": "My house is on Tran Phu Road.",
+          "example_vi": "Nhà mình ở trên đường Trần Phú."
         },
         {
           "word": "lane",
@@ -273,7 +311,9 @@
           "ipa_us": "/leɪn/",
           "audio_uk": "audio/uk/lane.mp3",
           "audio_us": "audio/us/lane.mp3",
-          "meaning": "ngõ, hẻm"
+          "meaning": "ngõ, hẻm",
+          "example": "She lives at 12 Hoa Mai Lane.",
+          "example_vi": "Bạn ấy sống ở số 12 ngõ Hoa Mai."
         }
       ]
     },
@@ -296,7 +336,9 @@
           "ipa_us": "/ˈfɔːrən/",
           "audio_uk": "audio/uk/foreign.mp3",
           "audio_us": "audio/us/foreign.mp3",
-          "meaning": "(thuộc) nước ngoài"
+          "meaning": "(thuộc) nước ngoài",
+          "example": "I have two foreign friends.",
+          "example_vi": "Mình có hai người bạn nước ngoài."
         },
         {
           "word": "nationality",
@@ -306,7 +348,8 @@
           "audio_uk": "audio/uk/nationality.mp3",
           "audio_us": "audio/us/nationality.mp3",
           "meaning": "quốc tịch",
-          "example": "What nationality is she?"
+          "example": "What nationality is she?",
+          "example_vi": "Bạn ấy mang quốc tịch gì?"
         },
         {
           "word": "American",
@@ -316,7 +359,8 @@
           "audio_uk": "audio/uk/american.mp3",
           "audio_us": "audio/us/american.mp3",
           "meaning": "(người) Mỹ",
-          "example": "She's American."
+          "example": "She's American.",
+          "example_vi": "Bạn ấy là người Mỹ."
         },
         {
           "word": "Australian",
@@ -325,7 +369,9 @@
           "ipa_us": "/ɑːˈstreɪljən/",
           "audio_uk": "audio/uk/australian.mp3",
           "audio_us": "audio/us/australian.mp3",
-          "meaning": "(người) Úc"
+          "meaning": "(người) Úc",
+          "example": "Lucy is Australian.",
+          "example_vi": "Lucy là người Úc."
         },
         {
           "word": "British",
@@ -334,7 +380,9 @@
           "ipa_us": "/ˈbrɪtɪʃ/",
           "audio_uk": "audio/uk/british.mp3",
           "audio_us": "audio/us/british.mp3",
-          "meaning": "(người) Anh"
+          "meaning": "(người) Anh",
+          "example": "My friend Tom is British.",
+          "example_vi": "Bạn Tom của mình là người Anh."
         },
         {
           "word": "Japanese",
@@ -343,7 +391,9 @@
           "ipa_us": "/ˌdʒæpəˈniːz/",
           "audio_uk": "audio/uk/japanese.mp3",
           "audio_us": "audio/us/japanese.mp3",
-          "meaning": "(người) Nhật Bản"
+          "meaning": "(người) Nhật Bản",
+          "example": "Akio is Japanese.",
+          "example_vi": "Akio là người Nhật Bản."
         },
         {
           "word": "Malaysian",
@@ -352,7 +402,9 @@
           "ipa_us": "/məˈleɪʒən/",
           "audio_uk": "audio/uk/malaysian-adj.mp3",
           "audio_us": "audio/us/malaysian-adj.mp3",
-          "meaning": "(người) Ma-lai-xi-a"
+          "meaning": "(người) Ma-lai-xi-a",
+          "example": "Is your new friend Malaysian?",
+          "example_vi": "Bạn mới của bạn có phải là người Ma-lai-xi-a không?"
         },
         {
           "word": "Singaporean",
@@ -361,7 +413,9 @@
           "ipa_us": "/sɪŋɡəˈpɔːriən/",
           "audio_uk": "audio/uk/singaporean.mp3",
           "audio_us": "audio/us/singaporean.mp3",
-          "meaning": "(người) Xin-ga-po"
+          "meaning": "(người) Xin-ga-po",
+          "example": "Linda is Singaporean.",
+          "example_vi": "Linda là người Xin-ga-po."
         },
         {
           "word": "Thai",
@@ -370,7 +424,9 @@
           "ipa_us": "/taɪ/",
           "audio_uk": "audio/uk/thai.mp3",
           "audio_us": "audio/us/thai.mp3",
-          "meaning": "(người) Thái Lan"
+          "meaning": "(người) Thái Lan",
+          "example": "My pen friend is Thai.",
+          "example_vi": "Bạn qua thư của mình là người Thái Lan."
         },
         {
           "word": "active",
@@ -379,7 +435,9 @@
           "ipa_us": "/ˈæktɪv/",
           "audio_uk": "audio/uk/active.mp3",
           "audio_us": "audio/us/active.mp3",
-          "meaning": "năng động"
+          "meaning": "năng động",
+          "example": "He's very active. He plays sports every day.",
+          "example_vi": "Bạn ấy rất năng động. Ngày nào bạn ấy cũng chơi thể thao."
         },
         {
           "word": "clever",
@@ -389,7 +447,8 @@
           "audio_uk": "audio/uk/clever.mp3",
           "audio_us": "audio/us/clever.mp3",
           "meaning": "thông minh, lanh lợi",
-          "example": "What's she like? She's clever."
+          "example": "What's she like? She's clever.",
+          "example_vi": "Bạn ấy là người như thế nào? Bạn ấy thông minh."
         },
         {
           "word": "friendly",
@@ -398,7 +457,9 @@
           "ipa_us": "/ˈfrendli/",
           "audio_uk": "audio/uk/friendly.mp3",
           "audio_us": "audio/us/friendly.mp3",
-          "meaning": "thân thiện"
+          "meaning": "thân thiện",
+          "example": "My foreign friends are very friendly.",
+          "example_vi": "Những người bạn nước ngoài của mình rất thân thiện."
         },
         {
           "word": "helpful",
@@ -407,7 +468,9 @@
           "ipa_us": "/ˈhelpfəl/",
           "audio_uk": "audio/uk/helpful.mp3",
           "audio_us": "audio/us/helpful.mp3",
-          "meaning": "hay giúp đỡ"
+          "meaning": "hay giúp đỡ",
+          "example": "Tony is helpful. He helps his friends.",
+          "example_vi": "Tony rất hay giúp đỡ. Bạn ấy giúp đỡ bạn bè."
         },
         {
           "word": "kind",
@@ -416,7 +479,9 @@
           "ipa_us": "/kaɪnd/",
           "audio_uk": "audio/uk/kind.mp3",
           "audio_us": "audio/us/kind.mp3",
-          "meaning": "tốt bụng"
+          "meaning": "tốt bụng",
+          "example": "Mary is kind to everyone.",
+          "example_vi": "Mary tốt bụng với tất cả mọi người."
         }
       ]
     },
@@ -439,7 +504,8 @@
           "audio_uk": "audio/uk/free-time.mp3",
           "audio_us": "audio/us/free-time.mp3",
           "meaning": "thời gian rảnh",
-          "example": "What do you do in your free time?"
+          "example": "What do you do in your free time?",
+          "example_vi": "Bạn làm gì vào thời gian rảnh?"
         },
         {
           "word": "surf the Internet",
@@ -448,7 +514,9 @@
           "ipa_us": "/ˌsɝːf ði ˈɪntɚnet/",
           "audio_uk": "audio/uk/surf-the-internet.mp3",
           "audio_us": "audio/us/surf-the-internet.mp3",
-          "meaning": "lướt mạng"
+          "meaning": "lướt mạng",
+          "example": "I surf the Internet in my free time.",
+          "example_vi": "Mình lướt mạng vào thời gian rảnh."
         },
         {
           "word": "water the flowers",
@@ -457,7 +525,9 @@
           "ipa_us": "/ˌwɑːtɚ ðə ˈflaʊɚz/",
           "audio_uk": "audio/uk/water-the-flowers.mp3",
           "audio_us": "audio/us/water-the-flowers.mp3",
-          "meaning": "tưới hoa"
+          "meaning": "tưới hoa",
+          "example": "I water the flowers in the morning.",
+          "example_vi": "Mình tưới hoa vào buổi sáng."
         },
         {
           "word": "go for a walk",
@@ -466,7 +536,9 @@
           "ipa_us": "/ˌɡoʊ fɚ ə ˈwɑːk/",
           "audio_uk": "audio/uk/go-for-a-walk.mp3",
           "audio_us": "audio/us/go-for-a-walk.mp3",
-          "meaning": "đi dạo"
+          "meaning": "đi dạo",
+          "example": "We go for a walk after dinner.",
+          "example_vi": "Chúng mình đi dạo sau bữa tối."
         },
         {
           "word": "ride a bike",
@@ -476,7 +548,8 @@
           "audio_uk": "audio/uk/ride-a-bike.mp3",
           "audio_us": "audio/us/ride-a-bike.mp3",
           "meaning": "đạp xe",
-          "example": "I often ride my bike."
+          "example": "I often ride my bike.",
+          "example_vi": "Mình thường đạp xe."
         },
         {
           "word": "always",
@@ -485,7 +558,9 @@
           "ipa_us": "/ˈɑːlweɪz/",
           "audio_uk": "audio/uk/always.mp3",
           "audio_us": "audio/us/always.mp3",
-          "meaning": "luôn luôn"
+          "meaning": "luôn luôn",
+          "example": "I always do my homework after school.",
+          "example_vi": "Mình luôn luôn làm bài tập về nhà sau giờ học."
         },
         {
           "word": "usually",
@@ -494,7 +569,9 @@
           "ipa_us": "/ˈjuːʒəli/",
           "audio_uk": "audio/uk/usually.mp3",
           "audio_us": "audio/us/usually.mp3",
-          "meaning": "thường xuyên"
+          "meaning": "thường xuyên",
+          "example": "She usually reads books in the evening.",
+          "example_vi": "Bạn ấy thường xuyên đọc sách vào buổi tối."
         },
         {
           "word": "often",
@@ -503,7 +580,9 @@
           "ipa_us": "/ˈɑːfən/",
           "audio_uk": "audio/uk/often.mp3",
           "audio_us": "audio/us/often.mp3",
-          "meaning": "thường"
+          "meaning": "thường",
+          "example": "We often play football at the weekend.",
+          "example_vi": "Chúng mình thường chơi bóng đá vào cuối tuần."
         },
         {
           "word": "sometimes",
@@ -512,7 +591,9 @@
           "ipa_us": "/ˈsʌmtaɪmz/",
           "audio_uk": "audio/uk/sometimes.mp3",
           "audio_us": "audio/us/sometimes.mp3",
-          "meaning": "thỉnh thoảng"
+          "meaning": "thỉnh thoảng",
+          "example": "I sometimes go fishing with my dad.",
+          "example_vi": "Thỉnh thoảng mình đi câu cá với bố."
         },
         {
           "word": "never",
@@ -521,7 +602,9 @@
           "ipa_us": "/ˈnevɚ/",
           "audio_uk": "audio/uk/never.mp3",
           "audio_us": "audio/us/never.mp3",
-          "meaning": "không bao giờ"
+          "meaning": "không bao giờ",
+          "example": "He never watches TV in the morning.",
+          "example_vi": "Bạn ấy không bao giờ xem ti vi vào buổi sáng."
         }
       ]
     },
@@ -545,7 +628,8 @@
           "audio_uk": "audio/uk/future.mp3",
           "audio_us": "audio/us/future.mp3",
           "meaning": "tương lai",
-          "example": "What would you like to be in the future?"
+          "example": "What would you like to be in the future?",
+          "example_vi": "Bạn muốn làm nghề gì trong tương lai?"
         },
         {
           "word": "job",
@@ -554,7 +638,9 @@
           "ipa_us": "/dʒɑːb/",
           "audio_uk": "audio/uk/job.mp3",
           "audio_us": "audio/us/job.mp3",
-          "meaning": "công việc, nghề nghiệp"
+          "meaning": "công việc, nghề nghiệp",
+          "example": "What's your father's job?",
+          "example_vi": "Bố bạn làm nghề gì?"
         },
         {
           "word": "firefighter",
@@ -563,7 +649,9 @@
           "ipa_us": "/ˈfaɪrfaɪtɚ/",
           "audio_uk": "audio/uk/firefighter.mp3",
           "audio_us": "audio/us/firefighter.mp3",
-          "meaning": "lính cứu hỏa"
+          "meaning": "lính cứu hỏa",
+          "example": "I'd like to be a firefighter.",
+          "example_vi": "Mình muốn trở thành lính cứu hỏa."
         },
         {
           "word": "gardener",
@@ -572,7 +660,9 @@
           "ipa_us": "/ˈɡɑːrdənɚ/",
           "audio_uk": "audio/uk/gardener.mp3",
           "audio_us": "audio/us/gardener.mp3",
-          "meaning": "người làm vườn"
+          "meaning": "người làm vườn",
+          "example": "My uncle is a gardener.",
+          "example_vi": "Chú mình là người làm vườn."
         },
         {
           "word": "reporter",
@@ -582,7 +672,8 @@
           "audio_uk": "audio/uk/reporter.mp3",
           "audio_us": "audio/us/reporter.mp3",
           "meaning": "phóng viên",
-          "example": "I'd like to be a reporter."
+          "example": "I'd like to be a reporter.",
+          "example_vi": "Mình muốn trở thành phóng viên."
         },
         {
           "word": "writer",
@@ -591,7 +682,9 @@
           "ipa_us": "/ˈraɪtɚ/",
           "audio_uk": "audio/uk/writer.mp3",
           "audio_us": "audio/us/writer.mp3",
-          "meaning": "nhà văn"
+          "meaning": "nhà văn",
+          "example": "She'd like to be a writer.",
+          "example_vi": "Bạn ấy muốn trở thành nhà văn."
         },
         {
           "word": "farmer",
@@ -600,7 +693,9 @@
           "ipa_us": "/ˈfɑːrmɚ/",
           "audio_uk": "audio/uk/farmer-n.mp3",
           "audio_us": "audio/us/farmer-n.mp3",
-          "meaning": "nông dân"
+          "meaning": "nông dân",
+          "example": "A farmer works on a farm.",
+          "example_vi": "Người nông dân làm việc ở trang trại."
         },
         {
           "word": "teacher",
@@ -609,7 +704,9 @@
           "ipa_us": "/ˈtiːtʃɚ/",
           "audio_uk": "audio/uk/teacher.mp3",
           "audio_us": "audio/us/teacher.mp3",
-          "meaning": "giáo viên"
+          "meaning": "giáo viên",
+          "example": "My mother is a teacher.",
+          "example_vi": "Mẹ mình là giáo viên."
         },
         {
           "word": "put out fires",
@@ -619,7 +716,8 @@
           "audio_uk": "audio/uk/put-out-fires.mp3",
           "audio_us": "audio/us/put-out-fires.mp3",
           "meaning": "dập lửa",
-          "example": "A firefighter puts out fires."
+          "example": "A firefighter puts out fires.",
+          "example_vi": "Lính cứu hỏa dập lửa."
         },
         {
           "word": "save people",
@@ -628,7 +726,9 @@
           "ipa_us": "/ˌseɪv ˈpiːpəl/",
           "audio_uk": "audio/uk/save-people.mp3",
           "audio_us": "audio/us/save-people.mp3",
-          "meaning": "cứu người"
+          "meaning": "cứu người",
+          "example": "I'd like to be a doctor to save people.",
+          "example_vi": "Mình muốn trở thành bác sĩ để cứu người."
         },
         {
           "word": "grow vegetables",
@@ -637,7 +737,9 @@
           "ipa_us": "/ˌɡroʊ ˈvedʒtəbəlz/",
           "audio_uk": "audio/uk/grow-vegetables.mp3",
           "audio_us": "audio/us/grow-vegetables.mp3",
-          "meaning": "trồng rau"
+          "meaning": "trồng rau",
+          "example": "Farmers grow vegetables.",
+          "example_vi": "Những người nông dân trồng rau."
         },
         {
           "word": "write stories",
@@ -646,7 +748,9 @@
           "ipa_us": "/ˌraɪt ˈstɔːriz/",
           "audio_uk": "audio/uk/write-stories.mp3",
           "audio_us": "audio/us/write-stories.mp3",
-          "meaning": "viết truyện"
+          "meaning": "viết truyện",
+          "example": "I'd like to write stories for children.",
+          "example_vi": "Mình muốn viết truyện cho trẻ em."
         }
       ]
     },
@@ -669,7 +773,8 @@
           "audio_uk": "audio/uk/floor-n.mp3",
           "audio_us": "audio/us/floor-n.mp3",
           "meaning": "tầng",
-          "example": "The library is on the second floor."
+          "example": "The library is on the second floor.",
+          "example_vi": "Thư viện ở tầng hai."
         },
         {
           "word": "ground floor",
@@ -678,7 +783,9 @@
           "ipa_us": "/ˌɡraʊnd ˈflɔːr/",
           "audio_uk": "audio/uk/ground-floor.mp3",
           "audio_us": "audio/us/ground-floor.mp3",
-          "meaning": "tầng trệt"
+          "meaning": "tầng trệt",
+          "example": "The music room is on the ground floor.",
+          "example_vi": "Phòng âm nhạc ở tầng trệt."
         },
         {
           "word": "first floor",
@@ -687,7 +794,9 @@
           "ipa_us": "/ˌfɝːst ˈflɔːr/",
           "audio_uk": "audio/uk/first-floor.mp3",
           "audio_us": "audio/us/first-floor.mp3",
-          "meaning": "tầng một"
+          "meaning": "tầng một",
+          "example": "The art room is on the first floor.",
+          "example_vi": "Phòng mỹ thuật ở tầng một."
         },
         {
           "word": "second floor",
@@ -696,7 +805,9 @@
           "ipa_us": "/ˌsekənd ˈflɔːr/",
           "audio_uk": "audio/uk/second-floor.mp3",
           "audio_us": "audio/us/second-floor.mp3",
-          "meaning": "tầng hai"
+          "meaning": "tầng hai",
+          "example": "My classroom is on the second floor.",
+          "example_vi": "Lớp học của mình ở tầng hai."
         },
         {
           "word": "art room",
@@ -705,7 +816,9 @@
           "ipa_us": "/ˈɑːrt ruːm/",
           "audio_uk": "audio/uk/art-room.mp3",
           "audio_us": "audio/us/art-room.mp3",
-          "meaning": "phòng mỹ thuật"
+          "meaning": "phòng mỹ thuật",
+          "example": "We draw pictures in the art room.",
+          "example_vi": "Chúng mình vẽ tranh trong phòng mỹ thuật."
         },
         {
           "word": "computer room",
@@ -714,7 +827,9 @@
           "ipa_us": "/kəmˈpjuːtɚ ruːm/",
           "audio_uk": "audio/uk/computer-room.mp3",
           "audio_us": "audio/us/computer-room.mp3",
-          "meaning": "phòng máy tính"
+          "meaning": "phòng máy tính",
+          "example": "Where's the computer room?",
+          "example_vi": "Phòng máy tính ở đâu?"
         },
         {
           "word": "music room",
@@ -723,7 +838,9 @@
           "ipa_us": "/ˈmjuːzɪk ruːm/",
           "audio_uk": "audio/uk/music-room.mp3",
           "audio_us": "audio/us/music-room.mp3",
-          "meaning": "phòng âm nhạc"
+          "meaning": "phòng âm nhạc",
+          "example": "We sing songs in the music room.",
+          "example_vi": "Chúng mình hát trong phòng âm nhạc."
         },
         {
           "word": "library",
@@ -732,7 +849,9 @@
           "ipa_us": "/ˈlaɪbreriː/",
           "audio_uk": "audio/uk/library.mp3",
           "audio_us": "audio/us/library.mp3",
-          "meaning": "thư viện"
+          "meaning": "thư viện",
+          "example": "I read books in the library.",
+          "example_vi": "Mình đọc sách trong thư viện."
         },
         {
           "word": "corridor",
@@ -741,7 +860,9 @@
           "ipa_us": "/ˈkɔːrɪdɚ/",
           "audio_uk": "audio/uk/corridor.mp3",
           "audio_us": "audio/us/corridor.mp3",
-          "meaning": "hành lang"
+          "meaning": "hành lang",
+          "example": "Don't run in the corridor.",
+          "example_vi": "Đừng chạy ngoài hành lang."
         },
         {
           "word": "go along",
@@ -751,7 +872,8 @@
           "audio_uk": "audio/uk/go-along.mp3",
           "audio_us": "audio/us/go-along.mp3",
           "meaning": "đi dọc theo",
-          "example": "Go along the corridor."
+          "example": "Go along the corridor.",
+          "example_vi": "Hãy đi dọc theo hành lang."
         },
         {
           "word": "go past",
@@ -761,7 +883,8 @@
           "audio_uk": "audio/uk/go-past.mp3",
           "audio_us": "audio/us/go-past.mp3",
           "meaning": "đi qua, đi ngang qua",
-          "example": "Go past the computer room."
+          "example": "Go past the computer room.",
+          "example_vi": "Hãy đi ngang qua phòng máy tính."
         },
         {
           "word": "turn left",
@@ -770,7 +893,9 @@
           "ipa_us": "/ˌtɝːn ˈleft/",
           "audio_uk": "audio/uk/turn-left.mp3",
           "audio_us": "audio/us/turn-left.mp3",
-          "meaning": "rẽ trái"
+          "meaning": "rẽ trái",
+          "example": "Turn left. The library is there.",
+          "example_vi": "Rẽ trái. Thư viện ở đó."
         },
         {
           "word": "turn right",
@@ -779,7 +904,9 @@
           "ipa_us": "/ˌtɝːn ˈraɪt/",
           "audio_uk": "audio/uk/turn-right.mp3",
           "audio_us": "audio/us/turn-right.mp3",
-          "meaning": "rẽ phải"
+          "meaning": "rẽ phải",
+          "example": "Turn right and go upstairs.",
+          "example_vi": "Rẽ phải rồi đi lên tầng trên."
         },
         {
           "word": "downstairs",
@@ -788,7 +915,9 @@
           "ipa_us": "/ˌdaʊnˈsterz/",
           "audio_uk": "audio/uk/downstairs.mp3",
           "audio_us": "audio/us/downstairs.mp3",
-          "meaning": "ở tầng dưới, xuống tầng dưới"
+          "meaning": "ở tầng dưới, xuống tầng dưới",
+          "example": "The gym is downstairs.",
+          "example_vi": "Phòng thể dục ở tầng dưới."
         },
         {
           "word": "upstairs",
@@ -797,7 +926,9 @@
           "ipa_us": "/əpˈsterz/",
           "audio_uk": "audio/uk/upstairs.mp3",
           "audio_us": "audio/us/upstairs.mp3",
-          "meaning": "ở tầng trên, lên tầng trên"
+          "meaning": "ở tầng trên, lên tầng trên",
+          "example": "Go upstairs. The art room is on the right.",
+          "example_vi": "Hãy đi lên tầng trên. Phòng mỹ thuật ở bên phải."
         }
       ]
     },
@@ -819,7 +950,9 @@
           "ipa_us": "/ˌskuːl ækˈtɪvəti/",
           "audio_uk": "audio/uk/school-activity.mp3",
           "audio_us": "audio/us/school-activity.mp3",
-          "meaning": "hoạt động ở trường"
+          "meaning": "hoạt động ở trường",
+          "example": "What's your favourite school activity?",
+          "example_vi": "Hoạt động ở trường mà bạn yêu thích là gì?"
         },
         {
           "word": "do projects",
@@ -829,7 +962,8 @@
           "audio_uk": "audio/uk/do-projects.mp3",
           "audio_us": "audio/us/do-projects.mp3",
           "meaning": "làm dự án",
-          "example": "I like doing projects."
+          "example": "I like doing projects.",
+          "example_vi": "Mình thích làm dự án."
         },
         {
           "word": "solve maths problems",
@@ -838,7 +972,9 @@
           "ipa_us": "/ˌsɑːlv ˈmæθs ˌprɑːbləmz/",
           "audio_uk": "audio/uk/solve-maths-problems.mp3",
           "audio_us": "audio/us/solve-maths-problems.mp3",
-          "meaning": "giải toán"
+          "meaning": "giải toán",
+          "example": "I like solving maths problems.",
+          "example_vi": "Mình thích giải toán."
         },
         {
           "word": "do puzzles",
@@ -847,7 +983,9 @@
           "ipa_us": "/ˌduː ˈpʌzəlz/",
           "audio_uk": "audio/uk/do-puzzles.mp3",
           "audio_us": "audio/us/do-puzzles.mp3",
-          "meaning": "giải câu đố"
+          "meaning": "giải câu đố",
+          "example": "We do puzzles in the English lesson.",
+          "example_vi": "Chúng mình giải câu đố trong giờ tiếng Anh."
         },
         {
           "word": "read books",
@@ -856,7 +994,9 @@
           "ipa_us": "/ˌriːd ˈbʊks/",
           "audio_uk": "audio/uk/read-books.mp3",
           "audio_us": "audio/us/read-books.mp3",
-          "meaning": "đọc sách"
+          "meaning": "đọc sách",
+          "example": "I like reading books in the library.",
+          "example_vi": "Mình thích đọc sách trong thư viện."
         },
         {
           "word": "useful",
@@ -866,7 +1006,8 @@
           "audio_uk": "audio/uk/useful.mp3",
           "audio_us": "audio/us/useful.mp3",
           "meaning": "hữu ích",
-          "example": "It's useful."
+          "example": "It's useful.",
+          "example_vi": "Nó rất hữu ích."
         },
         {
           "word": "fun",
@@ -875,7 +1016,9 @@
           "ipa_us": "/fʌn/",
           "audio_uk": "audio/uk/fun.mp3",
           "audio_us": "audio/us/fun.mp3",
-          "meaning": "vui"
+          "meaning": "vui",
+          "example": "Doing puzzles is fun.",
+          "example_vi": "Giải câu đố rất vui."
         },
         {
           "word": "interesting",
@@ -884,7 +1027,9 @@
           "ipa_us": "/ˈɪntrəstɪŋ/",
           "audio_uk": "audio/uk/interesting.mp3",
           "audio_us": "audio/us/interesting.mp3",
-          "meaning": "thú vị"
+          "meaning": "thú vị",
+          "example": "This book is very interesting.",
+          "example_vi": "Cuốn sách này rất thú vị."
         }
       ]
     },
@@ -908,7 +1053,8 @@
           "audio_uk": "audio/uk/whose.mp3",
           "audio_us": "audio/us/whose.mp3",
           "meaning": "của ai",
-          "example": "Whose glue stick is this?"
+          "example": "Whose glue stick is this?",
+          "example_vi": "Thỏi keo dán này là của ai?"
         },
         {
           "word": "glue stick",
@@ -917,7 +1063,9 @@
           "ipa_us": "/ˈɡluː stɪk/",
           "audio_uk": "audio/uk/glue-stick.mp3",
           "audio_us": "audio/us/glue-stick.mp3",
-          "meaning": "keo dán dạng thỏi"
+          "meaning": "keo dán dạng thỏi",
+          "example": "Can I use your glue stick?",
+          "example_vi": "Mình dùng thỏi keo dán của bạn được không?"
         },
         {
           "word": "school bag",
@@ -926,7 +1074,9 @@
           "ipa_us": "/ˈskuːl bæɡ/",
           "audio_uk": "audio/uk/school-bag.mp3",
           "audio_us": "audio/us/school-bag.mp3",
-          "meaning": "cặp sách"
+          "meaning": "cặp sách",
+          "example": "My school bag is on the desk.",
+          "example_vi": "Cặp sách của mình ở trên bàn."
         },
         {
           "word": "crayon",
@@ -935,7 +1085,9 @@
           "ipa_us": "/ˈkreɪɑːn/",
           "audio_uk": "audio/uk/crayon.mp3",
           "audio_us": "audio/us/crayon.mp3",
-          "meaning": "bút sáp màu"
+          "meaning": "bút sáp màu",
+          "example": "Whose crayons are these?",
+          "example_vi": "Những chiếc bút sáp màu này là của ai?"
         },
         {
           "word": "pencil box",
@@ -944,7 +1096,9 @@
           "ipa_us": "/ˈpensəl bɑːks/",
           "audio_uk": "audio/uk/pencil-box.mp3",
           "audio_us": "audio/us/pencil-box.mp3",
-          "meaning": "hộp bút"
+          "meaning": "hộp bút",
+          "example": "My pencil box is blue.",
+          "example_vi": "Hộp bút của mình màu xanh dương."
         },
         {
           "word": "pencil",
@@ -953,7 +1107,9 @@
           "ipa_us": "/ˈpensəl/",
           "audio_uk": "audio/uk/pencil.mp3",
           "audio_us": "audio/us/pencil.mp3",
-          "meaning": "bút chì"
+          "meaning": "bút chì",
+          "example": "The pencil is in the pencil box.",
+          "example_vi": "Chiếc bút chì ở trong hộp bút."
         },
         {
           "word": "eraser",
@@ -962,7 +1118,9 @@
           "ipa_us": "/ɪˈreɪsɚ/",
           "audio_uk": "audio/uk/eraser-n.mp3",
           "audio_us": "audio/us/eraser-n.mp3",
-          "meaning": "cục tẩy"
+          "meaning": "cục tẩy",
+          "example": "Is this your eraser?",
+          "example_vi": "Đây có phải cục tẩy của bạn không?"
         },
         {
           "word": "notebook",
@@ -971,7 +1129,9 @@
           "ipa_us": "/ˈnoʊtbʊk/",
           "audio_uk": "audio/uk/notebook.mp3",
           "audio_us": "audio/us/notebook.mp3",
-          "meaning": "vở, sổ ghi chép"
+          "meaning": "vở, sổ ghi chép",
+          "example": "Write the words in your notebook.",
+          "example_vi": "Hãy viết các từ vào vở của em."
         },
         {
           "word": "next to",
@@ -981,7 +1141,8 @@
           "audio_uk": "audio/uk/next-to.mp3",
           "audio_us": "audio/us/next-to.mp3",
           "meaning": "bên cạnh",
-          "example": "The glue is next to the school bag."
+          "example": "The glue is next to the school bag.",
+          "example_vi": "Lọ keo ở bên cạnh cặp sách."
         },
         {
           "word": "beside",
@@ -990,7 +1151,9 @@
           "ipa_us": "/bɪˈsaɪd/",
           "audio_uk": "audio/uk/beside.mp3",
           "audio_us": "audio/us/beside.mp3",
-          "meaning": "bên cạnh"
+          "meaning": "bên cạnh",
+          "example": "My eraser is beside my notebook.",
+          "example_vi": "Cục tẩy của mình ở bên cạnh quyển vở."
         },
         {
           "word": "behind",
@@ -999,7 +1162,9 @@
           "ipa_us": "/bɪˈhaɪnd/",
           "audio_uk": "audio/uk/behind.mp3",
           "audio_us": "audio/us/behind.mp3",
-          "meaning": "phía sau"
+          "meaning": "phía sau",
+          "example": "The map is behind the door.",
+          "example_vi": "Tấm bản đồ ở phía sau cánh cửa."
         },
         {
           "word": "in front of",
@@ -1008,7 +1173,9 @@
           "ipa_us": "/ɪn ˈfrʌnt əv/",
           "audio_uk": "audio/uk/in-front-of.mp3",
           "audio_us": "audio/us/in-front-of.mp3",
-          "meaning": "phía trước"
+          "meaning": "phía trước",
+          "example": "The bin is in front of the board.",
+          "example_vi": "Thùng rác ở phía trước bảng."
         }
       ]
     },
@@ -1030,7 +1197,9 @@
           "ipa_us": "/ˈaʊtdɔːr/",
           "audio_uk": "audio/uk/outdoor.mp3",
           "audio_us": "audio/us/outdoor.mp3",
-          "meaning": "ngoài trời"
+          "meaning": "ngoài trời",
+          "example": "I like outdoor activities.",
+          "example_vi": "Mình thích các hoạt động ngoài trời."
         },
         {
           "word": "campsite",
@@ -1040,7 +1209,8 @@
           "audio_uk": "audio/uk/campsite.mp3",
           "audio_us": "audio/us/campsite.mp3",
           "meaning": "khu cắm trại",
-          "example": "We were at the campsite."
+          "example": "We were at the campsite.",
+          "example_vi": "Chúng mình đã ở khu cắm trại."
         },
         {
           "word": "sports centre",
@@ -1049,7 +1219,9 @@
           "ipa_us": "/ˈspɔːrts ˌsentɚ/",
           "audio_uk": "audio/uk/sports-centre.mp3",
           "audio_us": "audio/us/sports-centre.mp3",
-          "meaning": "trung tâm thể thao"
+          "meaning": "trung tâm thể thao",
+          "example": "I was at the sports centre yesterday.",
+          "example_vi": "Hôm qua mình đã ở trung tâm thể thao."
         },
         {
           "word": "funfair",
@@ -1058,7 +1230,9 @@
           "ipa_us": "/ˈfʌnfer/",
           "audio_uk": "audio/uk/funfair.mp3",
           "audio_us": "audio/us/funfair.mp3",
-          "meaning": "khu vui chơi, hội chợ giải trí"
+          "meaning": "khu vui chơi, hội chợ giải trí",
+          "example": "We had fun at the funfair.",
+          "example_vi": "Chúng mình đã chơi rất vui ở khu vui chơi."
         },
         {
           "word": "zoo",
@@ -1067,7 +1241,9 @@
           "ipa_us": "/zuː/",
           "audio_uk": "audio/uk/zoo.mp3",
           "audio_us": "audio/us/zoo.mp3",
-          "meaning": "vườn thú"
+          "meaning": "vườn thú",
+          "example": "We saw elephants at the zoo.",
+          "example_vi": "Chúng mình đã xem voi ở vườn thú."
         },
         {
           "word": "park",
@@ -1076,7 +1252,9 @@
           "ipa_us": "/pɑːrk/",
           "audio_uk": "audio/uk/park.mp3",
           "audio_us": "audio/us/park.mp3",
-          "meaning": "công viên"
+          "meaning": "công viên",
+          "example": "They played football in the park.",
+          "example_vi": "Các bạn ấy đã chơi bóng đá trong công viên."
         },
         {
           "word": "play basketball",
@@ -1086,7 +1264,8 @@
           "audio_uk": "audio/uk/play-basketball.mp3",
           "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
-          "example": "My brother played basketball at the sports centre."
+          "example": "My brother played basketball at the sports centre.",
+          "example_vi": "Anh trai mình đã chơi bóng rổ ở trung tâm thể thao."
         },
         {
           "word": "last weekend",
@@ -1095,7 +1274,9 @@
           "ipa_us": "/ˌlæst ˈwiːkend/",
           "audio_uk": "audio/uk/last-weekend.mp3",
           "audio_us": "audio/us/last-weekend.mp3",
-          "meaning": "cuối tuần trước"
+          "meaning": "cuối tuần trước",
+          "example": "Where were you last weekend?",
+          "example_vi": "Cuối tuần trước bạn đã ở đâu?"
         },
         {
           "word": "yesterday",
@@ -1104,7 +1285,9 @@
           "ipa_us": "/ˈjestɚdeɪ/",
           "audio_uk": "audio/uk/yesterday.mp3",
           "audio_us": "audio/us/yesterday.mp3",
-          "meaning": "hôm qua"
+          "meaning": "hôm qua",
+          "example": "I went to the park yesterday.",
+          "example_vi": "Hôm qua mình đã đi công viên."
         }
       ]
     },
@@ -1126,7 +1309,9 @@
           "ipa_us": "/ˈskuːl trɪp/",
           "audio_uk": "audio/uk/school-trip.mp3",
           "audio_us": "audio/us/school-trip.mp3",
-          "meaning": "chuyến đi của trường"
+          "meaning": "chuyến đi của trường",
+          "example": "Did you enjoy the school trip?",
+          "example_vi": "Bạn có thích chuyến đi của trường không?"
         },
         {
           "word": "visit",
@@ -1136,7 +1321,8 @@
           "audio_uk": "audio/uk/visit.mp3",
           "audio_us": "audio/us/visit.mp3",
           "meaning": "thăm, tham quan",
-          "example": "We visited a farm near our school."
+          "example": "We visited a farm near our school.",
+          "example_vi": "Chúng mình đã tham quan một trang trại gần trường."
         },
         {
           "word": "farm",
@@ -1145,7 +1331,9 @@
           "ipa_us": "/fɑːrm/",
           "audio_uk": "audio/uk/farm.mp3",
           "audio_us": "audio/us/farm.mp3",
-          "meaning": "trang trại"
+          "meaning": "trang trại",
+          "example": "We fed the cows on the farm.",
+          "example_vi": "Chúng mình đã cho bò ăn ở trang trại."
         },
         {
           "word": "Bai Dinh Pagoda",
@@ -1154,7 +1342,9 @@
           "ipa_us": "/ˌbaɪ ˈdɪn pəˈɡoʊdə/",
           "audio_uk": "audio/uk/bai-dinh-pagoda.mp3",
           "audio_us": "audio/us/bai-dinh-pagoda.mp3",
-          "meaning": "chùa Bái Đính"
+          "meaning": "chùa Bái Đính",
+          "example": "We visited Bai Dinh Pagoda last month.",
+          "example_vi": "Tháng trước chúng mình đã tham quan chùa Bái Đính."
         },
         {
           "word": "Ba Na Hills",
@@ -1163,7 +1353,9 @@
           "ipa_us": "/ˌbɑː ˈnɑː ˈhɪlz/",
           "audio_uk": "audio/uk/ba-na-hills.mp3",
           "audio_us": "audio/us/ba-na-hills.mp3",
-          "meaning": "Bà Nà Hills"
+          "meaning": "Bà Nà Hills",
+          "example": "Our class went to Ba Na Hills.",
+          "example_vi": "Lớp mình đã đi Bà Nà Hills."
         },
         {
           "word": "Hoan Kiem Lake",
@@ -1172,7 +1364,9 @@
           "ipa_us": "/ˌhwɑːn ˈkiːm ˈleɪk/",
           "audio_uk": "audio/uk/hoan-kiem-lake.mp3",
           "audio_us": "audio/us/hoan-kiem-lake.mp3",
-          "meaning": "hồ Hoàn Kiếm"
+          "meaning": "hồ Hoàn Kiếm",
+          "example": "We walked around Hoan Kiem Lake.",
+          "example_vi": "Chúng mình đã đi bộ quanh hồ Hoàn Kiếm."
         },
         {
           "word": "take photos",
@@ -1181,7 +1375,9 @@
           "ipa_us": "/ˌteɪk ˈfoʊtoʊz/",
           "audio_uk": "audio/uk/take-photos.mp3",
           "audio_us": "audio/us/take-photos.mp3",
-          "meaning": "chụp ảnh"
+          "meaning": "chụp ảnh",
+          "example": "We took photos at the farm.",
+          "example_vi": "Chúng mình đã chụp ảnh ở trang trại."
         }
       ]
     },
@@ -1203,7 +1399,9 @@
           "ipa_us": "/ˈfæməli/",
           "audio_uk": "audio/uk/family.mp3",
           "audio_us": "audio/us/family.mp3",
-          "meaning": "gia đình"
+          "meaning": "gia đình",
+          "example": "My family went to the beach last summer.",
+          "example_vi": "Mùa hè năm ngoái gia đình mình đã đi biển."
         },
         {
           "word": "beach",
@@ -1212,7 +1410,9 @@
           "ipa_us": "/biːtʃ/",
           "audio_uk": "audio/uk/beach.mp3",
           "audio_us": "audio/us/beach.mp3",
-          "meaning": "bãi biển"
+          "meaning": "bãi biển",
+          "example": "We played on the beach all day.",
+          "example_vi": "Chúng mình đã chơi trên bãi biển cả ngày."
         },
         {
           "word": "buy souvenirs",
@@ -1221,7 +1421,9 @@
           "ipa_us": "/ˌbaɪ ˌsuːvəˈnɪrz/",
           "audio_uk": "audio/uk/buy-souvenirs.mp3",
           "audio_us": "audio/us/buy-souvenirs.mp3",
-          "meaning": "mua quà lưu niệm"
+          "meaning": "mua quà lưu niệm",
+          "example": "My mum bought souvenirs for our friends.",
+          "example_vi": "Mẹ mình đã mua quà lưu niệm cho bạn bè."
         },
         {
           "word": "collect seashells",
@@ -1230,7 +1432,9 @@
           "ipa_us": "/kəˌlekt ˈsiːʃelz/",
           "audio_uk": "audio/uk/collect-seashells.mp3",
           "audio_us": "audio/us/collect-seashells.mp3",
-          "meaning": "nhặt vỏ sò"
+          "meaning": "nhặt vỏ sò",
+          "example": "I collected seashells with my sister.",
+          "example_vi": "Mình đã nhặt vỏ sò cùng em gái."
         },
         {
           "word": "walk on the beach",
@@ -1239,7 +1443,9 @@
           "ipa_us": "/ˌwɑːk ɑːn ðə ˈbiːtʃ/",
           "audio_uk": "audio/uk/walk-on-the-beach.mp3",
           "audio_us": "audio/us/walk-on-the-beach.mp3",
-          "meaning": "đi dạo trên bãi biển"
+          "meaning": "đi dạo trên bãi biển",
+          "example": "We walked on the beach in the evening.",
+          "example_vi": "Chúng mình đã đi dạo trên bãi biển vào buổi tối."
         },
         {
           "word": "build sandcastles",
@@ -1248,7 +1454,9 @@
           "ipa_us": "/ˌbɪld ˈsændkæslz/",
           "audio_uk": "audio/uk/build-sandcastles.mp3",
           "audio_us": "audio/us/build-sandcastles.mp3",
-          "meaning": "xây lâu đài cát"
+          "meaning": "xây lâu đài cát",
+          "example": "The children built sandcastles.",
+          "example_vi": "Bọn trẻ đã xây lâu đài cát."
         },
         {
           "word": "swim in the sea",
@@ -1257,7 +1465,9 @@
           "ipa_us": "/ˌswɪm ɪn ðə ˈsiː/",
           "audio_uk": "audio/uk/swim-in-the-sea.mp3",
           "audio_us": "audio/us/swim-in-the-sea.mp3",
-          "meaning": "bơi ở biển"
+          "meaning": "bơi ở biển",
+          "example": "Did you swim in the sea?",
+          "example_vi": "Bạn có bơi ở biển không?"
         }
       ]
     },
@@ -1279,7 +1489,9 @@
           "ipa_us": "/tet/",
           "audio_uk": "audio/uk/tet.mp3",
           "audio_us": "audio/us/tet.mp3",
-          "meaning": "Tết"
+          "meaning": "Tết",
+          "example": "We have a lot of fun at Tet.",
+          "example_vi": "Chúng mình có rất nhiều niềm vui vào dịp Tết."
         },
         {
           "word": "buy peach blossoms",
@@ -1288,7 +1500,9 @@
           "ipa_us": "/ˌbaɪ ˈpiːtʃ ˌblɑːsəmz/",
           "audio_uk": "audio/uk/buy-peach-blossoms.mp3",
           "audio_us": "audio/us/buy-peach-blossoms.mp3",
-          "meaning": "mua cành đào"
+          "meaning": "mua cành đào",
+          "example": "My parents buy peach blossoms before Tet.",
+          "example_vi": "Bố mẹ mình mua cành đào trước Tết."
         },
         {
           "word": "make banh chung",
@@ -1297,7 +1511,9 @@
           "ipa_us": "/ˌmeɪk ˌbæn ˈtʃʌŋ/",
           "audio_uk": "audio/uk/make-banh-chung.mp3",
           "audio_us": "audio/us/make-banh-chung.mp3",
-          "meaning": "gói bánh chưng"
+          "meaning": "gói bánh chưng",
+          "example": "We make banh chung with our grandparents.",
+          "example_vi": "Chúng mình gói bánh chưng cùng ông bà."
         },
         {
           "word": "make spring rolls",
@@ -1306,7 +1522,9 @@
           "ipa_us": "/ˌmeɪk ˈsprɪŋ roʊlz/",
           "audio_uk": "audio/uk/make-spring-rolls.mp3",
           "audio_us": "audio/us/make-spring-rolls.mp3",
-          "meaning": "làm nem (chả giò)"
+          "meaning": "làm nem (chả giò)",
+          "example": "My mother makes spring rolls at Tet.",
+          "example_vi": "Mẹ mình làm nem vào dịp Tết."
         },
         {
           "word": "New Year party",
@@ -1315,7 +1533,9 @@
           "ipa_us": "/ˌnuː jɪr ˈpɑːrti/",
           "audio_uk": "audio/uk/new-year-party.mp3",
           "audio_us": "audio/us/new-year-party.mp3",
-          "meaning": "tiệc mừng năm mới"
+          "meaning": "tiệc mừng năm mới",
+          "example": "We had a New Year party at school.",
+          "example_vi": "Chúng mình đã có một bữa tiệc mừng năm mới ở trường."
         },
         {
           "word": "fireworks show",
@@ -1324,7 +1544,9 @@
           "ipa_us": "/ˈfaɪrwɝːks ʃoʊ/",
           "audio_uk": "audio/uk/fireworks-show.mp3",
           "audio_us": "audio/us/fireworks-show.mp3",
-          "meaning": "buổi trình diễn pháo hoa"
+          "meaning": "buổi trình diễn pháo hoa",
+          "example": "The fireworks show was beautiful.",
+          "example_vi": "Buổi trình diễn pháo hoa thật đẹp."
         },
         {
           "word": "watch fireworks",
@@ -1333,7 +1555,9 @@
           "ipa_us": "/ˌwɑːtʃ ˈfaɪrwɝːks/",
           "audio_uk": "audio/uk/watch-fireworks.mp3",
           "audio_us": "audio/us/watch-fireworks.mp3",
-          "meaning": "xem pháo hoa"
+          "meaning": "xem pháo hoa",
+          "example": "We watch fireworks on New Year's Eve.",
+          "example_vi": "Chúng mình xem pháo hoa vào đêm Giao thừa."
         },
         {
           "word": "visit grandparents",
@@ -1342,7 +1566,9 @@
           "ipa_us": "/ˌvɪzɪt ˈɡrændperənts/",
           "audio_uk": "audio/uk/visit-grandparents.mp3",
           "audio_us": "audio/us/visit-grandparents.mp3",
-          "meaning": "thăm ông bà"
+          "meaning": "thăm ông bà",
+          "example": "We visit grandparents on the first day of Tet.",
+          "example_vi": "Chúng mình đi thăm ông bà vào mùng Một Tết."
         },
         {
           "word": "lucky money",
@@ -1351,7 +1577,9 @@
           "ipa_us": "/ˈlʌki ˌmʌni/",
           "audio_uk": "audio/uk/lucky-money.mp3",
           "audio_us": "audio/us/lucky-money.mp3",
-          "meaning": "tiền lì xì"
+          "meaning": "tiền lì xì",
+          "example": "I get lucky money from my grandparents.",
+          "example_vi": "Mình được ông bà lì xì."
         },
         {
           "word": "decorate",
@@ -1360,7 +1588,9 @@
           "ipa_us": "/ˈdekəreɪt/",
           "audio_uk": "audio/uk/decorate.mp3",
           "audio_us": "audio/us/decorate.mp3",
-          "meaning": "trang trí"
+          "meaning": "trang trí",
+          "example": "We decorate our house for Tet.",
+          "example_vi": "Chúng mình trang trí nhà cửa để đón Tết."
         }
       ]
     },
@@ -1382,7 +1612,9 @@
           "ipa_us": "/ˌspeʃəl ˈdeɪ/",
           "audio_uk": "audio/uk/special-day.mp3",
           "audio_us": "audio/us/special-day.mp3",
-          "meaning": "ngày đặc biệt"
+          "meaning": "ngày đặc biệt",
+          "example": "Children's Day is a special day for me.",
+          "example_vi": "Ngày Quốc tế Thiếu nhi là một ngày đặc biệt đối với mình."
         },
         {
           "word": "Mid-Autumn Festival",
@@ -1391,7 +1623,9 @@
           "ipa_us": "/ˌmɪd ˈɑːtəm ˈfestɪvəl/",
           "audio_uk": "audio/uk/mid-autumn-festival.mp3",
           "audio_us": "audio/us/mid-autumn-festival.mp3",
-          "meaning": "Tết Trung thu"
+          "meaning": "Tết Trung thu",
+          "example": "We eat mooncakes at the Mid-Autumn Festival.",
+          "example_vi": "Chúng mình ăn bánh trung thu vào dịp Tết Trung thu."
         },
         {
           "word": "Teachers' Day",
@@ -1400,7 +1634,9 @@
           "ipa_us": "/ˈtiːtʃɚz deɪ/",
           "audio_uk": "audio/uk/teachers-day.mp3",
           "audio_us": "audio/us/teachers-day.mp3",
-          "meaning": "Ngày Nhà giáo"
+          "meaning": "Ngày Nhà giáo",
+          "example": "We give flowers to our teachers on Teachers' Day.",
+          "example_vi": "Chúng mình tặng hoa cho thầy cô vào Ngày Nhà giáo."
         },
         {
           "word": "Children's Day",
@@ -1409,7 +1645,9 @@
           "ipa_us": "/ˈtʃɪldrənz deɪ/",
           "audio_uk": "audio/uk/children-s-day.mp3",
           "audio_us": "audio/us/children-s-day.mp3",
-          "meaning": "Ngày Quốc tế Thiếu nhi"
+          "meaning": "Ngày Quốc tế Thiếu nhi",
+          "example": "Children's Day is on the first of June.",
+          "example_vi": "Ngày Quốc tế Thiếu nhi là ngày mùng Một tháng Sáu."
         },
         {
           "word": "apple juice",
@@ -1418,7 +1656,9 @@
           "ipa_us": "/ˈæpəl dʒuːs/",
           "audio_uk": "audio/uk/apple-juice.mp3",
           "audio_us": "audio/us/apple-juice.mp3",
-          "meaning": "nước ép táo"
+          "meaning": "nước ép táo",
+          "example": "Would you like some apple juice?",
+          "example_vi": "Bạn có muốn uống chút nước ép táo không?"
         },
         {
           "word": "milk tea",
@@ -1427,7 +1667,9 @@
           "ipa_us": "/ˌmɪlk ˈtiː/",
           "audio_uk": "audio/uk/milk-tea.mp3",
           "audio_us": "audio/us/milk-tea.mp3",
-          "meaning": "trà sữa"
+          "meaning": "trà sữa",
+          "example": "I'd like a cup of milk tea.",
+          "example_vi": "Mình muốn một cốc trà sữa."
         },
         {
           "word": "burger",
@@ -1436,7 +1678,9 @@
           "ipa_us": "/ˈbɝːɡɚ/",
           "audio_uk": "audio/uk/burger.mp3",
           "audio_us": "audio/us/burger.mp3",
-          "meaning": "bánh mì kẹp thịt"
+          "meaning": "bánh mì kẹp thịt",
+          "example": "He had a burger at the party.",
+          "example_vi": "Bạn ấy đã ăn một chiếc bánh mì kẹp thịt ở bữa tiệc."
         },
         {
           "word": "pizza",
@@ -1445,7 +1689,9 @@
           "ipa_us": "/ˈpiːtsə/",
           "audio_uk": "audio/uk/pizza.mp3",
           "audio_us": "audio/us/pizza.mp3",
-          "meaning": "bánh pi-da"
+          "meaning": "bánh pi-da",
+          "example": "We'll have pizza for Children's Day.",
+          "example_vi": "Chúng mình sẽ ăn pi-da vào Ngày Quốc tế Thiếu nhi."
         }
       ]
     },
@@ -1467,7 +1713,9 @@
           "ipa_us": "/ˈhelθi/",
           "audio_uk": "audio/uk/healthy.mp3",
           "audio_us": "audio/us/healthy.mp3",
-          "meaning": "khỏe mạnh, tốt cho sức khỏe"
+          "meaning": "khỏe mạnh, tốt cho sức khỏe",
+          "example": "Vegetables are good for a healthy body.",
+          "example_vi": "Rau rất tốt cho một cơ thể khỏe mạnh."
         },
         {
           "word": "do morning exercise",
@@ -1476,7 +1724,9 @@
           "ipa_us": "/ˌduː ˌmɔːrnɪŋ ˈeksɚsaɪz/",
           "audio_uk": "audio/uk/do-morning-exercise.mp3",
           "audio_us": "audio/us/do-morning-exercise.mp3",
-          "meaning": "tập thể dục buổi sáng"
+          "meaning": "tập thể dục buổi sáng",
+          "example": "I do morning exercise every day.",
+          "example_vi": "Ngày nào mình cũng tập thể dục buổi sáng."
         },
         {
           "word": "do yoga",
@@ -1485,7 +1735,9 @@
           "ipa_us": "/ˌduː ˈjoʊɡə/",
           "audio_uk": "audio/uk/do-yoga.mp3",
           "audio_us": "audio/us/do-yoga.mp3",
-          "meaning": "tập yoga"
+          "meaning": "tập yoga",
+          "example": "My mother does yoga in the evening.",
+          "example_vi": "Mẹ mình tập yoga vào buổi tối."
         },
         {
           "word": "play sports",
@@ -1494,7 +1746,9 @@
           "ipa_us": "/ˌpleɪ ˈspɔːrts/",
           "audio_uk": "audio/uk/play-sports.mp3",
           "audio_us": "audio/us/play-sports.mp3",
-          "meaning": "chơi thể thao"
+          "meaning": "chơi thể thao",
+          "example": "We play sports to stay healthy.",
+          "example_vi": "Chúng mình chơi thể thao để giữ sức khỏe."
         },
         {
           "word": "drink fresh juice",
@@ -1503,7 +1757,9 @@
           "ipa_us": "/ˌdrɪŋk ˌfreʃ ˈdʒuːs/",
           "audio_uk": "audio/uk/drink-fresh-juice.mp3",
           "audio_us": "audio/us/drink-fresh-juice.mp3",
-          "meaning": "uống nước ép tươi"
+          "meaning": "uống nước ép tươi",
+          "example": "I drink fresh juice every morning.",
+          "example_vi": "Mình uống nước ép tươi mỗi sáng."
         },
         {
           "word": "once a week",
@@ -1512,7 +1768,9 @@
           "ipa_us": "/ˌwʌns ə ˈwiːk/",
           "audio_uk": "audio/uk/once-a-week.mp3",
           "audio_us": "audio/us/once-a-week.mp3",
-          "meaning": "một lần một tuần"
+          "meaning": "một lần một tuần",
+          "example": "I go swimming once a week.",
+          "example_vi": "Mình đi bơi một lần một tuần."
         },
         {
           "word": "twice a week",
@@ -1521,7 +1779,9 @@
           "ipa_us": "/ˌtwaɪs ə ˈwiːk/",
           "audio_uk": "audio/uk/twice-a-week.mp3",
           "audio_us": "audio/us/twice-a-week.mp3",
-          "meaning": "hai lần một tuần"
+          "meaning": "hai lần một tuần",
+          "example": "She plays badminton twice a week.",
+          "example_vi": "Bạn ấy chơi cầu lông hai lần một tuần."
         },
         {
           "word": "three times a week",
@@ -1531,7 +1791,8 @@
           "audio_uk": "audio/uk/three-times-a-week.mp3",
           "audio_us": "audio/us/three-times-a-week.mp3",
           "meaning": "ba lần một tuần",
-          "example": "I do yoga three times a week."
+          "example": "I do yoga three times a week.",
+          "example_vi": "Mình tập yoga ba lần một tuần."
         }
       ]
     },
@@ -1553,7 +1814,9 @@
           "ipa_us": "/helθ/",
           "audio_uk": "audio/uk/health.mp3",
           "audio_us": "audio/us/health.mp3",
-          "meaning": "sức khỏe"
+          "meaning": "sức khỏe",
+          "example": "Eating fruit is good for your health.",
+          "example_vi": "Ăn trái cây rất tốt cho sức khỏe của bạn."
         },
         {
           "word": "headache",
@@ -1562,7 +1825,9 @@
           "ipa_us": "/ˈhedeɪk/",
           "audio_uk": "audio/uk/headache.mp3",
           "audio_us": "audio/us/headache.mp3",
-          "meaning": "đau đầu"
+          "meaning": "đau đầu",
+          "example": "What's the matter? I have a headache.",
+          "example_vi": "Bạn bị làm sao vậy? Mình bị đau đầu."
         },
         {
           "word": "sore throat",
@@ -1571,7 +1836,9 @@
           "ipa_us": "/ˌsɔːr ˈθroʊt/",
           "audio_uk": "audio/uk/sore-throat.mp3",
           "audio_us": "audio/us/sore-throat.mp3",
-          "meaning": "đau họng"
+          "meaning": "đau họng",
+          "example": "She has a sore throat.",
+          "example_vi": "Bạn ấy bị đau họng."
         },
         {
           "word": "stomach ache",
@@ -1580,7 +1847,9 @@
           "ipa_us": "/ˈstʌmək eɪk/",
           "audio_uk": "audio/uk/stomach-ache.mp3",
           "audio_us": "audio/us/stomach-ache.mp3",
-          "meaning": "đau bụng"
+          "meaning": "đau bụng",
+          "example": "I have a stomach ache.",
+          "example_vi": "Mình bị đau bụng."
         },
         {
           "word": "toothache",
@@ -1589,7 +1858,9 @@
           "ipa_us": "/ˈtuːθeɪk/",
           "audio_uk": "audio/uk/toothache.mp3",
           "audio_us": "audio/us/toothache.mp3",
-          "meaning": "đau răng"
+          "meaning": "đau răng",
+          "example": "He has a toothache.",
+          "example_vi": "Bạn ấy bị đau răng."
         },
         {
           "word": "fever",
@@ -1598,7 +1869,9 @@
           "ipa_us": "/ˈfiːvɚ/",
           "audio_uk": "audio/uk/fever.mp3",
           "audio_us": "audio/us/fever.mp3",
-          "meaning": "sốt"
+          "meaning": "sốt",
+          "example": "Tom has a fever today.",
+          "example_vi": "Hôm nay Tom bị sốt."
         },
         {
           "word": "drink warm water",
@@ -1607,7 +1880,9 @@
           "ipa_us": "/ˌdrɪŋk ˌwɔːrm ˈwɑːtɚ/",
           "audio_uk": "audio/uk/drink-warm-water.mp3",
           "audio_us": "audio/us/drink-warm-water.mp3",
-          "meaning": "uống nước ấm"
+          "meaning": "uống nước ấm",
+          "example": "You should drink warm water.",
+          "example_vi": "Bạn nên uống nước ấm."
         },
         {
           "word": "go to the dentist",
@@ -1616,7 +1891,9 @@
           "ipa_us": "/ˌɡoʊ tə ðə ˈdentɪst/",
           "audio_uk": "audio/uk/go-to-the-dentist.mp3",
           "audio_us": "audio/us/go-to-the-dentist.mp3",
-          "meaning": "đi khám nha sĩ"
+          "meaning": "đi khám nha sĩ",
+          "example": "You should go to the dentist.",
+          "example_vi": "Bạn nên đi khám nha sĩ."
         },
         {
           "word": "go to the doctor",
@@ -1625,7 +1902,9 @@
           "ipa_us": "/ˌɡoʊ tə ðə ˈdɑːktɚ/",
           "audio_uk": "audio/uk/go-to-the-doctor.mp3",
           "audio_us": "audio/us/go-to-the-doctor.mp3",
-          "meaning": "đi khám bác sĩ"
+          "meaning": "đi khám bác sĩ",
+          "example": "You have a fever. Go to the doctor.",
+          "example_vi": "Bạn bị sốt rồi. Hãy đi khám bác sĩ đi."
         },
         {
           "word": "have a rest",
@@ -1635,7 +1914,8 @@
           "audio_uk": "audio/uk/have-a-rest.mp3",
           "audio_us": "audio/us/have-a-rest.mp3",
           "meaning": "nghỉ ngơi",
-          "example": "You should have a rest."
+          "example": "You should have a rest.",
+          "example_vi": "Bạn nên nghỉ ngơi."
         }
       ]
     },
@@ -1657,7 +1937,9 @@
           "ipa_us": "/ˈsiːzən/",
           "audio_uk": "audio/uk/season.mp3",
           "audio_us": "audio/us/season.mp3",
-          "meaning": "mùa"
+          "meaning": "mùa",
+          "example": "What's your favourite season?",
+          "example_vi": "Mùa yêu thích của bạn là mùa nào?"
         },
         {
           "word": "spring",
@@ -1666,7 +1948,9 @@
           "ipa_us": "/sprɪŋ/",
           "audio_uk": "audio/uk/spring.mp3",
           "audio_us": "audio/us/spring.mp3",
-          "meaning": "mùa xuân"
+          "meaning": "mùa xuân",
+          "example": "It's warm in spring.",
+          "example_vi": "Mùa xuân trời ấm áp."
         },
         {
           "word": "summer",
@@ -1675,7 +1959,9 @@
           "ipa_us": "/ˈsʌmɚ/",
           "audio_uk": "audio/uk/summer.mp3",
           "audio_us": "audio/us/summer.mp3",
-          "meaning": "mùa hè"
+          "meaning": "mùa hè",
+          "example": "We go to the beach in summer.",
+          "example_vi": "Chúng mình đi biển vào mùa hè."
         },
         {
           "word": "autumn",
@@ -1684,7 +1970,9 @@
           "ipa_us": "/ˈɑːtəm/",
           "audio_uk": "audio/uk/autumn.mp3",
           "audio_us": "audio/us/autumn.mp3",
-          "meaning": "mùa thu"
+          "meaning": "mùa thu",
+          "example": "It's cool in autumn.",
+          "example_vi": "Mùa thu trời mát mẻ."
         },
         {
           "word": "winter",
@@ -1693,7 +1981,9 @@
           "ipa_us": "/ˈwɪntɚ/",
           "audio_uk": "audio/uk/winter.mp3",
           "audio_us": "audio/us/winter.mp3",
-          "meaning": "mùa đông"
+          "meaning": "mùa đông",
+          "example": "It's very cold in winter.",
+          "example_vi": "Mùa đông trời rất lạnh."
         },
         {
           "word": "weather",
@@ -1703,7 +1993,8 @@
           "audio_uk": "audio/uk/weather-n.mp3",
           "audio_us": "audio/us/weather-n.mp3",
           "meaning": "thời tiết",
-          "example": "What's the weather like in summer?"
+          "example": "What's the weather like in summer?",
+          "example_vi": "Thời tiết mùa hè như thế nào?"
         },
         {
           "word": "weather forecast",
@@ -1712,7 +2003,9 @@
           "ipa_us": "/ˈweðɚ ˌfɔːrkæst/",
           "audio_uk": "audio/uk/weather-forecast.mp3",
           "audio_us": "audio/us/weather-forecast.mp3",
-          "meaning": "dự báo thời tiết"
+          "meaning": "dự báo thời tiết",
+          "example": "I watch the weather forecast every evening.",
+          "example_vi": "Mình xem dự báo thời tiết mỗi tối."
         },
         {
           "word": "hot",
@@ -1721,7 +2014,9 @@
           "ipa_us": "/hɑːt/",
           "audio_uk": "audio/uk/hot.mp3",
           "audio_us": "audio/us/hot.mp3",
-          "meaning": "nóng"
+          "meaning": "nóng",
+          "example": "It's hot and sunny today.",
+          "example_vi": "Hôm nay trời nóng và nắng."
         },
         {
           "word": "warm",
@@ -1730,7 +2025,9 @@
           "ipa_us": "/wɔːrm/",
           "audio_uk": "audio/uk/warm.mp3",
           "audio_us": "audio/us/warm.mp3",
-          "meaning": "ấm áp"
+          "meaning": "ấm áp",
+          "example": "The weather is warm in spring.",
+          "example_vi": "Thời tiết mùa xuân ấm áp."
         },
         {
           "word": "cool",
@@ -1739,7 +2036,9 @@
           "ipa_us": "/kuːl/",
           "audio_uk": "audio/uk/cool.mp3",
           "audio_us": "audio/us/cool.mp3",
-          "meaning": "mát mẻ"
+          "meaning": "mát mẻ",
+          "example": "It's cool in the evening.",
+          "example_vi": "Buổi tối trời mát mẻ."
         },
         {
           "word": "cold",
@@ -1748,7 +2047,9 @@
           "ipa_us": "/koʊld/",
           "audio_uk": "audio/uk/cold.mp3",
           "audio_us": "audio/us/cold.mp3",
-          "meaning": "lạnh"
+          "meaning": "lạnh",
+          "example": "It'll be cold tomorrow.",
+          "example_vi": "Ngày mai trời sẽ lạnh."
         },
         {
           "word": "dry",
@@ -1757,7 +2058,9 @@
           "ipa_us": "/draɪ/",
           "audio_uk": "audio/uk/dry.mp3",
           "audio_us": "audio/us/dry.mp3",
-          "meaning": "khô"
+          "meaning": "khô",
+          "example": "The dry season starts in November.",
+          "example_vi": "Mùa khô bắt đầu vào tháng Mười Một."
         },
         {
           "word": "rainy",
@@ -1766,7 +2069,9 @@
           "ipa_us": "/ˈreɪni/",
           "audio_uk": "audio/uk/rainy.mp3",
           "audio_us": "audio/us/rainy.mp3",
-          "meaning": "có mưa"
+          "meaning": "có mưa",
+          "example": "It's rainy in summer here.",
+          "example_vi": "Ở đây mùa hè trời hay mưa."
         }
       ]
     },
@@ -1788,7 +2093,9 @@
           "ipa_us": "/ˈstɔːri/",
           "audio_uk": "audio/uk/story.mp3",
           "audio_us": "audio/us/story.mp3",
-          "meaning": "câu chuyện"
+          "meaning": "câu chuyện",
+          "example": "My grandma tells me a story every night.",
+          "example_vi": "Tối nào bà cũng kể cho mình nghe một câu chuyện."
         },
         {
           "word": "ant",
@@ -1797,7 +2104,9 @@
           "ipa_us": "/ænt/",
           "audio_uk": "audio/uk/ant.mp3",
           "audio_us": "audio/us/ant.mp3",
-          "meaning": "con kiến"
+          "meaning": "con kiến",
+          "example": "The ant worked hard all summer.",
+          "example_vi": "Con kiến đã làm việc chăm chỉ suốt cả mùa hè."
         },
         {
           "word": "grasshopper",
@@ -1806,7 +2115,9 @@
           "ipa_us": "/ˈɡræshɑːpɚ/",
           "audio_uk": "audio/uk/grasshopper.mp3",
           "audio_us": "audio/us/grasshopper.mp3",
-          "meaning": "con châu chấu"
+          "meaning": "con châu chấu",
+          "example": "The grasshopper sang all day.",
+          "example_vi": "Con châu chấu đã ca hát suốt cả ngày."
         },
         {
           "word": "crow",
@@ -1815,7 +2126,9 @@
           "ipa_us": "/kroʊ/",
           "audio_uk": "audio/uk/crow.mp3",
           "audio_us": "audio/us/crow.mp3",
-          "meaning": "con quạ"
+          "meaning": "con quạ",
+          "example": "The crow had a piece of cheese.",
+          "example_vi": "Con quạ có một miếng pho mát."
         },
         {
           "word": "fox",
@@ -1824,7 +2137,9 @@
           "ipa_us": "/fɑːks/",
           "audio_uk": "audio/uk/fox.mp3",
           "audio_us": "audio/us/fox.mp3",
-          "meaning": "con cáo"
+          "meaning": "con cáo",
+          "example": "The fox was very clever.",
+          "example_vi": "Con cáo rất ranh mãnh."
         },
         {
           "word": "tortoise",
@@ -1833,7 +2148,9 @@
           "ipa_us": "/ˈtɔːrtəs/",
           "audio_uk": "audio/uk/tortoise.mp3",
           "audio_us": "audio/us/tortoise.mp3",
-          "meaning": "con rùa"
+          "meaning": "con rùa",
+          "example": "The tortoise won the race.",
+          "example_vi": "Con rùa đã thắng cuộc đua."
         },
         {
           "word": "hare",
@@ -1842,7 +2159,9 @@
           "ipa_us": "/her/",
           "audio_uk": "audio/uk/hare.mp3",
           "audio_us": "audio/us/hare.mp3",
-          "meaning": "con thỏ rừng"
+          "meaning": "con thỏ rừng",
+          "example": "The hare ran very fast.",
+          "example_vi": "Con thỏ rừng chạy rất nhanh."
         },
         {
           "word": "Snow White",
@@ -1851,7 +2170,9 @@
           "ipa_us": "/ˌsnoʊ ˈwaɪt/",
           "audio_uk": "audio/uk/snow-white.mp3",
           "audio_us": "audio/us/snow-white.mp3",
-          "meaning": "nàng Bạch Tuyết"
+          "meaning": "nàng Bạch Tuyết",
+          "example": "Snow White lived with seven dwarfs.",
+          "example_vi": "Nàng Bạch Tuyết sống cùng bảy chú lùn."
         },
         {
           "word": "cook well",
@@ -1860,7 +2181,9 @@
           "ipa_us": "/ˌkʊk ˈwel/",
           "audio_uk": "audio/uk/cook-well.mp3",
           "audio_us": "audio/us/cook-well.mp3",
-          "meaning": "nấu ăn ngon"
+          "meaning": "nấu ăn ngon",
+          "example": "Snow White could cook well.",
+          "example_vi": "Nàng Bạch Tuyết nấu ăn rất ngon."
         },
         {
           "word": "work hard",
@@ -1869,7 +2192,9 @@
           "ipa_us": "/ˌwɝːk ˈhɑːrd/",
           "audio_uk": "audio/uk/work-hard.mp3",
           "audio_us": "audio/us/work-hard.mp3",
-          "meaning": "làm việc chăm chỉ"
+          "meaning": "làm việc chăm chỉ",
+          "example": "The ant worked hard, but the grasshopper didn't.",
+          "example_vi": "Con kiến làm việc chăm chỉ, còn con châu chấu thì không."
         }
       ]
     },
@@ -1891,7 +2216,9 @@
           "ipa_us": "/ˌmiːnz əv ˈtrænspɔːrt/",
           "audio_uk": "audio/uk/means-of-transport.mp3",
           "audio_us": "audio/us/means-of-transport.mp3",
-          "meaning": "phương tiện giao thông"
+          "meaning": "phương tiện giao thông",
+          "example": "The bus is a popular means of transport.",
+          "example_vi": "Xe buýt là một phương tiện giao thông phổ biến."
         },
         {
           "word": "by bicycle",
@@ -1900,7 +2227,9 @@
           "ipa_us": "/baɪ ˈbaɪsɪkəl/",
           "audio_uk": "audio/uk/by-bicycle.mp3",
           "audio_us": "audio/us/by-bicycle.mp3",
-          "meaning": "bằng xe đạp"
+          "meaning": "bằng xe đạp",
+          "example": "I go to school by bicycle.",
+          "example_vi": "Mình đi học bằng xe đạp."
         },
         {
           "word": "by bus",
@@ -1909,7 +2238,9 @@
           "ipa_us": "/baɪ ˈbʌs/",
           "audio_uk": "audio/uk/by-bus.mp3",
           "audio_us": "audio/us/by-bus.mp3",
-          "meaning": "bằng xe buýt"
+          "meaning": "bằng xe buýt",
+          "example": "How do you get there? By bus.",
+          "example_vi": "Bạn đến đó bằng cách nào? Bằng xe buýt."
         },
         {
           "word": "by taxi",
@@ -1918,7 +2249,9 @@
           "ipa_us": "/baɪ ˈtæksi/",
           "audio_uk": "audio/uk/by-taxi.mp3",
           "audio_us": "audio/us/by-taxi.mp3",
-          "meaning": "bằng taxi"
+          "meaning": "bằng taxi",
+          "example": "We went to the airport by taxi.",
+          "example_vi": "Chúng mình đã đến sân bay bằng taxi."
         },
         {
           "word": "by train",
@@ -1927,7 +2260,9 @@
           "ipa_us": "/baɪ ˈtreɪn/",
           "audio_uk": "audio/uk/by-train.mp3",
           "audio_us": "audio/us/by-train.mp3",
-          "meaning": "bằng tàu hỏa"
+          "meaning": "bằng tàu hỏa",
+          "example": "We'll travel to Hue by train.",
+          "example_vi": "Chúng mình sẽ đi Huế bằng tàu hỏa."
         },
         {
           "word": "by plane",
@@ -1936,7 +2271,9 @@
           "ipa_us": "/baɪ ˈpleɪn/",
           "audio_uk": "audio/uk/by-plane.mp3",
           "audio_us": "audio/us/by-plane.mp3",
-          "meaning": "bằng máy bay"
+          "meaning": "bằng máy bay",
+          "example": "They went to Da Nang by plane.",
+          "example_vi": "Họ đã đến Đà Nẵng bằng máy bay."
         },
         {
           "word": "by motorbike",
@@ -1945,7 +2282,9 @@
           "ipa_us": "/baɪ ˈmoʊtɚbaɪk/",
           "audio_uk": "audio/uk/by-motorbike.mp3",
           "audio_us": "audio/us/by-motorbike.mp3",
-          "meaning": "bằng xe máy"
+          "meaning": "bằng xe máy",
+          "example": "My dad goes to work by motorbike.",
+          "example_vi": "Bố mình đi làm bằng xe máy."
         },
         {
           "word": "by boat",
@@ -1954,7 +2293,9 @@
           "ipa_us": "/baɪ ˈboʊt/",
           "audio_uk": "audio/uk/by-boat.mp3",
           "audio_us": "audio/us/by-boat.mp3",
-          "meaning": "bằng thuyền"
+          "meaning": "bằng thuyền",
+          "example": "We went to the island by boat.",
+          "example_vi": "Chúng mình đã ra đảo bằng thuyền."
         }
       ]
     },
@@ -1975,7 +2316,9 @@
           "ipa_us": "/ˌpleɪs əv ˈɪntrəst/",
           "audio_uk": "audio/uk/place-of-interest.mp3",
           "audio_us": "audio/us/place-of-interest.mp3",
-          "meaning": "địa điểm tham quan"
+          "meaning": "địa điểm tham quan",
+          "example": "Hoan Kiem Lake is a famous place of interest.",
+          "example_vi": "Hồ Hoàn Kiếm là một địa điểm tham quan nổi tiếng."
         },
         {
           "word": "museum",
@@ -1984,7 +2327,9 @@
           "ipa_us": "/mjuːˈziːəm/",
           "audio_uk": "audio/uk/museum.mp3",
           "audio_us": "audio/us/museum.mp3",
-          "meaning": "bảo tàng"
+          "meaning": "bảo tàng",
+          "example": "We visited the history museum.",
+          "example_vi": "Chúng mình đã tham quan bảo tàng lịch sử."
         },
         {
           "word": "pagoda",
@@ -1993,7 +2338,9 @@
           "ipa_us": "/pəˈɡoʊdə/",
           "audio_uk": "audio/uk/pagoda.mp3",
           "audio_us": "audio/us/pagoda.mp3",
-          "meaning": "ngôi chùa"
+          "meaning": "ngôi chùa",
+          "example": "There is an old pagoda near my house.",
+          "example_vi": "Có một ngôi chùa cổ gần nhà mình."
         },
         {
           "word": "temple",
@@ -2002,7 +2349,9 @@
           "ipa_us": "/ˈtempəl/",
           "audio_uk": "audio/uk/temple.mp3",
           "audio_us": "audio/us/temple.mp3",
-          "meaning": "ngôi đền"
+          "meaning": "ngôi đền",
+          "example": "The Temple of Literature is in Ha Noi.",
+          "example_vi": "Văn Miếu nằm ở Hà Nội."
         },
         {
           "word": "bridge",
@@ -2011,7 +2360,9 @@
           "ipa_us": "/brɪdʒ/",
           "audio_uk": "audio/uk/bridge.mp3",
           "audio_us": "audio/us/bridge.mp3",
-          "meaning": "cây cầu"
+          "meaning": "cây cầu",
+          "example": "The Dragon Bridge is in Da Nang.",
+          "example_vi": "Cầu Rồng ở Đà Nẵng."
         },
         {
           "word": "market",
@@ -2020,7 +2371,9 @@
           "ipa_us": "/ˈmɑːrkɪt/",
           "audio_uk": "audio/uk/market.mp3",
           "audio_us": "audio/us/market.mp3",
-          "meaning": "chợ"
+          "meaning": "chợ",
+          "example": "Ben Thanh Market is very big.",
+          "example_vi": "Chợ Bến Thành rất lớn."
         },
         {
           "word": "famous",
@@ -2029,7 +2382,9 @@
           "ipa_us": "/ˈfeɪməs/",
           "audio_uk": "audio/uk/famous.mp3",
           "audio_us": "audio/us/famous.mp3",
-          "meaning": "nổi tiếng"
+          "meaning": "nổi tiếng",
+          "example": "Ha Long Bay is very famous.",
+          "example_vi": "Vịnh Hạ Long rất nổi tiếng."
         },
         {
           "word": "beautiful",
@@ -2038,7 +2393,9 @@
           "ipa_us": "/ˈbjuːtəfəl/",
           "audio_uk": "audio/uk/beautiful.mp3",
           "audio_us": "audio/us/beautiful.mp3",
-          "meaning": "đẹp"
+          "meaning": "đẹp",
+          "example": "The old bridge is very beautiful.",
+          "example_vi": "Cây cầu cổ rất đẹp."
         }
       ]
     },
@@ -2059,7 +2416,9 @@
           "ipa_us": "/ˌsʌmɚ ˈhɑːlədeɪ/",
           "audio_uk": "audio/uk/summer-holiday.mp3",
           "audio_us": "audio/us/summer-holiday.mp3",
-          "meaning": "kỳ nghỉ hè"
+          "meaning": "kỳ nghỉ hè",
+          "example": "Where will you go this summer holiday?",
+          "example_vi": "Kỳ nghỉ hè này bạn sẽ đi đâu?"
         },
         {
           "word": "beach",
@@ -2068,7 +2427,9 @@
           "ipa_us": "/biːtʃ/",
           "audio_uk": "audio/uk/beach.mp3",
           "audio_us": "audio/us/beach.mp3",
-          "meaning": "bãi biển"
+          "meaning": "bãi biển",
+          "example": "We'll go to the beach in July.",
+          "example_vi": "Chúng mình sẽ đi biển vào tháng Bảy."
         },
         {
           "word": "mountain",
@@ -2077,7 +2438,9 @@
           "ipa_us": "/ˈmaʊntən/",
           "audio_uk": "audio/uk/mountain.mp3",
           "audio_us": "audio/us/mountain.mp3",
-          "meaning": "núi"
+          "meaning": "núi",
+          "example": "We'll climb the mountain this summer.",
+          "example_vi": "Chúng mình sẽ leo núi vào mùa hè này."
         },
         {
           "word": "countryside",
@@ -2086,7 +2449,9 @@
           "ipa_us": "/ˈkʌntrisaɪd/",
           "audio_uk": "audio/uk/countryside.mp3",
           "audio_us": "audio/us/countryside.mp3",
-          "meaning": "vùng nông thôn"
+          "meaning": "vùng nông thôn",
+          "example": "I'll visit my grandparents in the countryside.",
+          "example_vi": "Mình sẽ về thăm ông bà ở quê."
         },
         {
           "word": "go camping",
@@ -2095,7 +2460,9 @@
           "ipa_us": "/ˌɡoʊ ˈkæmpɪŋ/",
           "audio_uk": "audio/uk/go-camping.mp3",
           "audio_us": "audio/us/go-camping.mp3",
-          "meaning": "đi cắm trại"
+          "meaning": "đi cắm trại",
+          "example": "We'll go camping in the forest.",
+          "example_vi": "Chúng mình sẽ đi cắm trại trong rừng."
         },
         {
           "word": "go swimming",
@@ -2104,7 +2471,9 @@
           "ipa_us": "/ˌɡoʊ ˈswɪmɪŋ/",
           "audio_uk": "audio/uk/go-swimming.mp3",
           "audio_us": "audio/us/go-swimming.mp3",
-          "meaning": "đi bơi"
+          "meaning": "đi bơi",
+          "example": "I'll go swimming every day this summer.",
+          "example_vi": "Hè này ngày nào mình cũng sẽ đi bơi."
         },
         {
           "word": "take photos",
@@ -2113,7 +2482,9 @@
           "ipa_us": "/ˌteɪk ˈfoʊtoʊz/",
           "audio_uk": "audio/uk/take-photos.mp3",
           "audio_us": "audio/us/take-photos.mp3",
-          "meaning": "chụp ảnh"
+          "meaning": "chụp ảnh",
+          "example": "I'll take photos of the mountains.",
+          "example_vi": "Mình sẽ chụp ảnh những ngọn núi."
         }
       ]
     }

@@ -1,223 +1,223 @@
-﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example
-10,1,Family life,sourced,achievement,n,/əˈtʃiːvmənt/,/əˈtʃiːvmənt/,audio/uk/achievement.mp3,audio/us/achievement.mp3,thành tựu,
-10,1,Family life,sourced,appreciate,v,/əˈpriːʃieɪt/,/əˈpriːʃieɪt/,audio/uk/appreciate.mp3,audio/us/appreciate.mp3,"biết ơn, trân trọng",
-10,1,Family life,sourced,benefit,n,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,lợi ích,
-10,1,Family life,sourced,bond,n,/bɒnd/,/bɑːnd/,audio/uk/bond.mp3,audio/us/bond.mp3,"sự gắn bó, mối liên kết",
-10,1,Family life,sourced,breadwinner,n,/ˈbredwɪnə(r)/,/ˈbredwɪnɚ/,audio/uk/breadwinner.mp3,audio/us/breadwinner.mp3,"trụ cột gia đình, người kiếm tiền nuôi gia đình",My father is the breadwinner of the family.
-10,1,Family life,sourced,character,n,/ˈkærəktə(r)/,/ˈkerɪktɚ/,audio/uk/character-n.mp3,audio/us/character-n.mp3,tính cách,
-10,1,Family life,sourced,chore,n,/tʃɔː(r)/,/tʃɔːr/,audio/uk/chore.mp3,audio/us/chore.mp3,"việc nhà, việc vặt",
-10,1,Family life,sourced,clean the house,phr,/ˌkliːn ðə ˈhaʊs/,/ˌkliːn ðə ˈhaʊs/,audio/uk/clean-the-house.mp3,audio/us/clean-the-house.mp3,lau dọn nhà cửa,
-10,1,Family life,sourced,contribute,v,/kənˈtrɪbjuːt/,/kənˈtrɪbjuːt/,audio/uk/contribute.mp3,audio/us/contribute.mp3,đóng góp,
-10,1,Family life,sourced,critical,adj,/ˈkrɪtɪkl/,/ˈkrɪtɪkəl/,audio/uk/critical.mp3,audio/us/critical.mp3,"hay phê phán, chỉ trích; khó tính",
-10,1,Family life,sourced,damage,v,/ˈdæmɪdʒ/,/ˈdæmɪdʒ/,audio/uk/damage.mp3,audio/us/damage.mp3,"làm hỏng, gây hại",
-10,1,Family life,sourced,do the cooking,phr,/ˌduː ðə ˈkʊkɪŋ/,/ˌduː ðə ˈkʊkɪŋ/,audio/uk/do-the-cooking.mp3,audio/us/do-the-cooking.mp3,nấu ăn,
-10,1,Family life,sourced,do the laundry,phr,/ˌduː ðə ˈlɔːndri/,/ˌduː ðə ˈlɑːndri/,audio/uk/do-the-laundry.mp3,audio/us/do-the-laundry.mp3,giặt giũ,
-10,1,Family life,sourced,do the shopping,phr,/ˌduː ðə ˈʃɒpɪŋ/,/ˌduː ðə ˈʃɑːpɪŋ/,audio/uk/do-the-shopping.mp3,audio/us/do-the-shopping.mp3,"đi chợ, mua sắm",
-10,1,Family life,sourced,extended family,n,/ɪkˌstendɪd ˈfæməli/,/ɪkˌstendɪd ˈfæməli/,audio/uk/extended-family.mp3,audio/us/extended-family.mp3,gia đình nhiều thế hệ,
-10,1,Family life,sourced,gratitude,n,/ˈɡrætɪtjuːd/,/ˈɡrætətuːd/,audio/uk/gratitude.mp3,audio/us/gratitude.mp3,lòng biết ơn,
-10,1,Family life,sourced,grocery,n,/ˈɡrəʊsəri/,/ˈɡroʊsɚi/,audio/uk/grocery.mp3,audio/us/grocery.mp3,thực phẩm và tạp hóa,
-10,1,Family life,sourced,heavy lifting,n,/ˌhevi ˈlɪftɪŋ/,/ˌhevi ˈlɪftɪŋ/,audio/uk/heavy-lifting.mp3,audio/us/heavy-lifting.mp3,việc mang vác nặng,
-10,1,Family life,sourced,homemaker,n,/ˈhəʊmmeɪkə(r)/,/ˈhoʊmmeɪkɚ/,audio/uk/homemaker.mp3,audio/us/homemaker.mp3,người nội trợ,
-10,1,Family life,sourced,housework,n,/ˈhaʊswɜːk/,/ˈhaʊswɝːk/,audio/uk/housework.mp3,audio/us/housework.mp3,việc nhà,
-10,1,Family life,sourced,iron,v,/ˈaɪən/,/ˈaɪɚn/,audio/uk/iron.mp3,audio/us/iron.mp3,"là, ủi (quần áo)",
-10,1,Family life,sourced,laundry,n,/ˈlɔːndri/,/ˈlɑːndri/,audio/uk/laundry.mp3,audio/us/laundry.mp3,quần áo cần giặt; việc giặt là,
-10,1,Family life,sourced,lay the table,phr,/ˌleɪ ðə ˈteɪbl/,/ˌleɪ ðə ˈteɪbəl/,audio/uk/lay-the-table.mp3,audio/us/lay-the-table.mp3,"dọn bàn ăn, bày bát đũa",
-10,1,Family life,sourced,manner,n,/ˈmænə(r)/,/ˈmænɚ/,audio/uk/manner.mp3,audio/us/manner.mp3,"tác phong, cách cư xử",
-10,1,Family life,sourced,mop,v,/mɒp/,/mɑːp/,audio/uk/mop.mp3,audio/us/mop.mp3,lau (nhà) bằng cây lau nhà,
-10,1,Family life,sourced,mow the lawn,phr,/ˌməʊ ðə ˈlɔːn/,/ˌmoʊ ðə ˈlɑːn/,audio/uk/mow-the-lawn.mp3,audio/us/mow-the-lawn.mp3,cắt cỏ,
-10,1,Family life,sourced,nuclear family,n,/ˌnjuːkliə ˈfæməli/,/ˌnuːkliɚ ˈfæməli/,audio/uk/nuclear-family.mp3,audio/us/nuclear-family.mp3,gia đình hạt nhân (bố mẹ và con cái),
-10,1,Family life,sourced,nurture,v,/ˈnɜːtʃə(r)/,/ˈnɝːtʃɚ/,audio/uk/nurture.mp3,audio/us/nurture.mp3,nuôi dưỡng,
-10,1,Family life,sourced,put out,phr v,/pʊt ˈaʊt/,/pʊt ˈaʊt/,audio/uk/put-out.mp3,audio/us/put-out.mp3,mang (rác) ra ngoài để vứt,
-10,1,Family life,sourced,raise,v,/reɪz/,/reɪz/,audio/uk/raise.mp3,audio/us/raise.mp3,nuôi nấng,
-10,1,Family life,sourced,responsibility,n,/rɪˌspɒnsəˈbɪləti/,/riˌspɑːnsəˈbɪləti/,audio/uk/responsibility.mp3,audio/us/responsibility.mp3,trách nhiệm,
-10,1,Family life,sourced,routine,n,/ruːˈtiːn/,/ruːˈtiːn/,audio/uk/routine.mp3,audio/us/routine.mp3,"lệ thường, công việc hằng ngày",
-10,1,Family life,sourced,rubbish,n,/ˈrʌbɪʃ/,/ˈrʌbɪʃ/,audio/uk/rubbish.mp3,audio/us/rubbish.mp3,rác,
-10,1,Family life,sourced,spotlessly,adv,/ˈspɒtləsli/,/ˈspɑːtləsli/,audio/uk/spotlessly.mp3,audio/us/spotlessly.mp3,"sạch bong, không tì vết",
-10,1,Family life,sourced,strengthen,v,/ˈstreŋkθn/,/ˈstreŋθən/,audio/uk/strengthen.mp3,audio/us/strengthen.mp3,"củng cố, làm vững mạnh thêm",
-10,1,Family life,sourced,support,v,/səˈpɔːt/,/səˈpɔːrt/,audio/uk/support.mp3,audio/us/support.mp3,"ủng hộ, hỗ trợ",
-10,1,Family life,sourced,truthful,adj,/ˈtruːθfl/,/ˈtruːθfəl/,audio/uk/truthful.mp3,audio/us/truthful.mp3,trung thực,
-10,1,Family life,sourced,value,n,/ˈvæljuː/,/ˈvæljuː/,audio/uk/value.mp3,audio/us/value.mp3,giá trị,
-10,1,Family life,sourced,washing-up,n,/ˌwɒʃɪŋ ˈʌp/,/ˌwɑːʃɪŋ ˈʌp/,audio/uk/washing-up.mp3,audio/us/washing-up.mp3,việc rửa bát đĩa,
-10,2,Humans and the environment,sourced,adopt,v,/əˈdɒpt/,/əˈdɑːpt/,audio/uk/adopt.mp3,audio/us/adopt.mp3,"áp dụng, chấp nhận (lối sống, thói quen)",
-10,2,Humans and the environment,sourced,appliance,n,/əˈplaɪəns/,/əˈplaɪəns/,audio/uk/appliance.mp3,audio/us/appliance.mp3,"thiết bị, đồ gia dụng",
-10,2,Humans and the environment,sourced,awareness,n,/əˈweənəs/,/əˈwernəs/,audio/uk/awareness.mp3,audio/us/awareness.mp3,"nhận thức, sự hiểu biết",
-10,2,Humans and the environment,sourced,break down,phr v,/breɪk ˈdaʊn/,/breɪk ˈdaʊn/,audio/uk/break-down.mp3,audio/us/break-down.mp3,phân hủy; hỏng,
-10,2,Humans and the environment,sourced,calculate,v,/ˈkælkjuleɪt/,/ˈkælkjəleɪt/,audio/uk/calculate.mp3,audio/us/calculate.mp3,tính toán,
-10,2,Humans and the environment,sourced,carbon footprint,n,/ˌkɑːbən ˈfʊtprɪnt/,/ˌkɑːrbən ˈfʊtprɪnt/,audio/uk/carbon-footprint.mp3,audio/us/carbon-footprint.mp3,lượng khí thải các-bon (do một người/hoạt động tạo ra),
-10,2,Humans and the environment,sourced,chemical,n,/ˈkemɪkl/,/ˈkemɪkəl/,audio/uk/chemical.mp3,audio/us/chemical.mp3,hóa chất,
-10,2,Humans and the environment,sourced,clean up,phr v,/kliːn ˈʌp/,/kliːn ˈʌp/,audio/uk/clean-up.mp3,audio/us/clean-up.mp3,dọn sạch,
-10,2,Humans and the environment,sourced,cut down,phr v,/kʌt ˈdaʊn/,/kʌt ˈdaʊn/,audio/uk/cut-down.mp3,audio/us/cut-down.mp3,chặt (cây); cắt giảm,
-10,2,Humans and the environment,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,
-10,2,Humans and the environment,sourced,electrical,adj,/ɪˈlektrɪkl/,/ɪˈlektrɪkəl/,audio/uk/electrical.mp3,audio/us/electrical.mp3,(thuộc về) điện,
-10,2,Humans and the environment,sourced,emission,n,/iˈmɪʃn/,/ɪˈmɪʃən/,audio/uk/emission.mp3,audio/us/emission.mp3,"khí thải, sự thải ra",
-10,2,Humans and the environment,sourced,encourage,v,/ɪnˈkʌrɪdʒ/,/enˈkɝːɪdʒ/,audio/uk/encourage.mp3,audio/us/encourage.mp3,khuyến khích,
-10,2,Humans and the environment,sourced,energy,n,/ˈenədʒi/,/ˈenɚdʒi/,audio/uk/energy.mp3,audio/us/energy.mp3,năng lượng,
-10,2,Humans and the environment,sourced,estimate,v,/ˈestɪmeɪt/,/ˈestəmeɪt/,audio/uk/estimate.mp3,audio/us/estimate.mp3,ước tính,
-10,2,Humans and the environment,sourced,global,adj,/ˈɡləʊbl/,/ˈɡloʊbəl/,audio/uk/global.mp3,audio/us/global.mp3,toàn cầu,
-10,2,Humans and the environment,sourced,green living,n,/ˌɡriːn ˈlɪvɪŋ/,/ˌɡriːn ˈlɪvɪŋ/,audio/uk/green-living.mp3,audio/us/green-living.mp3,lối sống xanh,
-10,2,Humans and the environment,sourced,household appliance,n,/ˌhaʊshəʊld əˈplaɪəns/,/ˌhaʊshoʊld əˈplaɪəns/,audio/uk/household-appliance.mp3,audio/us/household-appliance.mp3,đồ gia dụng,
-10,2,Humans and the environment,sourced,improve,v,/ɪmˈpruːv/,/ˌɪmˈpruːv/,audio/uk/improve.mp3,audio/us/improve.mp3,cải thiện,
-10,2,Humans and the environment,sourced,issue,n,/ˈɪʃuː/,/ˈɪʃuː/,audio/uk/issue.mp3,audio/us/issue.mp3,vấn đề,
-10,2,Humans and the environment,sourced,lifestyle,n,/ˈlaɪfstaɪl/,/ˈlaɪfstaɪl/,audio/uk/lifestyle.mp3,audio/us/lifestyle.mp3,lối sống,
-10,2,Humans and the environment,sourced,litter,n,/ˈlɪtə(r)/,/ˈlɪtɚ/,audio/uk/litter.mp3,audio/us/litter.mp3,rác (vứt bừa bãi),
-10,2,Humans and the environment,sourced,set up,phr v,/set ˈʌp/,/set ˈʌp/,audio/uk/set-up.mp3,audio/us/set-up.mp3,"thành lập, thiết lập",
-10,3,Music,sourced,audience,n,/ˈɔːdiəns/,/ˈɑːdiəns/,audio/uk/audience.mp3,audio/us/audience.mp3,"khán giả, thính giả",
-10,3,Music,sourced,composer,n,/kəmˈpəʊzə(r)/,/kəmˈpoʊzɚ/,audio/uk/composer.mp3,audio/us/composer.mp3,nhà soạn nhạc,
-10,3,Music,sourced,famous,adj,/ˈfeɪməs/,/ˈfeɪməs/,audio/uk/famous.mp3,audio/us/famous.mp3,nổi tiếng,
-10,3,Music,sourced,fan,n,/fæn/,/fæn/,audio/uk/fan.mp3,audio/us/fan.mp3,người hâm mộ,
-10,3,Music,sourced,festival,n,/ˈfestɪvl/,/ˈfestɪvəl/,audio/uk/festival.mp3,audio/us/festival.mp3,lễ hội,
-10,3,Music,sourced,hesitate,v,/ˈhezɪteɪt/,/ˈhezəteɪt/,audio/uk/hesitate.mp3,audio/us/hesitate.mp3,"do dự, ngập ngừng",
-10,3,Music,sourced,judge,n,/dʒʌdʒ/,/dʒʌdʒ/,audio/uk/judge.mp3,audio/us/judge.mp3,giám khảo,
-10,3,Music,sourced,musical instrument,n,/ˌmjuːzɪkl ˈɪnstrəmənt/,/ˌmjuːzɪkəl ˈɪnstrəmənt/,audio/uk/musical-instrument.mp3,audio/us/musical-instrument.mp3,nhạc cụ,
-10,3,Music,sourced,participant,n,/pɑːˈtɪsɪpənt/,/pɑːrˈtɪsəpənt/,audio/uk/participant.mp3,audio/us/participant.mp3,"người tham gia, thí sinh",
-10,3,Music,sourced,perform,v,/pəˈfɔːm/,/pɚˈfɔːrm/,audio/uk/perform.mp3,audio/us/perform.mp3,biểu diễn,
-10,3,Music,sourced,performance,n,/pəˈfɔːməns/,/pɚˈfɔːrməns/,audio/uk/performance.mp3,audio/us/performance.mp3,"buổi biểu diễn, màn trình diễn",
-10,3,Music,sourced,talented,adj,/ˈtæləntɪd/,/ˈtæləntɪd/,audio/uk/talented.mp3,audio/us/talented.mp3,"có tài, tài năng",
-10,3,Music,sourced,teenager,n,/ˈtiːneɪdʒə(r)/,/ˈtiːneɪdʒɚ/,audio/uk/teenager.mp3,audio/us/teenager.mp3,thanh thiếu niên,
-10,3,Music,sourced,trumpet,n,/ˈtrʌmpɪt/,/ˈtrʌmpət/,audio/uk/trumpet.mp3,audio/us/trumpet.mp3,kèn trumpet,
-10,4,For a better community,sourced,benefit,v,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,"có lợi, được lợi; giúp ích cho",
-10,4,For a better community,sourced,by chance,phr,/baɪ ˈtʃɑːns/,/baɪ ˈtʃæns/,audio/uk/by-chance.mp3,audio/us/by-chance.mp3,tình cờ,
-10,4,For a better community,sourced,charity,n,/ˈtʃærəti/,/ˈtʃerɪti/,audio/uk/charity.mp3,audio/us/charity.mp3,"tổ chức từ thiện, hội từ thiện",
-10,4,For a better community,sourced,community,n,/kəˈmjuːnəti/,/kəˈmjuːnəti/,audio/uk/community.mp3,audio/us/community.mp3,cộng đồng,
-10,4,For a better community,sourced,community service,n,/kəˌmjuːnəti ˈsɜːvɪs/,/kəˌmjuːnəti ˈsɝːvɪs/,audio/uk/community-service.mp3,audio/us/community-service.mp3,hoạt động phục vụ cộng đồng,
-10,4,For a better community,sourced,donate,v,/dəʊˈneɪt/,/ˈdoʊneɪt/,audio/uk/donate.mp3,audio/us/donate.mp3,"quyên góp, hiến tặng",
-10,4,For a better community,sourced,generous,adj,/ˈdʒenərəs/,/ˈdʒenɚəs/,audio/uk/generous.mp3,audio/us/generous.mp3,"hào phóng, rộng lượng",
-10,4,For a better community,sourced,interact,v,/ˌɪntərˈækt/,/ˌɪntəˈrækt/,audio/uk/interact.mp3,audio/us/interact.mp3,tương tác,
-10,4,For a better community,sourced,non-profit,adj,/ˌnɒn ˈprɒfɪt/,/ˌnɑːn ˈprɑːfɪt/,audio/uk/non-profit.mp3,audio/us/non-profit.mp3,phi lợi nhuận,
-10,4,For a better community,sourced,raise,v,/reɪz/,/reɪz/,audio/uk/raise.mp3,audio/us/raise.mp3,quyên góp (tiền),They raised money for poor children.
-10,4,For a better community,sourced,remote,adj,/rɪˈməʊt/,/rɪˈmoʊt/,audio/uk/remote.mp3,audio/us/remote.mp3,"xa xôi, hẻo lánh",
-10,4,For a better community,sourced,volunteer,n,/ˌvɒlənˈtɪə(r)/,/ˌvɑːlənˈtɪr/,audio/uk/volunteer.mp3,audio/us/volunteer.mp3,tình nguyện viên,
-10,5,Inventions,sourced,3D printing,n,/ˌθriː ˈdiː ˈprɪntɪŋ/,/ˌθriː ˈdiː ˈprɪntɪŋ/,audio/uk/3d-printing.mp3,audio/us/3d-printing.mp3,công nghệ in 3D,
-10,5,Inventions,sourced,advantage,n,/ədˈvɑːntɪdʒ/,/ædˈvæntɪdʒ/,audio/uk/advantage.mp3,audio/us/advantage.mp3,"lợi thế, ưu điểm",
-10,5,Inventions,sourced,artificial intelligence,n,/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/,/ˌɑːrtəˌfɪʃəl ˌɪnˈtelədʒəns/,audio/uk/artificial-intelligence.mp3,audio/us/artificial-intelligence.mp3,trí tuệ nhân tạo,
-10,5,Inventions,sourced,device,n,/dɪˈvaɪs/,/dɪˈvaɪs/,audio/uk/device.mp3,audio/us/device.mp3,thiết bị,
-10,5,Inventions,sourced,innovation,n,/ˌɪnəˈveɪʃn/,/ˌɪnəˈveɪʃən/,audio/uk/innovation.mp3,audio/us/innovation.mp3,"sự đổi mới, sáng kiến",
-10,5,Inventions,sourced,innovative,adj,/ˈɪnəveɪtɪv/,/ˈɪnəveɪtɪv/,audio/uk/innovative.mp3,audio/us/innovative.mp3,"đổi mới, sáng tạo",
-10,5,Inventions,sourced,invention,n,/ɪnˈvenʃn/,/ˌɪnˈvenʃən/,audio/uk/invention.mp3,audio/us/invention.mp3,"sự phát minh, vật phát minh",
-10,5,Inventions,sourced,inventor,n,/ɪnˈventə(r)/,/ˌɪnˈventɚ/,audio/uk/inventor.mp3,audio/us/inventor.mp3,nhà phát minh,
-10,5,Inventions,sourced,laptop,n,/ˈlæptɒp/,/ˈlæptɑːp/,audio/uk/laptop.mp3,audio/us/laptop.mp3,máy tính xách tay,
-10,5,Inventions,sourced,patent,n,/ˈpætnt/,/ˈpætənt/,audio/uk/patent.mp3,audio/us/patent.mp3,bằng sáng chế,
-10,5,Inventions,sourced,portable,adj,/ˈpɔːtəbl/,/ˈpɔːrtəbəl/,audio/uk/portable.mp3,audio/us/portable.mp3,"dễ mang theo, xách tay",
-10,5,Inventions,sourced,software,n,/ˈsɒftweə(r)/,/ˈsɑːftwer/,audio/uk/software.mp3,audio/us/software.mp3,phần mềm,
-10,6,Gender equality,sourced,access,n,/ˈækses/,/ˈækses/,audio/uk/access.mp3,audio/us/access.mp3,"sự tiếp cận, quyền tiếp cận",
-10,6,Gender equality,sourced,association,n,/əˌsəʊsiˈeɪʃn/,/əˌsoʊsiˈeɪʃən/,audio/uk/association.mp3,audio/us/association.mp3,"hiệp hội, đoàn thể",
-10,6,Gender equality,sourced,equal,adj,/ˈiːkwəl/,/ˈiːkwəl/,audio/uk/equal.mp3,audio/us/equal.mp3,"bình đẳng, ngang bằng",
-10,6,Gender equality,sourced,equality,n,/iˈkwɒləti/,/ɪˈkwɑːləti/,audio/uk/equality.mp3,audio/us/equality.mp3,sự bình đẳng,
-10,6,Gender equality,sourced,experienced,adj,/ɪkˈspɪəriənst/,/ɪkˈspɪriənst/,audio/uk/experienced.mp3,audio/us/experienced.mp3,có kinh nghiệm,
-10,6,Gender equality,sourced,female,adj,/ˈfiːmeɪl/,/ˈfiːmeɪl/,audio/uk/female.mp3,audio/us/female.mp3,(thuộc) nữ giới,
-10,6,Gender equality,sourced,fitness,n,/ˈfɪtnəs/,/ˈfɪtnəs/,audio/uk/fitness.mp3,audio/us/fitness.mp3,"sự khỏe mạnh, thể lực",
-10,6,Gender equality,sourced,flexible,adj,/ˈfleksəbl/,/ˈfleksəbəl/,audio/uk/flexible.mp3,audio/us/flexible.mp3,linh hoạt,
-10,6,Gender equality,sourced,gender,n,/ˈdʒendə(r)/,/ˈdʒendɚ/,audio/uk/gender.mp3,audio/us/gender.mp3,giới tính,
-10,6,Gender equality,sourced,gender equality,n,/ˌdʒendər iˈkwɒləti/,/ˌdʒendɚ ɪˈkwɑːləti/,audio/uk/gender-equality.mp3,audio/us/gender-equality.mp3,bình đẳng giới,
-10,6,Gender equality,sourced,gender role,n,/ˈdʒendə rəʊl/,/ˈdʒendɚ roʊl/,audio/uk/gender-role.mp3,audio/us/gender-role.mp3,vai trò giới,
-10,6,Gender equality,sourced,gentle,adj,/ˈdʒentl/,/ˈdʒentəl/,audio/uk/gentle.mp3,audio/us/gentle.mp3,"dịu dàng, hiền lành",
-10,6,Gender equality,sourced,influence,v,/ˈɪnfluəns/,/ˈɪnfluəns/,audio/uk/influence.mp3,audio/us/influence.mp3,ảnh hưởng,
-10,6,Gender equality,sourced,intend,v,/ɪnˈtend/,/ˌɪnˈtend/,audio/uk/intend.mp3,audio/us/intend.mp3,"có ý định, dự định",
-10,6,Gender equality,sourced,kindergarten,n,/ˈkɪndəɡɑːtn/,/ˈkɪndɚɡɑːrtən/,audio/uk/kindergarten.mp3,audio/us/kindergarten.mp3,"trường mẫu giáo, mầm non",
-10,6,Gender equality,sourced,perceive,v,/pəˈsiːv/,/pɚˈsiːv/,audio/uk/perceive.mp3,audio/us/perceive.mp3,"nhận thức, cảm nhận",
-10,6,Gender equality,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"khuyến khích, thúc đẩy",
-10,6,Gender equality,sourced,require,v,/rɪˈkwaɪə(r)/,/rɪˈkwaɪɚ/,audio/uk/require.mp3,audio/us/require.mp3,"yêu cầu, đòi hỏi",
-10,6,Gender equality,sourced,social bias,n,/ˌsəʊʃl ˈbaɪəs/,/ˌsoʊʃəl ˈbaɪəs/,audio/uk/social-bias.mp3,audio/us/social-bias.mp3,định kiến xã hội,
-10,6,Gender equality,sourced,surgeon,n,/ˈsɜːdʒən/,/ˈsɝːdʒən/,audio/uk/surgeon.mp3,audio/us/surgeon.mp3,bác sĩ phẫu thuật,
-10,6,Gender equality,sourced,tend,v,/tend/,/tend/,audio/uk/tend.mp3,audio/us/tend.mp3,có khuynh hướng,
-10,6,Gender equality,sourced,treat,v,/triːt/,/triːt/,audio/uk/treat.mp3,audio/us/treat.mp3,đối xử,
-10,7,Viet Nam and international organisations,sourced,achieve,v,/əˈtʃiːv/,/əˈtʃiːv/,audio/uk/achieve.mp3,audio/us/achieve.mp3,đạt được,
-10,7,Viet Nam and international organisations,sourced,aim,n,/eɪm/,/eɪm/,audio/uk/aim.mp3,audio/us/aim.mp3,"mục tiêu, mục đích",
-10,7,Viet Nam and international organisations,sourced,commit,v,/kəˈmɪt/,/kəˈmɪt/,audio/uk/commit.mp3,audio/us/commit.mp3,cam kết,
-10,7,Viet Nam and international organisations,sourced,competitive,adj,/kəmˈpetətɪv/,/kəmˈpetətɪv/,audio/uk/competitive.mp3,audio/us/competitive.mp3,"cạnh tranh, có sức cạnh tranh",
-10,7,Viet Nam and international organisations,sourced,disadvantaged,adj,/ˌdɪsədˈvɑːntɪdʒd/,/dɪsədˈvæntɪdʒd/,audio/uk/disadvantaged.mp3,audio/us/disadvantaged.mp3,"thiệt thòi, có hoàn cảnh khó khăn",
-10,7,Viet Nam and international organisations,sourced,economic,adj,/ˌiːkəˈnɒmɪk/,/ˌiːkəˈnɑːmɪk/,audio/uk/economic.mp3,audio/us/economic.mp3,(thuộc) kinh tế,
-10,7,Viet Nam and international organisations,sourced,economy,n,/ɪˈkɒnəmi/,/ɪˈkɑːnəmi/,audio/uk/economy.mp3,audio/us/economy.mp3,nền kinh tế,
-10,7,Viet Nam and international organisations,sourced,enter,v,/ˈentə(r)/,/ˈentɚ/,audio/uk/enter.mp3,audio/us/enter.mp3,"gia nhập, thâm nhập (thị trường)",
-10,7,Viet Nam and international organisations,sourced,essential,adj,/ɪˈsenʃl/,/ɪˈsenʃəl/,audio/uk/essential.mp3,audio/us/essential.mp3,"cần thiết, thiết yếu",
-10,7,Viet Nam and international organisations,sourced,expert,adj,/ˈekspɜːt/,/ˈekspɚt/,audio/uk/expert.mp3,audio/us/expert.mp3,"(thuộc) chuyên môn, chuyên gia",
-10,7,Viet Nam and international organisations,sourced,facilitate,v,/fəˈsɪlɪteɪt/,/fəˈsɪləteɪt/,audio/uk/facilitate.mp3,audio/us/facilitate.mp3,tạo điều kiện thuận lợi,
-10,7,Viet Nam and international organisations,sourced,goal,n,/ɡəʊl/,/ɡoʊl/,audio/uk/goal.mp3,audio/us/goal.mp3,mục tiêu,
-10,7,Viet Nam and international organisations,sourced,growth,n,/ɡrəʊθ/,/ɡroʊθ/,audio/uk/growth.mp3,audio/us/growth.mp3,sự tăng trưởng,
-10,7,Viet Nam and international organisations,sourced,harm,n,/hɑːm/,/hɑːrm/,audio/uk/harm.mp3,audio/us/harm.mp3,"sự tổn hại, mối nguy hại",
-10,7,Viet Nam and international organisations,sourced,hunger,n,/ˈhʌŋɡə(r)/,/ˈhʌŋɡɚ/,audio/uk/hunger.mp3,audio/us/hunger.mp3,nạn đói,
-10,7,Viet Nam and international organisations,sourced,international,adj,/ˌɪntəˈnæʃnəl/,/ˌɪntɚˈnæʃənəl/,audio/uk/international.mp3,audio/us/international.mp3,quốc tế,
-10,7,Viet Nam and international organisations,sourced,invest,v,/ɪnˈvest/,/ˌɪnˈvest/,audio/uk/invest.mp3,audio/us/invest.mp3,đầu tư,
-10,7,Viet Nam and international organisations,sourced,investor,n,/ɪnˈvestə(r)/,/ˌɪnˈvestɚ/,audio/uk/investor.mp3,audio/us/investor.mp3,nhà đầu tư,
-10,7,Viet Nam and international organisations,sourced,organisation,n,/ˌɔːɡənaɪˈzeɪʃn/,/ˌɔːrɡənɪˈzeɪʃən/,audio/uk/organisation.mp3,audio/us/organisation.mp3,tổ chức,
-10,7,Viet Nam and international organisations,sourced,peacekeeping,adj,/ˈpiːskiːpɪŋ/,/ˈpiːskiːpɪŋ/,audio/uk/peacekeeping.mp3,audio/us/peacekeeping.mp3,gìn giữ hòa bình,Viet Nam has sent troops to UN peacekeeping missions.
-10,7,Viet Nam and international organisations,sourced,poverty,n,/ˈpɒvəti/,/ˈpɑːvɚti/,audio/uk/poverty.mp3,audio/us/poverty.mp3,sự nghèo đói,
-10,7,Viet Nam and international organisations,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"quảng bá, thúc đẩy",
-10,7,Viet Nam and international organisations,sourced,quality,n,/ˈkwɒləti/,/ˈkwɑːləti/,audio/uk/quality.mp3,audio/us/quality.mp3,chất lượng,
-10,7,Viet Nam and international organisations,sourced,regional,adj,/ˈriːdʒənl/,/ˈriːdʒənəl/,audio/uk/regional.mp3,audio/us/regional.mp3,(thuộc) khu vực,
-10,7,Viet Nam and international organisations,sourced,relation,n,/rɪˈleɪʃn/,/riˈleɪʃən/,audio/uk/relation.mp3,audio/us/relation.mp3,mối quan hệ,
-10,7,Viet Nam and international organisations,sourced,respect,v,/rɪˈspekt/,/rɪˈspekt/,audio/uk/respect.mp3,audio/us/respect.mp3,tôn trọng,
-10,7,Viet Nam and international organisations,sourced,technical,adj,/ˈteknɪkl/,/ˈteknɪkəl/,audio/uk/technical.mp3,audio/us/technical.mp3,(thuộc) kỹ thuật,
-10,7,Viet Nam and international organisations,sourced,trade,n,/treɪd/,/treɪd/,audio/uk/trade.mp3,audio/us/trade.mp3,thương mại,
-10,7,Viet Nam and international organisations,sourced,vaccinate,v,/ˈvæksɪneɪt/,/ˈvæksəneɪt/,audio/uk/vaccinate.mp3,audio/us/vaccinate.mp3,tiêm vắc-xin,
-10,7,Viet Nam and international organisations,sourced,welcome,v,/ˈwelkəm/,/ˈwelkəm/,audio/uk/welcome.mp3,audio/us/welcome.mp3,"chào đón, hoan nghênh",
-10,8,New ways to learn,sourced,blended learning,n,/ˌblendɪd ˈlɜːnɪŋ/,/ˌblendɪd ˈlɝːnɪŋ/,audio/uk/blended-learning.mp3,audio/us/blended-learning.mp3,học tập kết hợp (trực tiếp và trực tuyến),
-10,8,New ways to learn,sourced,communicate,v,/kəˈmjuːnɪkeɪt/,/kəˈmjuːnəkeɪt/,audio/uk/communicate.mp3,audio/us/communicate.mp3,giao tiếp,
-10,8,New ways to learn,sourced,digital,adj,/ˈdɪdʒɪtl/,/ˈdɪdʒɪtəl/,audio/uk/digital.mp3,audio/us/digital.mp3,kỹ thuật số,
-10,8,New ways to learn,sourced,face-to-face learning,n,/ˌfeɪs tə ˌfeɪs ˈlɜːnɪŋ/,/ˌfeɪs tə ˌfeɪs ˈlɝːnɪŋ/,audio/uk/face-to-face-learning.mp3,audio/us/face-to-face-learning.mp3,học trực tiếp,
-10,8,New ways to learn,sourced,material,n,/məˈtɪəriəl/,/məˈtɪriəl/,audio/uk/material.mp3,audio/us/material.mp3,tài liệu,
-10,8,New ways to learn,sourced,online learning,n,/ˌɒnlaɪn ˈlɜːnɪŋ/,/ˌɑːnlaɪn ˈlɝːnɪŋ/,audio/uk/online-learning.mp3,audio/us/online-learning.mp3,học trực tuyến,
-10,8,New ways to learn,sourced,original,adj,/əˈrɪdʒənl/,/əˈrɪdʒənəl/,audio/uk/original.mp3,audio/us/original.mp3,nguyên bản; độc đáo,
-10,8,New ways to learn,sourced,prefer,v,/prɪˈfɜː(r)/,/prɪˈfɝː/,audio/uk/prefer.mp3,audio/us/prefer.mp3,thích hơn,
-10,8,New ways to learn,sourced,resource,n,/rɪˈsɔːs/,/ˈriːsɔːrs/,audio/uk/resource.mp3,audio/us/resource.mp3,"tài nguyên, nguồn tài liệu",
-10,8,New ways to learn,sourced,search for,phr v,/ˈsɜːtʃ fə(r)/,/ˈsɝːtʃ fɚ/,audio/uk/search-for.mp3,audio/us/search-for.mp3,tìm kiếm,
-10,8,New ways to learn,sourced,strategy,n,/ˈstrætədʒi/,/ˈstrætədʒi/,audio/uk/strategy.mp3,audio/us/strategy.mp3,chiến lược,
-10,8,New ways to learn,sourced,upload,v,/ˌʌpˈləʊd/,/ˈʌploʊd/,audio/uk/upload.mp3,audio/us/upload.mp3,tải lên,
-10,9,Protecting the environment,sourced,analyse,v,/ˈænəlaɪz/,/ˈænəlaɪz/,audio/uk/analyse.mp3,audio/us/analyse.mp3,phân tích,
-10,9,Protecting the environment,sourced,at stake,phr,/ət ˈsteɪk/,/æt ˈsteɪk/,audio/uk/at-stake.mp3,audio/us/at-stake.mp3,"đang bị đe dọa, lâm nguy",
-10,9,Protecting the environment,sourced,balance,n,/ˈbæləns/,/ˈbæləns/,audio/uk/balance.mp3,audio/us/balance.mp3,sự cân bằng,
-10,9,Protecting the environment,sourced,biodiversity,n,/ˌbaɪəʊdaɪˈvɜːsəti/,/ˌbaɪoʊdaɪˈvɝːsəti/,audio/uk/biodiversity.mp3,audio/us/biodiversity.mp3,đa dạng sinh học,
-10,9,Protecting the environment,sourced,climate change,n,/ˈklaɪmət tʃeɪndʒ/,/ˈklaɪmət tʃeɪndʒ/,audio/uk/climate-change.mp3,audio/us/climate-change.mp3,biến đổi khí hậu,
-10,9,Protecting the environment,sourced,come up with,phr v,/kʌm ˈʌp wɪð/,/kʌm ˈʌp wɪð/,audio/uk/come-up-with.mp3,audio/us/come-up-with.mp3,"nghĩ ra, nảy ra (ý tưởng)",
-10,9,Protecting the environment,sourced,consequence,n,/ˈkɒnsɪkwəns/,/ˈkɑːnsəkwəns/,audio/uk/consequence.mp3,audio/us/consequence.mp3,hậu quả,
-10,9,Protecting the environment,sourced,conservation,n,/ˌkɒnsəˈveɪʃn/,/ˌkɑːnsɚˈveɪʃən/,audio/uk/conservation.mp3,audio/us/conservation.mp3,sự bảo tồn,
-10,9,Protecting the environment,sourced,damage,v,/ˈdæmɪdʒ/,/ˈdæmɪdʒ/,audio/uk/damage.mp3,audio/us/damage.mp3,"làm hại, làm hỏng",
-10,9,Protecting the environment,sourced,deforestation,n,/ˌdiːˌfɒrɪˈsteɪʃn/,/dɪˌfɔːrɪˈsteɪʃən/,audio/uk/deforestation.mp3,audio/us/deforestation.mp3,nạn phá rừng,
-10,9,Protecting the environment,sourced,ecosystem,n,/ˈiːkəʊsɪstəm/,/ˈiːkoʊsɪstəm/,audio/uk/ecosystem.mp3,audio/us/ecosystem.mp3,hệ sinh thái,
-10,9,Protecting the environment,sourced,endangered,adj,/ɪnˈdeɪndʒəd/,/ɪnˈdeɪndʒɚd/,audio/uk/endangered.mp3,audio/us/endangered.mp3,có nguy cơ tuyệt chủng,
-10,9,Protecting the environment,sourced,environmental protection,n,/ɪnˌvaɪrənˌmentl prəˈtekʃn/,/ɪnˌvaɪrənˌmentəl prəˈtekʃən/,audio/uk/environmental-protection.mp3,audio/us/environmental-protection.mp3,bảo vệ môi trường,
-10,9,Protecting the environment,sourced,erosion,n,/ɪˈrəʊʒn/,/ɪˈroʊʒən/,audio/uk/erosion.mp3,audio/us/erosion.mp3,sự xói mòn,
-10,9,Protecting the environment,sourced,exist,v,/ɪɡˈzɪst/,/ɪɡˈzɪst/,audio/uk/exist.mp3,audio/us/exist.mp3,tồn tại,
-10,9,Protecting the environment,sourced,fertiliser,n,/ˈfɜːtəlaɪzə(r)/,/ˈfɝːtəlaɪzɚ/,audio/uk/fertiliser.mp3,audio/us/fertiliser.mp3,phân bón,
-10,9,Protecting the environment,sourced,fossil fuel,n,/ˈfɒsl ˌfjuːəl/,/ˈfɑːsəl ˌfjuːəl/,audio/uk/fossil-fuel.mp3,audio/us/fossil-fuel.mp3,nhiên liệu hóa thạch,
-10,9,Protecting the environment,sourced,global warming,n,/ˌɡləʊbl ˈwɔːmɪŋ/,/ˌɡloʊbəl ˈwɔːrmɪŋ/,audio/uk/global-warming.mp3,audio/us/global-warming.mp3,sự nóng lên toàn cầu,
-10,9,Protecting the environment,sourced,greenhouse effect,n,/ˈɡriːnhaʊs ɪˌfekt/,/ˈɡriːnhaʊs ɪˌfekt/,audio/uk/greenhouse-effect.mp3,audio/us/greenhouse-effect.mp3,hiệu ứng nhà kính,
-10,9,Protecting the environment,sourced,habitat,n,/ˈhæbɪtæt/,/ˈhæbətæt/,audio/uk/habitat.mp3,audio/us/habitat.mp3,môi trường sống,
-10,9,Protecting the environment,sourced,heatwave,n,/ˈhiːtweɪv/,/ˈhiːtweɪv/,audio/uk/heatwave.mp3,audio/us/heatwave.mp3,đợt nắng nóng,
-10,9,Protecting the environment,sourced,ice melting,n,/ˈaɪs ˌmeltɪŋ/,/ˈaɪs ˌmeltɪŋ/,audio/uk/ice-melting.mp3,audio/us/ice-melting.mp3,sự tan băng,
-10,9,Protecting the environment,sourced,identify,v,/aɪˈdentɪfaɪ/,/aɪˈdentəfaɪ/,audio/uk/identify.mp3,audio/us/identify.mp3,xác định,
-10,9,Protecting the environment,sourced,issue,n,/ˈɪʃuː/,/ˈɪʃuː/,audio/uk/issue.mp3,audio/us/issue.mp3,vấn đề,
-10,9,Protecting the environment,sourced,pesticide,n,/ˈpestɪsaɪd/,/ˈpestəsaɪd/,audio/uk/pesticide.mp3,audio/us/pesticide.mp3,thuốc trừ sâu,
-10,9,Protecting the environment,sourced,pollute,v,/pəˈluːt/,/pəˈluːt/,audio/uk/pollute.mp3,audio/us/pollute.mp3,gây ô nhiễm,
-10,9,Protecting the environment,sourced,pollution,n,/pəˈluːʃn/,/pəˈluːʃən/,audio/uk/pollution.mp3,audio/us/pollution.mp3,sự ô nhiễm,
-10,9,Protecting the environment,sourced,practical,adj,/ˈpræktɪkl/,/ˈpræktɪkəl/,audio/uk/practical.mp3,audio/us/practical.mp3,thiết thực,
-10,9,Protecting the environment,sourced,preserve,v,/prɪˈzɜːv/,/prɪˈzɝːv/,audio/uk/preserve.mp3,audio/us/preserve.mp3,"giữ gìn, bảo tồn",
-10,9,Protecting the environment,sourced,protect,v,/prəˈtekt/,/prəˈtekt/,audio/uk/protect.mp3,audio/us/protect.mp3,bảo vệ,
-10,9,Protecting the environment,sourced,respiratory,adj,/rəˈspɪrətri/,/ˈrespɚətɔːri/,audio/uk/respiratory.mp3,audio/us/respiratory.mp3,(thuộc) hô hấp,
-10,9,Protecting the environment,sourced,sewage,n,/ˈsuːɪdʒ/,/ˈsuːɪdʒ/,audio/uk/sewage.mp3,audio/us/sewage.mp3,nước thải,
-10,9,Protecting the environment,sourced,threat,n,/θret/,/θret/,audio/uk/threat.mp3,audio/us/threat.mp3,mối đe dọa,
-10,9,Protecting the environment,sourced,vegetation,n,/ˌvedʒəˈteɪʃn/,/ˌvedʒəˈteɪʃən/,audio/uk/vegetation.mp3,audio/us/vegetation.mp3,"thảm thực vật, cây cỏ",
-10,9,Protecting the environment,sourced,waste gas,n,/ˈweɪst ɡæs/,/ˈweɪst ɡæs/,audio/uk/waste-gas.mp3,audio/us/waste-gas.mp3,khí thải,
-10,9,Protecting the environment,sourced,wildlife,n,/ˈwaɪldlaɪf/,/ˈwaɪldlaɪf/,audio/uk/wildlife.mp3,audio/us/wildlife.mp3,động vật hoang dã,
-10,10,Ecotourism,sourced,advertisement,n,/ədˈvɜːtɪsmənt/,/ædˈvɝːtəzmənt/,audio/uk/advertisement.mp3,audio/us/advertisement.mp3,quảng cáo,
-10,10,Ecotourism,sourced,aware,adj,/əˈweə(r)/,/əˈwer/,audio/uk/aware.mp3,audio/us/aware.mp3,"nhận thức được, biết",
-10,10,Ecotourism,sourced,benefit,n,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,lợi ích,
-10,10,Ecotourism,sourced,brochure,n,/ˈbrəʊʃə(r)/,/broʊˈʃʊr/,audio/uk/brochure.mp3,audio/us/brochure.mp3,"tờ quảng cáo, sách giới thiệu",
-10,10,Ecotourism,sourced,cause,v,/kɔːz/,/kɑːz/,audio/uk/cause.mp3,audio/us/cause.mp3,gây ra,
-10,10,Ecotourism,sourced,craft,n,/krɑːft/,/kræft/,audio/uk/craft.mp3,audio/us/craft.mp3,đồ thủ công,
-10,10,Ecotourism,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,
-10,10,Ecotourism,sourced,ecotourism,n,/ˈiːkəʊtʊərɪzəm/,/ˈiːkoʊtʊrɪzəm/,audio/uk/ecotourism.mp3,audio/us/ecotourism.mp3,du lịch sinh thái,
-10,10,Ecotourism,sourced,explore,v,/ɪkˈsplɔː(r)/,/ɪkˈsplɔːr/,audio/uk/explore-v.mp3,audio/us/explore-v.mp3,khám phá,
-10,10,Ecotourism,sourced,field trip,n,/ˈfiːld trɪp/,/ˈfiːld trɪp/,audio/uk/field-trip.mp3,audio/us/field-trip.mp3,chuyến đi thực tế,
-10,10,Ecotourism,sourced,impact,n,/ˈɪmpækt/,/ˈɪmpækt/,audio/uk/impact.mp3,audio/us/impact.mp3,tác động,
-10,10,Ecotourism,sourced,leave litter,phr,/ˌliːv ˈlɪtə(r)/,/ˌliːv ˈlɪtɚ/,audio/uk/leave-litter.mp3,audio/us/leave-litter.mp3,xả rác,
-10,10,Ecotourism,sourced,local,adj,/ˈləʊkl/,/ˈloʊkəl/,audio/uk/local.mp3,audio/us/local.mp3,(thuộc) địa phương,
-10,10,Ecotourism,sourced,packaging,n,/ˈpækɪdʒɪŋ/,/ˈpækɪdʒɪŋ/,audio/uk/packaging.mp3,audio/us/packaging.mp3,bao bì,
-10,10,Ecotourism,sourced,promise,v,/ˈprɒmɪs/,/ˈprɑːməs/,audio/uk/promise.mp3,audio/us/promise.mp3,hứa,
-10,10,Ecotourism,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"quảng bá, thúc đẩy",
-10,10,Ecotourism,sourced,protect,v,/prəˈtekt/,/prəˈtekt/,audio/uk/protect.mp3,audio/us/protect.mp3,bảo vệ,
-10,10,Ecotourism,sourced,responsible,adj,/rɪˈspɒnsəbl/,/riˈspɑːnsəbəl/,audio/uk/responsible.mp3,audio/us/responsible.mp3,có trách nhiệm,
-10,10,Ecotourism,sourced,stalactite,n,/ˈstæləktaɪt/,/stəˈlæktaɪt/,audio/uk/stalactite.mp3,audio/us/stalactite.mp3,thạch nhũ,
-10,10,Ecotourism,sourced,tour guide,n,/ˈtʊə ɡaɪd/,/ˈtʊr ɡaɪd/,audio/uk/tour-guide.mp3,audio/us/tour-guide.mp3,hướng dẫn viên du lịch,
-10,10,Ecotourism,sourced,trail,n,/treɪl/,/treɪl/,audio/uk/trail.mp3,audio/us/trail.mp3,đường mòn,
-10,10,Ecotourism,sourced,waste,v,/weɪst/,/weɪst/,audio/uk/waste.mp3,audio/us/waste.mp3,lãng phí,
+﻿grade,unit,unit_title,status,word,pos,ipa_uk,ipa_us,audio_uk,audio_us,meaning,example,example_vi
+10,1,Family life,sourced,achievement,n,/əˈtʃiːvmənt/,/əˈtʃiːvmənt/,audio/uk/achievement.mp3,audio/us/achievement.mp3,thành tựu,Winning the scholarship was a great achievement for my brother.,Giành được học bổng là một thành tựu lớn của anh trai tôi.
+10,1,Family life,sourced,appreciate,v,/əˈpriːʃieɪt/,/əˈpriːʃieɪt/,audio/uk/appreciate.mp3,audio/us/appreciate.mp3,"biết ơn, trân trọng",I really appreciate all the hard work my parents do for our family.,Tôi thực sự biết ơn mọi vất vả mà bố mẹ đã làm cho gia đình.
+10,1,Family life,sourced,benefit,n,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,lợi ích,One benefit of sharing housework is that children learn life skills.,Một lợi ích của việc chia sẻ việc nhà là trẻ em học được các kỹ năng sống.
+10,1,Family life,sourced,bond,n,/bɒnd/,/bɑːnd/,audio/uk/bond.mp3,audio/us/bond.mp3,"sự gắn bó, mối liên kết",Doing chores together strengthens the bond between family members.,Cùng nhau làm việc nhà giúp thắt chặt sự gắn bó giữa các thành viên trong gia đình.
+10,1,Family life,sourced,breadwinner,n,/ˈbredwɪnə(r)/,/ˈbredwɪnɚ/,audio/uk/breadwinner.mp3,audio/us/breadwinner.mp3,"trụ cột gia đình, người kiếm tiền nuôi gia đình",My father is the breadwinner of the family.,Bố tôi là trụ cột của gia đình.
+10,1,Family life,sourced,character,n,/ˈkærəktə(r)/,/ˈkerɪktɚ/,audio/uk/character-n.mp3,audio/us/character-n.mp3,tính cách,Doing housework helps children build character.,Làm việc nhà giúp trẻ em rèn luyện tính cách.
+10,1,Family life,sourced,chore,n,/tʃɔː(r)/,/tʃɔːr/,audio/uk/chore.mp3,audio/us/chore.mp3,"việc nhà, việc vặt",Everyone in my family has to do some chores every day.,Mọi người trong gia đình tôi đều phải làm một số việc nhà mỗi ngày.
+10,1,Family life,sourced,clean the house,phr,/ˌkliːn ðə ˈhaʊs/,/ˌkliːn ðə ˈhaʊs/,audio/uk/clean-the-house.mp3,audio/us/clean-the-house.mp3,lau dọn nhà cửa,We usually clean the house together at the weekend.,Chúng tôi thường cùng nhau lau dọn nhà cửa vào cuối tuần.
+10,1,Family life,sourced,contribute,v,/kənˈtrɪbjuːt/,/kənˈtrɪbjuːt/,audio/uk/contribute.mp3,audio/us/contribute.mp3,đóng góp,All family members should contribute to the housework.,Tất cả các thành viên trong gia đình nên cùng đóng góp vào việc nhà.
+10,1,Family life,sourced,critical,adj,/ˈkrɪtɪkl/,/ˈkrɪtɪkəl/,audio/uk/critical.mp3,audio/us/critical.mp3,"hay phê phán, chỉ trích; khó tính",My father is sometimes critical when I don't do my chores properly.,Bố tôi đôi khi hay phê bình khi tôi làm việc nhà không cẩn thận.
+10,1,Family life,sourced,damage,v,/ˈdæmɪdʒ/,/ˈdæmɪdʒ/,audio/uk/damage.mp3,audio/us/damage.mp3,"làm hỏng, gây hại",Arguments can damage the relationship between parents and children.,Những cuộc cãi vã có thể làm tổn hại mối quan hệ giữa cha mẹ và con cái.
+10,1,Family life,sourced,do the cooking,phr,/ˌduː ðə ˈkʊkɪŋ/,/ˌduː ðə ˈkʊkɪŋ/,audio/uk/do-the-cooking.mp3,audio/us/do-the-cooking.mp3,nấu ăn,"My mother usually does the cooking, but I sometimes help her.","Mẹ tôi thường nấu ăn, nhưng thỉnh thoảng tôi cũng giúp mẹ."
+10,1,Family life,sourced,do the laundry,phr,/ˌduː ðə ˈlɔːndri/,/ˌduː ðə ˈlɑːndri/,audio/uk/do-the-laundry.mp3,audio/us/do-the-laundry.mp3,giặt giũ,My brother does the laundry twice a week.,Anh trai tôi giặt giũ hai lần một tuần.
+10,1,Family life,sourced,do the shopping,phr,/ˌduː ðə ˈʃɒpɪŋ/,/ˌduː ðə ˈʃɑːpɪŋ/,audio/uk/do-the-shopping.mp3,audio/us/do-the-shopping.mp3,"đi chợ, mua sắm",My parents do the shopping at the supermarket every Sunday.,Bố mẹ tôi đi mua sắm ở siêu thị vào mỗi Chủ nhật.
+10,1,Family life,sourced,extended family,n,/ɪkˌstendɪd ˈfæməli/,/ɪkˌstendɪd ˈfæməli/,audio/uk/extended-family.mp3,audio/us/extended-family.mp3,gia đình nhiều thế hệ,"Living in an extended family, I learn a lot from my grandparents.","Sống trong gia đình nhiều thế hệ, tôi học hỏi được rất nhiều từ ông bà."
+10,1,Family life,sourced,gratitude,n,/ˈɡrætɪtjuːd/,/ˈɡrætətuːd/,audio/uk/gratitude.mp3,audio/us/gratitude.mp3,lòng biết ơn,Helping with housework is a way to show gratitude to our parents.,Giúp đỡ việc nhà là một cách để thể hiện lòng biết ơn đối với cha mẹ.
+10,1,Family life,sourced,grocery,n,/ˈɡrəʊsəri/,/ˈɡroʊsɚi/,audio/uk/grocery.mp3,audio/us/grocery.mp3,thực phẩm và tạp hóa,My mother asked me to buy some groceries on the way home.,Mẹ nhờ tôi mua một ít đồ tạp hóa trên đường về nhà.
+10,1,Family life,sourced,heavy lifting,n,/ˌhevi ˈlɪftɪŋ/,/ˌhevi ˈlɪftɪŋ/,audio/uk/heavy-lifting.mp3,audio/us/heavy-lifting.mp3,việc mang vác nặng,My father is responsible for the heavy lifting in our house.,Bố tôi đảm nhận những việc mang vác nặng trong nhà.
+10,1,Family life,sourced,homemaker,n,/ˈhəʊmmeɪkə(r)/,/ˈhoʊmmeɪkɚ/,audio/uk/homemaker.mp3,audio/us/homemaker.mp3,người nội trợ,My mother was a homemaker for many years before returning to work.,Mẹ tôi đã làm nội trợ nhiều năm trước khi đi làm trở lại.
+10,1,Family life,sourced,housework,n,/ˈhaʊswɜːk/,/ˈhaʊswɝːk/,audio/uk/housework.mp3,audio/us/housework.mp3,việc nhà,"In my family, we divide the housework equally.","Trong gia đình tôi, chúng tôi chia đều việc nhà."
+10,1,Family life,sourced,iron,v,/ˈaɪən/,/ˈaɪɚn/,audio/uk/iron.mp3,audio/us/iron.mp3,"là, ủi (quần áo)",I usually iron my school uniform on Sunday evenings.,Tôi thường ủi đồng phục đi học vào tối Chủ nhật.
+10,1,Family life,sourced,laundry,n,/ˈlɔːndri/,/ˈlɑːndri/,audio/uk/laundry.mp3,audio/us/laundry.mp3,quần áo cần giặt; việc giặt là,Can you hang out the laundry before you go to school?,Con phơi quần áo trước khi đi học được không?
+10,1,Family life,sourced,lay the table,phr,/ˌleɪ ðə ˈteɪbl/,/ˌleɪ ðə ˈteɪbəl/,audio/uk/lay-the-table.mp3,audio/us/lay-the-table.mp3,"dọn bàn ăn, bày bát đũa",My little sister always helps lay the table before dinner.,Em gái tôi luôn giúp dọn bàn ăn trước bữa tối.
+10,1,Family life,sourced,manner,n,/ˈmænə(r)/,/ˈmænɚ/,audio/uk/manner.mp3,audio/us/manner.mp3,"tác phong, cách cư xử",Parents should teach their children good manners from an early age.,Cha mẹ nên dạy con cách cư xử lịch sự ngay từ nhỏ.
+10,1,Family life,sourced,mop,v,/mɒp/,/mɑːp/,audio/uk/mop.mp3,audio/us/mop.mp3,lau (nhà) bằng cây lau nhà,I mop the floor after we finish dinner.,Tôi lau nhà sau khi cả nhà ăn tối xong.
+10,1,Family life,sourced,mow the lawn,phr,/ˌməʊ ðə ˈlɔːn/,/ˌmoʊ ðə ˈlɑːn/,audio/uk/mow-the-lawn.mp3,audio/us/mow-the-lawn.mp3,cắt cỏ,My dad pays me to mow the lawn every weekend.,Bố trả tiền cho tôi để cắt cỏ vào mỗi cuối tuần.
+10,1,Family life,sourced,nuclear family,n,/ˌnjuːkliə ˈfæməli/,/ˌnuːkliɚ ˈfæməli/,audio/uk/nuclear-family.mp3,audio/us/nuclear-family.mp3,gia đình hạt nhân (bố mẹ và con cái),Most families in big cities are nuclear families.,Hầu hết các gia đình ở thành phố lớn là gia đình hạt nhân.
+10,1,Family life,sourced,nurture,v,/ˈnɜːtʃə(r)/,/ˈnɝːtʃɚ/,audio/uk/nurture.mp3,audio/us/nurture.mp3,nuôi dưỡng,Parents nurture their children with love and care.,Cha mẹ nuôi dưỡng con cái bằng tình yêu thương và sự chăm sóc.
+10,1,Family life,sourced,put out,phr v,/pʊt ˈaʊt/,/pʊt ˈaʊt/,audio/uk/put-out.mp3,audio/us/put-out.mp3,mang (rác) ra ngoài để vứt,It's my job to put out the rubbish every evening.,Việc của tôi là mang rác ra ngoài vào mỗi buổi tối.
+10,1,Family life,sourced,raise,v,/reɪz/,/reɪz/,audio/uk/raise.mp3,audio/us/raise.mp3,nuôi nấng,My grandparents raised five children on a small farm.,Ông bà tôi đã nuôi nấng năm người con trên một trang trại nhỏ.
+10,1,Family life,sourced,responsibility,n,/rɪˌspɒnsəˈbɪləti/,/riˌspɑːnsəˈbɪləti/,audio/uk/responsibility.mp3,audio/us/responsibility.mp3,trách nhiệm,Doing chores teaches children a sense of responsibility.,Làm việc nhà dạy cho trẻ tinh thần trách nhiệm.
+10,1,Family life,sourced,routine,n,/ruːˈtiːn/,/ruːˈtiːn/,audio/uk/routine.mp3,audio/us/routine.mp3,"lệ thường, công việc hằng ngày",Making breakfast is part of my mother's daily routine.,Làm bữa sáng là một phần trong công việc hằng ngày của mẹ tôi.
+10,1,Family life,sourced,rubbish,n,/ˈrʌbɪʃ/,/ˈrʌbɪʃ/,audio/uk/rubbish.mp3,audio/us/rubbish.mp3,rác,Please put the rubbish in the bin.,Hãy bỏ rác vào thùng.
+10,1,Family life,sourced,spotlessly,adv,/ˈspɒtləsli/,/ˈspɑːtləsli/,audio/uk/spotlessly.mp3,audio/us/spotlessly.mp3,"sạch bong, không tì vết","After a whole morning of cleaning, the kitchen was spotlessly clean.","Sau cả buổi sáng dọn dẹp, căn bếp đã sạch bong."
+10,1,Family life,sourced,strengthen,v,/ˈstreŋkθn/,/ˈstreŋθən/,audio/uk/strengthen.mp3,audio/us/strengthen.mp3,"củng cố, làm vững mạnh thêm",Family meals help strengthen relationships between family members.,Những bữa cơm gia đình giúp gắn kết tình cảm giữa các thành viên.
+10,1,Family life,sourced,support,v,/səˈpɔːt/,/səˈpɔːrt/,audio/uk/support.mp3,audio/us/support.mp3,"ủng hộ, hỗ trợ",My parents always support me in my studies.,Bố mẹ luôn ủng hộ tôi trong việc học tập.
+10,1,Family life,sourced,truthful,adj,/ˈtruːθfl/,/ˈtruːθfəl/,audio/uk/truthful.mp3,audio/us/truthful.mp3,trung thực,Children should be truthful with their parents.,Con cái nên trung thực với cha mẹ.
+10,1,Family life,sourced,value,n,/ˈvæljuː/,/ˈvæljuː/,audio/uk/value.mp3,audio/us/value.mp3,giá trị,My grandparents taught me traditional family values.,Ông bà đã dạy tôi những giá trị gia đình truyền thống.
+10,1,Family life,sourced,washing-up,n,/ˌwɒʃɪŋ ˈʌp/,/ˌwɑːʃɪŋ ˈʌp/,audio/uk/washing-up.mp3,audio/us/washing-up.mp3,việc rửa bát đĩa,"After dinner, my brother and I take turns doing the washing-up.","Sau bữa tối, tôi và anh trai thay phiên nhau rửa bát."
+10,2,Humans and the environment,sourced,adopt,v,/əˈdɒpt/,/əˈdɑːpt/,audio/uk/adopt.mp3,audio/us/adopt.mp3,"áp dụng, chấp nhận (lối sống, thói quen)",More people are adopting a greener lifestyle to protect the environment.,Ngày càng nhiều người áp dụng lối sống xanh hơn để bảo vệ môi trường.
+10,2,Humans and the environment,sourced,appliance,n,/əˈplaɪəns/,/əˈplaɪəns/,audio/uk/appliance.mp3,audio/us/appliance.mp3,"thiết bị, đồ gia dụng",Turn off electrical appliances when you are not using them.,Hãy tắt các thiết bị điện khi bạn không sử dụng.
+10,2,Humans and the environment,sourced,awareness,n,/əˈweənəs/,/əˈwernəs/,audio/uk/awareness.mp3,audio/us/awareness.mp3,"nhận thức, sự hiểu biết",The campaign aims to raise awareness of environmental problems.,Chiến dịch nhằm nâng cao nhận thức về các vấn đề môi trường.
+10,2,Humans and the environment,sourced,break down,phr v,/breɪk ˈdaʊn/,/breɪk ˈdaʊn/,audio/uk/break-down.mp3,audio/us/break-down.mp3,phân hủy; hỏng,Plastic bags take hundreds of years to break down.,Túi ni lông phải mất hàng trăm năm mới phân hủy.
+10,2,Humans and the environment,sourced,calculate,v,/ˈkælkjuleɪt/,/ˈkælkjəleɪt/,audio/uk/calculate.mp3,audio/us/calculate.mp3,tính toán,You can use this website to calculate your carbon footprint.,Bạn có thể dùng trang web này để tính lượng khí thải các-bon của mình.
+10,2,Humans and the environment,sourced,carbon footprint,n,/ˌkɑːbən ˈfʊtprɪnt/,/ˌkɑːrbən ˈfʊtprɪnt/,audio/uk/carbon-footprint.mp3,audio/us/carbon-footprint.mp3,lượng khí thải các-bon (do một người/hoạt động tạo ra),Cycling to school is a good way to reduce your carbon footprint.,Đạp xe đến trường là một cách hay để giảm lượng khí thải các-bon của bạn.
+10,2,Humans and the environment,sourced,chemical,n,/ˈkemɪkl/,/ˈkemɪkəl/,audio/uk/chemical.mp3,audio/us/chemical.mp3,hóa chất,Factories should not release harmful chemicals into rivers.,Các nhà máy không nên thải hóa chất độc hại ra sông.
+10,2,Humans and the environment,sourced,clean up,phr v,/kliːn ˈʌp/,/kliːn ˈʌp/,audio/uk/clean-up.mp3,audio/us/clean-up.mp3,dọn sạch,Our class volunteered to clean up the beach last Sunday.,"Chủ nhật tuần trước, lớp chúng tôi đã tình nguyện dọn sạch bãi biển."
+10,2,Humans and the environment,sourced,cut down,phr v,/kʌt ˈdaʊn/,/kʌt ˈdaʊn/,audio/uk/cut-down.mp3,audio/us/cut-down.mp3,chặt (cây); cắt giảm,Too many trees have been cut down in this area.,Quá nhiều cây đã bị chặt ở khu vực này.
+10,2,Humans and the environment,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,We should use eco-friendly products such as cloth bags.,Chúng ta nên dùng các sản phẩm thân thiện với môi trường như túi vải.
+10,2,Humans and the environment,sourced,electrical,adj,/ɪˈlektrɪkl/,/ɪˈlektrɪkəl/,audio/uk/electrical.mp3,audio/us/electrical.mp3,(thuộc về) điện,Unplug electrical devices to save energy.,Hãy rút phích cắm các thiết bị điện để tiết kiệm năng lượng.
+10,2,Humans and the environment,sourced,emission,n,/iˈmɪʃn/,/ɪˈmɪʃən/,audio/uk/emission.mp3,audio/us/emission.mp3,"khí thải, sự thải ra",Cars and factories produce large amounts of harmful emissions.,Ô tô và nhà máy thải ra một lượng lớn khí thải độc hại.
+10,2,Humans and the environment,sourced,encourage,v,/ɪnˈkʌrɪdʒ/,/enˈkɝːɪdʒ/,audio/uk/encourage.mp3,audio/us/encourage.mp3,khuyến khích,Our school encourages students to bring their own water bottles.,Trường chúng tôi khuyến khích học sinh mang theo bình nước riêng.
+10,2,Humans and the environment,sourced,energy,n,/ˈenədʒi/,/ˈenɚdʒi/,audio/uk/energy.mp3,audio/us/energy.mp3,năng lượng,We can save energy by using LED light bulbs.,Chúng ta có thể tiết kiệm năng lượng bằng cách dùng bóng đèn LED.
+10,2,Humans and the environment,sourced,estimate,v,/ˈestɪmeɪt/,/ˈestəmeɪt/,audio/uk/estimate.mp3,audio/us/estimate.mp3,ước tính,Scientists estimate that sea levels will rise by one metre.,Các nhà khoa học ước tính rằng mực nước biển sẽ dâng thêm một mét.
+10,2,Humans and the environment,sourced,global,adj,/ˈɡləʊbl/,/ˈɡloʊbəl/,audio/uk/global.mp3,audio/us/global.mp3,toàn cầu,Pollution has become a global problem.,Ô nhiễm đã trở thành một vấn đề toàn cầu.
+10,2,Humans and the environment,sourced,green living,n,/ˌɡriːn ˈlɪvɪŋ/,/ˌɡriːn ˈlɪvɪŋ/,audio/uk/green-living.mp3,audio/us/green-living.mp3,lối sống xanh,Green living means making choices that are good for the environment.,Sống xanh nghĩa là đưa ra những lựa chọn có lợi cho môi trường.
+10,2,Humans and the environment,sourced,household appliance,n,/ˌhaʊshəʊld əˈplaɪəns/,/ˌhaʊshoʊld əˈplaɪəns/,audio/uk/household-appliance.mp3,audio/us/household-appliance.mp3,đồ gia dụng,Choose energy-saving household appliances to reduce your electricity bills.,Hãy chọn đồ gia dụng tiết kiệm điện để giảm hóa đơn tiền điện.
+10,2,Humans and the environment,sourced,improve,v,/ɪmˈpruːv/,/ˌɪmˈpruːv/,audio/uk/improve.mp3,audio/us/improve.mp3,cải thiện,Planting more trees can improve air quality in cities.,Trồng thêm cây xanh có thể cải thiện chất lượng không khí ở các thành phố.
+10,2,Humans and the environment,sourced,issue,n,/ˈɪʃuː/,/ˈɪʃuː/,audio/uk/issue.mp3,audio/us/issue.mp3,vấn đề,Plastic waste is a serious environmental issue.,Rác thải nhựa là một vấn đề môi trường nghiêm trọng.
+10,2,Humans and the environment,sourced,lifestyle,n,/ˈlaɪfstaɪl/,/ˈlaɪfstaɪl/,audio/uk/lifestyle.mp3,audio/us/lifestyle.mp3,lối sống,Adopting a green lifestyle can help protect the planet.,Áp dụng lối sống xanh có thể giúp bảo vệ hành tinh.
+10,2,Humans and the environment,sourced,litter,n,/ˈlɪtə(r)/,/ˈlɪtɚ/,audio/uk/litter.mp3,audio/us/litter.mp3,rác (vứt bừa bãi),The park was full of litter after the festival.,Công viên đầy rác sau lễ hội.
+10,2,Humans and the environment,sourced,set up,phr v,/set ˈʌp/,/set ˈʌp/,audio/uk/set-up.mp3,audio/us/set-up.mp3,"thành lập, thiết lập",Our class set up a recycling club to collect used paper.,Lớp chúng tôi đã thành lập một câu lạc bộ tái chế để thu gom giấy đã qua sử dụng.
+10,3,Music,sourced,audience,n,/ˈɔːdiəns/,/ˈɑːdiəns/,audio/uk/audience.mp3,audio/us/audience.mp3,"khán giả, thính giả",The audience cheered loudly at the end of the concert.,Khán giả reo hò vang dội khi buổi hòa nhạc kết thúc.
+10,3,Music,sourced,composer,n,/kəmˈpəʊzə(r)/,/kəmˈpoʊzɚ/,audio/uk/composer.mp3,audio/us/composer.mp3,nhà soạn nhạc,Trinh Cong Son was one of Viet Nam's greatest composers.,Trịnh Công Sơn là một trong những nhạc sĩ vĩ đại nhất của Việt Nam.
+10,3,Music,sourced,famous,adj,/ˈfeɪməs/,/ˈfeɪməs/,audio/uk/famous.mp3,audio/us/famous.mp3,nổi tiếng,She became famous after winning a TV singing competition.,Cô ấy trở nên nổi tiếng sau khi chiến thắng một cuộc thi hát trên truyền hình.
+10,3,Music,sourced,fan,n,/fæn/,/fæn/,audio/uk/fan.mp3,audio/us/fan.mp3,người hâm mộ,Thousands of fans waited outside to see the band.,Hàng nghìn người hâm mộ đã chờ bên ngoài để được gặp ban nhạc.
+10,3,Music,sourced,festival,n,/ˈfestɪvl/,/ˈfestɪvəl/,audio/uk/festival.mp3,audio/us/festival.mp3,lễ hội,The music festival attracts young people from all over the country.,Lễ hội âm nhạc thu hút giới trẻ từ khắp mọi miền đất nước.
+10,3,Music,sourced,hesitate,v,/ˈhezɪteɪt/,/ˈhezəteɪt/,audio/uk/hesitate.mp3,audio/us/hesitate.mp3,"do dự, ngập ngừng",Don't hesitate to sign up for the school talent show.,Đừng ngần ngại đăng ký tham gia cuộc thi tài năng của trường.
+10,3,Music,sourced,judge,n,/dʒʌdʒ/,/dʒʌdʒ/,audio/uk/judge.mp3,audio/us/judge.mp3,giám khảo,The judges praised her powerful voice.,Ban giám khảo khen ngợi giọng hát nội lực của cô ấy.
+10,3,Music,sourced,musical instrument,n,/ˌmjuːzɪkl ˈɪnstrəmənt/,/ˌmjuːzɪkəl ˈɪnstrəmənt/,audio/uk/musical-instrument.mp3,audio/us/musical-instrument.mp3,nhạc cụ,"He can play several musical instruments, including the guitar and the piano.","Anh ấy có thể chơi được nhiều nhạc cụ, trong đó có đàn ghi-ta và đàn piano."
+10,3,Music,sourced,participant,n,/pɑːˈtɪsɪpənt/,/pɑːrˈtɪsəpənt/,audio/uk/participant.mp3,audio/us/participant.mp3,"người tham gia, thí sinh",Each participant in the contest has to sing two songs.,Mỗi thí sinh trong cuộc thi phải hát hai bài.
+10,3,Music,sourced,perform,v,/pəˈfɔːm/,/pɚˈfɔːrm/,audio/uk/perform.mp3,audio/us/perform.mp3,biểu diễn,The band will perform at the opening ceremony.,Ban nhạc sẽ biểu diễn tại lễ khai mạc.
+10,3,Music,sourced,performance,n,/pəˈfɔːməns/,/pɚˈfɔːrməns/,audio/uk/performance.mp3,audio/us/performance.mp3,"buổi biểu diễn, màn trình diễn",Her performance on the show impressed everyone.,Màn trình diễn của cô ấy trong chương trình đã gây ấn tượng với tất cả mọi người.
+10,3,Music,sourced,talented,adj,/ˈtæləntɪd/,/ˈtæləntɪd/,audio/uk/talented.mp3,audio/us/talented.mp3,"có tài, tài năng",He is a talented young musician who writes his own songs.,"Anh ấy là một nhạc sĩ trẻ tài năng, tự sáng tác các bài hát của mình."
+10,3,Music,sourced,teenager,n,/ˈtiːneɪdʒə(r)/,/ˈtiːneɪdʒɚ/,audio/uk/teenager.mp3,audio/us/teenager.mp3,thanh thiếu niên,Many teenagers dream of becoming pop stars.,Nhiều thanh thiếu niên mơ ước trở thành ngôi sao nhạc pop.
+10,3,Music,sourced,trumpet,n,/ˈtrʌmpɪt/,/ˈtrʌmpət/,audio/uk/trumpet.mp3,audio/us/trumpet.mp3,kèn trumpet,My brother has been learning to play the trumpet for two years.,Anh trai tôi đã học chơi kèn trumpet được hai năm.
+10,4,For a better community,sourced,benefit,v,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,"có lợi, được lợi; giúp ích cho",Volunteering benefits both the community and the volunteers themselves.,Hoạt động tình nguyện mang lại lợi ích cho cả cộng đồng lẫn chính các tình nguyện viên.
+10,4,For a better community,sourced,by chance,phr,/baɪ ˈtʃɑːns/,/baɪ ˈtʃæns/,audio/uk/by-chance.mp3,audio/us/by-chance.mp3,tình cờ,I found out about the volunteer club by chance.,Tôi biết đến câu lạc bộ tình nguyện một cách tình cờ.
+10,4,For a better community,sourced,charity,n,/ˈtʃærəti/,/ˈtʃerɪti/,audio/uk/charity.mp3,audio/us/charity.mp3,"tổ chức từ thiện, hội từ thiện",She works for a charity that helps homeless children.,Cô ấy làm việc cho một tổ chức từ thiện giúp đỡ trẻ em vô gia cư.
+10,4,For a better community,sourced,community,n,/kəˈmjuːnəti/,/kəˈmjuːnəti/,audio/uk/community.mp3,audio/us/community.mp3,cộng đồng,Young people can do many things to help their local community.,Giới trẻ có thể làm nhiều việc để giúp đỡ cộng đồng địa phương.
+10,4,For a better community,sourced,community service,n,/kəˌmjuːnəti ˈsɜːvɪs/,/kəˌmjuːnəti ˈsɝːvɪs/,audio/uk/community-service.mp3,audio/us/community-service.mp3,hoạt động phục vụ cộng đồng,Students are encouraged to take part in community service during the summer.,Học sinh được khuyến khích tham gia các hoạt động phục vụ cộng đồng vào mùa hè.
+10,4,For a better community,sourced,donate,v,/dəʊˈneɪt/,/ˈdoʊneɪt/,audio/uk/donate.mp3,audio/us/donate.mp3,"quyên góp, hiến tặng",We donated books and clothes to children in the mountainous areas.,Chúng tôi đã quyên góp sách vở và quần áo cho trẻ em ở vùng núi.
+10,4,For a better community,sourced,generous,adj,/ˈdʒenərəs/,/ˈdʒenɚəs/,audio/uk/generous.mp3,audio/us/generous.mp3,"hào phóng, rộng lượng","Thanks to generous people, the charity raised enough money.","Nhờ những tấm lòng hào phóng, tổ chức từ thiện đã quyên góp đủ tiền."
+10,4,For a better community,sourced,interact,v,/ˌɪntərˈækt/,/ˌɪntəˈrækt/,audio/uk/interact.mp3,audio/us/interact.mp3,tương tác,Volunteering gives teenagers a chance to interact with people from different backgrounds.,Hoạt động tình nguyện cho thanh thiếu niên cơ hội giao lưu với những người thuộc nhiều hoàn cảnh khác nhau.
+10,4,For a better community,sourced,non-profit,adj,/ˌnɒn ˈprɒfɪt/,/ˌnɑːn ˈprɑːfɪt/,audio/uk/non-profit.mp3,audio/us/non-profit.mp3,phi lợi nhuận,She works for a non-profit organisation that protects the elderly.,Cô ấy làm việc cho một tổ chức phi lợi nhuận bảo vệ người cao tuổi.
+10,4,For a better community,sourced,raise,v,/reɪz/,/reɪz/,audio/uk/raise.mp3,audio/us/raise.mp3,quyên góp (tiền),They raised money for poor children.,Họ đã quyên góp tiền cho trẻ em nghèo.
+10,4,For a better community,sourced,remote,adj,/rɪˈməʊt/,/rɪˈmoʊt/,audio/uk/remote.mp3,audio/us/remote.mp3,"xa xôi, hẻo lánh",The volunteers built a new school in a remote village.,Các tình nguyện viên đã xây một ngôi trường mới ở một ngôi làng hẻo lánh.
+10,4,For a better community,sourced,volunteer,n,/ˌvɒlənˈtɪə(r)/,/ˌvɑːlənˈtɪr/,audio/uk/volunteer.mp3,audio/us/volunteer.mp3,tình nguyện viên,"As a volunteer, I teach English to children in my neighbourhood.","Là một tình nguyện viên, tôi dạy tiếng Anh cho trẻ em trong khu phố."
+10,5,Inventions,sourced,3D printing,n,/ˌθriː ˈdiː ˈprɪntɪŋ/,/ˌθriː ˈdiː ˈprɪntɪŋ/,audio/uk/3d-printing.mp3,audio/us/3d-printing.mp3,công nghệ in 3D,3D printing allows people to create objects quickly and cheaply.,Công nghệ in 3D cho phép con người tạo ra đồ vật một cách nhanh chóng và rẻ tiền.
+10,5,Inventions,sourced,advantage,n,/ədˈvɑːntɪdʒ/,/ædˈvæntɪdʒ/,audio/uk/advantage.mp3,audio/us/advantage.mp3,"lợi thế, ưu điểm",One advantage of laptops is that you can take them anywhere.,Một ưu điểm của máy tính xách tay là bạn có thể mang chúng đi bất cứ đâu.
+10,5,Inventions,sourced,artificial intelligence,n,/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/,/ˌɑːrtəˌfɪʃəl ˌɪnˈtelədʒəns/,audio/uk/artificial-intelligence.mp3,audio/us/artificial-intelligence.mp3,trí tuệ nhân tạo,Artificial intelligence is changing the way we live and work.,Trí tuệ nhân tạo đang thay đổi cách chúng ta sống và làm việc.
+10,5,Inventions,sourced,device,n,/dɪˈvaɪs/,/dɪˈvaɪs/,audio/uk/device.mp3,audio/us/device.mp3,thiết bị,This small device can translate speech into many languages.,Thiết bị nhỏ này có thể dịch lời nói sang nhiều ngôn ngữ.
+10,5,Inventions,sourced,innovation,n,/ˌɪnəˈveɪʃn/,/ˌɪnəˈveɪʃən/,audio/uk/innovation.mp3,audio/us/innovation.mp3,"sự đổi mới, sáng kiến",The smartphone was one of the greatest innovations of the 21st century.,Điện thoại thông minh là một trong những sáng kiến vĩ đại nhất của thế kỷ 21.
+10,5,Inventions,sourced,innovative,adj,/ˈɪnəveɪtɪv/,/ˈɪnəveɪtɪv/,audio/uk/innovative.mp3,audio/us/innovative.mp3,"đổi mới, sáng tạo",The students came up with an innovative design for a solar-powered bike.,Các học sinh đã nghĩ ra một thiết kế sáng tạo cho chiếc xe đạp chạy bằng năng lượng mặt trời.
+10,5,Inventions,sourced,invention,n,/ɪnˈvenʃn/,/ˌɪnˈvenʃən/,audio/uk/invention.mp3,audio/us/invention.mp3,"sự phát minh, vật phát minh",The light bulb is one of the most important inventions in history.,Bóng đèn điện là một trong những phát minh quan trọng nhất trong lịch sử.
+10,5,Inventions,sourced,inventor,n,/ɪnˈventə(r)/,/ˌɪnˈventɚ/,audio/uk/inventor.mp3,audio/us/inventor.mp3,nhà phát minh,Thomas Edison was a famous American inventor.,Thomas Edison là một nhà phát minh nổi tiếng người Mỹ.
+10,5,Inventions,sourced,laptop,n,/ˈlæptɒp/,/ˈlæptɑːp/,audio/uk/laptop.mp3,audio/us/laptop.mp3,máy tính xách tay,I use my laptop to do research for school projects.,Tôi dùng máy tính xách tay để tìm tài liệu cho các dự án ở trường.
+10,5,Inventions,sourced,patent,n,/ˈpætnt/,/ˈpætənt/,audio/uk/patent.mp3,audio/us/patent.mp3,bằng sáng chế,The inventor applied for a patent for his new machine.,Nhà phát minh đã nộp đơn xin cấp bằng sáng chế cho cỗ máy mới của mình.
+10,5,Inventions,sourced,portable,adj,/ˈpɔːtəbl/,/ˈpɔːrtəbəl/,audio/uk/portable.mp3,audio/us/portable.mp3,"dễ mang theo, xách tay",Portable devices like tablets are popular among students.,Các thiết bị dễ mang theo như máy tính bảng rất được học sinh ưa chuộng.
+10,5,Inventions,sourced,software,n,/ˈsɒftweə(r)/,/ˈsɑːftwer/,audio/uk/software.mp3,audio/us/software.mp3,phần mềm,You need to install this software before using the printer.,Bạn cần cài đặt phần mềm này trước khi sử dụng máy in.
+10,6,Gender equality,sourced,access,n,/ˈækses/,/ˈækses/,audio/uk/access.mp3,audio/us/access.mp3,"sự tiếp cận, quyền tiếp cận",Girls in some countries still do not have access to education.,Trẻ em gái ở một số quốc gia vẫn chưa được tiếp cận với giáo dục.
+10,6,Gender equality,sourced,association,n,/əˌsəʊsiˈeɪʃn/,/əˌsoʊsiˈeɪʃən/,audio/uk/association.mp3,audio/us/association.mp3,"hiệp hội, đoàn thể",The Women's Association organises many activities to support local women.,Hội Phụ nữ tổ chức nhiều hoạt động để hỗ trợ phụ nữ địa phương.
+10,6,Gender equality,sourced,equal,adj,/ˈiːkwəl/,/ˈiːkwəl/,audio/uk/equal.mp3,audio/us/equal.mp3,"bình đẳng, ngang bằng",Men and women should receive equal pay for the same work.,Nam giới và nữ giới nên được trả lương ngang nhau cho cùng một công việc.
+10,6,Gender equality,sourced,equality,n,/iˈkwɒləti/,/ɪˈkwɑːləti/,audio/uk/equality.mp3,audio/us/equality.mp3,sự bình đẳng,Gender equality means men and women have the same rights and opportunities.,Bình đẳng giới có nghĩa là nam giới và nữ giới có quyền lợi và cơ hội như nhau.
+10,6,Gender equality,sourced,experienced,adj,/ɪkˈspɪəriənst/,/ɪkˈspɪriənst/,audio/uk/experienced.mp3,audio/us/experienced.mp3,có kinh nghiệm,She is an experienced pilot who has flown for over ten years.,"Cô ấy là một phi công giàu kinh nghiệm, đã bay hơn mười năm."
+10,6,Gender equality,sourced,female,adj,/ˈfiːmeɪl/,/ˈfiːmeɪl/,audio/uk/female.mp3,audio/us/female.mp3,(thuộc) nữ giới,The number of female engineers has increased in recent years.,Số lượng kỹ sư nữ đã tăng lên trong những năm gần đây.
+10,6,Gender equality,sourced,fitness,n,/ˈfɪtnəs/,/ˈfɪtnəs/,audio/uk/fitness.mp3,audio/us/fitness.mp3,"sự khỏe mạnh, thể lực",Firefighters need a high level of physical fitness.,Lính cứu hỏa cần có thể lực tốt.
+10,6,Gender equality,sourced,flexible,adj,/ˈfleksəbl/,/ˈfleksəbəl/,audio/uk/flexible.mp3,audio/us/flexible.mp3,linh hoạt,Flexible working hours help parents share childcare.,Giờ làm việc linh hoạt giúp các bậc cha mẹ chia sẻ việc chăm sóc con cái.
+10,6,Gender equality,sourced,gender,n,/ˈdʒendə(r)/,/ˈdʒendɚ/,audio/uk/gender.mp3,audio/us/gender.mp3,giới tính,Jobs should not be chosen based on gender.,Không nên lựa chọn công việc dựa trên giới tính.
+10,6,Gender equality,sourced,gender equality,n,/ˌdʒendər iˈkwɒləti/,/ˌdʒendɚ ɪˈkwɑːləti/,audio/uk/gender-equality.mp3,audio/us/gender-equality.mp3,bình đẳng giới,Viet Nam has made great progress in gender equality.,Việt Nam đã đạt được nhiều tiến bộ trong vấn đề bình đẳng giới.
+10,6,Gender equality,sourced,gender role,n,/ˈdʒendə rəʊl/,/ˈdʒendɚ roʊl/,audio/uk/gender-role.mp3,audio/us/gender-role.mp3,vai trò giới,Traditional gender roles are changing in modern families.,Vai trò giới truyền thống đang thay đổi trong các gia đình hiện đại.
+10,6,Gender equality,sourced,gentle,adj,/ˈdʒentl/,/ˈdʒentəl/,audio/uk/gentle.mp3,audio/us/gentle.mp3,"dịu dàng, hiền lành",Male nurses can be as gentle and caring as female ones.,Các nam y tá cũng có thể dịu dàng và chu đáo như các nữ y tá.
+10,6,Gender equality,sourced,influence,v,/ˈɪnfluəns/,/ˈɪnfluəns/,audio/uk/influence.mp3,audio/us/influence.mp3,ảnh hưởng,Parents can influence their children's career choices.,Cha mẹ có thể ảnh hưởng đến lựa chọn nghề nghiệp của con cái.
+10,6,Gender equality,sourced,intend,v,/ɪnˈtend/,/ˌɪnˈtend/,audio/uk/intend.mp3,audio/us/intend.mp3,"có ý định, dự định",She intends to become a surgeon after finishing medical school.,Cô ấy dự định trở thành bác sĩ phẫu thuật sau khi tốt nghiệp trường y.
+10,6,Gender equality,sourced,kindergarten,n,/ˈkɪndəɡɑːtn/,/ˈkɪndɚɡɑːrtən/,audio/uk/kindergarten.mp3,audio/us/kindergarten.mp3,"trường mẫu giáo, mầm non",My uncle is one of the few male teachers at the kindergarten.,Chú tôi là một trong số ít giáo viên nam ở trường mẫu giáo.
+10,6,Gender equality,sourced,perceive,v,/pəˈsiːv/,/pɚˈsiːv/,audio/uk/perceive.mp3,audio/us/perceive.mp3,"nhận thức, cảm nhận",Some jobs are still perceived as being only for men.,Một số nghề vẫn bị coi là chỉ dành cho nam giới.
+10,6,Gender equality,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"khuyến khích, thúc đẩy",The government is trying to promote gender equality in the workplace.,Chính phủ đang nỗ lực thúc đẩy bình đẳng giới ở nơi làm việc.
+10,6,Gender equality,sourced,require,v,/rɪˈkwaɪə(r)/,/rɪˈkwaɪɚ/,audio/uk/require.mp3,audio/us/require.mp3,"yêu cầu, đòi hỏi",This job requires both physical strength and patience.,Công việc này đòi hỏi cả sức khỏe lẫn sự kiên nhẫn.
+10,6,Gender equality,sourced,social bias,n,/ˌsəʊʃl ˈbaɪəs/,/ˌsoʊʃəl ˈbaɪəs/,audio/uk/social-bias.mp3,audio/us/social-bias.mp3,định kiến xã hội,Social bias prevents many women from getting top positions.,Định kiến xã hội cản trở nhiều phụ nữ đạt được những vị trí cao nhất.
+10,6,Gender equality,sourced,surgeon,n,/ˈsɜːdʒən/,/ˈsɝːdʒən/,audio/uk/surgeon.mp3,audio/us/surgeon.mp3,bác sĩ phẫu thuật,My aunt is one of the best surgeons in the hospital.,Dì tôi là một trong những bác sĩ phẫu thuật giỏi nhất của bệnh viện.
+10,6,Gender equality,sourced,tend,v,/tend/,/tend/,audio/uk/tend.mp3,audio/us/tend.mp3,có khuynh hướng,Women tend to do more housework than men.,Phụ nữ thường có xu hướng làm việc nhà nhiều hơn nam giới.
+10,6,Gender equality,sourced,treat,v,/triːt/,/triːt/,audio/uk/treat.mp3,audio/us/treat.mp3,đối xử,Boys and girls should be treated equally at school.,Học sinh nam và nữ nên được đối xử bình đẳng ở trường.
+10,7,Viet Nam and international organisations,sourced,achieve,v,/əˈtʃiːv/,/əˈtʃiːv/,audio/uk/achieve.mp3,audio/us/achieve.mp3,đạt được,Viet Nam has achieved great economic growth since joining the WTO.,Việt Nam đã đạt được mức tăng trưởng kinh tế lớn kể từ khi gia nhập WTO.
+10,7,Viet Nam and international organisations,sourced,aim,n,/eɪm/,/eɪm/,audio/uk/aim.mp3,audio/us/aim.mp3,"mục tiêu, mục đích",The main aim of the UN is to maintain world peace.,Mục tiêu chính của Liên Hợp Quốc là duy trì hòa bình thế giới.
+10,7,Viet Nam and international organisations,sourced,commit,v,/kəˈmɪt/,/kəˈmɪt/,audio/uk/commit.mp3,audio/us/commit.mp3,cam kết,ASEAN members are committed to working together for regional peace.,Các thành viên ASEAN cam kết cùng hợp tác vì hòa bình trong khu vực.
+10,7,Viet Nam and international organisations,sourced,competitive,adj,/kəmˈpetətɪv/,/kəmˈpetətɪv/,audio/uk/competitive.mp3,audio/us/competitive.mp3,"cạnh tranh, có sức cạnh tranh",Vietnamese products have become more competitive in the world market.,Các sản phẩm của Việt Nam đã trở nên có sức cạnh tranh hơn trên thị trường thế giới.
+10,7,Viet Nam and international organisations,sourced,disadvantaged,adj,/ˌdɪsədˈvɑːntɪdʒd/,/dɪsədˈvæntɪdʒd/,audio/uk/disadvantaged.mp3,audio/us/disadvantaged.mp3,"thiệt thòi, có hoàn cảnh khó khăn",UNICEF provides support for disadvantaged children in many countries.,UNICEF hỗ trợ trẻ em có hoàn cảnh khó khăn ở nhiều quốc gia.
+10,7,Viet Nam and international organisations,sourced,economic,adj,/ˌiːkəˈnɒmɪk/,/ˌiːkəˈnɑːmɪk/,audio/uk/economic.mp3,audio/us/economic.mp3,(thuộc) kinh tế,Joining the WTO brought many economic benefits to Viet Nam.,Việc gia nhập WTO đã mang lại nhiều lợi ích kinh tế cho Việt Nam.
+10,7,Viet Nam and international organisations,sourced,economy,n,/ɪˈkɒnəmi/,/ɪˈkɑːnəmi/,audio/uk/economy.mp3,audio/us/economy.mp3,nền kinh tế,Viet Nam's economy has grown quickly over the past decades.,Nền kinh tế Việt Nam đã phát triển nhanh chóng trong những thập kỷ qua.
+10,7,Viet Nam and international organisations,sourced,enter,v,/ˈentə(r)/,/ˈentɚ/,audio/uk/enter.mp3,audio/us/enter.mp3,"gia nhập, thâm nhập (thị trường)",Membership of the WTO helped Vietnamese goods enter foreign markets.,Tư cách thành viên WTO đã giúp hàng hóa Việt Nam thâm nhập thị trường nước ngoài.
+10,7,Viet Nam and international organisations,sourced,essential,adj,/ɪˈsenʃl/,/ɪˈsenʃəl/,audio/uk/essential.mp3,audio/us/essential.mp3,"cần thiết, thiết yếu",International cooperation is essential for solving global problems.,Hợp tác quốc tế là điều thiết yếu để giải quyết các vấn đề toàn cầu.
+10,7,Viet Nam and international organisations,sourced,expert,adj,/ˈekspɜːt/,/ˈekspɚt/,audio/uk/expert.mp3,audio/us/expert.mp3,"(thuộc) chuyên môn, chuyên gia",The UN has provided expert advice on improving healthcare in Viet Nam.,Liên Hợp Quốc đã đưa ra những lời khuyên chuyên môn về việc cải thiện chăm sóc sức khỏe ở Việt Nam.
+10,7,Viet Nam and international organisations,sourced,facilitate,v,/fəˈsɪlɪteɪt/,/fəˈsɪləteɪt/,audio/uk/facilitate.mp3,audio/us/facilitate.mp3,tạo điều kiện thuận lợi,The agreement will facilitate trade between the two countries.,Hiệp định sẽ tạo điều kiện thuận lợi cho thương mại giữa hai nước.
+10,7,Viet Nam and international organisations,sourced,goal,n,/ɡəʊl/,/ɡoʊl/,audio/uk/goal.mp3,audio/us/goal.mp3,mục tiêu,One goal of the organisation is to end poverty.,Một trong những mục tiêu của tổ chức là xóa bỏ nghèo đói.
+10,7,Viet Nam and international organisations,sourced,growth,n,/ɡrəʊθ/,/ɡroʊθ/,audio/uk/growth.mp3,audio/us/growth.mp3,sự tăng trưởng,Foreign investment has contributed to Viet Nam's economic growth.,Đầu tư nước ngoài đã góp phần vào sự tăng trưởng kinh tế của Việt Nam.
+10,7,Viet Nam and international organisations,sourced,harm,n,/hɑːm/,/hɑːrm/,audio/uk/harm.mp3,audio/us/harm.mp3,"sự tổn hại, mối nguy hại",The WHO warns people about the harm caused by smoking.,WHO cảnh báo mọi người về tác hại do hút thuốc lá gây ra.
+10,7,Viet Nam and international organisations,sourced,hunger,n,/ˈhʌŋɡə(r)/,/ˈhʌŋɡɚ/,audio/uk/hunger.mp3,audio/us/hunger.mp3,nạn đói,The World Food Programme works to fight hunger around the world.,Chương trình Lương thực Thế giới hoạt động nhằm chống lại nạn đói trên toàn thế giới.
+10,7,Viet Nam and international organisations,sourced,international,adj,/ˌɪntəˈnæʃnəl/,/ˌɪntɚˈnæʃənəl/,audio/uk/international.mp3,audio/us/international.mp3,quốc tế,Viet Nam is a member of many international organisations.,Việt Nam là thành viên của nhiều tổ chức quốc tế.
+10,7,Viet Nam and international organisations,sourced,invest,v,/ɪnˈvest/,/ˌɪnˈvest/,audio/uk/invest.mp3,audio/us/invest.mp3,đầu tư,Many foreign companies have decided to invest in Viet Nam.,Nhiều công ty nước ngoài đã quyết định đầu tư vào Việt Nam.
+10,7,Viet Nam and international organisations,sourced,investor,n,/ɪnˈvestə(r)/,/ˌɪnˈvestɚ/,audio/uk/investor.mp3,audio/us/investor.mp3,nhà đầu tư,Viet Nam has become attractive to foreign investors.,Việt Nam đã trở thành điểm đến hấp dẫn đối với các nhà đầu tư nước ngoài.
+10,7,Viet Nam and international organisations,sourced,organisation,n,/ˌɔːɡənaɪˈzeɪʃn/,/ˌɔːrɡənɪˈzeɪʃən/,audio/uk/organisation.mp3,audio/us/organisation.mp3,tổ chức,The United Nations is the largest international organisation in the world.,Liên Hợp Quốc là tổ chức quốc tế lớn nhất thế giới.
+10,7,Viet Nam and international organisations,sourced,peacekeeping,adj,/ˈpiːskiːpɪŋ/,/ˈpiːskiːpɪŋ/,audio/uk/peacekeeping.mp3,audio/us/peacekeeping.mp3,gìn giữ hòa bình,Viet Nam has sent troops to UN peacekeeping missions.,Việt Nam đã cử quân tham gia các phái bộ gìn giữ hòa bình của Liên Hợp Quốc.
+10,7,Viet Nam and international organisations,sourced,poverty,n,/ˈpɒvəti/,/ˈpɑːvɚti/,audio/uk/poverty.mp3,audio/us/poverty.mp3,sự nghèo đói,Many international programmes aim to reduce poverty in rural areas.,Nhiều chương trình quốc tế nhằm mục đích giảm nghèo ở các vùng nông thôn.
+10,7,Viet Nam and international organisations,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"quảng bá, thúc đẩy",UNESCO helps promote Vietnamese culture to the world.,UNESCO giúp quảng bá văn hóa Việt Nam ra thế giới.
+10,7,Viet Nam and international organisations,sourced,quality,n,/ˈkwɒləti/,/ˈkwɑːləti/,audio/uk/quality.mp3,audio/us/quality.mp3,chất lượng,International support has improved the quality of education in remote areas.,Sự hỗ trợ của quốc tế đã nâng cao chất lượng giáo dục ở các vùng sâu vùng xa.
+10,7,Viet Nam and international organisations,sourced,regional,adj,/ˈriːdʒənl/,/ˈriːdʒənəl/,audio/uk/regional.mp3,audio/us/regional.mp3,(thuộc) khu vực,ASEAN plays an important role in regional cooperation.,ASEAN đóng vai trò quan trọng trong hợp tác khu vực.
+10,7,Viet Nam and international organisations,sourced,relation,n,/rɪˈleɪʃn/,/riˈleɪʃən/,audio/uk/relation.mp3,audio/us/relation.mp3,mối quan hệ,Viet Nam has good relations with many countries in the world.,Việt Nam có mối quan hệ tốt đẹp với nhiều quốc gia trên thế giới.
+10,7,Viet Nam and international organisations,sourced,respect,v,/rɪˈspekt/,/rɪˈspekt/,audio/uk/respect.mp3,audio/us/respect.mp3,tôn trọng,Member countries must respect each other's independence.,Các nước thành viên phải tôn trọng nền độc lập của nhau.
+10,7,Viet Nam and international organisations,sourced,technical,adj,/ˈteknɪkl/,/ˈteknɪkəl/,audio/uk/technical.mp3,audio/us/technical.mp3,(thuộc) kỹ thuật,The organisation provides technical support to developing countries.,Tổ chức này cung cấp hỗ trợ kỹ thuật cho các nước đang phát triển.
+10,7,Viet Nam and international organisations,sourced,trade,n,/treɪd/,/treɪd/,audio/uk/trade.mp3,audio/us/trade.mp3,thương mại,Trade between Viet Nam and other ASEAN countries has increased.,Thương mại giữa Việt Nam và các nước ASEAN khác đã tăng lên.
+10,7,Viet Nam and international organisations,sourced,vaccinate,v,/ˈvæksɪneɪt/,/ˈvæksəneɪt/,audio/uk/vaccinate.mp3,audio/us/vaccinate.mp3,tiêm vắc-xin,"With UNICEF's help, millions of children have been vaccinated.","Nhờ sự giúp đỡ của UNICEF, hàng triệu trẻ em đã được tiêm vắc-xin."
+10,7,Viet Nam and international organisations,sourced,welcome,v,/ˈwelkəm/,/ˈwelkəm/,audio/uk/welcome.mp3,audio/us/welcome.mp3,"chào đón, hoan nghênh",Viet Nam welcomes foreign companies to invest in the country.,Việt Nam hoan nghênh các công ty nước ngoài đầu tư vào đất nước.
+10,8,New ways to learn,sourced,blended learning,n,/ˌblendɪd ˈlɜːnɪŋ/,/ˌblendɪd ˈlɝːnɪŋ/,audio/uk/blended-learning.mp3,audio/us/blended-learning.mp3,học tập kết hợp (trực tiếp và trực tuyến),Blended learning combines classroom lessons with online activities.,Học tập kết hợp là sự kết hợp giữa các bài học trên lớp và các hoạt động trực tuyến.
+10,8,New ways to learn,sourced,communicate,v,/kəˈmjuːnɪkeɪt/,/kəˈmjuːnəkeɪt/,audio/uk/communicate.mp3,audio/us/communicate.mp3,giao tiếp,Students can communicate with their teachers through email.,Học sinh có thể giao tiếp với giáo viên qua email.
+10,8,New ways to learn,sourced,digital,adj,/ˈdɪdʒɪtl/,/ˈdɪdʒɪtəl/,audio/uk/digital.mp3,audio/us/digital.mp3,kỹ thuật số,Digital devices have changed the way students learn.,Các thiết bị kỹ thuật số đã thay đổi cách học sinh học tập.
+10,8,New ways to learn,sourced,face-to-face learning,n,/ˌfeɪs tə ˌfeɪs ˈlɜːnɪŋ/,/ˌfeɪs tə ˌfeɪs ˈlɝːnɪŋ/,audio/uk/face-to-face-learning.mp3,audio/us/face-to-face-learning.mp3,học trực tiếp,Face-to-face learning allows students to interact directly with teachers.,Học trực tiếp cho phép học sinh tương tác trực tiếp với giáo viên.
+10,8,New ways to learn,sourced,material,n,/məˈtɪəriəl/,/məˈtɪriəl/,audio/uk/material.mp3,audio/us/material.mp3,tài liệu,The teacher uploaded the learning materials to the school website.,Giáo viên đã tải tài liệu học tập lên trang web của trường.
+10,8,New ways to learn,sourced,online learning,n,/ˌɒnlaɪn ˈlɜːnɪŋ/,/ˌɑːnlaɪn ˈlɝːnɪŋ/,audio/uk/online-learning.mp3,audio/us/online-learning.mp3,học trực tuyến,Online learning lets students study at their own pace.,Học trực tuyến cho phép học sinh học theo tốc độ của riêng mình.
+10,8,New ways to learn,sourced,original,adj,/əˈrɪdʒənl/,/əˈrɪdʒənəl/,audio/uk/original.mp3,audio/us/original.mp3,nguyên bản; độc đáo,You should write the essay in your own words and be original.,Em nên viết bài luận bằng lời văn của chính mình và thể hiện sự sáng tạo.
+10,8,New ways to learn,sourced,prefer,v,/prɪˈfɜː(r)/,/prɪˈfɝː/,audio/uk/prefer.mp3,audio/us/prefer.mp3,thích hơn,I prefer face-to-face learning to online learning.,Tôi thích học trực tiếp hơn học trực tuyến.
+10,8,New ways to learn,sourced,resource,n,/rɪˈsɔːs/,/ˈriːsɔːrs/,audio/uk/resource.mp3,audio/us/resource.mp3,"tài nguyên, nguồn tài liệu",The internet provides students with a lot of useful resources.,Internet cung cấp cho học sinh rất nhiều nguồn tài liệu hữu ích.
+10,8,New ways to learn,sourced,search for,phr v,/ˈsɜːtʃ fə(r)/,/ˈsɝːtʃ fɚ/,audio/uk/search-for.mp3,audio/us/search-for.mp3,tìm kiếm,Students often search for information online for their projects.,Học sinh thường tìm kiếm thông tin trên mạng cho các dự án của mình.
+10,8,New ways to learn,sourced,strategy,n,/ˈstrætədʒi/,/ˈstrætədʒi/,audio/uk/strategy.mp3,audio/us/strategy.mp3,chiến lược,Making a study plan is an effective learning strategy.,Lập kế hoạch học tập là một chiến lược học tập hiệu quả.
+10,8,New ways to learn,sourced,upload,v,/ˌʌpˈləʊd/,/ˈʌploʊd/,audio/uk/upload.mp3,audio/us/upload.mp3,tải lên,Please upload your homework before 9 p.m. tonight.,Các em hãy tải bài tập về nhà lên trước 9 giờ tối nay.
+10,9,Protecting the environment,sourced,analyse,v,/ˈænəlaɪz/,/ˈænəlaɪz/,audio/uk/analyse.mp3,audio/us/analyse.mp3,phân tích,Scientists analyse water samples to find out how polluted the river is.,Các nhà khoa học phân tích mẫu nước để xác định mức độ ô nhiễm của dòng sông.
+10,9,Protecting the environment,sourced,at stake,phr,/ət ˈsteɪk/,/æt ˈsteɪk/,audio/uk/at-stake.mp3,audio/us/at-stake.mp3,"đang bị đe dọa, lâm nguy",The survival of many animal species is at stake because of deforestation.,Sự sống còn của nhiều loài động vật đang bị đe dọa do nạn phá rừng.
+10,9,Protecting the environment,sourced,balance,n,/ˈbæləns/,/ˈbæləns/,audio/uk/balance.mp3,audio/us/balance.mp3,sự cân bằng,Humans should not destroy the balance of nature.,Con người không nên phá vỡ sự cân bằng của tự nhiên.
+10,9,Protecting the environment,sourced,biodiversity,n,/ˌbaɪəʊdaɪˈvɜːsəti/,/ˌbaɪoʊdaɪˈvɝːsəti/,audio/uk/biodiversity.mp3,audio/us/biodiversity.mp3,đa dạng sinh học,Deforestation is a major threat to biodiversity.,Nạn phá rừng là mối đe dọa lớn đối với đa dạng sinh học.
+10,9,Protecting the environment,sourced,climate change,n,/ˈklaɪmət tʃeɪndʒ/,/ˈklaɪmət tʃeɪndʒ/,audio/uk/climate-change.mp3,audio/us/climate-change.mp3,biến đổi khí hậu,Climate change is causing more floods and droughts in Viet Nam.,Biến đổi khí hậu đang gây ra nhiều lũ lụt và hạn hán hơn ở Việt Nam.
+10,9,Protecting the environment,sourced,come up with,phr v,/kʌm ˈʌp wɪð/,/kʌm ˈʌp wɪð/,audio/uk/come-up-with.mp3,audio/us/come-up-with.mp3,"nghĩ ra, nảy ra (ý tưởng)",Our group came up with a plan to reduce plastic waste at school.,Nhóm chúng tôi đã nghĩ ra một kế hoạch để giảm rác thải nhựa ở trường.
+10,9,Protecting the environment,sourced,consequence,n,/ˈkɒnsɪkwəns/,/ˈkɑːnsəkwəns/,audio/uk/consequence.mp3,audio/us/consequence.mp3,hậu quả,Air pollution has serious consequences for people's health.,Ô nhiễm không khí gây ra những hậu quả nghiêm trọng cho sức khỏe con người.
+10,9,Protecting the environment,sourced,conservation,n,/ˌkɒnsəˈveɪʃn/,/ˌkɑːnsɚˈveɪʃən/,audio/uk/conservation.mp3,audio/us/conservation.mp3,sự bảo tồn,Wildlife conservation is the responsibility of everyone.,Bảo tồn động vật hoang dã là trách nhiệm của tất cả mọi người.
+10,9,Protecting the environment,sourced,damage,v,/ˈdæmɪdʒ/,/ˈdæmɪdʒ/,audio/uk/damage.mp3,audio/us/damage.mp3,"làm hại, làm hỏng",Chemicals from factories can damage the soil and water.,Hóa chất từ các nhà máy có thể làm hại đất và nguồn nước.
+10,9,Protecting the environment,sourced,deforestation,n,/ˌdiːˌfɒrɪˈsteɪʃn/,/dɪˌfɔːrɪˈsteɪʃən/,audio/uk/deforestation.mp3,audio/us/deforestation.mp3,nạn phá rừng,Deforestation leads to the loss of habitats for many animals.,Nạn phá rừng khiến nhiều loài động vật mất đi môi trường sống.
+10,9,Protecting the environment,sourced,ecosystem,n,/ˈiːkəʊsɪstəm/,/ˈiːkoʊsɪstəm/,audio/uk/ecosystem.mp3,audio/us/ecosystem.mp3,hệ sinh thái,Pollution can seriously harm the ecosystem of a river.,Ô nhiễm có thể gây hại nghiêm trọng cho hệ sinh thái của một dòng sông.
+10,9,Protecting the environment,sourced,endangered,adj,/ɪnˈdeɪndʒəd/,/ɪnˈdeɪndʒɚd/,audio/uk/endangered.mp3,audio/us/endangered.mp3,có nguy cơ tuyệt chủng,The Sao La is an endangered animal found in Viet Nam.,Sao la là một loài động vật có nguy cơ tuyệt chủng được tìm thấy ở Việt Nam.
+10,9,Protecting the environment,sourced,environmental protection,n,/ɪnˌvaɪrənˌmentl prəˈtekʃn/,/ɪnˌvaɪrənˌmentəl prəˈtekʃən/,audio/uk/environmental-protection.mp3,audio/us/environmental-protection.mp3,bảo vệ môi trường,Environmental protection should be taught at school.,Việc bảo vệ môi trường nên được giảng dạy ở trường học.
+10,9,Protecting the environment,sourced,erosion,n,/ɪˈrəʊʒn/,/ɪˈroʊʒən/,audio/uk/erosion.mp3,audio/us/erosion.mp3,sự xói mòn,Planting trees helps prevent soil erosion.,Trồng cây giúp ngăn chặn xói mòn đất.
+10,9,Protecting the environment,sourced,exist,v,/ɪɡˈzɪst/,/ɪɡˈzɪst/,audio/uk/exist.mp3,audio/us/exist.mp3,tồn tại,Some animal species may no longer exist in the next fifty years.,Một số loài động vật có thể sẽ không còn tồn tại trong năm mươi năm tới.
+10,9,Protecting the environment,sourced,fertiliser,n,/ˈfɜːtəlaɪzə(r)/,/ˈfɝːtəlaɪzɚ/,audio/uk/fertiliser.mp3,audio/us/fertiliser.mp3,phân bón,Using too much chemical fertiliser can pollute the soil.,Sử dụng quá nhiều phân bón hóa học có thể làm ô nhiễm đất.
+10,9,Protecting the environment,sourced,fossil fuel,n,/ˈfɒsl ˌfjuːəl/,/ˈfɑːsəl ˌfjuːəl/,audio/uk/fossil-fuel.mp3,audio/us/fossil-fuel.mp3,nhiên liệu hóa thạch,Burning fossil fuels releases a lot of carbon dioxide.,Việc đốt nhiên liệu hóa thạch thải ra rất nhiều khí CO2.
+10,9,Protecting the environment,sourced,global warming,n,/ˌɡləʊbl ˈwɔːmɪŋ/,/ˌɡloʊbəl ˈwɔːrmɪŋ/,audio/uk/global-warming.mp3,audio/us/global-warming.mp3,sự nóng lên toàn cầu,Global warming is causing the ice at the poles to melt.,Sự nóng lên toàn cầu đang khiến băng ở hai cực tan chảy.
+10,9,Protecting the environment,sourced,greenhouse effect,n,/ˈɡriːnhaʊs ɪˌfekt/,/ˈɡriːnhaʊs ɪˌfekt/,audio/uk/greenhouse-effect.mp3,audio/us/greenhouse-effect.mp3,hiệu ứng nhà kính,The greenhouse effect makes the Earth's temperature rise.,Hiệu ứng nhà kính làm cho nhiệt độ Trái Đất tăng lên.
+10,9,Protecting the environment,sourced,habitat,n,/ˈhæbɪtæt/,/ˈhæbətæt/,audio/uk/habitat.mp3,audio/us/habitat.mp3,môi trường sống,Many animals lose their habitat when forests are cut down.,Nhiều loài động vật mất môi trường sống khi rừng bị chặt phá.
+10,9,Protecting the environment,sourced,heatwave,n,/ˈhiːtweɪv/,/ˈhiːtweɪv/,audio/uk/heatwave.mp3,audio/us/heatwave.mp3,đợt nắng nóng,The heatwave last summer caused serious water shortages.,Đợt nắng nóng mùa hè năm ngoái đã gây ra tình trạng thiếu nước nghiêm trọng.
+10,9,Protecting the environment,sourced,ice melting,n,/ˈaɪs ˌmeltɪŋ/,/ˈaɪs ˌmeltɪŋ/,audio/uk/ice-melting.mp3,audio/us/ice-melting.mp3,sự tan băng,Ice melting at the poles is causing sea levels to rise.,Sự tan băng ở hai cực đang khiến mực nước biển dâng cao.
+10,9,Protecting the environment,sourced,identify,v,/aɪˈdentɪfaɪ/,/aɪˈdentəfaɪ/,audio/uk/identify.mp3,audio/us/identify.mp3,xác định,Scientists are trying to identify the main causes of the pollution.,Các nhà khoa học đang cố gắng xác định những nguyên nhân chính gây ra ô nhiễm.
+10,9,Protecting the environment,sourced,issue,n,/ˈɪʃuː/,/ˈɪʃuː/,audio/uk/issue.mp3,audio/us/issue.mp3,vấn đề,Water pollution is a serious issue in many big cities.,Ô nhiễm nguồn nước là một vấn đề nghiêm trọng ở nhiều thành phố lớn.
+10,9,Protecting the environment,sourced,pesticide,n,/ˈpestɪsaɪd/,/ˈpestəsaɪd/,audio/uk/pesticide.mp3,audio/us/pesticide.mp3,thuốc trừ sâu,Farmers should reduce the use of pesticides to protect the environment.,Nông dân nên giảm sử dụng thuốc trừ sâu để bảo vệ môi trường.
+10,9,Protecting the environment,sourced,pollute,v,/pəˈluːt/,/pəˈluːt/,audio/uk/pollute.mp3,audio/us/pollute.mp3,gây ô nhiễm,Factories that pollute the river should be fined.,Các nhà máy gây ô nhiễm dòng sông nên bị xử phạt.
+10,9,Protecting the environment,sourced,pollution,n,/pəˈluːʃn/,/pəˈluːʃən/,audio/uk/pollution.mp3,audio/us/pollution.mp3,sự ô nhiễm,Air pollution is a big problem in Ha Noi.,Ô nhiễm không khí là một vấn đề lớn ở Hà Nội.
+10,9,Protecting the environment,sourced,practical,adj,/ˈpræktɪkl/,/ˈpræktɪkəl/,audio/uk/practical.mp3,audio/us/practical.mp3,thiết thực,We need practical solutions to reduce plastic waste.,Chúng ta cần những giải pháp thiết thực để giảm rác thải nhựa.
+10,9,Protecting the environment,sourced,preserve,v,/prɪˈzɜːv/,/prɪˈzɝːv/,audio/uk/preserve.mp3,audio/us/preserve.mp3,"giữ gìn, bảo tồn",We must preserve natural resources for future generations.,Chúng ta phải giữ gìn tài nguyên thiên nhiên cho các thế hệ mai sau.
+10,9,Protecting the environment,sourced,protect,v,/prəˈtekt/,/prəˈtekt/,audio/uk/protect.mp3,audio/us/protect.mp3,bảo vệ,Everyone can do something to protect the environment.,Ai cũng có thể làm điều gì đó để bảo vệ môi trường.
+10,9,Protecting the environment,sourced,respiratory,adj,/rəˈspɪrətri/,/ˈrespɚətɔːri/,audio/uk/respiratory.mp3,audio/us/respiratory.mp3,(thuộc) hô hấp,Air pollution can cause respiratory diseases such as asthma.,Ô nhiễm không khí có thể gây ra các bệnh về đường hô hấp như hen suyễn.
+10,9,Protecting the environment,sourced,sewage,n,/ˈsuːɪdʒ/,/ˈsuːɪdʒ/,audio/uk/sewage.mp3,audio/us/sewage.mp3,nước thải,Untreated sewage is often released directly into rivers.,Nước thải chưa qua xử lý thường bị xả thẳng ra sông.
+10,9,Protecting the environment,sourced,threat,n,/θret/,/θret/,audio/uk/threat.mp3,audio/us/threat.mp3,mối đe dọa,Plastic waste is a serious threat to marine life.,Rác thải nhựa là mối đe dọa nghiêm trọng đối với sinh vật biển.
+10,9,Protecting the environment,sourced,vegetation,n,/ˌvedʒəˈteɪʃn/,/ˌvedʒəˈteɪʃən/,audio/uk/vegetation.mp3,audio/us/vegetation.mp3,"thảm thực vật, cây cỏ",The vegetation in this area was destroyed by forest fires.,Thảm thực vật ở khu vực này đã bị cháy rừng tàn phá.
+10,9,Protecting the environment,sourced,waste gas,n,/ˈweɪst ɡæs/,/ˈweɪst ɡæs/,audio/uk/waste-gas.mp3,audio/us/waste-gas.mp3,khí thải,Waste gas from vehicles is a major cause of air pollution.,Khí thải từ các phương tiện giao thông là nguyên nhân chính gây ô nhiễm không khí.
+10,9,Protecting the environment,sourced,wildlife,n,/ˈwaɪldlaɪf/,/ˈwaɪldlaɪf/,audio/uk/wildlife.mp3,audio/us/wildlife.mp3,động vật hoang dã,National parks are created to protect wildlife.,Các vườn quốc gia được lập ra để bảo vệ động vật hoang dã.
+10,10,Ecotourism,sourced,advertisement,n,/ədˈvɜːtɪsmənt/,/ædˈvɝːtəzmənt/,audio/uk/advertisement.mp3,audio/us/advertisement.mp3,quảng cáo,I saw an advertisement for an eco-tour to Cat Ba Island.,Tôi đã thấy một quảng cáo về chuyến du lịch sinh thái đến đảo Cát Bà.
+10,10,Ecotourism,sourced,aware,adj,/əˈweə(r)/,/əˈwer/,audio/uk/aware.mp3,audio/us/aware.mp3,"nhận thức được, biết",Tourists should be aware of the impact they have on the environment.,Du khách nên nhận thức được tác động của mình đối với môi trường.
+10,10,Ecotourism,sourced,benefit,n,/ˈbenɪfɪt/,/ˈbenəfɪt/,audio/uk/benefit.mp3,audio/us/benefit.mp3,lợi ích,Ecotourism brings many benefits to local communities.,Du lịch sinh thái mang lại nhiều lợi ích cho cộng đồng địa phương.
+10,10,Ecotourism,sourced,brochure,n,/ˈbrəʊʃə(r)/,/broʊˈʃʊr/,audio/uk/brochure.mp3,audio/us/brochure.mp3,"tờ quảng cáo, sách giới thiệu",The brochure gives information about eco-tours in the Mekong Delta.,Tờ quảng cáo cung cấp thông tin về các tour du lịch sinh thái ở đồng bằng sông Cửu Long.
+10,10,Ecotourism,sourced,cause,v,/kɔːz/,/kɑːz/,audio/uk/cause.mp3,audio/us/cause.mp3,gây ra,Too many visitors can cause damage to the coral reefs.,Quá nhiều du khách có thể gây hại cho các rạn san hô.
+10,10,Ecotourism,sourced,craft,n,/krɑːft/,/kræft/,audio/uk/craft.mp3,audio/us/craft.mp3,đồ thủ công,Tourists can buy local crafts made by villagers.,Du khách có thể mua các đồ thủ công địa phương do dân làng làm ra.
+10,10,Ecotourism,sourced,eco-friendly,adj,/ˌiːkəʊ ˈfrendli/,/ˌiːkoʊ ˈfrendli/,audio/uk/eco-friendly.mp3,audio/us/eco-friendly.mp3,thân thiện với môi trường,We stayed in an eco-friendly resort that uses solar energy.,Chúng tôi đã ở một khu nghỉ dưỡng thân thiện với môi trường sử dụng năng lượng mặt trời.
+10,10,Ecotourism,sourced,ecotourism,n,/ˈiːkəʊtʊərɪzəm/,/ˈiːkoʊtʊrɪzəm/,audio/uk/ecotourism.mp3,audio/us/ecotourism.mp3,du lịch sinh thái,Ecotourism helps protect nature and supports local people.,Du lịch sinh thái giúp bảo vệ thiên nhiên và hỗ trợ người dân địa phương.
+10,10,Ecotourism,sourced,explore,v,/ɪkˈsplɔː(r)/,/ɪkˈsplɔːr/,audio/uk/explore-v.mp3,audio/us/explore-v.mp3,khám phá,We spent a day exploring the mangrove forest by boat.,Chúng tôi đã dành một ngày để khám phá rừng ngập mặn bằng thuyền.
+10,10,Ecotourism,sourced,field trip,n,/ˈfiːld trɪp/,/ˈfiːld trɪp/,audio/uk/field-trip.mp3,audio/us/field-trip.mp3,chuyến đi thực tế,Our class went on a field trip to Cuc Phuong National Park.,Lớp chúng tôi đã có một chuyến đi thực tế đến Vườn quốc gia Cúc Phương.
+10,10,Ecotourism,sourced,impact,n,/ˈɪmpækt/,/ˈɪmpækt/,audio/uk/impact.mp3,audio/us/impact.mp3,tác động,Mass tourism can have a negative impact on the environment.,Du lịch đại trà có thể gây tác động tiêu cực đến môi trường.
+10,10,Ecotourism,sourced,leave litter,phr,/ˌliːv ˈlɪtə(r)/,/ˌliːv ˈlɪtɚ/,audio/uk/leave-litter.mp3,audio/us/leave-litter.mp3,xả rác,Visitors are asked not to leave litter in the national park.,Du khách được yêu cầu không xả rác trong vườn quốc gia.
+10,10,Ecotourism,sourced,local,adj,/ˈləʊkl/,/ˈloʊkəl/,audio/uk/local.mp3,audio/us/local.mp3,(thuộc) địa phương,Ecotourism creates jobs for local people.,Du lịch sinh thái tạo ra việc làm cho người dân địa phương.
+10,10,Ecotourism,sourced,packaging,n,/ˈpækɪdʒɪŋ/,/ˈpækɪdʒɪŋ/,audio/uk/packaging.mp3,audio/us/packaging.mp3,bao bì,Bring reusable bags to reduce plastic packaging.,Hãy mang theo túi dùng nhiều lần để giảm bao bì nhựa.
+10,10,Ecotourism,sourced,promise,v,/ˈprɒmɪs/,/ˈprɑːməs/,audio/uk/promise.mp3,audio/us/promise.mp3,hứa,We promised the tour guide not to touch the stalactites.,Chúng tôi đã hứa với hướng dẫn viên là sẽ không chạm vào thạch nhũ.
+10,10,Ecotourism,sourced,promote,v,/prəˈməʊt/,/prəˈmoʊt/,audio/uk/promote.mp3,audio/us/promote.mp3,"quảng bá, thúc đẩy",The local government is trying to promote ecotourism in the area.,Chính quyền địa phương đang nỗ lực thúc đẩy du lịch sinh thái trong khu vực.
+10,10,Ecotourism,sourced,protect,v,/prəˈtekt/,/prəˈtekt/,audio/uk/protect.mp3,audio/us/protect.mp3,bảo vệ,Ecotourists help protect the natural environment they visit.,Khách du lịch sinh thái góp phần bảo vệ môi trường tự nhiên nơi họ đến thăm.
+10,10,Ecotourism,sourced,responsible,adj,/rɪˈspɒnsəbl/,/riˈspɑːnsəbəl/,audio/uk/responsible.mp3,audio/us/responsible.mp3,có trách nhiệm,Responsible tourists respect local customs and protect nature.,Những du khách có trách nhiệm tôn trọng phong tục địa phương và bảo vệ thiên nhiên.
+10,10,Ecotourism,sourced,stalactite,n,/ˈstæləktaɪt/,/stəˈlæktaɪt/,audio/uk/stalactite.mp3,audio/us/stalactite.mp3,thạch nhũ,The cave is famous for its beautiful stalactites.,Hang động này nổi tiếng với những khối thạch nhũ tuyệt đẹp.
+10,10,Ecotourism,sourced,tour guide,n,/ˈtʊə ɡaɪd/,/ˈtʊr ɡaɪd/,audio/uk/tour-guide.mp3,audio/us/tour-guide.mp3,hướng dẫn viên du lịch,The tour guide told us about the plants and animals in the forest.,Hướng dẫn viên đã kể cho chúng tôi nghe về các loài cây và động vật trong rừng.
+10,10,Ecotourism,sourced,trail,n,/treɪl/,/treɪl/,audio/uk/trail.mp3,audio/us/trail.mp3,đường mòn,Please stay on the trail to avoid damaging the plants.,Vui lòng đi đúng đường mòn để tránh làm hỏng cây cối.
+10,10,Ecotourism,sourced,waste,v,/weɪst/,/weɪst/,audio/uk/waste.mp3,audio/us/waste.mp3,lãng phí,Tourists should not waste water and electricity at the resort.,Du khách không nên lãng phí nước và điện ở khu nghỉ dưỡng.
