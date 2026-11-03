@@ -8,17 +8,23 @@
       "unit": 1,
       "title": "Hobbies",
       "title_vi": "Sở thích",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "judo",
+          "mountain climbing",
+          "roller skating"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-1-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-1-tu-vung-a109314.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-1",
-        "https://luatminhkhue.vn/tu-vung-tieng-anh-lop-7-global-success.aspx",
         "https://vietjack.me/tu-vung-tieng-anh-7-unit-1-global-success-hobbies-159537.html",
         "https://vndoc.com/tu-vung-unit-1-lop-7-hobbies-268123",
         "https://zim.vn/tu-vung-tieng-anh-7-unit-1",
-        "https://vn.elsaspeak.com/tu-vung-tieng-anh-lop-7/",
-        "https://docs.google.com/document/d/1EW59OFvllbXIQmHS-n6r4M6MuAS9pYsA/export?format=pdf"
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-1",
+        "https://quizlet.com/vn/700952286/unit-1-hobbies-tieng-anh-7-global-success-flash-cards/",
+        "https://loigiaihay.com/tieng-anh-7-unit-1-getting-started-a106464.html"
       ],
       "words": [
         {
@@ -251,6 +257,42 @@
           "meaning": "yoga",
           "example": "My mother does yoga to stay healthy.",
           "example_vi": "Mẹ tôi tập yoga để giữ gìn sức khỏe."
+        },
+        {
+          "word": "benefit",
+          "pos": "n",
+          "ipa_uk": "/ˈbenɪfɪt/",
+          "ipa_us": "/ˈbenəfɪt/",
+          "meaning": "lợi ích",
+          "example": "Gardening has many benefits for our health.",
+          "example_vi": "Làm vườn có nhiều lợi ích cho sức khỏe của chúng ta."
+        },
+        {
+          "word": "maturity",
+          "pos": "n",
+          "ipa_uk": "/məˈtʃʊərəti/",
+          "ipa_us": "/məˈtʃʊrəti/",
+          "meaning": "sự trưởng thành",
+          "example": "Looking after plants helps children develop maturity.",
+          "example_vi": "Chăm sóc cây giúp trẻ em phát triển sự trưởng thành."
+        },
+        {
+          "word": "valuable",
+          "pos": "adj",
+          "ipa_uk": "/ˈvæljuəbl/",
+          "ipa_us": "/ˈvæljuːbəl/",
+          "meaning": "quý giá",
+          "example": "Some old coins in his collection are very valuable.",
+          "example_vi": "Một vài đồng xu cổ trong bộ sưu tập của anh ấy rất quý giá."
+        },
+        {
+          "word": "insect",
+          "pos": "n",
+          "ipa_uk": "/ˈɪnsekt/",
+          "ipa_us": "/ˈɪnsekt/",
+          "meaning": "côn trùng",
+          "example": "My brother likes watching insects in the garden.",
+          "example_vi": "Em trai tôi thích ngắm côn trùng trong vườn."
         }
       ]
     },
@@ -258,13 +300,31 @@
       "unit": 2,
       "title": "Healthy Living",
       "title_vi": "Lối sống lành mạnh",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "affect",
+          "avoid",
+          "cough",
+          "fever",
+          "headache",
+          "healthy",
+          "junk food",
+          "physical activity",
+          "pimple",
+          "skin condition",
+          "stay up late",
+          "vitamin"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-2-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-2-tu-vung-a109357.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-2",
-        "https://ila.edu.vn/bai-tap-tieng-anh-lop-7",
-        "https://loigiaihay.com/pronunciation-unit-2-healthy-living-sbt-tieng-anh-7-global-success-a114376.html"
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-2-lop-7.jsp",
+        "https://vietjack.me/ngu-phap-tieng-anh-7-unit-2-global-success-healthy-living-161817.html",
+        "https://quizlet.com/vn/700958278/unit-2-healthy-living-tieng-anh-7-global-success-flash-cards/",
+        "https://tailieumoi.vn/bai-viet/8388/tu-vung-tieng-anh-lop-7-unit-2-healthy-living-global-success",
+        "https://langgo.edu.vn/tu-vung-tieng-anh-lop-7-unit-2-healthy-living"
       ],
       "words": [
         {
@@ -508,6 +568,15 @@
           "meaning": "vi-ta-min",
           "example": "Oranges are rich in vitamin C.",
           "example_vi": "Cam rất giàu vi-ta-min C."
+        },
+        {
+          "word": "coloured",
+          "pos": "adj",
+          "ipa_uk": "/ˈkʌləd/",
+          "ipa_us": "/ˈkʌlɚd/",
+          "meaning": "có màu",
+          "example": "Eat more coloured vegetables to stay healthy.",
+          "example_vi": "Hãy ăn nhiều rau có màu hơn để giữ sức khỏe."
         }
       ]
     },
@@ -515,12 +584,25 @@
       "unit": 3,
       "title": "Community Service",
       "title_vi": "Phục vụ cộng đồng",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "benefit",
+          "encourage",
+          "environment",
+          "rubbish"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-3-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-3-tu-vung-a109370.html",
-        "https://mshoajunior.edu.vn/tai-lieu/tong-hop-tu-vung-tieng-anh-lop-7-nd1249.html",
-        "https://langgo.edu.vn/tieng-anh-lop-7-unit-3-community-service"
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-3-lop-7.jsp",
+        "https://langmaster.edu.vn/tieng-anh-lop-7-global-success-unit-3",
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-3",
+        "https://quizlet.com/vn/701144810/unit-3-community-service-tieng-anh-7-global-success-flash-cards/",
+        "https://vndoc.com/tu-vung-tieng-anh-lop-7-unit-3-community-service-152864",
+        "https://loigiaihay.com/tieng-anh-7-unit-3-getting-started-a107618.html",
+        "https://mytour.vn/vi/blog/bai-viet/english-vocabulary-grade-7-unit-3-community-service-global-success.html"
       ],
       "words": [
         {
@@ -720,6 +802,69 @@
           "meaning": "tình nguyện viên",
           "example": "My brother works as a volunteer at the library.",
           "example_vi": "Anh trai tôi làm tình nguyện viên ở thư viện."
+        },
+        {
+          "word": "exchange",
+          "pos": "v",
+          "ipa_uk": "/ɪksˈtʃeɪndʒ/",
+          "ipa_us": "/ɪksˈtʃeɪndʒ/",
+          "meaning": "trao đổi",
+          "example": "Our club exchanges old books for new ones.",
+          "example_vi": "Câu lạc bộ của chúng tôi đổi sách cũ lấy sách mới."
+        },
+        {
+          "word": "provide",
+          "pos": "v",
+          "ipa_uk": "/prəˈvaɪd/",
+          "ipa_us": "/prəˈvaɪd/",
+          "meaning": "cung cấp",
+          "example": "Volunteers provide food for homeless people.",
+          "example_vi": "Các tình nguyện viên cung cấp thức ăn cho người vô gia cư."
+        },
+        {
+          "word": "orphanage",
+          "pos": "n",
+          "ipa_uk": "/ˈɔːfənɪdʒ/",
+          "ipa_us": "/ˈɔːrfənədʒ/",
+          "meaning": "trại trẻ mồ côi",
+          "example": "We visited an orphanage and gave the children books.",
+          "example_vi": "Chúng tôi đã thăm một trại trẻ mồ côi và tặng sách cho các em."
+        },
+        {
+          "word": "rural area",
+          "pos": "n",
+          "ipa_uk": "/ˌrʊərəl ˈeəriə/",
+          "ipa_us": "/ˌrʊrəl ˈeriə/",
+          "meaning": "vùng nông thôn",
+          "example": "They taught English to children in rural areas.",
+          "example_vi": "Họ dạy tiếng Anh cho trẻ em ở vùng nông thôn."
+        },
+        {
+          "word": "teenager",
+          "pos": "n",
+          "ipa_uk": "/ˈtiːneɪdʒə(r)/",
+          "ipa_us": "/ˈtiːneɪdʒɚ/",
+          "meaning": "thanh thiếu niên",
+          "example": "Many teenagers do volunteer work in their free time.",
+          "example_vi": "Nhiều thanh thiếu niên làm công việc tình nguyện vào thời gian rảnh."
+        },
+        {
+          "word": "proud",
+          "pos": "adj",
+          "ipa_uk": "/praʊd/",
+          "ipa_us": "/praʊd/",
+          "meaning": "tự hào",
+          "example": "We are proud of our community project.",
+          "example_vi": "Chúng tôi tự hào về dự án cộng đồng của mình."
+        },
+        {
+          "word": "community",
+          "pos": "n",
+          "ipa_uk": "/kəˈmjuːnəti/",
+          "ipa_us": "/kəˈmjuːnəti/",
+          "meaning": "cộng đồng",
+          "example": "Everyone in our community helped clean the park.",
+          "example_vi": "Mọi người trong cộng đồng chúng tôi đã giúp dọn dẹp công viên."
         }
       ]
     },
@@ -727,12 +872,23 @@
       "unit": 4,
       "title": "Music and Arts",
       "title_vi": "Âm nhạc và nghệ thuật",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "high",
+        "unconfirmed": [
+          "painting",
+          "performance",
+          "rock music"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-4-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-4-tu-vung-a109386.html",
-        "https://langgo.edu.vn/tieng-anh-lop-7-unit-4-music-and-arts",
-        "https://mytour.vn/vi/blog/bai-viet/compilation-of-english-vocabulary-grade-7-unit-4-musics-and-arts.html"
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-4-lop-7.jsp",
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-4-global-success-music-and-arts-159540.html",
+        "https://vndoc.com/tu-vung-tieng-anh-lop-7-unit-4-music-and-arts-152865",
+        "https://quizlet.com/vn/701475780/unit-4-music-and-arts-tieng-anh-7-global-success-flash-cards/",
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-4",
+        "https://www.slideshare.net/slideshow/ti-ng-anh-global-success-7-unit-4-music-and-arts-lesson-1-2-pptx/283465280"
       ],
       "words": [
         {
@@ -954,6 +1110,42 @@
           "meaning": "múa rối nước",
           "example": "We watched a water puppet show in Ha Noi.",
           "example_vi": "Chúng tôi đã xem múa rối nước ở Hà Nội."
+        },
+        {
+          "word": "portrait",
+          "pos": "n",
+          "ipa_uk": "/ˈpɔːtreɪt/",
+          "ipa_us": "/ˈpɔːrtrət/",
+          "meaning": "bức chân dung",
+          "example": "She painted a portrait of her grandmother.",
+          "example_vi": "Cô ấy đã vẽ một bức chân dung bà của mình."
+        },
+        {
+          "word": "originate",
+          "pos": "v",
+          "ipa_uk": "/əˈrɪdʒɪneɪt/",
+          "ipa_us": "/əˈrɪdʒəneɪt/",
+          "meaning": "bắt nguồn, khởi nguồn",
+          "example": "Water puppetry originated in the Red River Delta.",
+          "example_vi": "Múa rối nước bắt nguồn từ đồng bằng sông Hồng."
+        },
+        {
+          "word": "character",
+          "pos": "n",
+          "ipa_uk": "/ˈkærəktə(r)/",
+          "ipa_us": "/ˈkerɪktɚ/",
+          "meaning": "nhân vật",
+          "example": "The puppet characters tell stories about village life.",
+          "example_vi": "Các nhân vật rối kể những câu chuyện về cuộc sống làng quê."
+        },
+        {
+          "word": "control",
+          "pos": "v",
+          "ipa_uk": "/kənˈtrəʊl/",
+          "ipa_us": "/kənˈtroʊl/",
+          "meaning": "điều khiển",
+          "example": "The artists control the puppets from behind a screen.",
+          "example_vi": "Các nghệ nhân điều khiển con rối từ phía sau tấm mành."
         }
       ]
     },
@@ -961,11 +1153,23 @@
       "unit": 5,
       "title": "Food and Drink",
       "title_vi": "Đồ ăn và thức uống",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "high",
+        "unconfirmed": [
+          "bread",
+          "sausage",
+          "sugar"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-5-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-5-tu-vung-a109496.html",
-        "https://loigiaihay.com/pronunciation-unit-5-food-and-drink-sbt-tieng-anh-7-global-success-a115232.html"
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-5-global-success-food-and-drink-159541.html",
+        "https://quizlet.com/vn/702494216/unit-5-food-and-drink-tieng-anh-7-global-success-flash-cards/",
+        "https://langmaster.edu.vn/tieng-anh-7-unit-5",
+        "https://www.studocu.vn/vn/document/truong-trung-hoc-co-so/tieng-anh/bai-tap-tieng-anh-7-global-success-unit-5-food-and-drink/166073246",
+        "https://tailieu.vn/doc/bai-tap-luyen-tap-ngu-phap-unit-5-food-and-drink-tieng-anh-7-global-success-2932570.html",
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-5"
       ],
       "words": [
         {
@@ -1187,6 +1391,24 @@
           "meaning": "thìa cà phê (đơn vị đo)",
           "example": "Add a teaspoon of salt to the soup.",
           "example_vi": "Thêm một thìa cà phê muối vào món súp."
+        },
+        {
+          "word": "recipe",
+          "pos": "n",
+          "ipa_uk": "/ˈresəpi/",
+          "ipa_us": "/ˈresəpi/",
+          "meaning": "công thức nấu ăn",
+          "example": "My mum taught me her recipe for spring rolls.",
+          "example_vi": "Mẹ tôi đã dạy tôi công thức làm nem rán của bà."
+        },
+        {
+          "word": "broth",
+          "pos": "n",
+          "ipa_uk": "/brɒθ/",
+          "ipa_us": "/brɑːθ/",
+          "meaning": "nước dùng, nước lèo",
+          "example": "The broth of beef noodle soup takes hours to cook.",
+          "example_vi": "Nước dùng của phở bò phải nấu trong nhiều giờ."
         }
       ]
     },
@@ -1194,11 +1416,28 @@
       "unit": 6,
       "title": "A Visit to a School",
       "title_vi": "Chuyến thăm một ngôi trường",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "Imperial Academy",
+          "Temple of Literature",
+          "historic",
+          "library",
+          "located",
+          "school year"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-6-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-6-tu-vung-a109508.html",
-        "https://langgo.edu.vn/tieng-anh-lop-7-unit-6-a-visit-to-a-school"
+        "https://zim.vn/tu-vung-tieng-anh-7-unit-6",
+        "https://quizlet.com/vn/702509713/unit-6-a-visit-to-a-school-tieng-anh-7-global-success-flash-cards/",
+        "https://vndoc.com/tu-vung-unit-6-lop-7-a-visit-to-a-school-sach-global-success-281542",
+        "https://tailieumoi.vn/bai-viet/8681/tu-vung-tieng-anh-lop-7-unit-6-a-visit-to-a-school-global-success",
+        "https://download.vn/unit-6-lop-7-tu-vung-ket-noi-tri-thuc-64002",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-6-lop-7.jsp",
+        "https://jes.edu.vn/tu-vung-tieng-anh-7-unit-6-a-visit-to-a-school",
+        "https://vndoc.com/write-about-the-history-of-the-temple-of-literature-the-imperial-academy-253253"
       ],
       "words": [
         {
@@ -1365,6 +1604,33 @@
           "meaning": "nổi tiếng",
           "example": "This is a well-known school in our city.",
           "example_vi": "Đây là một ngôi trường nổi tiếng ở thành phố chúng tôi."
+        },
+        {
+          "word": "royal",
+          "pos": "adj",
+          "ipa_uk": "/ˈrɔɪəl/",
+          "ipa_us": "/ˈrɔɪəl/",
+          "meaning": "thuộc hoàng gia",
+          "example": "Many royal family members studied at the Imperial Academy.",
+          "example_vi": "Nhiều thành viên hoàng gia đã học ở Quốc Tử Giám."
+        },
+        {
+          "word": "scholar",
+          "pos": "n",
+          "ipa_uk": "/ˈskɒlə(r)/",
+          "ipa_us": "/ˈskɑːlɚ/",
+          "meaning": "học giả",
+          "example": "Famous scholars taught at the first university in Viet Nam.",
+          "example_vi": "Các học giả nổi tiếng đã dạy ở trường đại học đầu tiên của Việt Nam."
+        },
+        {
+          "word": "surround",
+          "pos": "v",
+          "ipa_uk": "/səˈraʊnd/",
+          "ipa_us": "/səˈraʊnd/",
+          "meaning": "bao quanh",
+          "example": "Tall trees surround the old school.",
+          "example_vi": "Những cây cao bao quanh ngôi trường cũ."
         }
       ]
     },
@@ -1372,12 +1638,22 @@
       "unit": 7,
       "title": "Traffic",
       "title_vi": "Giao thông",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "high",
+        "unconfirmed": [
+          "helmet",
+          "tricycle"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-7-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-7-tu-vung-a109518.html",
-        "https://luatminhkhue.vn/tu-vung-unit-7-lop-7-traffic.aspx",
-        "https://loigiaihay.com/trac-nghiem-tieng-anh-7-global-success-tu-vung-unit-7-co-dap-an-a133172.html"
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-7-global-success-traffic-159543.html",
+        "https://vndoc.com/tu-vung-unit-7-lop-7-traffic-sach-global-success-284660",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-7-lop-7.jsp",
+        "https://download.vn/unit-7-lop-7-tu-vung-ket-noi-tri-thuc-64991",
+        "https://zim.vn/tu-vung-tieng-anh-lop-7-unit-7",
+        "https://langgo.edu.vn/tu-vung-unit-7-lop-7-global-success-traffic"
       ],
       "words": [
         {
@@ -1588,6 +1864,42 @@
           "meaning": "vạch kẻ sang đường cho người đi bộ",
           "example": "Always cross the street at the zebra crossing.",
           "example_vi": "Hãy luôn sang đường ở vạch kẻ dành cho người đi bộ."
+        },
+        {
+          "word": "cycle lane",
+          "pos": "n",
+          "ipa_uk": "/ˈsaɪkl leɪn/",
+          "ipa_us": "/ˈsaɪkəl leɪn/",
+          "meaning": "làn đường xe đạp",
+          "example": "You should ride your bike in the cycle lane.",
+          "example_vi": "Bạn nên đi xe đạp trong làn đường dành cho xe đạp."
+        },
+        {
+          "word": "signal",
+          "pos": "n",
+          "ipa_uk": "/ˈsɪɡnəl/",
+          "ipa_us": "/ˈsɪɡnəl/",
+          "meaning": "tín hiệu, dấu hiệu",
+          "example": "Always give a signal before you turn left.",
+          "example_vi": "Luôn ra tín hiệu trước khi rẽ trái."
+        },
+        {
+          "word": "plane",
+          "pos": "n",
+          "ipa_uk": "/pleɪn/",
+          "ipa_us": "/pleɪn/",
+          "meaning": "máy bay",
+          "example": "We went to Da Nang by plane last summer.",
+          "example_vi": "Mùa hè năm ngoái chúng tôi đi Đà Nẵng bằng máy bay."
+        },
+        {
+          "word": "boat",
+          "pos": "n",
+          "ipa_uk": "/bəʊt/",
+          "ipa_us": "/boʊt/",
+          "meaning": "thuyền, tàu",
+          "example": "People in the Mekong Delta often travel by boat.",
+          "example_vi": "Người dân ở đồng bằng sông Cửu Long thường đi lại bằng thuyền."
         }
       ]
     },
@@ -1595,24 +1907,25 @@
       "unit": 8,
       "title": "Films",
       "title_vi": "Phim ảnh",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "high",
+        "unconfirmed": [
+          "exciting",
+          "funny",
+          "surprised",
+          "surprising"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-8-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-8-tu-vung-a109779.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-8"
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-8-global-success-films-159544.html",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-8-lop-7.jsp",
+        "https://quizlet.com/vn/759838925/unit-8-films-tieng-anh-7-global-success-flash-cards/",
+        "https://zim.vn/tu-vung-tieng-anh-7-unit-8",
+        "https://langgo.edu.vn/tu-vung-unit-8-lop-7-films"
       ],
       "words": [
-        {
-          "word": "action film",
-          "pos": "n",
-          "ipa_uk": "/ˈækʃn fɪlm/",
-          "ipa_us": "/ˈækʃən fɪlm/",
-          "audio_uk": "audio/uk/action-film.mp3",
-          "audio_us": "audio/us/action-film.mp3",
-          "meaning": "phim hành động",
-          "example": "My brother loves watching action films.",
-          "example_vi": "Anh trai tôi rất thích xem phim hành động."
-        },
         {
           "word": "acting",
           "pos": "n",
@@ -1667,17 +1980,6 @@
           "meaning": "phim tài liệu",
           "example": "We watched a documentary about wild animals.",
           "example_vi": "Chúng tôi đã xem một bộ phim tài liệu về động vật hoang dã."
-        },
-        {
-          "word": "excellent",
-          "pos": "adj",
-          "ipa_uk": "/ˈeksələnt/",
-          "ipa_us": "/ˈeksələnt/",
-          "audio_uk": "audio/uk/excellent.mp3",
-          "audio_us": "audio/us/excellent.mp3",
-          "meaning": "xuất sắc",
-          "example": "The film has excellent music.",
-          "example_vi": "Bộ phim có phần âm nhạc xuất sắc."
         },
         {
           "word": "exciting",
@@ -1746,17 +2048,6 @@
           "example_vi": "Đó là một bộ phim cảm động về một gia đình."
         },
         {
-          "word": "perfect",
-          "pos": "adj",
-          "ipa_uk": "/ˈpɜːfɪkt/",
-          "ipa_us": "/ˈpɝːfɪkt/",
-          "audio_uk": "audio/uk/perfect.mp3",
-          "audio_us": "audio/us/perfect.mp3",
-          "meaning": "hoàn hảo",
-          "example": "The actor gave a perfect performance in the film.",
-          "example_vi": "Nam diễn viên đã có màn diễn xuất hoàn hảo trong bộ phim."
-        },
-        {
           "word": "review",
           "pos": "n",
           "ipa_uk": "/rɪˈvjuː/",
@@ -1821,6 +2112,96 @@
           "meaning": "đáng ngạc nhiên",
           "example": "The film had a surprising ending.",
           "example_vi": "Bộ phim có một cái kết đáng ngạc nhiên."
+        },
+        {
+          "word": "dull",
+          "pos": "adj",
+          "ipa_uk": "/dʌl/",
+          "ipa_us": "/dʌl/",
+          "meaning": "buồn tẻ, chán",
+          "example": "The film was so dull that I fell asleep.",
+          "example_vi": "Bộ phim chán đến mức tôi ngủ quên."
+        },
+        {
+          "word": "enjoyable",
+          "pos": "adj",
+          "ipa_uk": "/ɪnˈdʒɔɪəbl/",
+          "ipa_us": "/ˌenˈdʒɔɪəbəl/",
+          "meaning": "thú vị, thích thú",
+          "example": "We had an enjoyable evening at the cinema.",
+          "example_vi": "Chúng tôi đã có một buổi tối thú vị ở rạp chiếu phim."
+        },
+        {
+          "word": "fantasy",
+          "pos": "n",
+          "ipa_uk": "/ˈfæntəsi/",
+          "ipa_us": "/ˈfæntəsi/",
+          "meaning": "phim giả tưởng, kỳ ảo",
+          "example": "Harry Potter is my favourite fantasy film.",
+          "example_vi": "Harry Potter là bộ phim giả tưởng yêu thích của tôi."
+        },
+        {
+          "word": "must-see",
+          "pos": "n",
+          "ipa_uk": "/ˈmʌst siː/",
+          "ipa_us": "/ˈmʌst siː/",
+          "meaning": "bộ phim nhất định phải xem",
+          "example": "Critics say this new film is a must-see.",
+          "example_vi": "Các nhà phê bình nói bộ phim mới này nhất định phải xem."
+        },
+        {
+          "word": "poster",
+          "pos": "n",
+          "ipa_uk": "/ˈpəʊstə(r)/",
+          "ipa_us": "/ˈpoʊstɚ/",
+          "meaning": "áp phích",
+          "example": "I saw a poster for the film at school.",
+          "example_vi": "Tôi đã thấy áp phích của bộ phim ở trường."
+        },
+        {
+          "word": "scary",
+          "pos": "adj",
+          "ipa_uk": "/ˈskeəri/",
+          "ipa_us": "/ˈskeri/",
+          "meaning": "đáng sợ",
+          "example": "The horror film was too scary for my sister.",
+          "example_vi": "Bộ phim kinh dị quá đáng sợ đối với em gái tôi."
+        },
+        {
+          "word": "survey",
+          "pos": "n",
+          "ipa_uk": "/ˈsɜːveɪ/",
+          "ipa_us": "/ˈsɝːveɪ/",
+          "meaning": "cuộc khảo sát",
+          "example": "We did a survey about our classmates' favourite films.",
+          "example_vi": "Chúng tôi đã làm khảo sát về những bộ phim yêu thích của các bạn cùng lớp."
+        },
+        {
+          "word": "twin",
+          "pos": "n",
+          "ipa_uk": "/twɪn/",
+          "ipa_us": "/twɪn/",
+          "meaning": "anh/chị/em sinh đôi",
+          "example": "The story is about twins who live in different countries.",
+          "example_vi": "Câu chuyện kể về cặp sinh đôi sống ở hai quốc gia khác nhau."
+        },
+        {
+          "word": "violent",
+          "pos": "adj",
+          "ipa_uk": "/ˈvaɪələnt/",
+          "ipa_us": "/ˈvaɪələnt/",
+          "meaning": "bạo lực",
+          "example": "Children shouldn't watch violent films.",
+          "example_vi": "Trẻ em không nên xem phim bạo lực."
+        },
+        {
+          "word": "wizard",
+          "pos": "n",
+          "ipa_uk": "/ˈwɪzəd/",
+          "ipa_us": "/ˈwɪzɚd/",
+          "meaning": "phù thủy (nam)",
+          "example": "Harry Potter is a young wizard at a magic school.",
+          "example_vi": "Harry Potter là một phù thủy trẻ ở trường phép thuật."
         }
       ]
     },
@@ -1828,11 +2209,27 @@
       "unit": 9,
       "title": "Festivals around the World",
       "title_vi": "Lễ hội trên khắp thế giới",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "celebrate",
+          "festival",
+          "firework",
+          "lantern",
+          "mooncake",
+          "turkey"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-9-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-9-tu-vung-a109803.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-9"
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-9-global-success-festivals-around-the-world-159545.html",
+        "https://vndoc.com/tu-vung-unit-9-lop-7-festivals-around-the-world-sach-global-success-288925",
+        "https://zim.vn/tu-vung-tieng-anh-7-unit-9",
+        "https://quizlet.com/vn/703915697/unit-9-festivals-around-the-world-tieng-anh-7-global-success-flash-cards/",
+        "https://colearn.vn/giai-bai-tap/sgk-anh-7-global-success/vocabulary-unit-9-festivals-around-the-world-829249972",
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-9",
+        "https://www.studocu.vn/vn/document/dai-hoc-dong-nai/anh-khong-chuyen/bai-tap-tieng-anh-7-unit-9-festivals-around-the-world/157849769"
       ],
       "words": [
         {
@@ -2054,6 +2451,51 @@
           "meaning": "gà tây",
           "example": "We had roast turkey for dinner.",
           "example_vi": "Chúng tôi đã ăn gà tây quay vào bữa tối."
+        },
+        {
+          "word": "Dutch",
+          "pos": "adj",
+          "ipa_uk": "/dʌtʃ/",
+          "ipa_us": "/dʌtʃ/",
+          "meaning": "thuộc về Hà Lan; người Hà Lan",
+          "example": "Dutch people celebrate the Tulip Festival every spring.",
+          "example_vi": "Người Hà Lan tổ chức Lễ hội hoa tulip vào mỗi mùa xuân."
+        },
+        {
+          "word": "the Netherlands",
+          "pos": "n",
+          "ipa_uk": "/ðə ˈneðələndz/",
+          "ipa_us": "/ðə ˈneðɚləndz/",
+          "meaning": "nước Hà Lan",
+          "example": "The Netherlands is famous for its tulips and windmills.",
+          "example_vi": "Hà Lan nổi tiếng với hoa tulip và cối xay gió."
+        },
+        {
+          "word": "prosperity",
+          "pos": "n",
+          "ipa_uk": "/prɒˈsperəti/",
+          "ipa_us": "/prɑːˈsperəti/",
+          "meaning": "sự thịnh vượng",
+          "example": "People hope for good luck and prosperity in the new year.",
+          "example_vi": "Mọi người mong có may mắn và thịnh vượng trong năm mới."
+        },
+        {
+          "word": "feature",
+          "pos": "v",
+          "ipa_uk": "/ˈfiːtʃə(r)/",
+          "ipa_us": "/ˈfiːtʃɚ/",
+          "meaning": "có, trình diễn đặc biệt",
+          "example": "The festival features many colourful floats and music.",
+          "example_vi": "Lễ hội có nhiều xe hoa rực rỡ sắc màu và âm nhạc."
+        },
+        {
+          "word": "fireworks display",
+          "pos": "n",
+          "ipa_uk": "/ˈfaɪəwɜːks dɪspleɪ/",
+          "ipa_us": "/ˈfaɪrwɝːks dɪˌspleɪ/",
+          "meaning": "màn bắn pháo hoa",
+          "example": "We watched a fireworks display on New Year's Eve.",
+          "example_vi": "Chúng tôi đã xem màn bắn pháo hoa vào đêm giao thừa."
         }
       ]
     },
@@ -2061,11 +2503,27 @@
       "unit": 10,
       "title": "Energy Sources",
       "title_vi": "Các nguồn năng lượng",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "energy",
+          "harmful",
+          "oil",
+          "plentiful",
+          "pollution",
+          "reduce"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-10-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-10-tu-vung-a109869.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-10"
+        "https://vndoc.com/tu-vung-unit-10-lop-7-energy-sources-sach-global-success-290599",
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-10-global-success-energy-sources-159546.html",
+        "https://vietjack.me/giao-an-tieng-anh-7-unit-10-global-success-2023-energy-sources-119857.html",
+        "https://zim.vn/tu-vung-tieng-anh-7-unit-10",
+        "https://langgo.edu.vn/tu-vung-unit-10-lop-7-energy-sources",
+        "https://quizlet.com/vn/758437925/unit-10-energy-sources-tieng-anh-7-global-success-flash-cards/",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-10-lop-7.jsp"
       ],
       "words": [
         {
@@ -2298,6 +2756,24 @@
           "meaning": "năng lượng gió",
           "example": "Wind energy is clean and renewable.",
           "example_vi": "Năng lượng gió sạch và có thể tái tạo."
+        },
+        {
+          "word": "produce",
+          "pos": "v",
+          "ipa_uk": "/prəˈdjuːs/",
+          "ipa_us": "/prəˈduːs/",
+          "meaning": "sản xuất, tạo ra",
+          "example": "Solar panels produce electricity from sunlight.",
+          "example_vi": "Tấm pin mặt trời tạo ra điện từ ánh sáng mặt trời."
+        },
+        {
+          "word": "replace",
+          "pos": "v",
+          "ipa_uk": "/rɪˈpleɪs/",
+          "ipa_us": "/ɚˈpleɪs/",
+          "meaning": "thay thế",
+          "example": "We should replace old light bulbs with energy-saving ones.",
+          "example_vi": "Chúng ta nên thay bóng đèn cũ bằng bóng đèn tiết kiệm năng lượng."
         }
       ]
     },
@@ -2305,11 +2781,22 @@
       "unit": 11,
       "title": "Travelling in the Future",
       "title_vi": "Đi lại trong tương lai",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "safe"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-11-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-11-tu-vung-a109947.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-11"
+        "https://zim.vn/tu-vung-tieng-anh-7-unit-11",
+        "https://quizlet.com/vn/704488434/unit-11-travelling-in-the-future-tieng-anh-7-global-success-flash-cards/",
+        "https://colearn.vn/giai-bai-tap/sgk-anh-7-global-success/vocabulary-unit-11-travelling-in-the-future-411270236",
+        "https://langgo.edu.vn/tu-vung-unit-11-lop-7-travelling-in-the-future",
+        "https://download.vn/unit-11-lop-7-tu-vung-ket-noi-tri-thuc-65825",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-11-lop-7.jsp",
+        "https://vndoc.com/tu-vung-tieng-anh-lop-7-unit-11-travelling-in-the-future-154649"
       ],
       "words": [
         {
@@ -2476,6 +2963,24 @@
           "meaning": "tắc đường",
           "example": "Flying cars may help us avoid traffic jams.",
           "example_vi": "Ô tô bay có thể giúp chúng ta tránh tắc đường."
+        },
+        {
+          "word": "pedal",
+          "pos": "v",
+          "ipa_uk": "/ˈpedl/",
+          "ipa_us": "/ˈpedəl/",
+          "meaning": "đạp (xe đạp)",
+          "example": "You don't need to pedal this electric bike.",
+          "example_vi": "Bạn không cần đạp chiếc xe đạp điện này."
+        },
+        {
+          "word": "function",
+          "pos": "n",
+          "ipa_uk": "/ˈfʌŋkʃn/",
+          "ipa_us": "/ˈfʌŋkʃən/",
+          "meaning": "chức năng",
+          "example": "This flying car has an autopilot function.",
+          "example_vi": "Chiếc ô tô bay này có chức năng lái tự động."
         }
       ]
     },
@@ -2483,11 +2988,32 @@
       "unit": 12,
       "title": "English-speaking Countries",
       "title_vi": "Các nước nói tiếng Anh",
-      "status": "unverified",
+      "status": "sourced",
+      "audit": {
+        "confidence": "medium",
+        "unconfirmed": [
+          "Maori",
+          "amazing",
+          "attraction",
+          "explore",
+          "kangaroo",
+          "koala",
+          "landmark",
+          "native speaker",
+          "official language",
+          "scenery",
+          "symbol"
+        ],
+        "date": "2026-11-03"
+      },
       "sources": [
-        "https://www.vietjack.com/tieng-anh-7-moi/tu-vung-unit-12-lop-7.jsp",
-        "https://loigiaihay.com/tieng-anh-7-unit-12-tu-vung-a109952.html",
-        "https://prepedu.com/vi/blog/tieng-anh-7-unit-12"
+        "https://vietjack.me/tu-vung-tieng-anh-7-unit-12-global-success-english-speaking-countries-159548.html",
+        "https://vietjack.com/tieng-anh-7-moi/tu-vung-unit-12-lop-7.jsp",
+        "https://prepedu.com/vi/blog/tieng-anh-7-unit-12",
+        "https://vndoc.com/tu-vung-unit-12-lop-7-english-speaking-countries-sach-global-success-294270",
+        "https://download.vn/unit-12-lop-7-tu-vung-ket-noi-tri-thuc-66785",
+        "https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-quoc-dan/nghien-cuu-kinh-doanh/tu-vung-unit-12-lop-7-english-speaking-countries-sach-global-success/90833010",
+        "https://quizlet.com/vn/704503672/unit-12-english-speaking-countries-tieng-anh-7-global-success-flash-cards/"
       ],
       "words": [
         {
@@ -2698,6 +3224,60 @@
           "meaning": "độc đáo, duy nhất",
           "example": "Each country has its own unique culture.",
           "example_vi": "Mỗi quốc gia có một nền văn hóa độc đáo riêng."
+        },
+        {
+          "word": "coastline",
+          "pos": "n",
+          "ipa_uk": "/ˈkəʊstlaɪn/",
+          "ipa_us": "/ˈkoʊstlaɪn/",
+          "meaning": "đường bờ biển",
+          "example": "Australia has a very long and beautiful coastline.",
+          "example_vi": "Úc có đường bờ biển rất dài và đẹp."
+        },
+        {
+          "word": "island country",
+          "pos": "n",
+          "ipa_uk": "/ˈaɪlənd ˈkʌntri/",
+          "ipa_us": "/ˈaɪlənd ˈkʌntri/",
+          "meaning": "đảo quốc",
+          "example": "New Zealand is an island country in the Pacific Ocean.",
+          "example_vi": "New Zealand là một đảo quốc ở Thái Bình Dương."
+        },
+        {
+          "word": "landscape",
+          "pos": "n",
+          "ipa_uk": "/ˈlændskeɪp/",
+          "ipa_us": "/ˈlændskeɪp/",
+          "meaning": "phong cảnh",
+          "example": "Scotland is famous for its green landscape.",
+          "example_vi": "Scotland nổi tiếng với phong cảnh xanh tươi."
+        },
+        {
+          "word": "tower",
+          "pos": "n",
+          "ipa_uk": "/ˈtaʊə(r)/",
+          "ipa_us": "/ˈtaʊɚ/",
+          "meaning": "tháp",
+          "example": "We visited the Tower of London last summer.",
+          "example_vi": "Mùa hè năm ngoái chúng tôi đã tham quan Tháp London."
+        },
+        {
+          "word": "historic",
+          "pos": "adj",
+          "ipa_uk": "/hɪˈstɒrɪk/",
+          "ipa_us": "/hɪˈstɔːrɪk/",
+          "meaning": "có tính lịch sử, cổ kính",
+          "example": "Edinburgh has many historic buildings and castles.",
+          "example_vi": "Edinburgh có nhiều công trình và lâu đài cổ kính."
+        },
+        {
+          "word": "native",
+          "pos": "adj",
+          "ipa_uk": "/ˈneɪtɪv/",
+          "ipa_us": "/ˈneɪtɪv/",
+          "meaning": "bản xứ, bản địa",
+          "example": "English is the native language of most Americans.",
+          "example_vi": "Tiếng Anh là tiếng mẹ đẻ của hầu hết người Mỹ."
         }
       ]
     }

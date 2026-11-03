@@ -46,7 +46,8 @@ def slugify(word: str) -> str:
 
 
 def spoken_text(word: str) -> str:
-    text = word.replace("...", " ").replace("…", " ")
+    text = word.replace("...", " ").replace("…", " ").replace("/", ", ")
+    text = text.replace("(", ", ").replace(")", "")
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"\s+([?!.,])", r"\1", text)
     return text
@@ -55,6 +56,7 @@ def spoken_text(word: str) -> str:
 def to_kokoro(ipa: str, accent: str, question: bool) -> str:
     """Dataset IPA (/.../) -> Kokoro phoneme string."""
     s = ipa.strip("/").replace("...", " ").replace(".", "")
+    s = s.replace("(", " ").replace(")", " ").replace(",", " ")
     s = s.replace("(r)", "" if accent == "uk" else "r")
     if accent == "us":
         s = s.replace("ɝː", "ɜː").replace("ɝ", "ɜː")

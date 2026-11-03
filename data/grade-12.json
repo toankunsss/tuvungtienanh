@@ -10,12 +10,10 @@
       "title_vi": "Những câu chuyện cuộc đời chúng ta ngưỡng mộ",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-12-moi/unit-1-tu-vung-lop-12-moi.jsp",
-        "https://yourhomework.net/vocabulary/lesson/000000264149-g",
-        "https://yourhomework.net/vocabulary/lesson/000001117007-k",
-        "https://quizlet.com/vn/918904669/unit-1-life-stories-we-admire-tieng-anh-12-global-success-flash-cards/",
-        "https://zim.vn/tu-vung-tieng-anh-12-unit-1-global-success",
-        "https://situ.edu.vn/loi-giai-sach-bai-tap-tieng-anh-lop-12-global-success/"
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
       ],
       "words": [
         {
@@ -23,9 +21,7 @@
           "pos": "n",
           "ipa_uk": "/əˈkaʊnt/",
           "ipa_us": "/əˈkaʊnt/",
-          "audio_uk": "audio/uk/account.mp3",
-          "audio_us": "audio/us/account.mp3",
-          "meaning": "bản tường thuật, lời kể",
+          "meaning": "câu chuyện",
           "example": "The book gives a moving account of her life during the war.",
           "example_vi": "Cuốn sách là một lời kể cảm động về cuộc đời bà trong thời chiến."
         },
@@ -34,9 +30,7 @@
           "pos": "n",
           "ipa_uk": "/əˈtʃiːvmənt/",
           "ipa_us": "/əˈtʃiːvmənt/",
-          "audio_uk": "audio/uk/achievement.mp3",
-          "audio_us": "audio/us/achievement.mp3",
-          "meaning": "thành tựu",
+          "meaning": "thành tích, thành tựu",
           "example": "Winning the Nobel Prize was the greatest achievement of his life.",
           "example_vi": "Giành giải Nobel là thành tựu lớn nhất trong cuộc đời ông."
         },
@@ -45,8 +39,6 @@
           "pos": "v",
           "ipa_uk": "/ədˈmaɪə(r)/",
           "ipa_us": "/ædˈmaɪr/",
-          "audio_uk": "audio/uk/admire.mp3",
-          "audio_us": "audio/us/admire.mp3",
           "meaning": "ngưỡng mộ",
           "example": "We all admire her courage.",
           "example_vi": "Tất cả chúng tôi đều ngưỡng mộ lòng dũng cảm của cô ấy."
@@ -56,64 +48,43 @@
           "pos": "v",
           "ipa_uk": "/əˈdɒpt/",
           "ipa_us": "/əˈdɑːpt/",
-          "audio_uk": "audio/uk/adopt.mp3",
-          "audio_us": "audio/us/adopt.mp3",
-          "meaning": "nhận nuôi",
+          "meaning": "nhận con nuôi",
           "example": "Steve Jobs was adopted when he was a baby.",
           "example_vi": "Steve Jobs được nhận nuôi khi còn là một đứa trẻ sơ sinh."
-        },
-        {
-          "word": "ambitious",
-          "pos": "adj",
-          "ipa_uk": "/æmˈbɪʃəs/",
-          "ipa_us": "/æmˈbɪʃəs/",
-          "audio_uk": "audio/uk/ambitious.mp3",
-          "audio_us": "audio/us/ambitious.mp3",
-          "meaning": "có hoài bão, tham vọng",
-          "example": "As a young man, he was ambitious and wanted to change the world.",
-          "example_vi": "Khi còn trẻ, ông là người có hoài bão và muốn thay đổi thế giới."
         },
         {
           "word": "animated",
           "pos": "adj",
           "ipa_uk": "/ˈænɪmeɪtɪd/",
           "ipa_us": "/ˈænəmeɪtɪd/",
-          "audio_uk": "audio/uk/animated.mp3",
-          "audio_us": "audio/us/animated.mp3",
-          "meaning": "(phim) hoạt hình",
+          "meaning": "hoạt hình",
           "example": "Walt Disney created many famous animated films.",
           "example_vi": "Walt Disney đã tạo ra nhiều bộ phim hoạt hình nổi tiếng."
-        },
-        {
-          "word": "army",
-          "pos": "n",
-          "ipa_uk": "/ˈɑːmi/",
-          "ipa_us": "/ˈɑːrmi/",
-          "audio_uk": "audio/uk/army.mp3",
-          "audio_us": "audio/us/army.mp3",
-          "meaning": "quân đội",
-          "example": "General Vo Nguyen Giap led the Vietnamese army to victory at Dien Bien Phu.",
-          "example_vi": "Đại tướng Võ Nguyên Giáp đã lãnh đạo quân đội Việt Nam giành chiến thắng tại Điện Biên Phủ."
         },
         {
           "word": "attack",
           "pos": "n",
           "ipa_uk": "/əˈtæk/",
           "ipa_us": "/əˈtæk/",
-          "audio_uk": "audio/uk/attack.mp3",
-          "audio_us": "audio/us/attack.mp3",
-          "meaning": "cuộc tấn công",
+          "meaning": "cuộc tấn công, tấn công",
           "example": "The field hospital was destroyed in an enemy attack.",
           "example_vi": "Bệnh viện dã chiến đã bị phá hủy trong một cuộc tấn công của quân địch."
+        },
+        {
+          "word": "attend (school/ college)",
+          "pos": "v",
+          "ipa_uk": "/əˈtend (skuːl, ˈkɒlɪdʒ)/",
+          "ipa_us": "/əˈtend (skuːl, ˈkɑːlɪdʒ)/",
+          "meaning": "đi học (trường, trường đại học, cao đẳng)",
+          "example": "He couldn't attend school because his family was very poor.",
+          "example_vi": "Cậu ấy không thể đi học vì gia đình quá nghèo."
         },
         {
           "word": "battle",
           "pos": "n",
           "ipa_uk": "/ˈbætl/",
           "ipa_us": "/ˈbætəl/",
-          "audio_uk": "audio/uk/battle.mp3",
-          "audio_us": "audio/us/battle.mp3",
-          "meaning": "trận đánh",
+          "meaning": "chiến trường",
           "example": "The Battle of Dien Bien Phu ended in 1954.",
           "example_vi": "Trận Điện Biên Phủ kết thúc vào năm 1954."
         },
@@ -122,8 +93,6 @@
           "pos": "n",
           "ipa_uk": "/baɪˈɒɡrəfi/",
           "ipa_us": "/baɪˈɑːɡrəfi/",
-          "audio_uk": "audio/uk/biography.mp3",
-          "audio_us": "audio/us/biography.mp3",
           "meaning": "tiểu sử",
           "example": "I'm reading a biography of President Ho Chi Minh.",
           "example_vi": "Tôi đang đọc một cuốn tiểu sử về Chủ tịch Hồ Chí Minh."
@@ -133,140 +102,105 @@
           "pos": "adj",
           "ipa_uk": "/ˌbaɪəˈlɒdʒɪkl/",
           "ipa_us": "/ˌbaɪəˈlɑːdʒɪkəl/",
-          "audio_uk": "audio/uk/biological.mp3",
-          "audio_us": "audio/us/biological.mp3",
-          "meaning": "(cha mẹ) ruột, thuộc về sinh học",
+          "meaning": "(quan hệ) ruột thịt",
           "example": "He never met his biological parents.",
           "example_vi": "Anh ấy chưa bao giờ gặp cha mẹ ruột của mình."
         },
         {
           "word": "bond",
-          "pos": "n",
+          "pos": "v",
           "ipa_uk": "/bɒnd/",
           "ipa_us": "/bɑːnd/",
-          "audio_uk": "audio/uk/bond.mp3",
-          "audio_us": "audio/us/bond.mp3",
-          "meaning": "mối gắn kết",
-          "example": "There is a strong bond between the soldiers who fought together.",
-          "example_vi": "Giữa những người lính từng chiến đấu cùng nhau có một mối gắn kết bền chặt."
+          "meaning": "kết thân (với ai)",
+          "example": "Steve Jobs bonded with his adoptive father over a love of electronics.",
+          "example_vi": "Steve Jobs đã kết thân với người cha nuôi nhờ cùng yêu thích đồ điện tử."
         },
         {
-          "word": "dedication",
+          "word": "cancer",
           "pos": "n",
-          "ipa_uk": "/ˌdedɪˈkeɪʃn/",
-          "ipa_us": "/ˌdedəˈkeɪʃən/",
-          "audio_uk": "audio/uk/dedication.mp3",
-          "audio_us": "audio/us/dedication.mp3",
-          "meaning": "sự cống hiến, tận tụy",
-          "example": "Her dedication to her patients earned her great respect.",
-          "example_vi": "Sự tận tụy với bệnh nhân đã giúp bà nhận được sự kính trọng lớn lao."
+          "ipa_uk": "/ˈkænsə(r)/",
+          "ipa_us": "/ˈkænsɚ/",
+          "meaning": "ung thư",
+          "example": "Steve Jobs died of pancreatic cancer in 2011.",
+          "example_vi": "Steve Jobs qua đời vì bệnh ung thư tuyến tuỵ năm 2011."
+        },
+        {
+          "word": "carry out",
+          "pos": "phr v",
+          "ipa_uk": "/ˌkæri ˈaʊt/",
+          "ipa_us": "/ˌkæri ˈaʊt/",
+          "meaning": "tiến hành",
+          "example": "The scientist carried out many experiments before making his discovery.",
+          "example_vi": "Nhà khoa học đã tiến hành nhiều thí nghiệm trước khi đưa ra phát hiện của mình."
+        },
+        {
+          "word": "childhood",
+          "pos": "n",
+          "ipa_uk": "/ˈtʃaɪldhʊd/",
+          "ipa_us": "/ˈtʃaɪldhʊd/",
+          "meaning": "tuổi thơ",
+          "example": "Dang Thuy Tram spent her childhood in Ha Noi.",
+          "example_vi": "Đặng Thuỳ Trâm đã trải qua tuổi thơ ở Hà Nội."
+        },
+        {
+          "word": "Communist Party of Viet Nam",
+          "pos": "n",
+          "ipa_uk": "/ˈkɒmjənɪst ˈpɑːti əv ˌviːetˈnɑːm/",
+          "ipa_us": "/ˈkɑːmjənəst ˈpɑːrti ʌv viˈet næm/",
+          "meaning": "Đảng Cộng sản Việt Nam",
+          "example": "The Communist Party of Viet Nam was founded on 3 February 1930.",
+          "example_vi": "Đảng Cộng sản Việt Nam được thành lập ngày 3 tháng 2 năm 1930."
+        },
+        {
+          "word": "death",
+          "pos": "n",
+          "ipa_uk": "/deθ/",
+          "ipa_us": "/deθ/",
+          "meaning": "cái chết",
+          "example": "Her diary was found many years after her death.",
+          "example_vi": "Cuốn nhật kí của cô ấy được tìm thấy nhiều năm sau khi cô qua đời."
         },
         {
           "word": "defeat",
           "pos": "v",
           "ipa_uk": "/dɪˈfiːt/",
           "ipa_us": "/dɪˈfiːt/",
-          "audio_uk": "audio/uk/defeat.mp3",
-          "audio_us": "audio/us/defeat.mp3",
           "meaning": "đánh bại",
           "example": "The Vietnamese army defeated the French at Dien Bien Phu.",
           "example_vi": "Quân đội Việt Nam đã đánh bại quân Pháp tại Điện Biên Phủ."
         },
         {
-          "word": "determination",
-          "pos": "n",
-          "ipa_uk": "/dɪˌtɜːmɪˈneɪʃn/",
-          "ipa_us": "/dɪˌtɝːməˈneɪʃən/",
-          "audio_uk": "audio/uk/determination.mp3",
-          "audio_us": "audio/us/determination.mp3",
-          "meaning": "sự quyết tâm",
-          "example": "Her determination helped her overcome many difficulties.",
-          "example_vi": "Sự quyết tâm đã giúp cô ấy vượt qua nhiều khó khăn."
+          "word": "devote to",
+          "pos": "phr v",
+          "ipa_uk": "/dɪˈvəʊt tə/",
+          "ipa_us": "/dɪˈvoʊt tə/",
+          "meaning": "cống hiến (cho)",
+          "example": "She devoted her whole life to helping poor children.",
+          "example_vi": "Bà ấy đã cống hiến cả cuộc đời để giúp đỡ trẻ em nghèo."
         },
         {
-          "word": "devote",
-          "pos": "v",
-          "ipa_uk": "/dɪˈvəʊt/",
-          "ipa_us": "/dɪˈvoʊt/",
-          "audio_uk": "audio/uk/devote.mp3",
-          "audio_us": "audio/us/devote.mp3",
-          "meaning": "cống hiến, hiến dâng",
-          "example": "Dang Thuy Tram devoted her life to treating wounded soldiers.",
-          "example_vi": "Đặng Thùy Trâm đã cống hiến cuộc đời mình cho việc chữa trị các thương binh."
-        },
-        {
-          "word": "diary",
-          "pos": "n",
-          "ipa_uk": "/ˈdaɪəri/",
-          "ipa_us": "/ˈdaɪɚi/",
-          "audio_uk": "audio/uk/diary.mp3",
-          "audio_us": "audio/us/diary.mp3",
-          "meaning": "nhật ký",
-          "example": "Dang Thuy Tram's diary was published in 2005.",
-          "example_vi": "Cuốn nhật ký của Đặng Thùy Trâm được xuất bản vào năm 2005."
-        },
-        {
-          "word": "distinguished",
-          "pos": "adj",
-          "ipa_uk": "/dɪˈstɪŋɡwɪʃt/",
-          "ipa_us": "/dɪˈstɪŋɡwɪʃt/",
-          "audio_uk": "audio/uk/distinguished.mp3",
-          "audio_us": "audio/us/distinguished.mp3",
-          "meaning": "xuất sắc, lỗi lạc",
-          "example": "He was a distinguished scientist who won many international awards.",
-          "example_vi": "Ông là một nhà khoa học lỗi lạc đã giành được nhiều giải thưởng quốc tế."
-        },
-        {
-          "word": "duty",
-          "pos": "n",
-          "ipa_uk": "/ˈdjuːti/",
-          "ipa_us": "/ˈduːti/",
-          "audio_uk": "audio/uk/duty.mp3",
-          "audio_us": "audio/us/duty.mp3",
-          "meaning": "nhiệm vụ, bổn phận",
-          "example": "She believed it was her duty to help the wounded soldiers.",
-          "example_vi": "Cô ấy tin rằng giúp đỡ các thương binh là bổn phận của mình."
+          "word": "drop out (of)",
+          "pos": "phr v",
+          "ipa_uk": "/ˌdrɒp ˈaʊt (əv)/",
+          "ipa_us": "/ˌdrɑːp ˈaʊt əv/",
+          "meaning": "bỏ học",
+          "example": "Steve Jobs dropped out of college after only one semester.",
+          "example_vi": "Steve Jobs đã bỏ học đại học chỉ sau một học kì."
         },
         {
           "word": "enemy",
           "pos": "n",
           "ipa_uk": "/ˈenəmi/",
           "ipa_us": "/ˈenəmi/",
-          "audio_uk": "audio/uk/enemy.mp3",
-          "audio_us": "audio/us/enemy.mp3",
-          "meaning": "kẻ thù, quân địch",
+          "meaning": "kẻ thù",
           "example": "The soldiers bravely fought against the enemy.",
           "example_vi": "Những người lính đã dũng cảm chiến đấu chống lại quân địch."
-        },
-        {
-          "word": "field hospital",
-          "pos": "n",
-          "ipa_uk": "/ˈfiːld hɒspɪtl/",
-          "ipa_us": "/ˈfiːld ˌhɑːspɪtəl/",
-          "audio_uk": "audio/uk/field-hospital.mp3",
-          "audio_us": "audio/us/field-hospital.mp3",
-          "meaning": "bệnh viện dã chiến",
-          "example": "She worked as a doctor in a field hospital during the war.",
-          "example_vi": "Bà làm bác sĩ tại một bệnh viện dã chiến trong thời chiến."
-        },
-        {
-          "word": "figure",
-          "pos": "n",
-          "ipa_uk": "/ˈfɪɡə(r)/",
-          "ipa_us": "/ˈfɪɡjɚ/",
-          "audio_uk": "audio/uk/figure.mp3",
-          "audio_us": "audio/us/figure.mp3",
-          "meaning": "nhân vật",
-          "example": "Vo Nguyen Giap is one of the most respected figures in Vietnamese history.",
-          "example_vi": "Võ Nguyên Giáp là một trong những nhân vật được kính trọng nhất trong lịch sử Việt Nam."
         },
         {
           "word": "genius",
           "pos": "n",
           "ipa_uk": "/ˈdʒiːniəs/",
           "ipa_us": "/ˈdʒiːnjəs/",
-          "audio_uk": "audio/uk/genius.mp3",
-          "audio_us": "audio/us/genius.mp3",
           "meaning": "thiên tài",
           "example": "Albert Einstein was a scientific genius.",
           "example_vi": "Albert Einstein là một thiên tài khoa học."
@@ -276,121 +210,108 @@
           "pos": "n",
           "ipa_uk": "/ˈhɪərəʊ/",
           "ipa_us": "/ˈhɪroʊ/",
-          "audio_uk": "audio/uk/hero.mp3",
-          "audio_us": "audio/us/hero.mp3",
           "meaning": "anh hùng",
           "example": "He was honoured as a national hero after the war.",
           "example_vi": "Ông được tôn vinh là anh hùng dân tộc sau chiến tranh."
-        },
-        {
-          "word": "legend",
-          "pos": "n",
-          "ipa_uk": "/ˈledʒənd/",
-          "ipa_us": "/ˈledʒənd/",
-          "audio_uk": "audio/uk/legend.mp3",
-          "audio_us": "audio/us/legend.mp3",
-          "meaning": "huyền thoại",
-          "example": "Pelé is a football legend admired by millions of fans.",
-          "example_vi": "Pelé là một huyền thoại bóng đá được hàng triệu người hâm mộ ngưỡng mộ."
         },
         {
           "word": "marriage",
           "pos": "n",
           "ipa_uk": "/ˈmærɪdʒ/",
           "ipa_us": "/ˈmerɪdʒ/",
-          "audio_uk": "audio/uk/marriage.mp3",
-          "audio_us": "audio/us/marriage.mp3",
-          "meaning": "hôn nhân",
+          "meaning": "cuộc hôn nhân",
           "example": "Their marriage lasted for more than fifty years.",
           "example_vi": "Cuộc hôn nhân của họ kéo dài hơn năm mươi năm."
         },
         {
           "word": "military",
-          "pos": "adj",
+          "pos": "n",
           "ipa_uk": "/ˈmɪlətri/",
           "ipa_us": "/ˈmɪləteri/",
-          "audio_uk": "audio/uk/military.mp3",
-          "audio_us": "audio/us/military.mp3",
-          "meaning": "thuộc về quân sự",
-          "example": "General Giap was a brilliant military leader.",
-          "example_vi": "Đại tướng Giáp là một nhà lãnh đạo quân sự kiệt xuất."
+          "meaning": "quân đội",
+          "example": "He joined the military when he was eighteen years old.",
+          "example_vi": "Ông ấy gia nhập quân đội khi mười tám tuổi."
         },
         {
-          "word": "reputation",
+          "word": "on cloud nine/ on top of the world/ over the moon",
+          "pos": "idiom",
+          "ipa_uk": "/ɒn ˌklaʊd ˈnaɪn, ɒn ˌtɒp əv ðə ˈwɜːld, ˌəʊvə ðə ˈmuːn/",
+          "ipa_us": "/ɑːn ˌklaʊd ˈnaɪn, ɑːn ˌtɑːp əv ðə ˈwɝːld, ˌoʊvɚ ðə ˈmuːn/",
+          "meaning": "rất vui sướng, hạnh phúc",
+          "example": "She was over the moon when she won the national prize.",
+          "example_vi": "Cô ấy vui sướng tột độ khi giành được giải thưởng quốc gia."
+        },
+        {
+          "word": "pancreatic",
+          "pos": "adj",
+          "ipa_uk": "/ˌpæŋkriˈætɪk/",
+          "ipa_us": "/ˌpænkriˈætɪk/",
+          "meaning": "liên quan tới tuyến tuỵ",
+          "example": "Pancreatic cancer is one of the most dangerous types of cancer.",
+          "example_vi": "Ung thư tuyến tuỵ là một trong những loại ung thư nguy hiểm nhất."
+        },
+        {
+          "word": "pass away",
+          "pos": "phr v",
+          "ipa_uk": "/ˌpɑːs əˈweɪ/",
+          "ipa_us": "/ˌpæs əˈweɪ/",
+          "meaning": "qua đời",
+          "example": "General Vo Nguyen Giap passed away in 2013 at the age of 102.",
+          "example_vi": "Đại tướng Võ Nguyên Giáp qua đời năm 2013, hưởng thọ 102 tuổi."
+        },
+        {
+          "word": "poem",
           "pos": "n",
-          "ipa_uk": "/ˌrepjuˈteɪʃn/",
-          "ipa_us": "/ˌrepjəˈteɪʃən/",
-          "audio_uk": "audio/uk/reputation.mp3",
-          "audio_us": "audio/us/reputation.mp3",
-          "meaning": "danh tiếng",
-          "example": "The scientist has an international reputation for his research.",
-          "example_vi": "Nhà khoa học đó có danh tiếng quốc tế nhờ các công trình nghiên cứu của mình."
+          "ipa_uk": "/ˈpəʊɪm/",
+          "ipa_us": "/ˈpoʊəm/",
+          "meaning": "bài thơ",
+          "example": "President Ho Chi Minh wrote many poems while he was in prison.",
+          "example_vi": "Chủ tịch Hồ Chí Minh đã viết nhiều bài thơ khi ở trong tù."
+        },
+        {
+          "word": "poetry",
+          "pos": "n",
+          "ipa_uk": "/ˈpəʊətri/",
+          "ipa_us": "/ˈpoʊətri/",
+          "meaning": "thơ ca",
+          "example": "Xuan Quynh's poetry is loved by many generations of Vietnamese readers.",
+          "example_vi": "Thơ ca của Xuân Quỳnh được nhiều thế hệ độc giả Việt Nam yêu mến."
+        },
+        {
+          "word": "resign",
+          "pos": "v",
+          "ipa_uk": "/rɪˈzaɪn/",
+          "ipa_us": "/rɪˈzaɪn/",
+          "meaning": "từ chức",
+          "example": "Steve Jobs resigned as CEO of Apple in 2011 because of his illness.",
+          "example_vi": "Steve Jobs từ chức giám đốc điều hành Apple năm 2011 vì bệnh tật."
         },
         {
           "word": "resistance war",
           "pos": "n",
           "ipa_uk": "/rɪˈzɪstəns wɔː(r)/",
           "ipa_us": "/rɪˈzɪstəns wɔːr/",
-          "audio_uk": "audio/uk/resistance-war.mp3",
-          "audio_us": "audio/us/resistance-war.mp3",
           "meaning": "cuộc kháng chiến",
           "example": "Many young people volunteered to fight in the resistance war.",
           "example_vi": "Nhiều thanh niên đã tình nguyện tham gia chiến đấu trong cuộc kháng chiến."
         },
         {
-          "word": "respectable",
-          "pos": "adj",
-          "ipa_uk": "/rɪˈspektəbl/",
-          "ipa_us": "/rɪˈspektəbəl/",
-          "audio_uk": "audio/uk/respectable.mp3",
-          "audio_us": "audio/us/respectable.mp3",
-          "meaning": "đáng kính",
-          "example": "She came from a poor but respectable family.",
-          "example_vi": "Cô ấy xuất thân từ một gia đình nghèo nhưng đáng kính."
-        },
-        {
-          "word": "surgeon",
+          "word": "rule",
           "pos": "n",
-          "ipa_uk": "/ˈsɜːdʒən/",
-          "ipa_us": "/ˈsɝːdʒən/",
-          "audio_uk": "audio/uk/surgeon.mp3",
-          "audio_us": "audio/us/surgeon.mp3",
-          "meaning": "bác sĩ phẫu thuật",
-          "example": "Dang Thuy Tram was a young surgeon who worked on the battlefield.",
-          "example_vi": "Đặng Thùy Trâm là một bác sĩ phẫu thuật trẻ làm việc nơi chiến trường."
+          "ipa_uk": "/ruːl/",
+          "ipa_us": "/ruːl/",
+          "meaning": "sự trị vì, trị vì",
+          "example": "The Ly Dynasty ruled the country for more than 200 years.",
+          "example_vi": "Nhà Lý đã trị vì đất nước hơn 200 năm."
         },
         {
-          "word": "talented",
-          "pos": "adj",
-          "ipa_uk": "/ˈtæləntɪd/",
-          "ipa_us": "/ˈtæləntɪd/",
-          "audio_uk": "audio/uk/talented.mp3",
-          "audio_us": "audio/us/talented.mp3",
-          "meaning": "tài năng",
-          "example": "He was a talented musician who wrote many beautiful songs.",
-          "example_vi": "Ông là một nhạc sĩ tài năng đã sáng tác nhiều bài hát hay."
-        },
-        {
-          "word": "volunteer",
-          "pos": "v",
-          "ipa_uk": "/ˌvɒlənˈtɪə(r)/",
-          "ipa_us": "/ˌvɑːlənˈtɪr/",
-          "audio_uk": "audio/uk/volunteer.mp3",
-          "audio_us": "audio/us/volunteer.mp3",
-          "meaning": "tình nguyện",
-          "example": "She volunteered to work in a field hospital during the war.",
-          "example_vi": "Cô ấy đã tình nguyện làm việc tại một bệnh viện dã chiến trong thời chiến."
-        },
-        {
-          "word": "waver",
-          "pos": "v",
-          "ipa_uk": "/ˈweɪvə(r)/",
-          "ipa_us": "/ˈweɪvɚ/",
-          "audio_uk": "audio/uk/waver.mp3",
-          "audio_us": "audio/us/waver.mp3",
-          "meaning": "dao động, nao núng",
-          "example": "Despite many difficulties, she never wavered in her determination.",
-          "example_vi": "Dù gặp nhiều khó khăn, cô ấy chưa bao giờ nao núng trong quyết tâm của mình."
+          "word": "youth",
+          "pos": "n",
+          "ipa_uk": "/juːθ/",
+          "ipa_us": "/juːθ/",
+          "meaning": "tuổi trẻ",
+          "example": "In her youth, she volunteered to work as a doctor on the battlefield.",
+          "example_vi": "Thời tuổi trẻ, cô ấy đã tình nguyện làm bác sĩ ở chiến trường."
         }
       ]
     },
@@ -400,86 +321,89 @@
       "title_vi": "Một thế giới đa văn hóa",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-12-moi/unit-2-tu-vung-lop-12-moi.jsp",
-        "https://vndoc.com/tu-vung-unit-2-lop-12-a-multicultural-world-320825",
-        "https://zim.vn/tu-vung-tieng-anh-12-unit-2-global-success",
-        "https://quizlet.com/vn/928132008/global-success-12-unit-2-a-multicultural-world-vocabulary-flash-cards/",
-        "https://quizlet.com/vn/919077028/unit-2-a-multiculttural-world-tieng-anh-12-global-success-flash-cards/"
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
       ],
       "words": [
+        {
+          "word": "admire",
+          "pos": "v",
+          "ipa_uk": "/ədˈmaɪə(r)/",
+          "ipa_us": "/ædˈmaɪr/",
+          "meaning": "ngắm nhìn, chiêm ngưỡng",
+          "example": "Tourists stopped to admire the colourful lanterns in Hoi An.",
+          "example_vi": "Du khách dừng lại để chiêm ngưỡng những chiếc đèn lồng đầy màu sắc ở Hội An."
+        },
+        {
+          "word": "anxiety",
+          "pos": "n",
+          "ipa_uk": "/æŋˈzaɪəti/",
+          "ipa_us": "/æŋˈzaɪəti/",
+          "meaning": "sự bồn chồn, lo lắng",
+          "example": "Living in a new culture can cause feelings of anxiety and loneliness.",
+          "example_vi": "Sống trong một nền văn hoá mới có thể gây ra cảm giác bồn chồn, lo lắng và cô đơn."
+        },
         {
           "word": "appreciate",
           "pos": "v",
           "ipa_uk": "/əˈpriːʃieɪt/",
           "ipa_us": "/əˈpriːʃieɪt/",
-          "audio_uk": "audio/uk/appreciate.mp3",
-          "audio_us": "audio/us/appreciate.mp3",
-          "meaning": "trân trọng, đánh giá cao",
+          "meaning": "thưởng thức, trân trọng",
           "example": "Living abroad helped me appreciate my own culture more.",
           "example_vi": "Sống ở nước ngoài đã giúp tôi trân trọng nền văn hóa của chính mình hơn."
         },
         {
-          "word": "blend",
-          "pos": "v",
-          "ipa_uk": "/blend/",
-          "ipa_us": "/blend/",
-          "audio_uk": "audio/uk/blend.mp3",
-          "audio_us": "audio/us/blend.mp3",
-          "meaning": "pha trộn, hòa trộn",
-          "example": "Vietnamese cuisine blends local ingredients with French and Chinese influences.",
-          "example_vi": "Ẩm thực Việt Nam hòa trộn nguyên liệu địa phương với những ảnh hưởng từ Pháp và Trung Quốc."
+          "word": "bamboo dancing",
+          "pos": "n",
+          "ipa_uk": "/ˌbæmˈbuː ˈdɑːnsɪŋ/",
+          "ipa_us": "/bæmˈbuː ˈdænsɪŋ/",
+          "meaning": "nhảy sạp",
+          "example": "Foreign visitors enjoyed trying bamboo dancing at the festival.",
+          "example_vi": "Du khách nước ngoài thích thú thử nhảy sạp tại lễ hội."
         },
         {
-          "word": "booth",
-          "pos": "n",
-          "ipa_uk": "/buːð/",
-          "ipa_us": "/buːθ/",
-          "audio_uk": "audio/uk/booth.mp3",
-          "audio_us": "audio/us/booth.mp3",
-          "meaning": "gian hàng",
-          "example": "Each country had a booth to showcase its traditional food at the festival.",
-          "example_vi": "Mỗi quốc gia có một gian hàng để giới thiệu các món ăn truyền thống tại lễ hội."
+          "word": "captivate",
+          "pos": "v",
+          "ipa_uk": "/ˈkæptɪveɪt/",
+          "ipa_us": "/ˈkæptɪveɪt/",
+          "meaning": "thu hút, cuốn hút",
+          "example": "The beauty of the ao dai captivates many foreign tourists.",
+          "example_vi": "Vẻ đẹp của tà áo dài cuốn hút nhiều du khách nước ngoài."
         },
         {
           "word": "celebrate",
           "pos": "v",
           "ipa_uk": "/ˈselɪbreɪt/",
           "ipa_us": "/ˈseləbreɪt/",
-          "audio_uk": "audio/uk/celebrate.mp3",
-          "audio_us": "audio/us/celebrate.mp3",
-          "meaning": "kỷ niệm, tổ chức (lễ)",
+          "meaning": "tổ chức, mừng",
           "example": "People in many countries celebrate the Lunar New Year.",
           "example_vi": "Người dân ở nhiều quốc gia đón Tết Nguyên đán."
+        },
+        {
+          "word": "confusion",
+          "pos": "n",
+          "ipa_uk": "/kənˈfjuːʒn/",
+          "ipa_us": "/kənˈfjuːʒən/",
+          "meaning": "sự khó hiểu, sự hỗn độn, sự rối rắm",
+          "example": "Different customs can sometimes lead to confusion among international students.",
+          "example_vi": "Những phong tục khác nhau đôi khi có thể gây ra sự khó hiểu cho sinh viên quốc tế."
         },
         {
           "word": "costume",
           "pos": "n",
           "ipa_uk": "/ˈkɒstjuːm/",
           "ipa_us": "/ˈkɑːstuːm/",
-          "audio_uk": "audio/uk/costume.mp3",
-          "audio_us": "audio/us/costume.mp3",
           "meaning": "trang phục",
           "example": "Students wore traditional costumes from different countries at the culture festival.",
           "example_vi": "Học sinh mặc trang phục truyền thống của các nước khác nhau tại lễ hội văn hóa."
-        },
-        {
-          "word": "cross-cultural",
-          "pos": "adj",
-          "ipa_uk": "/ˌkrɒs ˈkʌltʃərəl/",
-          "ipa_us": "/ˌkrɑːs ˈkʌltʃɚəl/",
-          "audio_uk": "audio/uk/cross-cultural.mp3",
-          "audio_us": "audio/us/cross-cultural.mp3",
-          "meaning": "giao thoa văn hóa, liên văn hóa",
-          "example": "Cross-cultural communication skills are important in a globalised world.",
-          "example_vi": "Kỹ năng giao tiếp liên văn hóa rất quan trọng trong một thế giới toàn cầu hóa."
         },
         {
           "word": "cuisine",
           "pos": "n",
           "ipa_uk": "/kwɪˈziːn/",
           "ipa_us": "/kwɪˈziːn/",
-          "audio_uk": "audio/uk/cuisine.mp3",
-          "audio_us": "audio/us/cuisine.mp3",
           "meaning": "ẩm thực",
           "example": "Vietnamese cuisine is becoming popular all over the world.",
           "example_vi": "Ẩm thực Việt Nam đang ngày càng được ưa chuộng trên khắp thế giới."
@@ -489,9 +413,7 @@
           "pos": "adj",
           "ipa_uk": "/ˈkʌltʃərəl/",
           "ipa_us": "/ˈkʌltʃɚəl/",
-          "audio_uk": "audio/uk/cultural.mp3",
-          "audio_us": "audio/us/cultural.mp3",
-          "meaning": "thuộc về văn hóa",
+          "meaning": "thuộc về văn hoá",
           "example": "The festival is a great chance for cultural exchange.",
           "example_vi": "Lễ hội là một cơ hội tuyệt vời để giao lưu văn hóa."
         },
@@ -500,9 +422,7 @@
           "pos": "n",
           "ipa_uk": "/ˈkʌltʃə ʃɒk/",
           "ipa_us": "/ˈkʌltʃɚ ʃɑːk/",
-          "audio_uk": "audio/uk/culture-shock.mp3",
-          "audio_us": "audio/us/culture-shock.mp3",
-          "meaning": "sốc văn hóa",
+          "meaning": "sốc văn hoá",
           "example": "Many international students experience culture shock when they first arrive.",
           "example_vi": "Nhiều du học sinh bị sốc văn hóa khi mới đến."
         },
@@ -511,97 +431,61 @@
           "pos": "n",
           "ipa_uk": "/ˈkʌstəm/",
           "ipa_us": "/ˈkʌstəm/",
-          "audio_uk": "audio/uk/custom.mp3",
-          "audio_us": "audio/us/custom.mp3",
           "meaning": "phong tục",
           "example": "It is a custom in Viet Nam to give lucky money at Tet.",
           "example_vi": "Ở Việt Nam có phong tục lì xì vào dịp Tết."
-        },
-        {
-          "word": "discrimination",
-          "pos": "n",
-          "ipa_uk": "/dɪˌskrɪmɪˈneɪʃn/",
-          "ipa_us": "/dɪˌskrɪməˈneɪʃən/",
-          "audio_uk": "audio/uk/discrimination.mp3",
-          "audio_us": "audio/us/discrimination.mp3",
-          "meaning": "sự phân biệt đối xử",
-          "example": "Racial discrimination is still a problem in some countries.",
-          "example_vi": "Phân biệt chủng tộc vẫn là một vấn đề ở một số quốc gia."
-        },
-        {
-          "word": "diverse",
-          "pos": "adj",
-          "ipa_uk": "/daɪˈvɜːs/",
-          "ipa_us": "/daɪˈvɝːs/",
-          "audio_uk": "audio/uk/diverse.mp3",
-          "audio_us": "audio/us/diverse.mp3",
-          "meaning": "đa dạng",
-          "example": "Singapore is a culturally diverse country.",
-          "example_vi": "Singapore là một quốc gia đa dạng về văn hóa."
         },
         {
           "word": "diversity",
           "pos": "n",
           "ipa_uk": "/daɪˈvɜːsəti/",
           "ipa_us": "/daɪˈvɝːsɪti/",
-          "audio_uk": "audio/uk/diversity.mp3",
-          "audio_us": "audio/us/diversity.mp3",
           "meaning": "sự đa dạng",
           "example": "We should respect the cultural diversity of our society.",
           "example_vi": "Chúng ta nên tôn trọng sự đa dạng văn hóa của xã hội mình."
+        },
+        {
+          "word": "extracurricular",
+          "pos": "adj",
+          "ipa_uk": "/ˌekstrəkəˈrɪkjələ(r)/",
+          "ipa_us": "/ˌekstrəkəˈrɪkjəlɚ/",
+          "meaning": "ngoại khoá",
+          "example": "Our school offers many extracurricular activities, such as cultural clubs.",
+          "example_vi": "Trường tôi có nhiều hoạt động ngoại khoá, chẳng hạn như các câu lạc bộ văn hoá."
         },
         {
           "word": "festivity",
           "pos": "n",
           "ipa_uk": "/feˈstɪvəti/",
           "ipa_us": "/feˈstɪvəti/",
-          "audio_uk": "audio/uk/festivity.mp3",
-          "audio_us": "audio/us/festivity.mp3",
-          "meaning": "lễ hội, hoạt động vui chơi ngày hội",
+          "meaning": "ngày hội",
           "example": "Children enjoy the festivities of the Mid-Autumn Festival.",
           "example_vi": "Trẻ em rất thích các hoạt động vui chơi trong dịp Tết Trung thu."
         },
         {
-          "word": "heritage",
+          "word": "globalisation",
           "pos": "n",
-          "ipa_uk": "/ˈherɪtɪdʒ/",
-          "ipa_us": "/ˈherɪtɪdʒ/",
-          "audio_uk": "audio/uk/heritage.mp3",
-          "audio_us": "audio/us/heritage.mp3",
-          "meaning": "di sản",
-          "example": "Traditional festivals are an important part of our cultural heritage.",
-          "example_vi": "Lễ hội truyền thống là một phần quan trọng trong di sản văn hóa của chúng ta."
+          "ipa_uk": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+          "ipa_us": "/ˌɡloʊbələˈzeɪʃən/",
+          "meaning": "sự toàn cầu hoá",
+          "example": "Globalisation has made it easier for people to experience other cultures.",
+          "example_vi": "Toàn cầu hoá đã giúp mọi người dễ dàng trải nghiệm các nền văn hoá khác."
         },
         {
           "word": "identity",
           "pos": "n",
           "ipa_uk": "/aɪˈdentəti/",
           "ipa_us": "/aɪˈdentɪtiː/",
-          "audio_uk": "audio/uk/identity.mp3",
-          "audio_us": "audio/us/identity.mp3",
-          "meaning": "bản sắc",
+          "meaning": "bản sắc, đặc điểm nhận dạng",
           "example": "Young people should keep their cultural identity in a multicultural world.",
           "example_vi": "Giới trẻ nên giữ gìn bản sắc văn hóa của mình trong một thế giới đa văn hóa."
-        },
-        {
-          "word": "integration",
-          "pos": "n",
-          "ipa_uk": "/ˌɪntɪˈɡreɪʃn/",
-          "ipa_us": "/ˌɪntəˈɡreɪʃən/",
-          "audio_uk": "audio/uk/integration.mp3",
-          "audio_us": "audio/us/integration.mp3",
-          "meaning": "sự hội nhập",
-          "example": "Learning the local language helps immigrants with their integration into society.",
-          "example_vi": "Học ngôn ngữ địa phương giúp người nhập cư hội nhập vào xã hội."
         },
         {
           "word": "keep up with",
           "pos": "phr v",
           "ipa_uk": "/ˌkiːp ˈʌp wɪð/",
           "ipa_us": "/ˌkiːp ˈʌp wɪð/",
-          "audio_uk": "audio/uk/keep-up-with.mp3",
-          "audio_us": "audio/us/keep-up-with.mp3",
-          "meaning": "theo kịp",
+          "meaning": "bắt kịp với, theo kịp",
           "example": "It's hard for older people to keep up with new cultural trends.",
           "example_vi": "Người lớn tuổi khó theo kịp những xu hướng văn hóa mới."
         },
@@ -610,118 +494,69 @@
           "pos": "n",
           "ipa_uk": "/ˈlaɪfstaɪl/",
           "ipa_us": "/ˈlaɪfstaɪl/",
-          "audio_uk": "audio/uk/lifestyle.mp3",
-          "audio_us": "audio/us/lifestyle.mp3",
           "meaning": "lối sống",
           "example": "Globalisation has changed the lifestyle of young people.",
           "example_vi": "Toàn cầu hóa đã làm thay đổi lối sống của giới trẻ."
-        },
-        {
-          "word": "migrate",
-          "pos": "v",
-          "ipa_uk": "/maɪˈɡreɪt/",
-          "ipa_us": "/ˈmaɪɡreɪt/",
-          "audio_uk": "audio/uk/migrate.mp3",
-          "audio_us": "audio/us/migrate.mp3",
-          "meaning": "di cư",
-          "example": "Many people migrate to other countries in search of better jobs.",
-          "example_vi": "Nhiều người di cư sang các nước khác để tìm kiếm công việc tốt hơn."
-        },
-        {
-          "word": "migration",
-          "pos": "n",
-          "ipa_uk": "/maɪˈɡreɪʃn/",
-          "ipa_us": "/maɪˈɡreɪʃən/",
-          "audio_uk": "audio/uk/migration.mp3",
-          "audio_us": "audio/us/migration.mp3",
-          "meaning": "sự di cư",
-          "example": "Migration has made many cities more multicultural.",
-          "example_vi": "Sự di cư đã khiến nhiều thành phố trở nên đa văn hóa hơn."
         },
         {
           "word": "multicultural",
           "pos": "adj",
           "ipa_uk": "/ˌmʌltiˈkʌltʃərəl/",
           "ipa_us": "/ˌmʌltiˈkʌltʃɚəl/",
-          "audio_uk": "audio/uk/multicultural.mp3",
-          "audio_us": "audio/us/multicultural.mp3",
-          "meaning": "đa văn hóa",
+          "meaning": "tính đa văn hoá",
           "example": "We live in a multicultural world.",
           "example_vi": "Chúng ta đang sống trong một thế giới đa văn hóa."
         },
         {
-          "word": "multilingual",
-          "pos": "adj",
-          "ipa_uk": "/ˌmʌltiˈlɪŋɡwəl/",
-          "ipa_us": "/ˌmʌltiˈlɪŋwəl/",
-          "audio_uk": "audio/uk/multilingual.mp3",
-          "audio_us": "audio/us/multilingual.mp3",
-          "meaning": "đa ngôn ngữ",
-          "example": "Switzerland is a multilingual country with four official languages.",
-          "example_vi": "Thụy Sĩ là một quốc gia đa ngôn ngữ với bốn ngôn ngữ chính thức."
-        },
-        {
-          "word": "reflect",
-          "pos": "v",
-          "ipa_uk": "/rɪˈflekt/",
-          "ipa_us": "/rɪˈflekt/",
-          "audio_uk": "audio/uk/reflect.mp3",
-          "audio_us": "audio/us/reflect.mp3",
-          "meaning": "phản ánh",
-          "example": "Traditional costumes reflect the history and culture of a nation.",
-          "example_vi": "Trang phục truyền thống phản ánh lịch sử và văn hóa của một dân tộc."
-        },
-        {
-          "word": "souvenir",
+          "word": "origin",
           "pos": "n",
-          "ipa_uk": "/ˌsuːvəˈnɪə(r)/",
-          "ipa_us": "/ˌsuːvəˈnɪr/",
-          "audio_uk": "audio/uk/souvenir.mp3",
-          "audio_us": "audio/us/souvenir.mp3",
-          "meaning": "quà lưu niệm",
-          "example": "I bought some souvenirs for my friends when I visited Japan.",
-          "example_vi": "Tôi đã mua một vài món quà lưu niệm cho bạn bè khi đến thăm Nhật Bản."
+          "ipa_uk": "/ˈɒrɪdʒɪn/",
+          "ipa_us": "/ˈɔːrədʒən/",
+          "meaning": "nguồn gốc",
+          "example": "K-pop fans come from countries of many different origins.",
+          "example_vi": "Người hâm mộ K-pop đến từ các quốc gia có nhiều nguồn gốc khác nhau."
         },
         {
-          "word": "specialty",
+          "word": "popularity",
           "pos": "n",
-          "ipa_uk": "/ˈspeʃəlti/",
-          "ipa_us": "/ˈspeʃəlti/",
-          "audio_uk": "audio/uk/specialty.mp3",
-          "audio_us": "audio/us/specialty.mp3",
+          "ipa_uk": "/ˌpɒpjuˈlærəti/",
+          "ipa_us": "/ˌpɑːpjəˈlerəti/",
+          "meaning": "sự phổ biến, sự thông dụng",
+          "example": "Vietnamese banh mi has gained popularity all over the world.",
+          "example_vi": "Bánh mì Việt Nam đã trở nên phổ biến trên toàn thế giới."
+        },
+        {
+          "word": "speciality",
+          "pos": "n",
+          "ipa_uk": "/ˌspeʃiˈæləti/",
+          "ipa_us": "/ˌspeʃiˈælɪti/",
           "meaning": "đặc sản",
-          "example": "Pho is a specialty of Ha Noi.",
-          "example_vi": "Phở là một món đặc sản của Hà Nội."
-        },
-        {
-          "word": "spicy",
-          "pos": "adj",
-          "ipa_uk": "/ˈspaɪsi/",
-          "ipa_us": "/ˈspaɪsi/",
-          "audio_uk": "audio/uk/spicy.mp3",
-          "audio_us": "audio/us/spicy.mp3",
-          "meaning": "cay",
-          "example": "Thai food is famous for being hot and spicy.",
-          "example_vi": "Món ăn Thái Lan nổi tiếng là cay nồng."
+          "example": "Pho is a speciality that every visitor to Viet Nam should try.",
+          "example_vi": "Phở là một đặc sản mà mọi du khách đến Việt Nam nên thử."
         },
         {
           "word": "staple",
-          "pos": "n",
+          "pos": "adj",
           "ipa_uk": "/ˈsteɪpl/",
           "ipa_us": "/ˈsteɪpəl/",
-          "audio_uk": "audio/uk/staple.mp3",
-          "audio_us": "audio/us/staple.mp3",
-          "meaning": "lương thực chính, thực phẩm chủ yếu",
-          "example": "Rice is a staple in many Asian countries.",
-          "example_vi": "Gạo là lương thực chính ở nhiều nước châu Á."
+          "meaning": "cơ bản, chủ yếu",
+          "example": "Rice is the staple food of most Asian countries.",
+          "example_vi": "Gạo là lương thực chủ yếu của hầu hết các nước châu Á."
+        },
+        {
+          "word": "tasty",
+          "pos": "adj",
+          "ipa_uk": "/ˈteɪsti/",
+          "ipa_us": "/ˈteɪsti/",
+          "meaning": "ngon",
+          "example": "Street food in Viet Nam is cheap and tasty.",
+          "example_vi": "Đồ ăn đường phố ở Việt Nam rẻ và ngon."
         },
         {
           "word": "traditional",
           "pos": "adj",
           "ipa_uk": "/trəˈdɪʃənl/",
           "ipa_us": "/trəˈdɪʃənəl/",
-          "audio_uk": "audio/uk/traditional.mp3",
-          "audio_us": "audio/us/traditional.mp3",
           "meaning": "truyền thống",
           "example": "The ao dai is the traditional dress of Vietnamese women.",
           "example_vi": "Áo dài là trang phục truyền thống của phụ nữ Việt Nam."
@@ -731,22 +566,18 @@
           "pos": "n",
           "ipa_uk": "/trend/",
           "ipa_us": "/trend/",
-          "audio_uk": "audio/uk/trend.mp3",
-          "audio_us": "audio/us/trend.mp3",
           "meaning": "xu hướng",
           "example": "Korean food has become a global trend among young people.",
           "example_vi": "Ẩm thực Hàn Quốc đã trở thành một xu hướng toàn cầu trong giới trẻ."
         },
         {
-          "word": "world-famous",
-          "pos": "adj",
-          "ipa_uk": "/ˌwɜːld ˈfeɪməs/",
-          "ipa_us": "/ˌwɝːld ˈfeɪməs/",
-          "audio_uk": "audio/uk/world-famous.mp3",
-          "audio_us": "audio/us/world-famous.mp3",
-          "meaning": "nổi tiếng thế giới",
-          "example": "Pho has become a world-famous Vietnamese dish.",
-          "example_vi": "Phở đã trở thành một món ăn Việt Nam nổi tiếng thế giới."
+          "word": "tug of war",
+          "pos": "n",
+          "ipa_uk": "/ˌtʌɡ əv ˈwɔː(r)/",
+          "ipa_us": "/ˌtʌɡ əv ˈwɔːr/",
+          "meaning": "trò chơi kéo co",
+          "example": "Tug of war is a popular traditional game at Vietnamese festivals.",
+          "example_vi": "Kéo co là một trò chơi truyền thống phổ biến trong các lễ hội Việt Nam."
         }
       ]
     },
@@ -754,118 +585,211 @@
       "unit": 3,
       "title": "Green living",
       "title_vi": "Lối sống xanh",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
-        {
-          "word": "green living",
-          "pos": "n",
-          "ipa_uk": "/ˌɡriːn ˈlɪvɪŋ/",
-          "ipa_us": "/ˌɡriːn ˈlɪvɪŋ/",
-          "audio_uk": "audio/uk/green-living.mp3",
-          "audio_us": "audio/us/green-living.mp3",
-          "meaning": "lối sống xanh",
-          "example": "Green living means making choices that are good for the environment.",
-          "example_vi": "Lối sống xanh là đưa ra những lựa chọn có lợi cho môi trường."
-        },
         {
           "word": "carbon footprint",
           "pos": "n",
           "ipa_uk": "/ˌkɑːbən ˈfʊtprɪnt/",
           "ipa_us": "/ˌkɑːrbən ˈfʊtprɪnt/",
-          "audio_uk": "audio/uk/carbon-footprint.mp3",
-          "audio_us": "audio/us/carbon-footprint.mp3",
-          "meaning": "lượng khí thải các-bon",
+          "meaning": "tổng lượng phát thải khí nhà kính",
           "example": "Cycling to school is a good way to reduce your carbon footprint.",
           "example_vi": "Đạp xe đến trường là một cách hay để giảm lượng khí thải các-bon của bạn."
+        },
+        {
+          "word": "cardboard",
+          "pos": "n",
+          "ipa_uk": "/ˈkɑːdbɔːd/",
+          "ipa_us": "/ˈkɑːrdbɔːrd/",
+          "meaning": "bìa cứng, làm bằng bìa cứng",
+          "example": "Please put the cardboard boxes in the recycling bin.",
+          "example_vi": "Hãy bỏ những chiếc hộp bìa cứng vào thùng tái chế."
+        },
+        {
+          "word": "clean up",
+          "pos": "phr v",
+          "ipa_uk": "/ˌkliːn ˈʌp/",
+          "ipa_us": "/ˌkliːn ˈʌp/",
+          "meaning": "dọn dẹp",
+          "example": "Volunteers gathered to clean up the beach on Sunday morning.",
+          "example_vi": "Các tình nguyện viên tập trung để dọn dẹp bãi biển vào sáng Chủ nhật."
         },
         {
           "word": "compost",
           "pos": "n",
           "ipa_uk": "/ˈkɒmpɒst/",
           "ipa_us": "/ˈkɑːmpoʊst/",
-          "audio_uk": "audio/uk/compost.mp3",
-          "audio_us": "audio/us/compost.mp3",
-          "meaning": "phân hữu cơ, phân trộn",
+          "meaning": "phân hữu cơ",
           "example": "We turn our kitchen waste into compost for the garden.",
           "example_vi": "Chúng tôi biến rác thải nhà bếp thành phân hữu cơ cho khu vườn."
+        },
+        {
+          "word": "container",
+          "pos": "n",
+          "ipa_uk": "/kənˈteɪnə(r)/",
+          "ipa_us": "/kənˈteɪnɚ/",
+          "meaning": "thùng, hộp, gói",
+          "example": "Bring your own container when you buy takeaway food.",
+          "example_vi": "Hãy mang theo hộp đựng của riêng bạn khi mua đồ ăn mang đi."
+        },
+        {
+          "word": "contaminated",
+          "pos": "adj",
+          "ipa_uk": "/kənˈtæmɪneɪtɪd/",
+          "ipa_us": "/kənˈtæməneɪtɪd/",
+          "meaning": "nhiễm độc, nhiễm khuẩn",
+          "example": "Contaminated water can cause serious diseases.",
+          "example_vi": "Nước bị nhiễm độc có thể gây ra các bệnh nghiêm trọng."
+        },
+        {
+          "word": "decompose",
+          "pos": "v",
+          "ipa_uk": "/ˌdiːkəmˈpəʊz/",
+          "ipa_us": "/ˌdiːkəmˈpoʊz/",
+          "meaning": "phân huỷ",
+          "example": "Plastic bags can take hundreds of years to decompose.",
+          "example_vi": "Túi ni-lông có thể mất hàng trăm năm để phân huỷ."
         },
         {
           "word": "eco-friendly",
           "pos": "adj",
           "ipa_uk": "/ˌiːkəʊ ˈfrendli/",
           "ipa_us": "/ˌiːkoʊ ˈfrendli/",
-          "audio_uk": "audio/uk/eco-friendly.mp3",
-          "audio_us": "audio/us/eco-friendly.mp3",
-          "meaning": "thân thiện với môi trường",
+          "meaning": "thân thiện/ tốt cho hệ sinh thái, môi trường",
           "example": "Bamboo straws are an eco-friendly alternative to plastic ones.",
           "example_vi": "Ống hút tre là một lựa chọn thân thiện với môi trường thay cho ống hút nhựa."
+        },
+        {
+          "word": "fruit peel",
+          "pos": "n",
+          "ipa_uk": "/ˈfruːt piːl/",
+          "ipa_us": "/ˈfruːt piːl/",
+          "meaning": "vỏ hoa quả",
+          "example": "You can use fruit peel to make compost for your garden.",
+          "example_vi": "Bạn có thể dùng vỏ hoa quả để làm phân hữu cơ cho khu vườn."
+        },
+        {
+          "word": "household waste",
+          "pos": "n",
+          "ipa_uk": "/ˌhaʊshəʊld ˈweɪst/",
+          "ipa_us": "/ˌhaʊshoʊld ˈweɪst/",
+          "meaning": "rác thải sinh hoạt",
+          "example": "We should sort our household waste before throwing it away.",
+          "example_vi": "Chúng ta nên phân loại rác thải sinh hoạt trước khi vứt bỏ."
+        },
+        {
+          "word": "in the long run",
+          "pos": "idiom",
+          "ipa_uk": "/ɪn ðə ˈlɒŋ rʌn/",
+          "ipa_us": "/ɪn ðə ˈlɑːŋ rʌn/",
+          "meaning": "về lâu dài",
+          "example": "Using reusable bags will save you money in the long run.",
+          "example_vi": "Sử dụng túi tái sử dụng sẽ giúp bạn tiết kiệm tiền về lâu dài."
+        },
+        {
+          "word": "in the long/ medium/ short term",
+          "pos": "idiom",
+          "ipa_uk": "/ɪn ðə ˈlɒŋ, ˈmiːdiəm, ˈʃɔːt tɜːm/",
+          "ipa_us": "/ɪn ðə ˈlɔːŋ, ˈmiːdiəm, ˈʃɔːrt tɝːm/",
+          "meaning": "về lâu dài/ trong thời gian không xa/ trong thời gian trước mắt",
+          "example": "Green living can benefit both people and the planet in the long term.",
+          "example_vi": "Lối sống xanh có thể mang lại lợi ích cho cả con người và hành tinh về lâu dài."
         },
         {
           "word": "landfill",
           "pos": "n",
           "ipa_uk": "/ˈlændfɪl/",
           "ipa_us": "/ˈlændfɪl/",
-          "audio_uk": "audio/uk/landfill.mp3",
-          "audio_us": "audio/us/landfill.mp3",
-          "meaning": "bãi chôn lấp rác",
+          "meaning": "bãi chôn rác",
           "example": "Most plastic waste ends up in landfills or the ocean.",
           "example_vi": "Phần lớn rác thải nhựa cuối cùng đều nằm ở các bãi chôn lấp rác hoặc trong đại dương."
         },
         {
-          "word": "litter",
+          "word": "layer",
           "pos": "n",
-          "ipa_uk": "/ˈlɪtə(r)/",
-          "ipa_us": "/ˈlɪtɚ/",
-          "audio_uk": "audio/uk/litter.mp3",
-          "audio_us": "audio/us/litter.mp3",
-          "meaning": "rác (vứt bừa bãi)",
-          "example": "Volunteers collected litter along the beach.",
-          "example_vi": "Các tình nguyện viên đã thu gom rác dọc bãi biển."
+          "ipa_uk": "/ˈleɪə(r)/",
+          "ipa_us": "/ˈleɪɚ/",
+          "meaning": "lớp",
+          "example": "Put a layer of dry leaves on top of the food waste.",
+          "example_vi": "Hãy phủ một lớp lá khô lên trên rác thải thực phẩm."
         },
         {
-          "word": "recycle",
-          "pos": "v",
-          "ipa_uk": "/ˌriːˈsaɪkl/",
-          "ipa_us": "/riˈsaɪkəl/",
-          "audio_uk": "audio/uk/recycle.mp3",
-          "audio_us": "audio/us/recycle.mp3",
-          "meaning": "tái chế",
-          "example": "We should recycle paper, glass and plastic bottles.",
-          "example_vi": "Chúng ta nên tái chế giấy, thủy tinh và chai nhựa."
+          "word": "leftover",
+          "pos": "n",
+          "ipa_uk": "/ˈleftəʊvə(r)/",
+          "ipa_us": "/ˈleftoʊvɚ/",
+          "meaning": "thức ăn thừa",
+          "example": "Instead of throwing away leftovers, we can use them for tomorrow's lunch.",
+          "example_vi": "Thay vì vứt thức ăn thừa, chúng ta có thể dùng chúng cho bữa trưa ngày mai."
+        },
+        {
+          "word": "packaging",
+          "pos": "n",
+          "ipa_uk": "/ˈpækɪdʒɪŋ/",
+          "ipa_us": "/ˈpækɪdʒɪŋ/",
+          "meaning": "bao bì",
+          "example": "Many products have too much plastic packaging.",
+          "example_vi": "Nhiều sản phẩm có quá nhiều bao bì bằng nhựa."
+        },
+        {
+          "word": "pile",
+          "pos": "n",
+          "ipa_uk": "/paɪl/",
+          "ipa_us": "/paɪl/",
+          "meaning": "chồng, đống",
+          "example": "There was a huge pile of rubbish next to the market.",
+          "example_vi": "Có một đống rác khổng lồ bên cạnh khu chợ."
         },
         {
           "word": "reusable",
           "pos": "adj",
-          "ipa_uk": "/ˌriːˈjuːzəbl/",
+          "ipa_uk": "/riːˈjuːzəbl/",
           "ipa_us": "/riˈuːzəbəl/",
-          "audio_uk": "audio/uk/reusable.mp3",
-          "audio_us": "audio/us/reusable.mp3",
-          "meaning": "có thể tái sử dụng",
+          "meaning": "tái sử dụng được",
           "example": "Bring a reusable bag when you go shopping.",
           "example_vi": "Hãy mang theo túi có thể tái sử dụng khi đi mua sắm."
+        },
+        {
+          "word": "reuse",
+          "pos": "v",
+          "ipa_uk": "/ˌriːˈjuːz/",
+          "ipa_us": "/riˈjuːz/",
+          "meaning": "tái sử dụng",
+          "example": "You can reuse glass jars to store food.",
+          "example_vi": "Bạn có thể tái sử dụng lọ thuỷ tinh để đựng thức ăn."
+        },
+        {
+          "word": "rinse out",
+          "pos": "phr v",
+          "ipa_uk": "/ˌrɪns ˈaʊt/",
+          "ipa_us": "/ˌrɪns ˈaʊt/",
+          "meaning": "xối nước, rửa sạch",
+          "example": "Rinse out the plastic bottles before putting them in the recycling bin.",
+          "example_vi": "Hãy rửa sạch các chai nhựa trước khi bỏ vào thùng tái chế."
         },
         {
           "word": "single-use",
           "pos": "adj",
           "ipa_uk": "/ˌsɪŋɡl ˈjuːs/",
           "ipa_us": "/ˌsɪŋɡəl ˈjuːs/",
-          "audio_uk": "audio/uk/single-use.mp3",
-          "audio_us": "audio/us/single-use.mp3",
           "meaning": "dùng một lần",
           "example": "Many countries have banned single-use plastic bags.",
           "example_vi": "Nhiều quốc gia đã cấm túi ni-lông dùng một lần."
         },
         {
-          "word": "sustainable",
-          "pos": "adj",
-          "ipa_uk": "/səˈsteɪnəbl/",
-          "ipa_us": "/səˈsteɪnəbəl/",
-          "audio_uk": "audio/uk/sustainable.mp3",
-          "audio_us": "audio/us/sustainable.mp3",
-          "meaning": "bền vững",
-          "example": "Green living helps us build a more sustainable future.",
-          "example_vi": "Lối sống xanh giúp chúng ta xây dựng một tương lai bền vững hơn."
+          "word": "waste",
+          "pos": "n",
+          "ipa_uk": "/weɪst/",
+          "ipa_us": "/weɪst/",
+          "meaning": "rác thải",
+          "example": "We can reduce waste by bringing our own bags to the supermarket.",
+          "example_vi": "Chúng ta có thể giảm rác thải bằng cách mang túi riêng khi đi siêu thị."
         }
       ]
     },
@@ -873,118 +797,157 @@
       "unit": 4,
       "title": "Urbanisation",
       "title_vi": "Đô thị hóa",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "urbanisation",
-          "pos": "n",
-          "ipa_uk": "/ˌɜːbənaɪˈzeɪʃn/",
-          "ipa_us": "/ˌɝːbənəˈzeɪʃn/",
-          "audio_uk": "audio/uk/urbanisation.mp3",
-          "audio_us": "audio/us/urbanisation.mp3",
-          "meaning": "sự đô thị hóa",
-          "example": "Urbanisation has led to rapid growth in big cities.",
-          "example_vi": "Đô thị hóa đã dẫn đến sự phát triển nhanh chóng của các thành phố lớn."
-        },
-        {
-          "word": "urban",
-          "pos": "adj",
-          "ipa_uk": "/ˈɜːbən/",
-          "ipa_us": "/ˈɝːbən/",
-          "audio_uk": "audio/uk/urban.mp3",
-          "audio_us": "audio/us/urban.mp3",
-          "meaning": "thuộc đô thị",
-          "example": "More and more people are moving to urban areas to find work.",
-          "example_vi": "Ngày càng nhiều người chuyển đến các khu vực đô thị để tìm việc làm."
-        },
-        {
-          "word": "rural",
-          "pos": "adj",
-          "ipa_uk": "/ˈrʊərəl/",
-          "ipa_us": "/ˈrʊrəl/",
-          "audio_uk": "audio/uk/rural.mp3",
-          "audio_us": "audio/us/rural.mp3",
-          "meaning": "thuộc nông thôn",
-          "example": "Many young people leave rural areas for big cities.",
-          "example_vi": "Nhiều người trẻ rời bỏ vùng nông thôn để lên các thành phố lớn."
-        },
-        {
-          "word": "agricultural",
-          "pos": "adj",
-          "ipa_uk": "/ˌæɡrɪˈkʌltʃərəl/",
-          "ipa_us": "/ˌæɡrɪˈkʌltʃɚəl/",
-          "audio_uk": "audio/uk/agricultural.mp3",
-          "audio_us": "audio/us/agricultural.mp3",
-          "meaning": "thuộc về nông nghiệp",
-          "example": "Urbanisation has reduced the amount of agricultural land.",
-          "example_vi": "Đô thị hóa đã làm giảm diện tích đất nông nghiệp."
-        },
-        {
-          "word": "slum",
-          "pos": "n",
-          "ipa_uk": "/slʌm/",
-          "ipa_us": "/slʌm/",
-          "audio_uk": "audio/uk/slum.mp3",
-          "audio_us": "audio/us/slum.mp3",
-          "meaning": "khu ổ chuột",
-          "example": "Many migrants end up living in slums on the edge of the city.",
-          "example_vi": "Nhiều người di cư cuối cùng phải sống trong các khu ổ chuột ở rìa thành phố."
-        },
-        {
-          "word": "sanitation",
-          "pos": "n",
-          "ipa_uk": "/ˌsænɪˈteɪʃn/",
-          "ipa_us": "/ˌsænɪˈteɪʃən/",
-          "audio_uk": "audio/uk/sanitation.mp3",
-          "audio_us": "audio/us/sanitation.mp3",
-          "meaning": "hệ thống vệ sinh",
-          "example": "Poor sanitation in slums can cause the spread of diseases.",
-          "example_vi": "Hệ thống vệ sinh kém ở các khu ổ chuột có thể làm lây lan dịch bệnh."
-        },
-        {
-          "word": "overcrowded",
-          "pos": "adj",
-          "ipa_uk": "/ˌəʊvəˈkraʊdɪd/",
-          "ipa_us": "/ˈoʊvɚkraʊdɪd/",
-          "audio_uk": "audio/uk/overcrowded.mp3",
-          "audio_us": "audio/us/overcrowded.mp3",
-          "meaning": "quá đông đúc",
-          "example": "Big cities are becoming overcrowded due to urbanisation.",
-          "example_vi": "Các thành phố lớn đang trở nên quá đông đúc do đô thị hóa."
-        },
-        {
-          "word": "infrastructure",
-          "pos": "n",
-          "ipa_uk": "/ˈɪnfrəstrʌktʃə(r)/",
-          "ipa_us": "/ˌɪnfrəˈstrʌktʃɚ/",
-          "audio_uk": "audio/uk/infrastructure.mp3",
-          "audio_us": "audio/us/infrastructure.mp3",
-          "meaning": "cơ sở hạ tầng",
-          "example": "Rapid urbanisation puts pressure on the city's infrastructure.",
-          "example_vi": "Đô thị hóa nhanh chóng gây áp lực lên cơ sở hạ tầng của thành phố."
-        },
-        {
-          "word": "migrate",
+          "word": "afford",
           "pos": "v",
-          "ipa_uk": "/maɪˈɡreɪt/",
-          "ipa_us": "/ˈmaɪɡreɪt/",
-          "audio_uk": "audio/uk/migrate.mp3",
-          "audio_us": "audio/us/migrate.mp3",
-          "meaning": "di cư",
-          "example": "Many farmers migrate to cities in search of better-paid jobs.",
-          "example_vi": "Nhiều nông dân di cư lên thành phố để tìm kiếm công việc có thu nhập cao hơn."
+          "ipa_uk": "/əˈfɔːd/",
+          "ipa_us": "/əˈfɔːrd/",
+          "meaning": "có đủ tiền, có khả năng chi trả",
+          "example": "Many young people in big cities cannot afford to buy a house.",
+          "example_vi": "Nhiều người trẻ ở các thành phố lớn không đủ tiền mua nhà."
+        },
+        {
+          "word": "colonial",
+          "pos": "adj",
+          "ipa_uk": "/kəˈləʊniəl/",
+          "ipa_us": "/kəˈloʊniəl/",
+          "meaning": "thuộc địa, thuộc dân",
+          "example": "Ha Noi still has many beautiful colonial buildings.",
+          "example_vi": "Hà Nội vẫn còn nhiều toà nhà thời thuộc địa đẹp."
+        },
+        {
+          "word": "concern",
+          "pos": "n",
+          "ipa_uk": "/kənˈsɜːn/",
+          "ipa_us": "/kənˈsɝːn/",
+          "meaning": "sự lo lắng",
+          "example": "Air pollution is a major concern in many big cities.",
+          "example_vi": "Ô nhiễm không khí là một mối lo lắng lớn ở nhiều thành phố lớn."
+        },
+        {
+          "word": "decrease",
+          "pos": "v",
+          "ipa_uk": "/dɪˈkriːs/",
+          "ipa_us": "/dɪˈkriːs/",
+          "meaning": "giảm, hạ xuống",
+          "example": "The number of people living in rural areas has decreased.",
+          "example_vi": "Số người sống ở khu vực nông thôn đã giảm."
+        },
+        {
+          "word": "expand",
+          "pos": "v",
+          "ipa_uk": "/ɪkˈspænd/",
+          "ipa_us": "/ɪkˈspænd/",
+          "meaning": "mở rộng (về diện tích)",
+          "example": "The city has expanded rapidly over the past twenty years.",
+          "example_vi": "Thành phố đã mở rộng nhanh chóng trong hai mươi năm qua."
+        },
+        {
+          "word": "gradually",
+          "pos": "adv",
+          "ipa_uk": "/ˈɡrædʒuəli/",
+          "ipa_us": "/ˈɡrædʒuəli/",
+          "meaning": "dần dần, từ từ",
+          "example": "Rice fields gradually disappeared as the city grew.",
+          "example_vi": "Những cánh đồng lúa dần dần biến mất khi thành phố phát triển."
+        },
+        {
+          "word": "housing",
+          "pos": "n",
+          "ipa_uk": "/ˈhaʊzɪŋ/",
+          "ipa_us": "/ˈhaʊzɪŋ/",
+          "meaning": "nhà ở",
+          "example": "Urbanisation has led to a shortage of affordable housing.",
+          "example_vi": "Đô thị hoá đã dẫn đến tình trạng thiếu nhà ở giá rẻ."
+        },
+        {
+          "word": "leisure",
+          "pos": "n",
+          "ipa_uk": "/ˈleʒə(r)/",
+          "ipa_us": "/ˈliːʒɚ/",
+          "meaning": "sự giải trí, thư giãn",
+          "example": "Cities offer more leisure activities, such as cinemas and shopping centres.",
+          "example_vi": "Các thành phố có nhiều hoạt động giải trí hơn, chẳng hạn như rạp chiếu phim và trung tâm mua sắm."
+        },
+        {
+          "word": "proportion",
+          "pos": "n",
+          "ipa_uk": "/prəˈpɔːʃn/",
+          "ipa_us": "/prəˈpɔːrʃən/",
+          "meaning": "tỉ lệ",
+          "example": "The proportion of people living in cities is increasing every year.",
+          "example_vi": "Tỉ lệ người sống ở thành phố đang tăng lên hằng năm."
+        },
+        {
+          "word": "rapidly",
+          "pos": "adv",
+          "ipa_uk": "/ˈræpɪdli/",
+          "ipa_us": "/ˈræpədli/",
+          "meaning": "rất nhanh, với tốc độ cao",
+          "example": "The population of Ho Chi Minh City is growing rapidly.",
+          "example_vi": "Dân số Thành phố Hồ Chí Minh đang tăng rất nhanh."
+        },
+        {
+          "word": "reliable",
+          "pos": "adj",
+          "ipa_uk": "/rɪˈlaɪəbl/",
+          "ipa_us": "/rɪˈlaɪəbəl/",
+          "meaning": "đáng tin cậy",
+          "example": "Cities need a reliable public transport system.",
+          "example_vi": "Các thành phố cần một hệ thống giao thông công cộng đáng tin cậy."
+        },
+        {
+          "word": "resident",
+          "pos": "n",
+          "ipa_uk": "/ˈrezɪdənt/",
+          "ipa_us": "/ˈrezɪdənt/",
+          "meaning": "người dân",
+          "example": "Local residents complained about the noise from the construction site.",
+          "example_vi": "Người dân địa phương phàn nàn về tiếng ồn từ công trường xây dựng."
+        },
+        {
+          "word": "rush hour",
+          "pos": "n",
+          "ipa_uk": "/ˈrʌʃ aʊə(r)/",
+          "ipa_us": "/ˈrʌʃ ˌaʊɚ/",
+          "meaning": "giờ cao điểm",
+          "example": "The roads are always crowded during rush hour.",
+          "example_vi": "Đường phố luôn đông đúc vào giờ cao điểm."
+        },
+        {
+          "word": "seek",
+          "pos": "v",
+          "ipa_uk": "/siːk/",
+          "ipa_us": "/siːk/",
+          "meaning": "tìm kiếm",
+          "example": "Many people move to the city to seek better job opportunities.",
+          "example_vi": "Nhiều người chuyển đến thành phố để tìm kiếm cơ hội việc làm tốt hơn."
         },
         {
           "word": "unemployment",
           "pos": "n",
           "ipa_uk": "/ˌʌnɪmˈplɔɪmənt/",
           "ipa_us": "/ˌʌnɪmˈplɔɪmənt/",
-          "audio_uk": "audio/uk/unemployment.mp3",
-          "audio_us": "audio/us/unemployment.mp3",
-          "meaning": "tình trạng thất nghiệp",
+          "meaning": "tình trạng thất nghiệp, số người không có việc làm",
           "example": "Rapid urbanisation can lead to high unemployment in cities.",
           "example_vi": "Đô thị hóa nhanh chóng có thể dẫn đến tỉ lệ thất nghiệp cao ở các thành phố."
+        },
+        {
+          "word": "urban",
+          "pos": "adj",
+          "ipa_uk": "/ˈɜːbən/",
+          "ipa_us": "/ˈɝːbən/",
+          "meaning": "thuộc về đô thị",
+          "example": "More and more people are moving to urban areas to find work.",
+          "example_vi": "Ngày càng nhiều người chuyển đến các khu vực đô thị để tìm việc làm."
         }
       ]
     },
@@ -992,118 +955,193 @@
       "unit": 5,
       "title": "The world of work",
       "title_vi": "Thế giới việc làm",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "applicant",
+          "word": "application letter",
           "pos": "n",
-          "ipa_uk": "/ˈæplɪkənt/",
-          "ipa_us": "/ˈæplɪkənt/",
-          "audio_uk": "audio/uk/applicant.mp3",
-          "audio_us": "audio/us/applicant.mp3",
-          "meaning": "người nộp đơn, ứng viên",
-          "example": "Each applicant must send a CV and a cover letter.",
-          "example_vi": "Mỗi người nộp đơn phải gửi sơ yếu lý lịch và thư xin việc."
+          "ipa_uk": "/ˌæplɪˈkeɪʃn letə(r)/",
+          "ipa_us": "/ˌæpləˈkeɪʃən ˌletɚ/",
+          "meaning": "thư xin việc",
+          "example": "You should send your CV together with an application letter.",
+          "example_vi": "Bạn nên gửi sơ yếu lí lịch kèm theo thư xin việc."
         },
         {
-          "word": "candidate",
+          "word": "bonus",
           "pos": "n",
-          "ipa_uk": "/ˈkændɪdət/",
-          "ipa_us": "/ˈkændɪdeɪt/",
-          "audio_uk": "audio/uk/candidate.mp3",
-          "audio_us": "audio/us/candidate.mp3",
-          "meaning": "ứng viên",
-          "example": "The company interviewed five candidates for the position.",
-          "example_vi": "Công ty đã phỏng vấn năm ứng viên cho vị trí này."
+          "ipa_uk": "/ˈbəʊnəs/",
+          "ipa_us": "/ˈboʊnəs/",
+          "meaning": "tiền thưởng",
+          "example": "All staff received a bonus at the end of the year.",
+          "example_vi": "Tất cả nhân viên đều nhận được tiền thưởng vào cuối năm."
         },
         {
-          "word": "colleague",
-          "pos": "n",
-          "ipa_uk": "/ˈkɒliːɡ/",
-          "ipa_us": "/ˈkɑːliɡ/",
-          "audio_uk": "audio/uk/colleague.mp3",
-          "audio_us": "audio/us/colleague.mp3",
-          "meaning": "đồng nghiệp",
-          "example": "She gets on well with her colleagues at work.",
-          "example_vi": "Cô ấy hòa thuận với các đồng nghiệp ở chỗ làm."
-        },
-        {
-          "word": "CV",
-          "pos": "n",
-          "ipa_uk": "/ˌsiː ˈviː/",
-          "ipa_us": "/ˌsiː ˈviː/",
-          "audio_uk": "audio/uk/cv.mp3",
-          "audio_us": "audio/us/cv.mp3",
-          "meaning": "sơ yếu lý lịch",
-          "example": "Make sure your CV is clear and has no spelling mistakes.",
-          "example_vi": "Hãy đảm bảo sơ yếu lý lịch của bạn rõ ràng và không có lỗi chính tả."
-        },
-        {
-          "word": "employer",
-          "pos": "n",
-          "ipa_uk": "/ɪmˈplɔɪə(r)/",
-          "ipa_us": "/ɪmˈplɔɪɚ/",
-          "audio_uk": "audio/uk/employer.mp3",
-          "audio_us": "audio/us/employer.mp3",
-          "meaning": "người sử dụng lao động",
-          "example": "Employers often look for candidates with good teamwork skills.",
-          "example_vi": "Nhà tuyển dụng thường tìm kiếm những ứng viên có kỹ năng làm việc nhóm tốt."
-        },
-        {
-          "word": "employee",
-          "pos": "n",
-          "ipa_uk": "/ɪmˈplɔɪiː/",
-          "ipa_us": "/ɪmˈplɔɪi/",
-          "audio_uk": "audio/uk/employee.mp3",
-          "audio_us": "audio/us/employee.mp3",
-          "meaning": "người lao động, nhân viên",
-          "example": "The company has more than 200 employees.",
-          "example_vi": "Công ty có hơn 200 nhân viên."
-        },
-        {
-          "word": "full-time",
+          "word": "casual",
           "pos": "adj",
-          "ipa_uk": "/ˌfʊl ˈtaɪm/",
-          "ipa_us": "/ˌfʊl ˈtaɪm/",
-          "audio_uk": "audio/uk/full-time.mp3",
-          "audio_us": "audio/us/full-time.mp3",
-          "meaning": "toàn thời gian",
-          "example": "After graduating, she got a full-time job at a bank.",
-          "example_vi": "Sau khi tốt nghiệp, cô ấy có được một công việc toàn thời gian ở ngân hàng."
+          "ipa_uk": "/ˈkæʒuəl/",
+          "ipa_us": "/ˈkæʒwəl/",
+          "meaning": "theo thời vụ, tạm thời",
+          "example": "He got a casual job at a restaurant during the summer holiday.",
+          "example_vi": "Cậu ấy có một công việc thời vụ tại một nhà hàng trong kì nghỉ hè."
+        },
+        {
+          "word": "challenging",
+          "pos": "adj",
+          "ipa_uk": "/ˈtʃælɪndʒɪŋ/",
+          "ipa_us": "/ˈtʃæləndʒɪŋ/",
+          "meaning": "thách thức",
+          "example": "Being a doctor is a challenging but rewarding job.",
+          "example_vi": "Làm bác sĩ là một công việc đầy thách thức nhưng xứng đáng."
+        },
+        {
+          "word": "flexible",
+          "pos": "adj",
+          "ipa_uk": "/ˈfleksəbl/",
+          "ipa_us": "/ˈfleksəbəl/",
+          "meaning": "linh hoạt",
+          "example": "Freelancers enjoy flexible working hours.",
+          "example_vi": "Những người làm nghề tự do được hưởng giờ làm việc linh hoạt."
+        },
+        {
+          "word": "footstep",
+          "pos": "n",
+          "ipa_uk": "/ˈfʊtstep/",
+          "ipa_us": "/ˈfʊtstep/",
+          "meaning": "bước chân; truyền thống gia đình",
+          "example": "She followed in her father's footsteps and became a teacher.",
+          "example_vi": "Cô ấy tiếp bước cha mình và trở thành giáo viên."
+        },
+        {
+          "word": "employ",
+          "pos": "v",
+          "ipa_uk": "/ɪmˈplɔɪ/",
+          "ipa_us": "/ɪmˈplɔɪ/",
+          "meaning": "tuyển dụng",
+          "example": "The company employs more than 500 workers.",
+          "example_vi": "Công ty tuyển dụng hơn 500 công nhân."
+        },
+        {
+          "word": "nine-to-five",
+          "pos": "adj",
+          "ipa_uk": "/ˌnaɪn tə ˈfaɪv/",
+          "ipa_us": "/ˌnaɪn tə ˈfaɪv/",
+          "meaning": "giờ hành chính",
+          "example": "My father has a nine-to-five job at a bank.",
+          "example_vi": "Bố tôi làm công việc giờ hành chính tại một ngân hàng."
+        },
+        {
+          "word": "on-the-job",
+          "pos": "adj",
+          "ipa_uk": "/ˌɒn ðə ˈdʒɒb/",
+          "ipa_us": "/ˌɑːn ðə ˈdʒɑːb/",
+          "meaning": "trong công việc, khi đang làm việc",
+          "example": "New employees receive on-the-job training during their first month.",
+          "example_vi": "Nhân viên mới được đào tạo trong công việc trong tháng đầu tiên."
+        },
+        {
+          "word": "overtime",
+          "pos": "adv",
+          "ipa_uk": "/ˈəʊvətaɪm/",
+          "ipa_us": "/ˈoʊvɚtaɪm/",
+          "meaning": "ngoài giờ",
+          "example": "She often has to work overtime when there are many orders.",
+          "example_vi": "Cô ấy thường phải làm thêm ngoài giờ khi có nhiều đơn hàng."
         },
         {
           "word": "part-time",
           "pos": "adj",
           "ipa_uk": "/ˌpɑːt ˈtaɪm/",
           "ipa_us": "/ˌpɑːrt ˈtaɪm/",
-          "audio_uk": "audio/uk/part-time.mp3",
-          "audio_us": "audio/us/part-time.mp3",
           "meaning": "bán thời gian",
           "example": "Many students have part-time jobs to pay for their studies.",
           "example_vi": "Nhiều sinh viên làm việc bán thời gian để trang trải chi phí học tập."
         },
         {
-          "word": "interview",
-          "pos": "n",
-          "ipa_uk": "/ˈɪntəvjuː/",
-          "ipa_us": "/ˈɪntɚvjuː/",
-          "audio_uk": "audio/uk/interview.mp3",
-          "audio_us": "audio/us/interview.mp3",
-          "meaning": "cuộc phỏng vấn",
-          "example": "I have a job interview at a hotel next Monday.",
-          "example_vi": "Tôi có một buổi phỏng vấn xin việc ở một khách sạn vào thứ Hai tới."
+          "word": "repetitive",
+          "pos": "adj",
+          "ipa_uk": "/rɪˈpetətɪv/",
+          "ipa_us": "/rɪˈpetɪtɪv/",
+          "meaning": "lặp đi lặp lại",
+          "example": "Working on an assembly line can be boring and repetitive.",
+          "example_vi": "Làm việc trên dây chuyền lắp ráp có thể nhàm chán và lặp đi lặp lại."
         },
         {
-          "word": "recruit",
-          "pos": "v",
-          "ipa_uk": "/rɪˈkruːt/",
-          "ipa_us": "/rɪˈkruːt/",
-          "audio_uk": "audio/uk/recruit.mp3",
-          "audio_us": "audio/us/recruit.mp3",
-          "meaning": "tuyển dụng",
-          "example": "The company plans to recruit more young engineers this year.",
-          "example_vi": "Công ty dự định tuyển dụng thêm nhiều kỹ sư trẻ trong năm nay."
+          "word": "rewarding",
+          "pos": "adj",
+          "ipa_uk": "/rɪˈwɔːdɪŋ/",
+          "ipa_us": "/rɪˈwɔːrdɪŋ/",
+          "meaning": "xứng đáng",
+          "example": "Teaching is a rewarding job because you help young people grow.",
+          "example_vi": "Dạy học là một công việc xứng đáng vì bạn giúp người trẻ trưởng thành."
+        },
+        {
+          "word": "shift",
+          "pos": "n",
+          "ipa_uk": "/ʃɪft/",
+          "ipa_us": "/ʃɪft/",
+          "meaning": "ca làm việc",
+          "example": "Nurses at this hospital work in eight-hour shifts.",
+          "example_vi": "Các y tá ở bệnh viện này làm việc theo ca tám tiếng."
+        },
+        {
+          "word": "stressful",
+          "pos": "adj",
+          "ipa_uk": "/ˈstresfl/",
+          "ipa_us": "/ˈstresfəl/",
+          "meaning": "áp lực, căng thẳng",
+          "example": "Working as a journalist can be very stressful.",
+          "example_vi": "Làm nhà báo có thể rất áp lực."
+        },
+        {
+          "word": "unpaid",
+          "pos": "adj",
+          "ipa_uk": "/ˌʌnˈpeɪd/",
+          "ipa_us": "/ənˈpeɪd/",
+          "meaning": "không được trả lương",
+          "example": "She did an unpaid internship to gain work experience.",
+          "example_vi": "Cô ấy đã thực tập không lương để tích luỹ kinh nghiệm làm việc."
+        },
+        {
+          "word": "wage",
+          "pos": "n",
+          "ipa_uk": "/weɪdʒ/",
+          "ipa_us": "/weɪdʒ/",
+          "meaning": "tiền công (trả theo giờ hoặc theo khối lượng công việc)",
+          "example": "The minimum wage has increased this year.",
+          "example_vi": "Mức lương tối thiểu đã tăng trong năm nay."
+        },
+        {
+          "word": "wait on tables",
+          "pos": "phr",
+          "ipa_uk": "/ˌweɪt ɒn ˈteɪblz/",
+          "ipa_us": "/ˌweɪt ɑːn ˈteɪbəlz/",
+          "meaning": "phục vụ đồ ăn thức uống cho khách trong nhà hàng",
+          "example": "He waits on tables at a café to earn extra money.",
+          "example_vi": "Cậu ấy làm phục vụ bàn ở một quán cà phê để kiếm thêm tiền."
+        },
+        {
+          "word": "well-paid",
+          "pos": "adj",
+          "ipa_uk": "/ˌwel ˈpeɪd/",
+          "ipa_us": "/ˌwel ˈpeɪd/",
+          "meaning": "được trả lương cao",
+          "example": "Software engineers usually have well-paid jobs.",
+          "example_vi": "Kĩ sư phần mềm thường có công việc được trả lương cao."
+        },
+        {
+          "word": "vacancy",
+          "pos": "n",
+          "ipa_uk": "/ˈveɪkənsi/",
+          "ipa_us": "/ˈveɪkənsi/",
+          "meaning": "vị trí công việc còn trống",
+          "example": "There are several vacancies for waiters at the new restaurant.",
+          "example_vi": "Nhà hàng mới đang có một số vị trí trống cho nhân viên phục vụ."
         }
       ]
     },
@@ -1111,39 +1149,74 @@
       "unit": 6,
       "title": "Artificial intelligence",
       "title_vi": "Trí tuệ nhân tạo",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "artificial intelligence",
+          "word": "activate",
+          "pos": "v",
+          "ipa_uk": "/ˈæktɪveɪt/",
+          "ipa_us": "/ˈæktəveɪt/",
+          "meaning": "kích hoạt, khởi động",
+          "example": "You can activate the robot by saying its name.",
+          "example_vi": "Bạn có thể kích hoạt rô bốt bằng cách gọi tên nó."
+        },
+        {
+          "word": "advanced",
+          "pos": "adj",
+          "ipa_uk": "/ədˈvɑːnst/",
+          "ipa_us": "/ədˈvænst/",
+          "meaning": "tiên tiến, trình độ cao",
+          "example": "Advanced AI systems can translate languages almost instantly.",
+          "example_vi": "Các hệ thống AI tiên tiến có thể dịch ngôn ngữ gần như ngay lập tức."
+        },
+        {
+          "word": "analyse",
+          "pos": "v",
+          "ipa_uk": "/ˈænəlaɪz/",
+          "ipa_us": "/ˈænəlaɪz/",
+          "meaning": "phân tích",
+          "example": "AI can analyse huge amounts of data in seconds.",
+          "example_vi": "AI có thể phân tích lượng dữ liệu khổng lồ trong vài giây."
+        },
+        {
+          "word": "application",
           "pos": "n",
-          "ipa_uk": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns/",
-          "ipa_us": "/ˌɑːrtəˌfɪʃəl ˌɪnˈtelədʒəns/",
-          "audio_uk": "audio/uk/artificial-intelligence.mp3",
-          "audio_us": "audio/us/artificial-intelligence.mp3",
-          "meaning": "trí tuệ nhân tạo",
+          "ipa_uk": "/ˌæplɪˈkeɪʃn/",
+          "ipa_us": "/ˌæpləˈkeɪʃən/",
+          "meaning": "sự ứng dụng, sự áp dụng",
+          "example": "AI has many applications in healthcare and education.",
+          "example_vi": "AI có nhiều ứng dụng trong y tế và giáo dục."
+        },
+        {
+          "word": "artificial intelligence (AI)",
+          "pos": "n",
+          "ipa_uk": "/ˌɑːtɪfɪʃl ɪnˈtelɪdʒəns (ˌeɪ ˈaɪ)/",
+          "ipa_us": "/ˌɑːrtɪfɪʃəl ɪnˈtelɪdʒəns (ˌeɪ ˈaɪ)/",
+          "meaning": "trí thông minh nhân tạo",
           "example": "Artificial intelligence is changing the way we live and work.",
           "example_vi": "Trí tuệ nhân tạo đang thay đổi cách chúng ta sống và làm việc."
         },
         {
-          "word": "algorithm",
-          "pos": "n",
-          "ipa_uk": "/ˈælɡərɪðəm/",
-          "ipa_us": "/ˈælɡərɪðəm/",
-          "audio_uk": "audio/uk/algorithm.mp3",
-          "audio_us": "audio/us/algorithm.mp3",
-          "meaning": "thuật toán",
-          "example": "Social media apps use algorithms to suggest videos to users.",
-          "example_vi": "Các ứng dụng mạng xã hội sử dụng thuật toán để gợi ý video cho người dùng."
+          "word": "capable",
+          "pos": "adj",
+          "ipa_uk": "/ˈkeɪpəbl/",
+          "ipa_us": "/ˈkeɪpəbəl/",
+          "meaning": "có khả năng",
+          "example": "Some robots are capable of recognising human emotions.",
+          "example_vi": "Một số rô bốt có khả năng nhận biết cảm xúc của con người."
         },
         {
           "word": "chatbot",
           "pos": "n",
           "ipa_uk": "/ˈtʃætbɒt/",
           "ipa_us": "/ˈtʃætbɑːt/",
-          "audio_uk": "audio/uk/chatbot.mp3",
-          "audio_us": "audio/us/chatbot.mp3",
-          "meaning": "chương trình trò chuyện tự động",
+          "meaning": "chatbot, chương trình trò chuyện tự động",
           "example": "Many companies use chatbots to answer customers' questions.",
           "example_vi": "Nhiều công ty sử dụng chatbot để trả lời câu hỏi của khách hàng."
         },
@@ -1152,66 +1225,144 @@
           "pos": "n",
           "ipa_uk": "/ˈdeɪtə/",
           "ipa_us": "/ˈdeɪtə/",
-          "audio_uk": "audio/uk/data.mp3",
-          "audio_us": "audio/us/data.mp3",
           "meaning": "dữ liệu",
           "example": "AI systems need large amounts of data to learn.",
           "example_vi": "Các hệ thống AI cần một lượng lớn dữ liệu để học."
         },
         {
+          "word": "digital",
+          "pos": "adj",
+          "ipa_uk": "/ˈdɪdʒɪtl/",
+          "ipa_us": "/ˈdɪdʒɪtəl/",
+          "meaning": "thuộc kĩ thuật số",
+          "example": "Students are learning to use digital tools in their lessons.",
+          "example_vi": "Học sinh đang học cách sử dụng các công cụ kĩ thuật số trong giờ học."
+        },
+        {
+          "word": "evolution",
+          "pos": "n",
+          "ipa_uk": "/ˌiːvəˈluːʃn/",
+          "ipa_us": "/ˌiːvəˈluːʃən/",
+          "meaning": "sự tiến hoá, sự phát triển",
+          "example": "The evolution of AI has changed many industries.",
+          "example_vi": "Sự phát triển của AI đã thay đổi nhiều ngành công nghiệp."
+        },
+        {
           "word": "facial recognition",
           "pos": "n",
-          "ipa_uk": "/ˌfeɪʃl rekəɡˈnɪʃn/",
+          "ipa_uk": "/ˌfeɪʃl ˌrekəɡˈnɪʃn/",
           "ipa_us": "/ˌfeɪʃəl ˌrekəɡˈnɪʃən/",
-          "audio_uk": "audio/uk/facial-recognition-n.mp3",
-          "audio_us": "audio/us/facial-recognition-n.mp3",
-          "meaning": "nhận diện khuôn mặt",
+          "meaning": "khả năng nhận diện khuôn mặt",
           "example": "My phone uses facial recognition to unlock the screen.",
           "example_vi": "Điện thoại của tôi sử dụng tính năng nhận diện khuôn mặt để mở khóa màn hình."
         },
         {
-          "word": "machine learning",
+          "word": "function",
           "pos": "n",
-          "ipa_uk": "/məˈʃiːn lɜːnɪŋ/",
-          "ipa_us": "/məˈʃiːn ˌlɝːnɪŋ/",
-          "audio_uk": "audio/uk/machine-learning.mp3",
-          "audio_us": "audio/us/machine-learning.mp3",
-          "meaning": "học máy",
-          "example": "Machine learning allows computers to improve from experience.",
-          "example_vi": "Học máy cho phép máy tính tự cải thiện dựa trên kinh nghiệm."
+          "ipa_uk": "/ˈfʌŋkʃn/",
+          "ipa_us": "/ˈfʌŋkʃən/",
+          "meaning": "chức năng, nhiệm vụ",
+          "example": "This smartphone has a voice translation function.",
+          "example_vi": "Chiếc điện thoại thông minh này có chức năng dịch giọng nói."
         },
         {
-          "word": "robot",
-          "pos": "n",
-          "ipa_uk": "/ˈrəʊbɒt/",
-          "ipa_us": "/ˈroʊbɑːt/",
-          "audio_uk": "audio/uk/robot.mp3",
-          "audio_us": "audio/us/robot.mp3",
-          "meaning": "người máy",
-          "example": "In the future, robots may do many household chores for us.",
-          "example_vi": "Trong tương lai, người máy có thể làm nhiều việc nhà thay chúng ta."
+          "word": "hands-on",
+          "pos": "adj",
+          "ipa_uk": "/ˌhændz ˈɒn/",
+          "ipa_us": "/ˌhændz ˈɑːn/",
+          "meaning": "thực tiễn, trực tiếp",
+          "example": "The course gives students hands-on experience with robots.",
+          "example_vi": "Khoá học mang lại cho học sinh trải nghiệm thực tế với rô bốt."
         },
         {
-          "word": "virtual assistant",
-          "pos": "n",
-          "ipa_uk": "/ˌvɜːtʃuəl əˈsɪstənt/",
-          "ipa_us": "/ˌvɝːtʃuəl əˈsɪstənt/",
-          "audio_uk": "audio/uk/virtual-assistant.mp3",
-          "audio_us": "audio/us/virtual-assistant.mp3",
-          "meaning": "trợ lý ảo",
-          "example": "I asked my virtual assistant to set an alarm for 6 a.m.",
-          "example_vi": "Tôi đã nhờ trợ lý ảo đặt báo thức lúc 6 giờ sáng."
+          "word": "human-like",
+          "pos": "adj",
+          "ipa_uk": "/ˈhjuːmən laɪk/",
+          "ipa_us": "/ˈhjuːmən laɪk/",
+          "meaning": "giống con người",
+          "example": "The robot can talk with a human-like voice.",
+          "example_vi": "Rô bốt có thể nói chuyện bằng giọng giống con người."
         },
         {
-          "word": "automate",
+          "word": "interact",
           "pos": "v",
-          "ipa_uk": "/ˈɔːtəmeɪt/",
-          "ipa_us": "/ˈɑːtəmeɪt/",
-          "audio_uk": "audio/uk/automate.mp3",
-          "audio_us": "audio/us/automate.mp3",
-          "meaning": "tự động hóa",
-          "example": "Many factories have automated their production lines.",
-          "example_vi": "Nhiều nhà máy đã tự động hóa dây chuyền sản xuất."
+          "ipa_uk": "/ˌɪntərˈækt/",
+          "ipa_us": "/ˌɪntəˈrækt/",
+          "meaning": "tương tác",
+          "example": "Children can interact with the AI teacher by asking questions.",
+          "example_vi": "Trẻ em có thể tương tác với giáo viên AI bằng cách đặt câu hỏi."
+        },
+        {
+          "word": "personalised",
+          "pos": "adj",
+          "ipa_uk": "/ˈpɜːsənəlaɪzd/",
+          "ipa_us": "/ˈpɝːsənəlaɪzd/",
+          "meaning": "được cá nhân hoá",
+          "example": "AI apps can create personalised learning plans for each student.",
+          "example_vi": "Các ứng dụng AI có thể tạo ra kế hoạch học tập được cá nhân hoá cho từng học sinh."
+        },
+        {
+          "word": "platform",
+          "pos": "n",
+          "ipa_uk": "/ˈplætfɔːm/",
+          "ipa_us": "/ˈplætfɔːrm/",
+          "meaning": "nền tảng (công nghệ)",
+          "example": "This online platform uses AI to help students learn English.",
+          "example_vi": "Nền tảng trực tuyến này sử dụng AI để giúp học sinh học tiếng Anh."
+        },
+        {
+          "word": "portfolio",
+          "pos": "n",
+          "ipa_uk": "/pɔːtˈfəʊliəʊ/",
+          "ipa_us": "/pɔːrtˈfoʊlioʊ/",
+          "meaning": "hồ sơ",
+          "example": "She keeps all her best projects in a digital portfolio.",
+          "example_vi": "Cô ấy lưu tất cả những dự án tốt nhất của mình trong một hồ sơ kĩ thuật số."
+        },
+        {
+          "word": "programme",
+          "pos": "v",
+          "ipa_uk": "/ˈprəʊɡræm/",
+          "ipa_us": "/ˈproʊɡræm/",
+          "meaning": "lập trình",
+          "example": "Engineers programmed the robot to clean the floor.",
+          "example_vi": "Các kĩ sư đã lập trình cho rô bốt lau sàn nhà."
+        },
+        {
+          "word": "robotic",
+          "pos": "adj",
+          "ipa_uk": "/rəʊˈbɒtɪk/",
+          "ipa_us": "/ˌroʊˈbɑːtɪk/",
+          "meaning": "thuộc rô bốt",
+          "example": "Robotic arms are used in many car factories.",
+          "example_vi": "Cánh tay rô bốt được sử dụng trong nhiều nhà máy ô tô."
+        },
+        {
+          "word": "upgrade",
+          "pos": "v",
+          "ipa_uk": "/ˌʌpˈɡreɪd/",
+          "ipa_us": "/əpˈɡreɪd/",
+          "meaning": "nâng cấp",
+          "example": "You should upgrade the software to get the new AI features.",
+          "example_vi": "Bạn nên nâng cấp phần mềm để có các tính năng AI mới."
+        },
+        {
+          "word": "virtual reality",
+          "pos": "n",
+          "ipa_uk": "/ˌvɜːtʃuəl riˈæləti/",
+          "ipa_us": "/ˌvɝːtʃuəl ˌriːˈælətiː/",
+          "meaning": "thực tế ảo",
+          "example": "Virtual reality allows students to visit museums without leaving the classroom.",
+          "example_vi": "Thực tế ảo cho phép học sinh tham quan bảo tàng mà không cần rời lớp học."
+        },
+        {
+          "word": "voice command",
+          "pos": "n",
+          "ipa_uk": "/ˈvɔɪs kəmɑːnd/",
+          "ipa_us": "/ˈvɔɪs kəˌmænd/",
+          "meaning": "ra lệnh bằng giọng nói",
+          "example": "You can turn on the lights with a simple voice command.",
+          "example_vi": "Bạn có thể bật đèn bằng một câu lệnh giọng nói đơn giản."
         }
       ]
     },
@@ -1219,107 +1370,283 @@
       "unit": 7,
       "title": "The world of mass media",
       "title_vi": "Thế giới truyền thông đại chúng",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "mass media",
-          "pos": "n",
-          "ipa_uk": "/ˌmæs ˈmiːdiə/",
-          "ipa_us": "/ˌmæs ˈmiːdiə/",
-          "audio_uk": "audio/uk/mass-media.mp3",
-          "audio_us": "audio/us/mass-media.mp3",
-          "meaning": "phương tiện truyền thông đại chúng",
-          "example": "The mass media has a strong influence on public opinion.",
-          "example_vi": "Phương tiện truyền thông đại chúng có ảnh hưởng mạnh mẽ đến dư luận."
+          "word": "accessible",
+          "pos": "adj",
+          "ipa_uk": "/əkˈsesəbl/",
+          "ipa_us": "/ækˈsesəbəl/",
+          "meaning": "có thể tiếp cận được",
+          "example": "The Internet has made news accessible to everyone.",
+          "example_vi": "Internet đã giúp mọi người đều có thể tiếp cận tin tức."
         },
         {
-          "word": "audience",
+          "word": "account for",
+          "pos": "phr v",
+          "ipa_uk": "/əˈkaʊnt fɔː(r)/",
+          "ipa_us": "/əˈkaʊnt fɔːr/",
+          "meaning": "chiếm (tỉ lệ)",
+          "example": "Online advertising accounts for a large share of the market.",
+          "example_vi": "Quảng cáo trực tuyến chiếm một phần lớn của thị trường."
+        },
+        {
+          "word": "advert",
           "pos": "n",
-          "ipa_uk": "/ˈɔːdiəns/",
-          "ipa_us": "/ˈɑːdiəns/",
-          "audio_uk": "audio/uk/audience.mp3",
-          "audio_us": "audio/us/audience.mp3",
-          "meaning": "khán giả, độc giả",
-          "example": "The TV show attracts a large audience every week.",
-          "example_vi": "Chương trình truyền hình này thu hút đông đảo khán giả mỗi tuần."
+          "ipa_uk": "/ˈædvɜːt/",
+          "ipa_us": "/ˈædvɚt/",
+          "meaning": "quảng cáo",
+          "example": "I saw an advert for a new phone on TV last night.",
+          "example_vi": "Tối qua tôi đã xem một quảng cáo điện thoại mới trên ti vi."
+        },
+        {
+          "word": "as opposed to",
+          "pos": "phr",
+          "ipa_uk": "/æz əˈpəʊzd tuː/",
+          "ipa_us": "/æz əˈpoʊzd tuː/",
+          "meaning": "khác với, đối lập với",
+          "example": "Young people prefer online news as opposed to newspapers.",
+          "example_vi": "Giới trẻ thích tin tức trực tuyến hơn, khác với báo in."
+        },
+        {
+          "word": "audio",
+          "pos": "adj",
+          "ipa_uk": "/ˈɔːdiəʊ/",
+          "ipa_us": "/ˈɑːdioʊ/",
+          "meaning": "bằng/có âm thanh",
+          "example": "Podcasts are a popular form of audio entertainment.",
+          "example_vi": "Podcast là một hình thức giải trí bằng âm thanh phổ biến."
+        },
+        {
+          "word": "bias",
+          "pos": "n",
+          "ipa_uk": "/ˈbaɪəs/",
+          "ipa_us": "/ˈbaɪəs/",
+          "meaning": "thiên kiến, thiên vị",
+          "example": "A good journalist should report the news without bias.",
+          "example_vi": "Một nhà báo giỏi nên đưa tin mà không thiên vị."
         },
         {
           "word": "broadcast",
-          "pos": "v",
+          "pos": "n",
           "ipa_uk": "/ˈbrɔːdkɑːst/",
           "ipa_us": "/ˈbrɑːdkæst/",
-          "audio_uk": "audio/uk/broadcast.mp3",
-          "audio_us": "audio/us/broadcast.mp3",
-          "meaning": "phát sóng",
+          "meaning": "(chương trình) phát sóng",
           "example": "The football match will be broadcast live on national TV.",
           "example_vi": "Trận bóng đá sẽ được truyền hình trực tiếp trên kênh truyền hình quốc gia."
         },
         {
-          "word": "journalist",
+          "word": "by contrast",
+          "pos": "phr",
+          "ipa_uk": "/baɪ ˈkɒntrɑːst/",
+          "ipa_us": "/baɪ ˈkɑːntræst/",
+          "meaning": "ngược lại",
+          "example": "Newspapers take time to print; by contrast, online news is instant.",
+          "example_vi": "Báo in cần thời gian để in; ngược lại, tin tức trực tuyến có ngay lập tức."
+        },
+        {
+          "word": "credible",
+          "pos": "adj",
+          "ipa_uk": "/ˈkredəbl/",
+          "ipa_us": "/ˈkredəbəl/",
+          "meaning": "đáng tin cậy",
+          "example": "Always check whether your news source is credible.",
+          "example_vi": "Hãy luôn kiểm tra xem nguồn tin của bạn có đáng tin cậy không."
+        },
+        {
+          "word": "digital billboard",
           "pos": "n",
-          "ipa_uk": "/ˈdʒɜːnəlɪst/",
-          "ipa_us": "/ˈdʒɝːnəlɪst/",
-          "audio_uk": "audio/uk/journalist.mp3",
-          "audio_us": "audio/us/journalist.mp3",
-          "meaning": "nhà báo",
-          "example": "The journalist interviewed many people for her report.",
-          "example_vi": "Nhà báo đã phỏng vấn nhiều người cho bài phóng sự của mình."
+          "ipa_uk": "/ˌdɪdʒɪtl ˈbɪlbɔːd/",
+          "ipa_us": "/ˌdɪdʒɪtəl ˈbɪlbɔːrd/",
+          "meaning": "bảng quảng cáo kĩ thuật số",
+          "example": "Digital billboards can show different adverts throughout the day.",
+          "example_vi": "Bảng quảng cáo kĩ thuật số có thể hiển thị nhiều quảng cáo khác nhau trong ngày."
+        },
+        {
+          "word": "discount",
+          "pos": "n",
+          "ipa_uk": "/ˈdɪskaʊnt/",
+          "ipa_us": "/ˈdɪskaʊnt/",
+          "meaning": "sự hạ giá",
+          "example": "The shop is offering a 20% discount on all books this week.",
+          "example_vi": "Cửa hàng đang giảm giá 20% cho tất cả sách trong tuần này."
+        },
+        {
+          "word": "distribute",
+          "pos": "v",
+          "ipa_uk": "/dɪˈstrɪbjuːt/",
+          "ipa_us": "/dɪˈstrɪbjuːt/",
+          "meaning": "phân phát, phân phối",
+          "example": "Volunteers distributed leaflets about the campaign in the street.",
+          "example_vi": "Các tình nguyện viên phân phát tờ rơi về chiến dịch trên đường phố."
+        },
+        {
+          "word": "fact-check",
+          "pos": "v",
+          "ipa_uk": "/ˈfækt tʃek/",
+          "ipa_us": "/ˈfækt tʃek/",
+          "meaning": "kiểm chứng thông tin",
+          "example": "You should fact-check information before sharing it online.",
+          "example_vi": "Bạn nên kiểm chứng thông tin trước khi chia sẻ lên mạng."
         },
         {
           "word": "fake news",
           "pos": "n",
           "ipa_uk": "/ˌfeɪk ˈnjuːz/",
           "ipa_us": "/ˌfeɪk ˈnuːz/",
-          "audio_uk": "audio/uk/fake-news.mp3",
-          "audio_us": "audio/us/fake-news.mp3",
-          "meaning": "tin giả",
+          "meaning": "tin giả, tin bịa đặt",
           "example": "Fake news spreads very quickly on social media.",
           "example_vi": "Tin giả lan truyền rất nhanh trên mạng xã hội."
         },
         {
-          "word": "advertisement",
-          "pos": "n",
-          "ipa_uk": "/ədˈvɜːtɪsmənt/",
-          "ipa_us": "/ædˈvɝːtəzmənt/",
-          "audio_uk": "audio/uk/advertisement.mp3",
-          "audio_us": "audio/us/advertisement.mp3",
-          "meaning": "quảng cáo",
-          "example": "Advertisements on TV often target young people.",
-          "example_vi": "Quảng cáo trên truyền hình thường nhắm vào giới trẻ."
+          "word": "instant",
+          "pos": "adj",
+          "ipa_uk": "/ˈɪnstənt/",
+          "ipa_us": "/ˈɪnstənt/",
+          "meaning": "nhanh chóng, ngay lập tức",
+          "example": "Social media provides instant updates on breaking news.",
+          "example_vi": "Mạng xã hội cung cấp thông tin cập nhật ngay lập tức về tin nóng."
         },
         {
-          "word": "podcast",
-          "pos": "n",
-          "ipa_uk": "/ˈpɒdkɑːst/",
-          "ipa_us": "/ˈpɑːdkæst/",
-          "audio_uk": "audio/uk/podcast.mp3",
-          "audio_us": "audio/us/podcast.mp3",
-          "meaning": "chương trình phát thanh trực tuyến",
-          "example": "I listen to an English podcast on my way to school.",
-          "example_vi": "Tôi nghe một chương trình podcast tiếng Anh trên đường đến trường."
+          "word": "interactive",
+          "pos": "adj",
+          "ipa_uk": "/ˌɪntərˈæktɪv/",
+          "ipa_us": "/ˌɪntəˈræktɪv/",
+          "meaning": "có thể tương tác được",
+          "example": "Interactive websites allow readers to comment and share their opinions.",
+          "example_vi": "Các trang web có tính tương tác cho phép độc giả bình luận và chia sẻ ý kiến."
         },
         {
-          "word": "publish",
+          "word": "loudspeaker",
+          "pos": "n",
+          "ipa_uk": "/ˌlaʊdˈspiːkə(r)/",
+          "ipa_us": "/ˈlaʊdspiːkɚ/",
+          "meaning": "loa phát thanh",
+          "example": "In the past, villagers listened to the news from the loudspeaker.",
+          "example_vi": "Trước đây, dân làng nghe tin tức từ loa phát thanh."
+        },
+        {
+          "word": "mass media",
+          "pos": "n",
+          "ipa_uk": "/ˌmæs ˈmiːdiə/",
+          "ipa_us": "/ˌmæs ˈmiːdiə/",
+          "meaning": "phương tiện truyền thông đại chúng",
+          "example": "The mass media has a strong influence on public opinion.",
+          "example_vi": "Phương tiện truyền thông đại chúng có ảnh hưởng mạnh mẽ đến dư luận."
+        },
+        {
+          "word": "meanwhile",
+          "pos": "adv",
+          "ipa_uk": "/ˈmiːnwaɪl/",
+          "ipa_us": "/ˈmiːnwaɪl/",
+          "meaning": "trong khi đó",
+          "example": "TV is losing viewers; meanwhile, online videos are becoming more popular.",
+          "example_vi": "Truyền hình đang mất dần người xem; trong khi đó, video trực tuyến ngày càng phổ biến."
+        },
+        {
+          "word": "place",
           "pos": "v",
-          "ipa_uk": "/ˈpʌblɪʃ/",
-          "ipa_us": "/ˈpʌblɪʃ/",
-          "audio_uk": "audio/uk/publish.mp3",
-          "audio_us": "audio/us/publish.mp3",
-          "meaning": "xuất bản, đăng tải",
-          "example": "The newspaper published an article about the floods.",
-          "example_vi": "Tờ báo đã đăng một bài viết về trận lũ lụt."
+          "ipa_uk": "/pleɪs/",
+          "ipa_us": "/pleɪs/",
+          "meaning": "đặt, rao, đăng (tin, quảng cáo)",
+          "example": "The company placed an advert in the local newspaper.",
+          "example_vi": "Công ty đã đăng một quảng cáo trên tờ báo địa phương."
         },
         {
-          "word": "social media",
+          "word": "presence",
           "pos": "n",
-          "ipa_uk": "/ˌsəʊʃl ˈmiːdiə/",
-          "ipa_us": "/ˌsoʊʃəl ˈmiːdiə/",
-          "audio_uk": "audio/uk/social-media.mp3",
-          "audio_us": "audio/us/social-media.mp3",
-          "meaning": "mạng xã hội",
-          "example": "Teenagers spend several hours a day on social media.",
-          "example_vi": "Thanh thiếu niên dành vài giờ mỗi ngày trên mạng xã hội."
+          "ipa_uk": "/ˈprezns/",
+          "ipa_us": "/ˈprezəns/",
+          "meaning": "sức thu hút, sức ảnh hưởng",
+          "example": "The brand has a strong presence on social media.",
+          "example_vi": "Thương hiệu có sức ảnh hưởng lớn trên mạng xã hội."
+        },
+        {
+          "word": "profit-making",
+          "pos": "adj",
+          "ipa_uk": "/ˈprɒfɪt meɪkɪŋ/",
+          "ipa_us": "/ˈprɑːfɪt ˌmeɪkɪŋ/",
+          "meaning": "tạo lợi nhuận",
+          "example": "Most TV channels are profit-making businesses.",
+          "example_vi": "Hầu hết các kênh truyền hình là doanh nghiệp tạo lợi nhuận."
+        },
+        {
+          "word": "publicity",
+          "pos": "n",
+          "ipa_uk": "/pʌbˈlɪsəti/",
+          "ipa_us": "/pəˈblɪsəti/",
+          "meaning": "sự quan tâm, chú ý của công chúng",
+          "example": "The film received a lot of publicity before its release.",
+          "example_vi": "Bộ phim nhận được nhiều sự chú ý của công chúng trước khi ra mắt."
+        },
+        {
+          "word": "reliable",
+          "pos": "adj",
+          "ipa_uk": "/rɪˈlaɪəbl/",
+          "ipa_us": "/rɪˈlaɪəbəl/",
+          "meaning": "xác thực",
+          "example": "Make sure the information comes from a reliable source.",
+          "example_vi": "Hãy đảm bảo thông tin đến từ một nguồn xác thực."
+        },
+        {
+          "word": "source",
+          "pos": "n",
+          "ipa_uk": "/sɔːs/",
+          "ipa_us": "/sɔːrs/",
+          "meaning": "nguồn tin",
+          "example": "Newspapers are still an important source of information for older people.",
+          "example_vi": "Báo in vẫn là một nguồn tin quan trọng đối với người lớn tuổi."
+        },
+        {
+          "word": "spread",
+          "pos": "v",
+          "ipa_uk": "/spred/",
+          "ipa_us": "/spred/",
+          "meaning": "lan truyền",
+          "example": "Fake news can spread quickly on social media.",
+          "example_vi": "Tin giả có thể lan truyền nhanh chóng trên mạng xã hội."
+        },
+        {
+          "word": "the press",
+          "pos": "n",
+          "ipa_uk": "/ðə ˈpres/",
+          "ipa_us": "/ðə ˈpres/",
+          "meaning": "báo chí",
+          "example": "The press plays an important role in informing the public.",
+          "example_vi": "Báo chí đóng vai trò quan trọng trong việc cung cấp thông tin cho công chúng."
+        },
+        {
+          "word": "update",
+          "pos": "v",
+          "ipa_uk": "/ˌʌpˈdeɪt/",
+          "ipa_us": "/əpˈdeɪt/",
+          "meaning": "cập nhật",
+          "example": "News websites are updated every few minutes.",
+          "example_vi": "Các trang tin tức được cập nhật vài phút một lần."
+        },
+        {
+          "word": "viewer",
+          "pos": "n",
+          "ipa_uk": "/ˈvjuːə(r)/",
+          "ipa_us": "/ˈvjuːɚ/",
+          "meaning": "người xem",
+          "example": "The TV show attracted millions of viewers.",
+          "example_vi": "Chương trình truyền hình đã thu hút hàng triệu người xem."
+        },
+        {
+          "word": "visual",
+          "pos": "adj",
+          "ipa_uk": "/ˈvɪʒuəl/",
+          "ipa_us": "/ˈvɪʒəwəl/",
+          "meaning": "bằng/có hình ảnh",
+          "example": "Visual media, such as TV and videos, attract young audiences.",
+          "example_vi": "Các phương tiện truyền thông bằng hình ảnh như truyền hình và video thu hút khán giả trẻ."
         }
       ]
     },
@@ -1327,39 +1654,101 @@
       "unit": 8,
       "title": "Wildlife conservation",
       "title_vi": "Bảo tồn động vật hoang dã",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "wildlife",
+          "word": "body part",
           "pos": "n",
-          "ipa_uk": "/ˈwaɪldlaɪf/",
-          "ipa_us": "/ˈwaɪldlaɪf/",
-          "audio_uk": "audio/uk/wildlife.mp3",
-          "audio_us": "audio/us/wildlife.mp3",
-          "meaning": "động vật hoang dã",
-          "example": "Illegal hunting is a serious threat to wildlife.",
-          "example_vi": "Săn bắt trái phép là mối đe dọa nghiêm trọng đối với động vật hoang dã."
+          "ipa_uk": "/ˈbɒdi pɑːt/",
+          "ipa_us": "/ˈbɑːdi pɑːrt/",
+          "meaning": "bộ phận cơ thể",
+          "example": "Rhinos are hunted for their body parts, especially their horns.",
+          "example_vi": "Tê giác bị săn bắt để lấy các bộ phận cơ thể, đặc biệt là sừng."
+        },
+        {
+          "word": "captivity",
+          "pos": "n",
+          "ipa_uk": "/kæpˈtɪvəti/",
+          "ipa_us": "/kæpˈtɪvəti/",
+          "meaning": "sự nuôi nhốt",
+          "example": "Animals kept in captivity often show signs of stress.",
+          "example_vi": "Động vật bị nuôi nhốt thường có dấu hiệu căng thẳng."
         },
         {
           "word": "conservation",
           "pos": "n",
           "ipa_uk": "/ˌkɒnsəˈveɪʃn/",
           "ipa_us": "/ˌkɑːnsɚˈveɪʃən/",
-          "audio_uk": "audio/uk/conservation.mp3",
-          "audio_us": "audio/us/conservation.mp3",
-          "meaning": "sự bảo tồn",
+          "meaning": "sự bảo vệ, sự bảo tồn",
           "example": "Wildlife conservation requires cooperation between governments and local people.",
           "example_vi": "Bảo tồn động vật hoang dã đòi hỏi sự hợp tác giữa chính phủ và người dân địa phương."
+        },
+        {
+          "word": "conserve",
+          "pos": "v",
+          "ipa_uk": "/kənˈsɜːv/",
+          "ipa_us": "/kənˈsɝːv/",
+          "meaning": "bảo vệ, bảo tồn",
+          "example": "We must work together to conserve endangered species.",
+          "example_vi": "Chúng ta phải cùng nhau bảo tồn các loài có nguy cơ tuyệt chủng."
+        },
+        {
+          "word": "coral",
+          "pos": "n",
+          "ipa_uk": "/ˈkɒrəl/",
+          "ipa_us": "/ˈkɔːrəl/",
+          "meaning": "san hô",
+          "example": "Rising sea temperatures are killing coral around the world.",
+          "example_vi": "Nhiệt độ nước biển tăng đang giết chết san hô trên khắp thế giới."
+        },
+        {
+          "word": "critically endangered",
+          "pos": "adj",
+          "ipa_uk": "/ˌkrɪtɪkli ɪnˈdeɪndʒəd/",
+          "ipa_us": "/ˌkrɪtɪkli ɪnˈdeɪndʒɚd/",
+          "meaning": "bị đe doạ nghiêm trọng",
+          "example": "The saola is critically endangered, with very few left in the wild.",
+          "example_vi": "Sao la là loài bị đe doạ nghiêm trọng, chỉ còn rất ít cá thể ngoài tự nhiên."
+        },
+        {
+          "word": "debris",
+          "pos": "n",
+          "ipa_uk": "/ˈdebriː/",
+          "ipa_us": "/dəˈbriː/",
+          "meaning": "mảnh vỡ, mảnh vụn",
+          "example": "Plastic debris in the ocean harms sea turtles and fish.",
+          "example_vi": "Mảnh vụn nhựa trong đại dương gây hại cho rùa biển và cá."
+        },
+        {
+          "word": "degrade",
+          "pos": "v",
+          "ipa_uk": "/dɪˈɡreɪd/",
+          "ipa_us": "/dɪˈɡreɪd/",
+          "meaning": "xuống cấp",
+          "example": "Pollution has degraded many coral reefs.",
+          "example_vi": "Ô nhiễm đã làm xuống cấp nhiều rạn san hô."
+        },
+        {
+          "word": "enclosure",
+          "pos": "n",
+          "ipa_uk": "/ɪnˈkləʊʒə(r)/",
+          "ipa_us": "/ɪnˈkloʊʒɚ/",
+          "meaning": "chuồng thú",
+          "example": "The rescued bears live in a large enclosure at the centre.",
+          "example_vi": "Những con gấu được giải cứu sống trong một chuồng lớn tại trung tâm."
         },
         {
           "word": "endangered",
           "pos": "adj",
           "ipa_uk": "/ɪnˈdeɪndʒəd/",
           "ipa_us": "/ɪnˈdeɪndʒɚd/",
-          "audio_uk": "audio/uk/endangered.mp3",
-          "audio_us": "audio/us/endangered.mp3",
-          "meaning": "có nguy cơ tuyệt chủng",
+          "meaning": "có nguy cơ tuyệt chủng, bị đe dọa",
           "example": "The saola is one of the most endangered animals in Viet Nam.",
           "example_vi": "Sao la là một trong những loài động vật có nguy cơ tuyệt chủng cao nhất ở Việt Nam."
         },
@@ -1368,77 +1757,162 @@
           "pos": "adj",
           "ipa_uk": "/ɪkˈstɪŋkt/",
           "ipa_us": "/ɪkˈstɪŋkt/",
-          "audio_uk": "audio/uk/extinct.mp3",
-          "audio_us": "audio/us/extinct.mp3",
           "meaning": "tuyệt chủng",
           "example": "The Javan rhino was declared extinct in Viet Nam in 2011.",
           "example_vi": "Tê giác Java đã được tuyên bố tuyệt chủng ở Việt Nam vào năm 2011."
         },
         {
-          "word": "habitat",
+          "word": "forest clearance",
           "pos": "n",
-          "ipa_uk": "/ˈhæbɪtæt/",
-          "ipa_us": "/ˈhæbətæt/",
-          "audio_uk": "audio/uk/habitat.mp3",
-          "audio_us": "audio/us/habitat.mp3",
-          "meaning": "môi trường sống",
-          "example": "Many animals are losing their habitat because of deforestation.",
-          "example_vi": "Nhiều loài động vật đang mất đi môi trường sống do nạn phá rừng."
+          "ipa_uk": "/ˈfɒrɪst ˌklɪərəns/",
+          "ipa_us": "/ˈfɔːrɪst ˌklɪrəns/",
+          "meaning": "sự chặt, phá rừng",
+          "example": "Forest clearance is destroying the habitats of many animals.",
+          "example_vi": "Việc chặt phá rừng đang phá huỷ môi trường sống của nhiều loài động vật."
         },
         {
-          "word": "poaching",
-          "pos": "n",
-          "ipa_uk": "/ˈpəʊtʃɪŋ/",
-          "ipa_us": "/ˈpoʊtʃɪŋ/",
-          "audio_uk": "audio/uk/poaching.mp3",
-          "audio_us": "audio/us/poaching.mp3",
-          "meaning": "sự săn trộm",
-          "example": "Poaching has caused a sharp fall in the number of elephants.",
-          "example_vi": "Nạn săn trộm đã khiến số lượng voi sụt giảm mạnh."
+          "word": "house",
+          "pos": "v",
+          "ipa_uk": "/haʊz/",
+          "ipa_us": "/haʊs/",
+          "meaning": "cung cấp nơi ở",
+          "example": "The centre houses more than 100 rescued primates.",
+          "example_vi": "Trung tâm là nơi ở của hơn 100 cá thể linh trưởng được giải cứu."
         },
         {
-          "word": "poacher",
+          "word": "mammal",
           "pos": "n",
-          "ipa_uk": "/ˈpəʊtʃə(r)/",
-          "ipa_us": "/ˈpoʊtʃɚ/",
-          "audio_uk": "audio/uk/poacher.mp3",
-          "audio_us": "audio/us/poacher.mp3",
-          "meaning": "kẻ săn trộm",
-          "example": "The poachers were arrested for killing rhinos for their horns.",
-          "example_vi": "Những kẻ săn trộm đã bị bắt vì giết tê giác để lấy sừng."
+          "ipa_uk": "/ˈmæml/",
+          "ipa_us": "/ˈmæməl/",
+          "meaning": "động vật có vú",
+          "example": "Elephants are the largest land mammals in the world.",
+          "example_vi": "Voi là loài động vật có vú lớn nhất trên cạn."
         },
         {
-          "word": "species",
-          "pos": "n",
-          "ipa_uk": "/ˈspiːʃiːz/",
-          "ipa_us": "/ˈspiːʃiz/",
-          "audio_uk": "audio/uk/species.mp3",
-          "audio_us": "audio/us/species.mp3",
-          "meaning": "loài",
-          "example": "Many species are in danger of extinction because of habitat loss.",
-          "example_vi": "Nhiều loài đang có nguy cơ tuyệt chủng do mất môi trường sống."
-        },
-        {
-          "word": "captivity",
-          "pos": "n",
-          "ipa_uk": "/kæpˈtɪvəti/",
-          "ipa_us": "/kæpˈtɪvəti/",
-          "audio_uk": "audio/uk/captivity.mp3",
-          "audio_us": "audio/us/captivity.mp3",
-          "meaning": "tình trạng bị nuôi nhốt",
-          "example": "Animals kept in captivity often show signs of stress.",
-          "example_vi": "Động vật bị nuôi nhốt thường có dấu hiệu căng thẳng."
-        },
-        {
-          "word": "illegal",
+          "word": "marine",
           "pos": "adj",
-          "ipa_uk": "/ɪˈliːɡl/",
-          "ipa_us": "/ˌɪˈliːɡəl/",
-          "audio_uk": "audio/uk/illegal.mp3",
-          "audio_us": "audio/us/illegal.mp3",
-          "meaning": "bất hợp pháp",
-          "example": "It is illegal to buy or sell products made from endangered animals.",
-          "example_vi": "Mua bán các sản phẩm làm từ động vật có nguy cơ tuyệt chủng là bất hợp pháp."
+          "ipa_uk": "/məˈriːn/",
+          "ipa_us": "/məˈriːn/",
+          "meaning": "thuộc về biển",
+          "example": "Many marine animals are threatened by plastic pollution.",
+          "example_vi": "Nhiều loài động vật biển đang bị đe doạ bởi ô nhiễm nhựa."
+        },
+        {
+          "word": "monitor",
+          "pos": "v",
+          "ipa_uk": "/ˈmɒnɪtə(r)/",
+          "ipa_us": "/ˈmɑːnətɚ/",
+          "meaning": "giám sát",
+          "example": "Scientists use cameras to monitor wild animals in the forest.",
+          "example_vi": "Các nhà khoa học sử dụng máy quay để giám sát động vật hoang dã trong rừng."
+        },
+        {
+          "word": "nursery",
+          "pos": "n",
+          "ipa_uk": "/ˈnɜːsəri/",
+          "ipa_us": "/ˈnɝːsɚi/",
+          "meaning": "vườn ươm",
+          "example": "The coral nursery helps damaged reefs recover.",
+          "example_vi": "Vườn ươm san hô giúp các rạn san hô bị hư hại phục hồi."
+        },
+        {
+          "word": "poach",
+          "pos": "v",
+          "ipa_uk": "/pəʊtʃ/",
+          "ipa_us": "/poʊtʃ/",
+          "meaning": "săn bắn bất hợp pháp",
+          "example": "Elephants are often poached for their ivory.",
+          "example_vi": "Voi thường bị săn bắt trái phép để lấy ngà."
+        },
+        {
+          "word": "primate",
+          "pos": "n",
+          "ipa_uk": "/ˈpraɪmeɪt/",
+          "ipa_us": "/ˈpraɪmeɪt/",
+          "meaning": "bộ (họ) linh trưởng",
+          "example": "Cuc Phuong National Park has a rescue centre for endangered primates.",
+          "example_vi": "Vườn quốc gia Cúc Phương có một trung tâm cứu hộ các loài linh trưởng có nguy cơ tuyệt chủng."
+        },
+        {
+          "word": "rare",
+          "pos": "adj",
+          "ipa_uk": "/reə(r)/",
+          "ipa_us": "/rer/",
+          "meaning": "hiếm, quý hiếm",
+          "example": "The red-shanked douc langur is a rare animal in Viet Nam.",
+          "example_vi": "Voọc chà vá chân nâu là một loài động vật quý hiếm ở Việt Nam."
+        },
+        {
+          "word": "release",
+          "pos": "v",
+          "ipa_uk": "/rɪˈliːs/",
+          "ipa_us": "/riˈliːs/",
+          "meaning": "thả",
+          "example": "The rescued turtles were released back into the sea.",
+          "example_vi": "Những con rùa được giải cứu đã được thả trở lại biển."
+        },
+        {
+          "word": "rescue",
+          "pos": "v",
+          "ipa_uk": "/ˈreskjuː/",
+          "ipa_us": "/ˈreskjuː/",
+          "meaning": "giải cứu",
+          "example": "Volunteers rescued a baby elephant that had fallen into a hole.",
+          "example_vi": "Các tình nguyện viên đã giải cứu một chú voi con bị rơi xuống hố."
+        },
+        {
+          "word": "sea turtle",
+          "pos": "n",
+          "ipa_uk": "/ˈsiː tɜːtl/",
+          "ipa_us": "/ˈsiː ˌtɝːtəl/",
+          "meaning": "rùa biển",
+          "example": "Sea turtles return to the same beach to lay their eggs.",
+          "example_vi": "Rùa biển quay trở lại cùng một bãi biển để đẻ trứng."
+        },
+        {
+          "word": "sign language",
+          "pos": "n",
+          "ipa_uk": "/ˈsaɪn læŋɡwɪdʒ/",
+          "ipa_us": "/ˈsaɪn ˌlæŋɡwɪdʒ/",
+          "meaning": "ngôn ngữ kí hiệu",
+          "example": "Some gorillas have learnt to communicate using sign language.",
+          "example_vi": "Một số con khỉ đột đã học cách giao tiếp bằng ngôn ngữ kí hiệu."
+        },
+        {
+          "word": "spawning ground",
+          "pos": "n",
+          "ipa_uk": "/ˈspɔːnɪŋ ɡraʊnd/",
+          "ipa_us": "/ˈspɑːnɪŋ ɡraʊnd/",
+          "meaning": "nơi đẻ trứng",
+          "example": "Pollution has damaged the spawning grounds of many fish species.",
+          "example_vi": "Ô nhiễm đã làm hư hại nơi đẻ trứng của nhiều loài cá."
+        },
+        {
+          "word": "survive",
+          "pos": "v",
+          "ipa_uk": "/səˈvaɪv/",
+          "ipa_us": "/sɚˈvaɪv/",
+          "meaning": "tồn tại",
+          "example": "Many animals cannot survive if their habitats are destroyed.",
+          "example_vi": "Nhiều loài động vật không thể tồn tại nếu môi trường sống của chúng bị phá huỷ."
+        },
+        {
+          "word": "threatened",
+          "pos": "adj",
+          "ipa_uk": "/ˈθretnd/",
+          "ipa_us": "/ˈθretənd/",
+          "meaning": "bị đe doạ",
+          "example": "Tigers are threatened by illegal hunting and habitat loss.",
+          "example_vi": "Hổ đang bị đe doạ bởi nạn săn bắt trái phép và mất môi trường sống."
+        },
+        {
+          "word": "vulnerable",
+          "pos": "adj",
+          "ipa_uk": "/ˈvʌlnərəbl/",
+          "ipa_us": "/ˈvʌlnɚəbəl/",
+          "meaning": "dễ bị tổn thương",
+          "example": "Young animals are especially vulnerable to hunters.",
+          "example_vi": "Động vật non đặc biệt dễ bị tổn thương trước những kẻ săn bắt."
         }
       ]
     },
@@ -1446,85 +1920,220 @@
       "unit": 9,
       "title": "Career paths",
       "title_vi": "Con đường sự nghiệp",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
         {
-          "word": "career path",
-          "pos": "n",
-          "ipa_uk": "/kəˈrɪə pɑːθ/",
-          "ipa_us": "/kəˈrɪr pæθ/",
-          "audio_uk": "audio/uk/career-path.mp3",
-          "audio_us": "audio/us/career-path.mp3",
-          "meaning": "con đường sự nghiệp",
-          "example": "Choosing the right career path is an important decision.",
-          "example_vi": "Lựa chọn con đường sự nghiệp phù hợp là một quyết định quan trọng."
+          "word": "automate",
+          "pos": "v",
+          "ipa_uk": "/ˈɔːtəmeɪt/",
+          "ipa_us": "/ˈɑːtəmeɪt/",
+          "meaning": "tự động hoá",
+          "example": "Many factories have automated their production lines.",
+          "example_vi": "Nhiều nhà máy đã tự động hóa dây chuyền sản xuất."
         },
         {
-          "word": "career counsellor",
-          "pos": "n",
-          "ipa_uk": "/kəˈrɪə kaʊnsələ(r)/",
-          "ipa_us": "/kəˈrɪr ˌkaʊnsəlɚ/",
-          "audio_uk": "audio/uk/career-counsellor.mp3",
-          "audio_us": "audio/us/career-counsellor.mp3",
-          "meaning": "người tư vấn hướng nghiệp",
-          "example": "The career counsellor advised me to study engineering.",
-          "example_vi": "Chuyên viên tư vấn hướng nghiệp đã khuyên tôi học ngành kỹ thuật."
+          "word": "adapt",
+          "pos": "v",
+          "ipa_uk": "/əˈdæpt/",
+          "ipa_us": "/əˈdæpt/",
+          "meaning": "thay đổi cho phù hợp, thích ứng theo, thích nghi",
+          "example": "Workers need to adapt to new technology to keep their jobs.",
+          "example_vi": "Người lao động cần thích nghi với công nghệ mới để giữ được việc làm."
         },
         {
-          "word": "aptitude",
+          "word": "character",
           "pos": "n",
-          "ipa_uk": "/ˈæptɪtjuːd/",
-          "ipa_us": "/ˈæptətuːd/",
-          "audio_uk": "audio/uk/aptitude.mp3",
-          "audio_us": "audio/us/aptitude.mp3",
-          "meaning": "năng khiếu, khả năng",
-          "example": "She has a natural aptitude for languages.",
-          "example_vi": "Cô ấy có năng khiếu bẩm sinh về ngoại ngữ."
+          "ipa_uk": "/ˈkærəktə(r)/",
+          "ipa_us": "/ˈkerɪktɚ/",
+          "meaning": "phẩm chất, đặc điểm tính cách",
+          "example": "Patience is an important character trait for a teacher.",
+          "example_vi": "Sự kiên nhẫn là một phẩm chất quan trọng đối với giáo viên."
         },
         {
-          "word": "vocational",
+          "word": "childminder",
+          "pos": "n",
+          "ipa_uk": "/ˈtʃaɪldmaɪndə(r)/",
+          "ipa_us": "/ˈtʃaɪldmaɪndɚ/",
+          "meaning": "người trông trẻ",
+          "example": "My aunt works as a childminder and looks after three children.",
+          "example_vi": "Dì tôi làm nghề trông trẻ và chăm sóc ba đứa trẻ."
+        },
+        {
+          "word": "cut down on",
+          "pos": "phr v",
+          "ipa_uk": "/ˌkʌt ˈdaʊn ɒn/",
+          "ipa_us": "/ˌkʌt ˈdaʊn ɑːn/",
+          "meaning": "cắt giảm, giảm bớt",
+          "example": "The company has cut down on staff because of automation.",
+          "example_vi": "Công ty đã cắt giảm nhân viên do tự động hoá."
+        },
+        {
+          "word": "CV (curriculum vitae)",
+          "pos": "n",
+          "ipa_uk": "/ˌsiː ˈviː (kəˌrɪkjələm ˈviːtaɪ)/",
+          "ipa_us": "/ˌsiː ˈviː (kəˌrɪkjələm ˈviːtaɪ)/",
+          "meaning": "sơ yếu lí lịch",
+          "example": "Make sure your CV is clear and has no spelling mistakes.",
+          "example_vi": "Hãy đảm bảo sơ yếu lý lịch của bạn rõ ràng và không có lỗi chính tả."
+        },
+        {
+          "word": "fascinating",
           "pos": "adj",
-          "ipa_uk": "/vəʊˈkeɪʃənl/",
-          "ipa_us": "/voʊˈkeɪʃənəl/",
-          "audio_uk": "audio/uk/vocational.mp3",
-          "audio_us": "audio/us/vocational.mp3",
-          "meaning": "thuộc về hướng nghiệp, dạy nghề",
-          "example": "Vocational training prepares students for specific jobs.",
-          "example_vi": "Đào tạo nghề giúp học sinh chuẩn bị cho những công việc cụ thể."
+          "ipa_uk": "/ˈfæsɪneɪtɪŋ/",
+          "ipa_us": "/ˈfæsəneɪtɪŋ/",
+          "meaning": "cực kì thú vị và hấp dẫn",
+          "example": "She finds working with animals absolutely fascinating.",
+          "example_vi": "Cô ấy thấy làm việc với động vật cực kì thú vị."
         },
         {
-          "word": "qualification",
-          "pos": "n",
-          "ipa_uk": "/ˌkwɒlɪfɪˈkeɪʃn/",
-          "ipa_us": "/ˌkwɑːləfəˈkeɪʃən/",
-          "audio_uk": "audio/uk/qualification.mp3",
-          "audio_us": "audio/us/qualification.mp3",
-          "meaning": "bằng cấp, trình độ",
-          "example": "You need the right qualifications to become a teacher.",
-          "example_vi": "Bạn cần có bằng cấp phù hợp để trở thành giáo viên."
+          "word": "in demand",
+          "pos": "phr",
+          "ipa_uk": "/ɪn dɪˈmɑːnd/",
+          "ipa_us": "/ɪn dɪˈmænd/",
+          "meaning": "có nhu cầu, được mọi người mong muốn",
+          "example": "IT specialists are in great demand these days.",
+          "example_vi": "Các chuyên gia công nghệ thông tin ngày nay đang rất được săn đón."
         },
         {
-          "word": "personality",
-          "pos": "n",
-          "ipa_uk": "/ˌpɜːsəˈnæləti/",
-          "ipa_us": "/ˌpɝːsəˈnælɪti/",
-          "audio_uk": "audio/uk/personality.mp3",
-          "audio_us": "audio/us/personality.mp3",
-          "meaning": "tính cách",
-          "example": "Consider your personality when choosing a career.",
-          "example_vi": "Hãy cân nhắc tính cách của bản thân khi chọn nghề."
+          "word": "get on with",
+          "pos": "phr v",
+          "ipa_uk": "/ˌɡet ˈɒn wɪð/",
+          "ipa_us": "/ˌɡet ˈɑːn wɪð/",
+          "meaning": "hoà hợp với, có mối quan hệ tốt với",
+          "example": "It's important to get on with your colleagues at work.",
+          "example_vi": "Hoà hợp với đồng nghiệp tại nơi làm việc là rất quan trọng."
         },
         {
-          "word": "apprenticeship",
+          "word": "go in for",
+          "pos": "phr v",
+          "ipa_uk": "/ˌɡəʊ ˈɪn fɔː(r)/",
+          "ipa_us": "/ˌɡoʊ ˈɪn fɔːr/",
+          "meaning": "đam mê, theo đuổi một sở thích",
+          "example": "He went in for medicine because he wanted to help sick people.",
+          "example_vi": "Cậu ấy theo đuổi ngành y vì muốn giúp đỡ người bệnh."
+        },
+        {
+          "word": "live up to",
+          "pos": "phr v",
+          "ipa_uk": "/ˌlɪv ˈʌp tə/",
+          "ipa_us": "/ˌlɪv ˈʌp tə/",
+          "meaning": "làm theo sự mong muốn, kì vọng của ai đó",
+          "example": "She worked hard to live up to her parents' expectations.",
+          "example_vi": "Cô ấy đã làm việc chăm chỉ để đáp ứng kì vọng của bố mẹ."
+        },
+        {
+          "word": "look down on",
+          "pos": "phr v",
+          "ipa_uk": "/ˌlʊk ˈdaʊn ɒn/",
+          "ipa_us": "/ˌlʊk ˈdaʊn ɑːn/",
+          "meaning": "coi thường người khác, cho rằng mình hơn người",
+          "example": "We should never look down on people who do manual jobs.",
+          "example_vi": "Chúng ta không bao giờ nên coi thường những người làm công việc chân tay."
+        },
+        {
+          "word": "obsolete",
+          "pos": "adj",
+          "ipa_uk": "/ˈɒbsəliːt/",
+          "ipa_us": "/ˈɑːbsəliːt/",
+          "meaning": "lỗi thời, không còn được sử dụng, không thịnh hành",
+          "example": "Some jobs will become obsolete because of artificial intelligence.",
+          "example_vi": "Một số công việc sẽ trở nên lỗi thời do trí tuệ nhân tạo."
+        },
+        {
+          "word": "passion",
           "pos": "n",
-          "ipa_uk": "/əˈprentɪʃɪp/",
-          "ipa_us": "/əˈprentəsʃɪp/",
-          "audio_uk": "audio/uk/apprenticeship.mp3",
-          "audio_us": "audio/us/apprenticeship.mp3",
-          "meaning": "thời gian học việc",
-          "example": "He completed a two-year apprenticeship as an electrician.",
-          "example_vi": "Anh ấy đã hoàn thành hai năm học việc để trở thành thợ điện."
+          "ipa_uk": "/ˈpæʃn/",
+          "ipa_us": "/ˈpæʃən/",
+          "meaning": "niềm đam mê, say mê",
+          "example": "Follow your passion when choosing a career.",
+          "example_vi": "Hãy theo đuổi niềm đam mê của bạn khi chọn nghề nghiệp."
+        },
+        {
+          "word": "passionate",
+          "pos": "adj",
+          "ipa_uk": "/ˈpæʃənət/",
+          "ipa_us": "/ˈpæʃənət/",
+          "meaning": "có niềm đam mê với/dành cho",
+          "example": "He is passionate about cooking and wants to become a chef.",
+          "example_vi": "Cậu ấy đam mê nấu ăn và muốn trở thành đầu bếp."
+        },
+        {
+          "word": "position",
+          "pos": "n",
+          "ipa_uk": "/pəˈzɪʃn/",
+          "ipa_us": "/pəˈzɪʃən/",
+          "meaning": "vị trí việc làm",
+          "example": "She applied for the position of sales manager.",
+          "example_vi": "Cô ấy đã ứng tuyển vào vị trí quản lí bán hàng."
+        },
+        {
+          "word": "pursue",
+          "pos": "v",
+          "ipa_uk": "/pəˈsjuː/",
+          "ipa_us": "/pɚˈsuː/",
+          "meaning": "theo đuổi",
+          "example": "My sister decided to pursue a career in graphic design.",
+          "example_vi": "Chị tôi quyết định theo đuổi sự nghiệp thiết kế đồ hoạ."
+        },
+        {
+          "word": "put up with",
+          "pos": "phr v",
+          "ipa_uk": "/ˌpʊt ˈʌp wɪð/",
+          "ipa_us": "/ˌpʊt ˈʌp wɪð/",
+          "meaning": "chịu đựng",
+          "example": "I can't put up with the long working hours at this job.",
+          "example_vi": "Tôi không thể chịu đựng được thời gian làm việc dài ở công việc này."
+        },
+        {
+          "word": "soft skills",
+          "pos": "n",
+          "ipa_uk": "/ˈsɒft skɪlz/",
+          "ipa_us": "/ˈsɑːft skɪlz/",
+          "meaning": "các kĩ năng mềm",
+          "example": "Employers value soft skills such as teamwork and communication.",
+          "example_vi": "Nhà tuyển dụng đánh giá cao các kĩ năng mềm như làm việc nhóm và giao tiếp."
+        },
+        {
+          "word": "specialty",
+          "pos": "n",
+          "ipa_uk": "/ˈspeʃəlti/",
+          "ipa_us": "/ˈspeʃəlti/",
+          "meaning": "chuyên ngành",
+          "example": "His specialty at university is computer science.",
+          "example_vi": "Chuyên ngành của anh ấy ở đại học là khoa học máy tính."
+        },
+        {
+          "word": "take into account",
+          "pos": "phr",
+          "ipa_uk": "/ˌteɪk ˌɪntu əˈkaʊnt/",
+          "ipa_us": "/ˌteɪk ˌɪntuː əˈkaʊnt/",
+          "meaning": "cân nhắc, xem xét",
+          "example": "You should take your interests into account when choosing a career.",
+          "example_vi": "Bạn nên cân nhắc sở thích của mình khi chọn nghề nghiệp."
+        },
+        {
+          "word": "tutor",
+          "pos": "n",
+          "ipa_uk": "/ˈtjuːtə(r)/",
+          "ipa_us": "/ˈtuːtɚ/",
+          "meaning": "gia sư, giáo viên dạy kèm nhóm học sinh",
+          "example": "She works as a maths tutor in the evenings.",
+          "example_vi": "Cô ấy làm gia sư toán vào các buổi tối."
+        },
+        {
+          "word": "work experience",
+          "pos": "n",
+          "ipa_uk": "/ˈwɜːk ɪkspɪəriəns/",
+          "ipa_us": "/ˈwɝːk ɪkˌspɪriəns/",
+          "meaning": "kinh nghiệm làm việc",
+          "example": "Many employers prefer candidates with work experience.",
+          "example_vi": "Nhiều nhà tuyển dụng ưu tiên ứng viên có kinh nghiệm làm việc."
         }
       ]
     },
@@ -1532,85 +2141,229 @@
       "unit": 10,
       "title": "Lifelong learning",
       "title_vi": "Học tập suốt đời",
-      "status": "unverified",
-      "sources": [],
+      "status": "sourced",
+      "sources": [
+        "WORDLIST TA12.docx (typed copy of SGK Glossary; SGK PDF has no text layer)",
+        "SGK Tiếng Anh 12 Global Success.pdf – https://drive.google.com/file/d/1OPmJN1QjFJKBffJuh4aRYpylKRBVR82U/view",
+        "SGK WORDLIST TA12.docx – https://drive.google.com/file/d/1OGrg0NLG95WSuzRebHmkpDMPNJWY5qdI/view",
+        "SGK Kế hoạch dạy học SGK Tiếng Anh 12.docx – https://drive.google.com/file/d/146IRJPyrefvmsSXtlOdHBQ5kidwDg_io/view"
+      ],
       "words": [
-        {
-          "word": "lifelong learning",
-          "pos": "n",
-          "ipa_uk": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/",
-          "ipa_us": "/ˌlaɪˌflɑːŋ ˈlɝːnɪŋ/",
-          "audio_uk": "audio/uk/lifelong-learning.mp3",
-          "audio_us": "audio/us/lifelong-learning.mp3",
-          "meaning": "học tập suốt đời",
-          "example": "Lifelong learning helps people keep up with changes in the world.",
-          "example_vi": "Học tập suốt đời giúp con người theo kịp những thay đổi của thế giới."
-        },
-        {
-          "word": "self-motivated",
-          "pos": "adj",
-          "ipa_uk": "/ˌself ˈməʊtɪveɪtɪd/",
-          "ipa_us": "/ˌself ˈmoʊtəveɪtəd/",
-          "audio_uk": "audio/uk/self-motivated.mp3",
-          "audio_us": "audio/us/self-motivated.mp3",
-          "meaning": "tự tạo động lực",
-          "example": "Self-motivated learners don't need anyone to push them to study.",
-          "example_vi": "Những người học có khả năng tự tạo động lực không cần ai thúc ép mình học."
-        },
-        {
-          "word": "self-directed",
-          "pos": "adj",
-          "ipa_uk": "/ˌself dəˈrektɪd/",
-          "ipa_us": "/ˌself dəˈrektɪd/",
-          "audio_uk": "audio/uk/self-directed.mp3",
-          "audio_us": "audio/us/self-directed.mp3",
-          "meaning": "tự định hướng",
-          "example": "Self-directed learning allows you to study at your own pace.",
-          "example_vi": "Học tập tự định hướng cho phép bạn học theo tốc độ của riêng mình."
-        },
         {
           "word": "acquire",
           "pos": "v",
           "ipa_uk": "/əˈkwaɪə(r)/",
           "ipa_us": "/əˈkwaɪɚ/",
-          "audio_uk": "audio/uk/acquire.mp3",
-          "audio_us": "audio/us/acquire.mp3",
-          "meaning": "đạt được, tiếp thu",
+          "meaning": "có được, đạt được",
           "example": "You can acquire new skills by taking online courses.",
           "example_vi": "Bạn có thể tiếp thu những kỹ năng mới bằng cách tham gia các khóa học trực tuyến."
         },
         {
-          "word": "knowledge",
+          "word": "adult education",
           "pos": "n",
-          "ipa_uk": "/ˈnɒlɪdʒ/",
-          "ipa_us": "/ˈnɑːlɪdʒ/",
-          "audio_uk": "audio/uk/knowledge.mp3",
-          "audio_us": "audio/us/knowledge.mp3",
-          "meaning": "kiến thức",
-          "example": "Reading books is a good way to broaden your knowledge.",
-          "example_vi": "Đọc sách là một cách hay để mở rộng kiến thức."
+          "ipa_uk": "/ˌædʌlt edʒuˈkeɪʃn/",
+          "ipa_us": "/ˌædəlt ˌedʒjuːˈkeɪʃən/",
+          "meaning": "giáo dục cho người lớn",
+          "example": "The centre offers adult education courses in English and computing.",
+          "example_vi": "Trung tâm cung cấp các khoá giáo dục cho người lớn về tiếng Anh và tin học."
         },
         {
-          "word": "online course",
-          "pos": "n",
-          "ipa_uk": "/ˌɒnlaɪn ˈkɔːs/",
-          "ipa_us": "/ˌɑːnlaɪn ˈkɔːrs/",
-          "audio_uk": "audio/uk/online-course.mp3",
-          "audio_us": "audio/us/online-course.mp3",
-          "meaning": "khóa học trực tuyến",
-          "example": "My grandmother is taking an online course in photography.",
-          "example_vi": "Bà tôi đang tham gia một khóa học nhiếp ảnh trực tuyến."
+          "word": "boost",
+          "pos": "v",
+          "ipa_uk": "/buːst/",
+          "ipa_us": "/buːst/",
+          "meaning": "tăng cường, cải thiện",
+          "example": "Learning new skills can boost your confidence.",
+          "example_vi": "Học các kĩ năng mới có thể tăng cường sự tự tin của bạn."
         },
         {
-          "word": "learner",
+          "word": "broaden",
+          "pos": "v",
+          "ipa_uk": "/ˈbrɔːdn/",
+          "ipa_us": "/ˈbrɑːdən/",
+          "meaning": "mở mang, mở rộng",
+          "example": "Reading books helps broaden your knowledge.",
+          "example_vi": "Đọc sách giúp mở mang kiến thức của bạn."
+        },
+        {
+          "word": "brush up",
+          "pos": "phr v",
+          "ipa_uk": "/ˌbrʌʃ ˈʌp/",
+          "ipa_us": "/ˌbrʌʃ ˈʌp/",
+          "meaning": "ôn lại, học lại",
+          "example": "I need to brush up my English before the job interview.",
+          "example_vi": "Tôi cần ôn lại tiếng Anh trước buổi phỏng vấn xin việc."
+        },
+        {
+          "word": "complex",
+          "pos": "adj",
+          "ipa_uk": "/ˈkɒmpleks/",
+          "ipa_us": "/ˈkɑːmpleks/",
+          "meaning": "phức tạp",
+          "example": "Lifelong learning helps people deal with complex problems at work.",
+          "example_vi": "Học tập suốt đời giúp mọi người giải quyết những vấn đề phức tạp trong công việc."
+        },
+        {
+          "word": "determination",
           "pos": "n",
-          "ipa_uk": "/ˈlɜːnə(r)/",
-          "ipa_us": "/ˈlɝːnɚ/",
-          "audio_uk": "audio/uk/learner.mp3",
-          "audio_us": "audio/us/learner.mp3",
-          "meaning": "người học",
-          "example": "Lifelong learners are always curious about the world around them.",
-          "example_vi": "Những người học tập suốt đời luôn tò mò về thế giới xung quanh."
+          "ipa_uk": "/dɪˌtɜːmɪˈneɪʃn/",
+          "ipa_us": "/dɪˌtɝːməˈneɪʃən/",
+          "meaning": "sự quyết tâm",
+          "example": "Her determination helped her overcome many difficulties.",
+          "example_vi": "Sự quyết tâm đã giúp cô ấy vượt qua nhiều khó khăn."
+        },
+        {
+          "word": "distance learning",
+          "pos": "n",
+          "ipa_uk": "/ˌdɪstəns ˈlɜːnɪŋ/",
+          "ipa_us": "/ˌdɪstəns ˈlɝːnɪŋ/",
+          "meaning": "học từ xa",
+          "example": "Distance learning allows people to study from home.",
+          "example_vi": "Học từ xa cho phép mọi người học tập tại nhà."
+        },
+        {
+          "word": "distraction",
+          "pos": "n",
+          "ipa_uk": "/dɪˈstrækʃn/",
+          "ipa_us": "/dɪˈstrækʃən/",
+          "meaning": "sự phân tâm, sự sao lãng",
+          "example": "Social media can be a big distraction when you are studying online.",
+          "example_vi": "Mạng xã hội có thể gây phân tâm lớn khi bạn học trực tuyến."
+        },
+        {
+          "word": "hardship",
+          "pos": "n",
+          "ipa_uk": "/ˈhɑːdʃɪp/",
+          "ipa_us": "/ˈhɑːrdʃɪp/",
+          "meaning": "sự khó khăn, vất vả",
+          "example": "Despite many hardships, she never stopped learning.",
+          "example_vi": "Bất chấp nhiều khó khăn, bà ấy không bao giờ ngừng học tập."
+        },
+        {
+          "word": "governess",
+          "pos": "n",
+          "ipa_uk": "/ˈɡʌvənəs/",
+          "ipa_us": "/ˈɡʌvɚnəs/",
+          "meaning": "gia sư, giáo viên dạy kèm tại nhà",
+          "example": "As a child, she was taught at home by a governess.",
+          "example_vi": "Khi còn nhỏ, cô ấy được một gia sư dạy kèm tại nhà."
+        },
+        {
+          "word": "imprison",
+          "pos": "v",
+          "ipa_uk": "/ɪmˈprɪzn/",
+          "ipa_us": "/ˌɪmˈprɪzən/",
+          "meaning": "giam cầm, cầm tù",
+          "example": "He continued to study even when he was imprisoned.",
+          "example_vi": "Ông ấy vẫn tiếp tục học tập ngay cả khi bị giam cầm."
+        },
+        {
+          "word": "informed",
+          "pos": "adj",
+          "ipa_uk": "/ɪnˈfɔːmd/",
+          "ipa_us": "/ˌɪnˈfɔːrmd/",
+          "meaning": "có kiến thức về, có hiểu biết, được cung cấp đầy đủ thông tin",
+          "example": "Lifelong learners stay informed about changes in their field.",
+          "example_vi": "Những người học tập suốt đời luôn được cập nhật thông tin về những thay đổi trong lĩnh vực của mình."
+        },
+        {
+          "word": "intelligence",
+          "pos": "n",
+          "ipa_uk": "/ɪnˈtelɪdʒəns/",
+          "ipa_us": "/ˌɪnˈtelədʒəns/",
+          "meaning": "trí thông minh, trí tuệ",
+          "example": "During the war, she worked for military intelligence.",
+          "example_vi": "Trong chiến tranh, bà ấy làm việc cho cơ quan tình báo quân đội."
+        },
+        {
+          "word": "learning community",
+          "pos": "n",
+          "ipa_uk": "/ˈlɜːnɪŋ kəˌmjuːnəti/",
+          "ipa_us": "/ˈlɝːnɪŋ kəˌmjuːnəti/",
+          "meaning": "cộng đồng học tập",
+          "example": "Our school has built an online learning community for students and parents.",
+          "example_vi": "Trường tôi đã xây dựng một cộng đồng học tập trực tuyến cho học sinh và phụ huynh."
+        },
+        {
+          "word": "maintain",
+          "pos": "v",
+          "ipa_uk": "/meɪnˈteɪn/",
+          "ipa_us": "/meɪnˈteɪn/",
+          "meaning": "duy trì, giữ được",
+          "example": "Reading every day helps elderly people maintain a sharp mind.",
+          "example_vi": "Đọc sách mỗi ngày giúp người cao tuổi duy trì đầu óc minh mẫn."
+        },
+        {
+          "word": "martial art",
+          "pos": "n",
+          "ipa_uk": "/ˌmɑːʃl ˈɑːt/",
+          "ipa_us": "/ˌmɑːrʃəl ˈɑːrt/",
+          "meaning": "võ thuật",
+          "example": "My grandfather started learning a martial art at the age of 60.",
+          "example_vi": "Ông tôi bắt đầu học võ thuật ở tuổi 60."
+        },
+        {
+          "word": "Molecular Biology",
+          "pos": "n",
+          "ipa_uk": "/məˈlekjələ baɪˈɒlədʒi/",
+          "ipa_us": "/məˈlekjəlɚ baɪˈɑːlədʒi/",
+          "meaning": "ngành sinh học phân tử",
+          "example": "She returned to university at 50 to study Molecular Biology.",
+          "example_vi": "Bà ấy quay lại trường đại học ở tuổi 50 để học ngành sinh học phân tử."
+        },
+        {
+          "word": "night school",
+          "pos": "n",
+          "ipa_uk": "/ˈnaɪt skuːl/",
+          "ipa_us": "/ˈnaɪt skuːl/",
+          "meaning": "lớp học buổi tối (dành cho người lớn)",
+          "example": "My father goes to night school to learn accounting.",
+          "example_vi": "Bố tôi đi học lớp buổi tối để học kế toán."
+        },
+        {
+          "word": "psychology",
+          "pos": "n",
+          "ipa_uk": "/saɪˈkɒlədʒi/",
+          "ipa_us": "/saɪˈkɑːlədʒi/",
+          "meaning": "ngành tâm lí học",
+          "example": "He took an online course in psychology after retiring.",
+          "example_vi": "Ông ấy đã tham gia một khoá học trực tuyến về tâm lí học sau khi nghỉ hưu."
+        },
+        {
+          "word": "relevant",
+          "pos": "adj",
+          "ipa_uk": "/ˈreləvənt/",
+          "ipa_us": "/ˈreləvənt/",
+          "meaning": "phù hợp, thích hợp",
+          "example": "Choose courses that are relevant to your job.",
+          "example_vi": "Hãy chọn những khoá học phù hợp với công việc của bạn."
+        },
+        {
+          "word": "well-rounded",
+          "pos": "adj",
+          "ipa_uk": "/ˌwel ˈraʊndɪd/",
+          "ipa_us": "/ˌwel ˈraʊndɪd/",
+          "meaning": "được phát triển một cách toàn diện",
+          "example": "Lifelong learning helps people become well-rounded individuals.",
+          "example_vi": "Học tập suốt đời giúp con người phát triển một cách toàn diện."
+        },
+        {
+          "word": "widen",
+          "pos": "v",
+          "ipa_uk": "/ˈwaɪdn/",
+          "ipa_us": "/ˈwaɪdən/",
+          "meaning": "mở rộng, tăng thêm",
+          "example": "Travelling can widen your understanding of the world.",
+          "example_vi": "Du lịch có thể mở rộng hiểu biết của bạn về thế giới."
+        },
+        {
+          "word": "wonder",
+          "pos": "v",
+          "ipa_uk": "/ˈwʌndə(r)/",
+          "ipa_us": "/ˈwʌndɚ/",
+          "meaning": "thắc mắc, băn khoăn",
+          "example": "I often wonder how my grandmother learnt to use a smartphone so quickly.",
+          "example_vi": "Tôi thường thắc mắc làm thế nào bà tôi học dùng điện thoại thông minh nhanh đến vậy."
         }
       ]
     }

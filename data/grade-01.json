@@ -8,11 +8,17 @@
       "unit": 1,
       "title": "In the school playground",
       "title_vi": "Ở sân chơi trường học",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://hoatieu.vn/giao-an-tieng-anh-1-global-success-245043",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-1-lesson-1-lop-1-kntt.jsp"
+        "SGV Unit 1 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -20,8 +26,6 @@
           "pos": "n",
           "ipa_uk": "/bɔːl/",
           "ipa_us": "/bɑːl/",
-          "audio_uk": "audio/uk/ball.mp3",
-          "audio_us": "audio/us/ball.mp3",
           "meaning": "quả bóng",
           "example": "This is a ball.",
           "example_vi": "Đây là quả bóng."
@@ -31,8 +35,6 @@
           "pos": "n",
           "ipa_uk": "/baɪk/",
           "ipa_us": "/baɪk/",
-          "audio_uk": "audio/uk/bike.mp3",
-          "audio_us": "audio/us/bike.mp3",
           "meaning": "xe đạp",
           "example": "This is a bike.",
           "example_vi": "Đây là chiếc xe đạp."
@@ -42,22 +44,20 @@
           "pos": "n",
           "ipa_uk": "/bʊk/",
           "ipa_us": "/bʊk/",
-          "audio_uk": "audio/uk/book.mp3",
-          "audio_us": "audio/us/book.mp3",
           "meaning": "quyển sách",
           "example": "This is a book.",
           "example_vi": "Đây là quyển sách."
+        }
+      ],
+      "letter_sound": "B/b /b/",
+      "patterns": [
+        {
+          "pattern": "Hi, I'm ___.",
+          "meaning": "Xin chào, mình là ___."
         },
         {
-          "word": "school playground",
-          "pos": "n",
-          "ipa_uk": "/ˌskuːl ˈpleɪɡraʊnd/",
-          "ipa_us": "/ˌskuːl ˈpleɪɡraʊnd/",
-          "audio_uk": "audio/uk/school-playground.mp3",
-          "audio_us": "audio/us/school-playground.mp3",
-          "meaning": "sân chơi trường học",
-          "example": "We are in the school playground.",
-          "example_vi": "Chúng mình đang ở sân chơi của trường."
+          "pattern": "Bye, ___.",
+          "meaning": "Tạm biệt ___."
         }
       ]
     },
@@ -65,10 +65,17 @@
       "unit": 2,
       "title": "In the dining room",
       "title_vi": "Trong phòng ăn",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-2-phonetics-and-vocabulary.jsp"
+        "SGV Unit 2 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -76,8 +83,6 @@
           "pos": "n",
           "ipa_uk": "/keɪk/",
           "ipa_us": "/keɪk/",
-          "audio_uk": "audio/uk/cake.mp3",
-          "audio_us": "audio/us/cake.mp3",
           "meaning": "bánh ngọt",
           "example": "I have a cake.",
           "example_vi": "Mình có một cái bánh ngọt."
@@ -87,8 +92,6 @@
           "pos": "n",
           "ipa_uk": "/kɑː(r)/",
           "ipa_us": "/kɑːr/",
-          "audio_uk": "audio/uk/car.mp3",
-          "audio_us": "audio/us/car.mp3",
           "meaning": "ô tô",
           "example": "I have a car.",
           "example_vi": "Mình có một chiếc ô tô."
@@ -98,8 +101,6 @@
           "pos": "n",
           "ipa_uk": "/kæt/",
           "ipa_us": "/kæt/",
-          "audio_uk": "audio/uk/cat.mp3",
-          "audio_us": "audio/us/cat.mp3",
           "meaning": "con mèo",
           "example": "I have a cat.",
           "example_vi": "Mình có một con mèo."
@@ -109,33 +110,16 @@
           "pos": "n",
           "ipa_uk": "/kʌp/",
           "ipa_us": "/kʌp/",
-          "audio_uk": "audio/uk/cup.mp3",
-          "audio_us": "audio/us/cup.mp3",
           "meaning": "cái cốc, cái tách",
           "example": "I have a cup.",
           "example_vi": "Mình có một cái cốc."
-        },
+        }
+      ],
+      "letter_sound": "C/c /k/",
+      "patterns": [
         {
-          "word": "dining room",
-          "pos": "n",
-          "ipa_uk": "/ˈdaɪnɪŋ ruːm/",
-          "ipa_us": "/ˈdaɪnɪŋ ruːm/",
-          "audio_uk": "audio/uk/dining-room.mp3",
-          "audio_us": "audio/us/dining-room.mp3",
-          "meaning": "phòng ăn",
-          "example": "This is the dining room.",
-          "example_vi": "Đây là phòng ăn."
-        },
-        {
-          "word": "have",
-          "pos": "v",
-          "ipa_uk": "/hæv/",
-          "ipa_us": "/hæv/",
-          "audio_uk": "audio/uk/have.mp3",
-          "audio_us": "audio/us/have.mp3",
-          "meaning": "có",
-          "example": "I have a cat.",
-          "example_vi": "Mình có một con mèo."
+          "pattern": "I have a ___.",
+          "meaning": "Mình có một ___."
         }
       ]
     },
@@ -143,10 +127,17 @@
       "unit": 3,
       "title": "At the street market",
       "title_vi": "Ở chợ đường phố",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-3-phonetics-and-vocabulary.jsp"
+        "SGV Unit 3 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -154,8 +145,6 @@
           "pos": "n",
           "ipa_uk": "/ˈæpl/",
           "ipa_us": "/ˈæpəl/",
-          "audio_uk": "audio/uk/apple.mp3",
-          "audio_us": "audio/us/apple.mp3",
           "meaning": "quả táo",
           "example": "I have an apple.",
           "example_vi": "Mình có một quả táo."
@@ -165,8 +154,6 @@
           "pos": "n",
           "ipa_uk": "/bæɡ/",
           "ipa_us": "/bæɡ/",
-          "audio_uk": "audio/uk/bag.mp3",
-          "audio_us": "audio/us/bag.mp3",
           "meaning": "cái túi, cái cặp",
           "example": "I have a bag.",
           "example_vi": "Mình có một cái túi."
@@ -176,8 +163,6 @@
           "pos": "n",
           "ipa_uk": "/kæn/",
           "ipa_us": "/kæn/",
-          "audio_uk": "audio/uk/can.mp3",
-          "audio_us": "audio/us/can.mp3",
           "meaning": "cái lon",
           "example": "I have a can.",
           "example_vi": "Mình có một cái lon."
@@ -187,22 +172,16 @@
           "pos": "n",
           "ipa_uk": "/hæt/",
           "ipa_us": "/hæt/",
-          "audio_uk": "audio/uk/hat.mp3",
-          "audio_us": "audio/us/hat.mp3",
           "meaning": "cái mũ",
           "example": "I have a hat.",
           "example_vi": "Mình có một cái mũ."
-        },
+        }
+      ],
+      "letter_sound": "A/a /æ/",
+      "patterns": [
         {
-          "word": "street market",
-          "pos": "n",
-          "ipa_uk": "/ˌstriːt ˈmɑːkɪt/",
-          "ipa_us": "/ˌstriːt ˈmɑːrkɪt/",
-          "audio_uk": "audio/uk/street-market.mp3",
-          "audio_us": "audio/us/street-market.mp3",
-          "meaning": "chợ đường phố",
-          "example": "We are at the street market.",
-          "example_vi": "Chúng mình đang ở chợ đường phố."
+          "pattern": "This is my ___.",
+          "meaning": "Đây là ___ của mình."
         }
       ]
     },
@@ -210,31 +189,24 @@
       "unit": 4,
       "title": "In the bedroom",
       "title_vi": "Trong phòng ngủ",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-4-lesson-1-lop-1-kntt.jsp",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-4-lesson-3-lop-1-kntt.jsp"
+        "SGV Unit 4 objectives + SGV Review 1 + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
-        {
-          "word": "bedroom",
-          "pos": "n",
-          "ipa_uk": "/ˈbedruːm/",
-          "ipa_us": "/ˈbedruːm/",
-          "audio_uk": "audio/uk/bedroom.mp3",
-          "audio_us": "audio/us/bedroom.mp3",
-          "meaning": "phòng ngủ",
-          "example": "This is my bedroom.",
-          "example_vi": "Đây là phòng ngủ của mình."
-        },
         {
           "word": "desk",
           "pos": "n",
           "ipa_uk": "/desk/",
           "ipa_us": "/desk/",
-          "audio_uk": "audio/uk/desk.mp3",
-          "audio_us": "audio/us/desk.mp3",
           "meaning": "cái bàn học",
           "example": "This is a desk.",
           "example_vi": "Đây là cái bàn học."
@@ -244,8 +216,6 @@
           "pos": "n",
           "ipa_uk": "/dɒɡ/",
           "ipa_us": "/dɑːɡ/",
-          "audio_uk": "audio/uk/dog.mp3",
-          "audio_us": "audio/us/dog.mp3",
           "meaning": "con chó",
           "example": "The dog is near the door.",
           "example_vi": "Con chó ở gần cửa ra vào."
@@ -255,8 +225,6 @@
           "pos": "n",
           "ipa_uk": "/dɔː(r)/",
           "ipa_us": "/dɔːr/",
-          "audio_uk": "audio/uk/door.mp3",
-          "audio_us": "audio/us/door.mp3",
           "meaning": "cửa ra vào",
           "example": "This is a door.",
           "example_vi": "Đây là cửa ra vào."
@@ -266,22 +234,20 @@
           "pos": "n",
           "ipa_uk": "/dʌk/",
           "ipa_us": "/dʌk/",
-          "audio_uk": "audio/uk/duck.mp3",
-          "audio_us": "audio/us/duck.mp3",
           "meaning": "con vịt",
           "example": "This is a duck.",
           "example_vi": "Đây là con vịt."
+        }
+      ],
+      "letter_sound": "D/d /d/",
+      "patterns": [
+        {
+          "pattern": "This is a ___.",
+          "meaning": "Đây là một ___."
         },
         {
-          "word": "near",
-          "pos": "prep",
-          "ipa_uk": "/nɪə(r)/",
-          "ipa_us": "/nɪr/",
-          "audio_uk": "audio/uk/near.mp3",
-          "audio_us": "audio/us/near.mp3",
-          "meaning": "gần, ở gần",
-          "example": "The duck is near the desk.",
-          "example_vi": "Con vịt ở gần cái bàn học."
+          "pattern": "It's on/near the ___.",
+          "meaning": "Nó ở trên/gần ___."
         }
       ]
     },
@@ -289,10 +255,17 @@
       "unit": 5,
       "title": "At the fish and chip shop",
       "title_vi": "Ở cửa hàng cá và khoai tây chiên",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-5-lesson-1-lop-1-kntt.jsp"
+        "SGV Unit 5 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -300,8 +273,6 @@
           "pos": "n",
           "ipa_uk": "/ˈtʃɪkɪn/",
           "ipa_us": "/ˈtʃɪkən/",
-          "audio_uk": "audio/uk/chicken.mp3",
-          "audio_us": "audio/us/chicken.mp3",
           "meaning": "thịt gà",
           "example": "I like chicken.",
           "example_vi": "Mình thích thịt gà."
@@ -311,8 +282,6 @@
           "pos": "n",
           "ipa_uk": "/tʃɪps/",
           "ipa_us": "/tʃɪps/",
-          "audio_uk": "audio/uk/chips.mp3",
-          "audio_us": "audio/us/chips.mp3",
           "meaning": "khoai tây chiên",
           "example": "I like chips.",
           "example_vi": "Mình thích khoai tây chiên."
@@ -322,8 +291,6 @@
           "pos": "n",
           "ipa_uk": "/fɪʃ/",
           "ipa_us": "/fɪʃ/",
-          "audio_uk": "audio/uk/fish.mp3",
-          "audio_us": "audio/us/fish.mp3",
           "meaning": "cá",
           "example": "I like fish.",
           "example_vi": "Mình thích cá."
@@ -333,44 +300,16 @@
           "pos": "n",
           "ipa_uk": "/mɪlk/",
           "ipa_us": "/mɪlk/",
-          "audio_uk": "audio/uk/milk.mp3",
-          "audio_us": "audio/us/milk.mp3",
           "meaning": "sữa",
           "example": "I like milk.",
           "example_vi": "Mình thích sữa."
-        },
+        }
+      ],
+      "letter_sound": "I/i /ɪ/",
+      "patterns": [
         {
-          "word": "fish and chips",
-          "pos": "n",
-          "ipa_uk": "/ˌfɪʃ ən ˈtʃɪps/",
-          "ipa_us": "/ˌfɪʃ ənd ˈtʃɪps/",
-          "audio_uk": "audio/uk/fish-and-chips.mp3",
-          "audio_us": "audio/us/fish-and-chips.mp3",
-          "meaning": "cá và khoai tây chiên",
-          "example": "I like fish and chips.",
-          "example_vi": "Mình thích món cá và khoai tây chiên."
-        },
-        {
-          "word": "shop",
-          "pos": "n",
-          "ipa_uk": "/ʃɒp/",
-          "ipa_us": "/ʃɑːp/",
-          "audio_uk": "audio/uk/shop.mp3",
-          "audio_us": "audio/us/shop.mp3",
-          "meaning": "cửa hàng",
-          "example": "This is a fish and chip shop.",
-          "example_vi": "Đây là cửa hàng bán cá và khoai tây chiên."
-        },
-        {
-          "word": "like",
-          "pos": "v",
-          "ipa_uk": "/laɪk/",
-          "ipa_us": "/laɪk/",
-          "audio_uk": "audio/uk/like.mp3",
-          "audio_us": "audio/us/like.mp3",
-          "meaning": "thích",
-          "example": "I like milk.",
-          "example_vi": "Mình thích sữa."
+          "pattern": "I like ___.",
+          "meaning": "Mình thích ___."
         }
       ]
     },
@@ -378,11 +317,17 @@
       "unit": 6,
       "title": "In the classroom",
       "title_vi": "Trong lớp học",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-6-phonetics-and-vocabulary.jsp",
-        "https://vietjack.com/tieng-anh-1-kn/fun-time-2.jsp"
+        "SGV Unit 6 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -390,8 +335,6 @@
           "pos": "n",
           "ipa_uk": "/bel/",
           "ipa_us": "/bel/",
-          "audio_uk": "audio/uk/bell.mp3",
-          "audio_us": "audio/us/bell.mp3",
           "meaning": "cái chuông",
           "example": "This is a red bell.",
           "example_vi": "Đây là một cái chuông màu đỏ."
@@ -401,8 +344,6 @@
           "pos": "n",
           "ipa_uk": "/pen/",
           "ipa_us": "/pen/",
-          "audio_uk": "audio/uk/pen.mp3",
-          "audio_us": "audio/us/pen.mp3",
           "meaning": "bút mực",
           "example": "This is a pen.",
           "example_vi": "Đây là cái bút mực."
@@ -412,8 +353,6 @@
           "pos": "n",
           "ipa_uk": "/ˈpensl/",
           "ipa_us": "/ˈpensəl/",
-          "audio_uk": "audio/uk/pencil.mp3",
-          "audio_us": "audio/us/pencil.mp3",
           "meaning": "bút chì",
           "example": "This is a pencil.",
           "example_vi": "Đây là cái bút chì."
@@ -423,44 +362,16 @@
           "pos": "adj",
           "ipa_uk": "/red/",
           "ipa_us": "/red/",
-          "audio_uk": "audio/uk/red.mp3",
-          "audio_us": "audio/us/red.mp3",
           "meaning": "màu đỏ",
           "example": "The pen is red.",
           "example_vi": "Cái bút có màu đỏ."
-        },
+        }
+      ],
+      "letter_sound": "E/e /e/",
+      "patterns": [
         {
-          "word": "board",
-          "pos": "n",
-          "ipa_uk": "/bɔːd/",
-          "ipa_us": "/bɔːrd/",
-          "audio_uk": "audio/uk/board.mp3",
-          "audio_us": "audio/us/board.mp3",
-          "meaning": "cái bảng",
-          "example": "Look at the board.",
-          "example_vi": "Hãy nhìn lên bảng."
-        },
-        {
-          "word": "classroom",
-          "pos": "n",
-          "ipa_uk": "/ˈklɑːsruːm/",
-          "ipa_us": "/ˈklæsruːm/",
-          "audio_uk": "audio/uk/classroom.mp3",
-          "audio_us": "audio/us/classroom.mp3",
-          "meaning": "lớp học",
-          "example": "This is my classroom.",
-          "example_vi": "Đây là lớp học của mình."
-        },
-        {
-          "word": "drawing",
-          "pos": "n",
-          "ipa_uk": "/ˈdrɔːɪŋ/",
-          "ipa_us": "/ˈdrɑːɪŋ/",
-          "audio_uk": "audio/uk/drawing.mp3",
-          "audio_us": "audio/us/drawing.mp3",
-          "meaning": "bức vẽ, tranh vẽ",
-          "example": "This is my drawing.",
-          "example_vi": "Đây là bức vẽ của mình."
+          "pattern": "It's a red ___.",
+          "meaning": "Đó là một ___ màu đỏ."
         }
       ]
     },
@@ -468,12 +379,17 @@
       "unit": 7,
       "title": "In the garden",
       "title_vi": "Trong vườn",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-7-lesson-1-lop-1-kntt.jsp",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-7-lesson-3-lop-1-kntt.jsp",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-7-phonetics-and-vocabulary.jsp"
+        "SGV Unit 7 objectives + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -481,8 +397,6 @@
           "pos": "n",
           "ipa_uk": "/ˈɡɑːdn/",
           "ipa_us": "/ˈɡɑːrdən/",
-          "audio_uk": "audio/uk/garden.mp3",
-          "audio_us": "audio/us/garden.mp3",
           "meaning": "khu vườn",
           "example": "There's a garden.",
           "example_vi": "Có một khu vườn."
@@ -492,8 +406,6 @@
           "pos": "n",
           "ipa_uk": "/ɡeɪt/",
           "ipa_us": "/ɡeɪt/",
-          "audio_uk": "audio/uk/gate.mp3",
-          "audio_us": "audio/us/gate.mp3",
           "meaning": "cái cổng",
           "example": "There's a gate.",
           "example_vi": "Có một cái cổng."
@@ -503,8 +415,6 @@
           "pos": "n",
           "ipa_uk": "/ɡɜːl/",
           "ipa_us": "/ɡɝːl/",
-          "audio_uk": "audio/uk/girl.mp3",
-          "audio_us": "audio/us/girl.mp3",
           "meaning": "cô bé, bé gái",
           "example": "There's a girl.",
           "example_vi": "Có một cô bé."
@@ -514,22 +424,16 @@
           "pos": "n",
           "ipa_uk": "/ɡəʊt/",
           "ipa_us": "/ɡoʊt/",
-          "audio_uk": "audio/uk/goat.mp3",
-          "audio_us": "audio/us/goat.mp3",
           "meaning": "con dê",
           "example": "There's a goat.",
           "example_vi": "Có một con dê."
-        },
+        }
+      ],
+      "letter_sound": "G/g /ɡ/",
+      "patterns": [
         {
-          "word": "there is",
-          "pos": "phr",
-          "ipa_uk": "/ðeər ɪz/",
-          "ipa_us": "/ðer ɪz/",
-          "audio_uk": "audio/uk/there-is.mp3",
-          "audio_us": "audio/us/there-is.mp3",
-          "meaning": "có (một cái gì đó ở đâu)",
-          "example": "There's a gate.",
-          "example_vi": "Có một cái cổng."
+          "pattern": "There's a ___.",
+          "meaning": "Có một ___."
         }
       ]
     },
@@ -537,9 +441,17 @@
       "unit": 8,
       "title": "In the park",
       "title_vi": "Trong công viên",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-8-lesson-1-lop-1-kntt.jsp"
+        "Lesson plan TA1_GA_Unit 8 + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -547,8 +459,6 @@
           "pos": "n",
           "ipa_uk": "/heə(r)/",
           "ipa_us": "/her/",
-          "audio_uk": "audio/uk/hair.mp3",
-          "audio_us": "audio/us/hair.mp3",
           "meaning": "tóc",
           "example": "This is my hair.",
           "example_vi": "Đây là tóc của mình."
@@ -558,8 +468,6 @@
           "pos": "n",
           "ipa_uk": "/hænd/",
           "ipa_us": "/hænd/",
-          "audio_uk": "audio/uk/hand.mp3",
-          "audio_us": "audio/us/hand.mp3",
           "meaning": "bàn tay",
           "example": "This is my hand.",
           "example_vi": "Đây là bàn tay của mình."
@@ -569,8 +477,6 @@
           "pos": "n",
           "ipa_uk": "/hed/",
           "ipa_us": "/hed/",
-          "audio_uk": "audio/uk/head.mp3",
-          "audio_us": "audio/us/head.mp3",
           "meaning": "cái đầu",
           "example": "This is my head.",
           "example_vi": "Đây là cái đầu của mình."
@@ -580,11 +486,16 @@
           "pos": "n",
           "ipa_uk": "/hɔːs/",
           "ipa_us": "/hɔːrs/",
-          "audio_uk": "audio/uk/horse.mp3",
-          "audio_us": "audio/us/horse.mp3",
           "meaning": "con ngựa",
           "example": "This is a horse.",
           "example_vi": "Đây là con ngựa."
+        }
+      ],
+      "letter_sound": "H/h /h/",
+      "patterns": [
+        {
+          "pattern": "Touch your ___.",
+          "meaning": "Hãy chạm vào ___ của em."
         }
       ]
     },
@@ -592,67 +503,61 @@
       "unit": 9,
       "title": "In the shop",
       "title_vi": "Trong cửa hàng",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-in-the-shop.jsp",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-9-phonetics-and-vocabulary.jsp",
-        "https://www.scribd.com/document/906647796/Unit-9-Lesson-Guide"
+        "Lesson plan Review 3 + Flashcards + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
-          "word": "clock",
+          "word": "clocks",
           "pos": "n",
-          "ipa_uk": "/klɒk/",
-          "ipa_us": "/klɑːk/",
-          "audio_uk": "audio/uk/clock.mp3",
-          "audio_us": "audio/us/clock.mp3",
-          "meaning": "đồng hồ (treo tường)",
-          "example": "This is a clock.",
-          "example_vi": "Đây là cái đồng hồ."
+          "ipa_uk": "/klɒks/",
+          "ipa_us": "/klɑːks/",
+          "meaning": "những chiếc đồng hồ",
+          "example": "How many clocks? Two.",
+          "example_vi": "Có bao nhiêu cái đồng hồ? Hai cái."
         },
         {
-          "word": "lock",
+          "word": "locks",
           "pos": "n",
-          "ipa_uk": "/lɒk/",
-          "ipa_us": "/lɑːk/",
-          "audio_uk": "audio/uk/lock.mp3",
-          "audio_us": "audio/us/lock.mp3",
-          "meaning": "ổ khóa",
-          "example": "This is a lock.",
-          "example_vi": "Đây là cái ổ khóa."
+          "ipa_uk": "/lɒks/",
+          "ipa_us": "/lɑːks/",
+          "meaning": "những cái ổ khóa",
+          "example": "How many locks? Three.",
+          "example_vi": "Có bao nhiêu cái ổ khóa? Ba cái."
         },
         {
-          "word": "mop",
+          "word": "mops",
           "pos": "n",
-          "ipa_uk": "/mɒp/",
-          "ipa_us": "/mɑːp/",
-          "audio_uk": "audio/uk/mop.mp3",
-          "audio_us": "audio/us/mop.mp3",
-          "meaning": "cây lau nhà",
-          "example": "This is a mop.",
-          "example_vi": "Đây là cây lau nhà."
+          "ipa_uk": "/mɒps/",
+          "ipa_us": "/mɑːps/",
+          "meaning": "những cây lau nhà",
+          "example": "How many mops? Four.",
+          "example_vi": "Có bao nhiêu cây lau nhà? Bốn cây."
         },
         {
-          "word": "pot",
+          "word": "pots",
           "pos": "n",
-          "ipa_uk": "/pɒt/",
-          "ipa_us": "/pɑːt/",
-          "audio_uk": "audio/uk/pot.mp3",
-          "audio_us": "audio/us/pot.mp3",
-          "meaning": "cái nồi",
-          "example": "This is my pot.",
-          "example_vi": "Đây là cái nồi của mình."
-        },
+          "ipa_uk": "/pɒts/",
+          "ipa_us": "/pɑːts/",
+          "meaning": "những cái nồi",
+          "example": "How many pots? Two.",
+          "example_vi": "Có bao nhiêu cái nồi? Hai cái."
+        }
+      ],
+      "letter_sound": "O/o /ɒ/",
+      "patterns": [
         {
-          "word": "shop",
-          "pos": "n",
-          "ipa_uk": "/ʃɒp/",
-          "ipa_us": "/ʃɑːp/",
-          "audio_uk": "audio/uk/shop.mp3",
-          "audio_us": "audio/us/shop.mp3",
-          "meaning": "cửa hàng",
-          "example": "We are in the shop.",
-          "example_vi": "Chúng mình đang ở trong cửa hàng."
+          "pattern": "How many ___? – ___.",
+          "meaning": "Có bao nhiêu ___? – ___."
         }
       ]
     },
@@ -660,11 +565,17 @@
       "unit": 10,
       "title": "At the zoo",
       "title_vi": "Ở vườn thú",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-10-at-the-zoo-vocabulary-sentence-patterns-global-success-co-dap-an-99855",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-10-lesson-1-lop-1-kntt.jsp",
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html"
+        "Lesson plan Review 3 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -672,8 +583,6 @@
           "pos": "n",
           "ipa_uk": "/ˈmæŋɡəʊ/",
           "ipa_us": "/ˈmæŋɡoʊ/",
-          "audio_uk": "audio/uk/mango.mp3",
-          "audio_us": "audio/us/mango.mp3",
           "meaning": "quả xoài",
           "example": "This is a mango.",
           "example_vi": "Đây là quả xoài."
@@ -683,33 +592,34 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌŋki/",
           "ipa_us": "/ˈmʌŋki/",
-          "audio_uk": "audio/uk/monkey.mp3",
-          "audio_us": "audio/us/monkey.mp3",
           "meaning": "con khỉ",
           "example": "I can see a monkey.",
           "example_vi": "Mình nhìn thấy một con khỉ."
+        },
+        {
+          "word": "mother",
+          "pos": "n",
+          "ipa_uk": "/ˈmʌðə(r)/",
+          "ipa_us": "/ˈmʌðɚ/",
+          "meaning": "mẹ",
+          "example": "That's my mother.",
+          "example_vi": "Đó là mẹ của mình."
         },
         {
           "word": "mouse",
           "pos": "n",
           "ipa_uk": "/maʊs/",
           "ipa_us": "/maʊs/",
-          "audio_uk": "audio/uk/mouse.mp3",
-          "audio_us": "audio/us/mouse.mp3",
           "meaning": "con chuột",
           "example": "I can see a mouse.",
           "example_vi": "Mình nhìn thấy một con chuột."
-        },
+        }
+      ],
+      "letter_sound": "M/m /m/",
+      "patterns": [
         {
-          "word": "zoo",
-          "pos": "n",
-          "ipa_uk": "/zuː/",
-          "ipa_us": "/zuː/",
-          "audio_uk": "audio/uk/zoo.mp3",
-          "audio_us": "audio/us/zoo.mp3",
-          "meaning": "vườn thú",
-          "example": "We are at the zoo.",
-          "example_vi": "Chúng mình đang ở vườn thú."
+          "pattern": "That's a ___.",
+          "meaning": "Đó là một ___."
         }
       ]
     },
@@ -717,11 +627,17 @@
       "unit": 11,
       "title": "At the bus stop",
       "title_vi": "Ở trạm xe buýt",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-11-lesson-1-lop-1-kntt.jsp",
-        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-11-at-the-bus-stop.jsp"
+        "Lesson plan Review 3 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -729,30 +645,24 @@
           "pos": "n",
           "ipa_uk": "/bʌs/",
           "ipa_us": "/bʌs/",
-          "audio_uk": "audio/uk/bus.mp3",
-          "audio_us": "audio/us/bus.mp3",
           "meaning": "xe buýt",
           "example": "This is a bus.",
           "example_vi": "Đây là xe buýt."
         },
         {
-          "word": "run",
+          "word": "running",
           "pos": "v",
-          "ipa_uk": "/rʌn/",
-          "ipa_us": "/rʌn/",
-          "audio_uk": "audio/uk/run.mp3",
-          "audio_us": "audio/us/run.mp3",
-          "meaning": "chạy",
-          "example": "The boy is running.",
-          "example_vi": "Cậu bé đang chạy."
+          "ipa_uk": "/ˈrʌnɪŋ/",
+          "ipa_us": "/ˈrʌnɪŋ/",
+          "meaning": "đang chạy (run: chạy)",
+          "example": "She's running.",
+          "example_vi": "Cô ấy đang chạy."
         },
         {
           "word": "sun",
           "pos": "n",
           "ipa_uk": "/sʌn/",
           "ipa_us": "/sʌn/",
-          "audio_uk": "audio/uk/sun.mp3",
-          "audio_us": "audio/us/sun.mp3",
           "meaning": "mặt trời",
           "example": "This is the sun.",
           "example_vi": "Đây là mặt trời."
@@ -762,44 +672,16 @@
           "pos": "n",
           "ipa_uk": "/trʌk/",
           "ipa_us": "/trʌk/",
-          "audio_uk": "audio/uk/truck.mp3",
-          "audio_us": "audio/us/truck.mp3",
           "meaning": "xe tải",
           "example": "This is a truck.",
           "example_vi": "Đây là xe tải."
-        },
+        }
+      ],
+      "letter_sound": "U/u /ʌ/",
+      "patterns": [
         {
-          "word": "bus stop",
-          "pos": "n",
-          "ipa_uk": "/ˈbʌs stɒp/",
-          "ipa_us": "/ˈbʌs stɑːp/",
-          "audio_uk": "audio/uk/bus-stop.mp3",
-          "audio_us": "audio/us/bus-stop.mp3",
-          "meaning": "trạm dừng xe buýt",
-          "example": "We are at the bus stop.",
-          "example_vi": "Chúng mình đang ở trạm xe buýt."
-        },
-        {
-          "word": "boy",
-          "pos": "n",
-          "ipa_uk": "/bɔɪ/",
-          "ipa_us": "/bɔɪ/",
-          "audio_uk": "audio/uk/boy.mp3",
-          "audio_us": "audio/us/boy.mp3",
-          "meaning": "cậu bé, bé trai",
-          "example": "The boy is running.",
-          "example_vi": "Cậu bé đang chạy."
-        },
-        {
-          "word": "move",
-          "pos": "v",
-          "ipa_uk": "/muːv/",
-          "ipa_us": "/muːv/",
-          "audio_uk": "audio/uk/move.mp3",
-          "audio_us": "audio/us/move.mp3",
-          "meaning": "chuyển động, di chuyển",
-          "example": "The bus is moving.",
-          "example_vi": "Xe buýt đang chạy."
+          "pattern": "___'s running.",
+          "meaning": "___ đang chạy."
         }
       ]
     },
@@ -807,11 +689,17 @@
       "unit": 12,
       "title": "At the lake",
       "title_vi": "Ở bờ hồ",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-12-at-the-lake.jsp",
-        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-12-at-the-lake-vocabulary-sentence-patterns-global-success-co-dap-an-99883"
+        "Lesson plan Review 3 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -819,8 +707,6 @@
           "pos": "n",
           "ipa_uk": "/leɪk/",
           "ipa_us": "/leɪk/",
-          "audio_uk": "audio/uk/lake.mp3",
-          "audio_us": "audio/us/lake.mp3",
           "meaning": "cái hồ",
           "example": "This is a lake.",
           "example_vi": "Đây là cái hồ."
@@ -830,33 +716,25 @@
           "pos": "n",
           "ipa_uk": "/liːf/",
           "ipa_us": "/liːf/",
-          "audio_uk": "audio/uk/leaf.mp3",
-          "audio_us": "audio/us/leaf.mp3",
           "meaning": "chiếc lá",
           "example": "The leaf is falling.",
           "example_vi": "Chiếc lá đang rơi."
         },
         {
-          "word": "lemon",
+          "word": "lemons",
           "pos": "n",
-          "ipa_uk": "/ˈlemən/",
-          "ipa_us": "/ˈlemən/",
-          "audio_uk": "audio/uk/lemon.mp3",
-          "audio_us": "audio/us/lemon.mp3",
-          "meaning": "quả chanh vàng",
-          "example": "This is a lemon.",
-          "example_vi": "Đây là quả chanh vàng."
-        },
+          "ipa_uk": "/ˈlemənz/",
+          "ipa_us": "/ˈlemənz/",
+          "meaning": "những quả chanh vàng",
+          "example": "Look at the lemons.",
+          "example_vi": "Hãy nhìn những quả chanh kìa."
+        }
+      ],
+      "letter_sound": "L/l /l/",
+      "patterns": [
         {
-          "word": "fall",
-          "pos": "v",
-          "ipa_uk": "/fɔːl/",
-          "ipa_us": "/fɑːl/",
-          "audio_uk": "audio/uk/fall.mp3",
-          "audio_us": "audio/us/fall.mp3",
-          "meaning": "rơi",
-          "example": "The leaves are falling.",
-          "example_vi": "Những chiếc lá đang rơi."
+          "pattern": "Look at ___.",
+          "meaning": "Hãy nhìn ___."
         }
       ]
     },
@@ -864,55 +742,52 @@
       "unit": 13,
       "title": "In the school canteen",
       "title_vi": "Ở căng tin trường học",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-13-lesson-1-lop-1-kntt.jsp"
+        "Lesson plan Review 4 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
-          "word": "canteen",
+          "word": "bananas",
           "pos": "n",
-          "ipa_uk": "/kænˈtiːn/",
-          "ipa_us": "/kænˈtiːn/",
-          "audio_uk": "audio/uk/canteen.mp3",
-          "audio_us": "audio/us/canteen.mp3",
-          "meaning": "căng tin, nhà ăn",
-          "example": "We are in the school canteen.",
-          "example_vi": "Chúng mình đang ở căng tin của trường."
-        },
-        {
-          "word": "banana",
-          "pos": "n",
-          "ipa_uk": "/bəˈnɑːnə/",
-          "ipa_us": "/bəˈnænə/",
-          "audio_uk": "audio/uk/banana.mp3",
-          "audio_us": "audio/us/banana.mp3",
-          "meaning": "quả chuối",
-          "example": "I like bananas.",
-          "example_vi": "Mình thích chuối."
+          "ipa_uk": "/bəˈnɑːnəz/",
+          "ipa_us": "/bəˈnænəz/",
+          "meaning": "những quả chuối",
+          "example": "He's having bananas.",
+          "example_vi": "Cậu ấy đang ăn chuối."
         },
         {
           "word": "noodles",
           "pos": "n",
           "ipa_uk": "/ˈnuːdlz/",
           "ipa_us": "/ˈnuːdəlz/",
-          "audio_uk": "audio/uk/noodles.mp3",
-          "audio_us": "audio/us/noodles.mp3",
           "meaning": "mì, bún, phở (sợi)",
           "example": "I like noodles.",
           "example_vi": "Mình thích ăn mì."
         },
         {
-          "word": "nut",
+          "word": "nuts",
           "pos": "n",
-          "ipa_uk": "/nʌt/",
-          "ipa_us": "/nʌt/",
-          "audio_uk": "audio/uk/nut.mp3",
-          "audio_us": "audio/us/nut.mp3",
-          "meaning": "hạt (lạc, điều...)",
-          "example": "I like nuts.",
-          "example_vi": "Mình thích ăn các loại hạt."
+          "ipa_uk": "/nʌts/",
+          "ipa_us": "/nʌts/",
+          "meaning": "các loại hạt (lạc, điều...)",
+          "example": "She's having nuts.",
+          "example_vi": "Cô ấy đang ăn các loại hạt."
+        }
+      ],
+      "letter_sound": "N/n /n/",
+      "patterns": [
+        {
+          "pattern": "He's/She's having ___.",
+          "meaning": "Cậu ấy/Cô ấy đang ăn ___."
         }
       ]
     },
@@ -920,11 +795,17 @@
       "unit": 14,
       "title": "In the toy shop",
       "title_vi": "Ở cửa hàng đồ chơi",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-14-in-the-toy-shop.jsp",
-        "https://www.vietjack.com/tieng-anh-1-kn/trac-nghiem-unit-14-phonetics-and-vocabulary.jsp"
+        "Lesson plan Review 4 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -932,8 +813,6 @@
           "pos": "n",
           "ipa_uk": "/ˈtedi beə(r)/",
           "ipa_us": "/ˈtedi ber/",
-          "audio_uk": "audio/uk/teddy-bear.mp3",
-          "audio_us": "audio/us/teddy-bear.mp3",
           "meaning": "gấu bông",
           "example": "I have a teddy bear.",
           "example_vi": "Mình có một chú gấu bông."
@@ -943,9 +822,7 @@
           "pos": "n",
           "ipa_uk": "/ˈtaɪɡə(r)/",
           "ipa_us": "/ˈtaɪɡɚ/",
-          "audio_uk": "audio/uk/tiger.mp3",
-          "audio_us": "audio/us/tiger.mp3",
-          "meaning": "con hổ (đồ chơi)",
+          "meaning": "con hổ",
           "example": "I can see a tiger.",
           "example_vi": "Mình nhìn thấy một con hổ."
         },
@@ -954,22 +831,25 @@
           "pos": "n",
           "ipa_uk": "/tɒp/",
           "ipa_us": "/tɑːp/",
-          "audio_uk": "audio/uk/top.mp3",
-          "audio_us": "audio/us/top.mp3",
           "meaning": "con quay",
           "example": "The top is spinning.",
           "example_vi": "Con quay đang quay."
         },
         {
-          "word": "toy shop",
+          "word": "turtle",
           "pos": "n",
-          "ipa_uk": "/ˈtɔɪ ʃɒp/",
-          "ipa_us": "/ˈtɔɪ ʃɑːp/",
-          "audio_uk": "audio/uk/toy-shop.mp3",
-          "audio_us": "audio/us/toy-shop.mp3",
-          "meaning": "cửa hàng đồ chơi",
-          "example": "We are in the toy shop.",
-          "example_vi": "Chúng mình đang ở cửa hàng đồ chơi."
+          "ipa_uk": "/ˈtɜːtl/",
+          "ipa_us": "/ˈtɝːtəl/",
+          "meaning": "con rùa",
+          "example": "I can see a turtle.",
+          "example_vi": "Mình nhìn thấy một con rùa."
+        }
+      ],
+      "letter_sound": "T/t /t/",
+      "patterns": [
+        {
+          "pattern": "I can see a ___.",
+          "meaning": "Mình nhìn thấy một ___."
         }
       ]
     },
@@ -977,11 +857,17 @@
       "unit": 15,
       "title": "At the football match",
       "title_vi": "Ở trận bóng đá",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html",
-        "https://2048.vn/quiz/20-cau-trac-nghiem-tieng-anh-1-unit-15-at-the-football-match-vocabulary-sentence-patterns-global-success-co-dap-an-99906",
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-15-lesson-1-lop-1-kntt.jsp"
+        "Lesson plan Review 4 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
         {
@@ -989,8 +875,6 @@
           "pos": "n",
           "ipa_uk": "/feɪs/",
           "ipa_us": "/feɪs/",
-          "audio_uk": "audio/uk/face.mp3",
-          "audio_us": "audio/us/face.mp3",
           "meaning": "khuôn mặt",
           "example": "Point to your face.",
           "example_vi": "Hãy chỉ vào khuôn mặt của em."
@@ -1000,8 +884,6 @@
           "pos": "n",
           "ipa_uk": "/ˈfɑːðə(r)/",
           "ipa_us": "/ˈfɑːðɚ/",
-          "audio_uk": "audio/uk/father.mp3",
-          "audio_us": "audio/us/father.mp3",
           "meaning": "bố, cha",
           "example": "This is my father.",
           "example_vi": "Đây là bố của mình."
@@ -1011,8 +893,6 @@
           "pos": "n",
           "ipa_uk": "/fʊt/",
           "ipa_us": "/fʊt/",
-          "audio_uk": "audio/uk/foot.mp3",
-          "audio_us": "audio/us/foot.mp3",
           "meaning": "bàn chân",
           "example": "Point to your foot.",
           "example_vi": "Hãy chỉ vào bàn chân của em."
@@ -1022,44 +902,16 @@
           "pos": "n",
           "ipa_uk": "/ˈfʊtbɔːl/",
           "ipa_us": "/ˈfʊtbɑːl/",
-          "audio_uk": "audio/uk/football.mp3",
-          "audio_us": "audio/us/football.mp3",
           "meaning": "bóng đá; quả bóng đá",
           "example": "I like football.",
           "example_vi": "Mình thích bóng đá."
-        },
+        }
+      ],
+      "letter_sound": "F/f /f/",
+      "patterns": [
         {
-          "word": "match",
-          "pos": "n",
-          "ipa_uk": "/mætʃ/",
-          "ipa_us": "/mætʃ/",
-          "audio_uk": "audio/uk/match.mp3",
-          "audio_us": "audio/us/match.mp3",
-          "meaning": "trận đấu",
-          "example": "We watch a football match.",
-          "example_vi": "Chúng mình xem một trận bóng đá."
-        },
-        {
-          "word": "point",
-          "pos": "v",
-          "ipa_uk": "/pɔɪnt/",
-          "ipa_us": "/pɔɪnt/",
-          "audio_uk": "audio/uk/point.mp3",
-          "audio_us": "audio/us/point.mp3",
-          "meaning": "chỉ (vào)",
-          "example": "Point to your face.",
-          "example_vi": "Hãy chỉ vào khuôn mặt của em."
-        },
-        {
-          "word": "watch",
-          "pos": "v",
-          "ipa_uk": "/wɒtʃ/",
-          "ipa_us": "/wɑːtʃ/",
-          "audio_uk": "audio/uk/watch.mp3",
-          "audio_us": "audio/us/watch.mp3",
-          "meaning": "xem",
-          "example": "We watch football.",
-          "example_vi": "Chúng mình xem bóng đá."
+          "pattern": "Point to ___.",
+          "meaning": "Hãy chỉ vào ___."
         }
       ]
     },
@@ -1067,30 +919,24 @@
       "unit": 16,
       "title": "At home",
       "title_vi": "Ở nhà",
-      "status": "sourced",
+      "status": "official",
       "sources": [
-        "https://vietjack.com/giao-an-tieng-anh-1/unit-16-lesson-1-lop-1-kntt.jsp",
-        "https://mytour.vn/vi/blog/bai-viet/tong-hop-tu-vung-tieng-anh-cho-lop-1-va-bai-tap-ap-dung-mytour.html"
+        "Lesson plan Review 4 + SBT",
+        "SGK Tiếng anh 1 Global Success.pdf (SGK – image-only PDF, no extractable text) – https://drive.google.com/file/d/1Vqpa_ZkEpfM3raJsWckHN4BvBaMQoglr/view",
+        "SGK Tiếng anh 1 Global Success Sách giáo viên.pdf (text covers Units 1–7 only) – https://drive.google.com/file/d/1FDLA5ltyiMvQxZRzioyoO8qS7tx1M9Bf/view",
+        "SGK Tiếng anh 1 Global success Sách bài tập.pdf (contents, all 16 units, audio scripts) – https://drive.google.com/file/d/1hiOdijBh6sd772XyRJv_pHSIm4-91DhP/view",
+        "SGK Tiếng Anh 1 Global Success- Tranh từ vựng (Flashcards).pdf (text covers Units 1–9) – https://drive.google.com/file/d/169wPCOo7bvB4GJkM23UWhifbhcZDpxwK/view",
+        "SGK TA1_GA_Review 3.DOC (lesson plan; vocabulary/structures Units 9–12) – https://drive.google.com/file/d/14ftBLDwDKpSEVyxX3-nqZ_1xytl9iP6q/view",
+        "SGK TA1_GA_Review 4.DOC (lesson plan; vocabulary/structures Units 13–16) – https://drive.google.com/file/d/16MMJvbp1GrrJ9C6GD_YjJ6kxWGyHMl7u/view",
+        "SGK TA1_GA_Unit 8.DOC (lesson plan) – https://drive.google.com/file/d/19qw8KkJ8hONMda8GYw2-xMUbEYlvPC1i/view",
+        "SGK Mind map lớp 1 Global Success.pptx (teacher-made, used only as a cross-check) – https://drive.google.com/file/d/12DCKzFqMFVtQ7a-dDBfSHiBVb6sfew9S/view"
       ],
       "words": [
-        {
-          "word": "home",
-          "pos": "n",
-          "ipa_uk": "/həʊm/",
-          "ipa_us": "/hoʊm/",
-          "audio_uk": "audio/uk/home.mp3",
-          "audio_us": "audio/us/home.mp3",
-          "meaning": "nhà",
-          "example": "We are at home.",
-          "example_vi": "Chúng mình đang ở nhà."
-        },
         {
           "word": "wash",
           "pos": "v",
           "ipa_uk": "/wɒʃ/",
           "ipa_us": "/wɑːʃ/",
-          "audio_uk": "audio/uk/wash.mp3",
-          "audio_us": "audio/us/wash.mp3",
           "meaning": "rửa, giặt",
           "example": "Wendy is washing.",
           "example_vi": "Wendy đang rửa tay."
@@ -1100,8 +946,6 @@
           "pos": "n",
           "ipa_uk": "/ˈwɔːtə(r)/",
           "ipa_us": "/ˈwɑːtɚ/",
-          "audio_uk": "audio/uk/water.mp3",
-          "audio_us": "audio/us/water.mp3",
           "meaning": "nước",
           "example": "This is water.",
           "example_vi": "Đây là nước."
@@ -1111,11 +955,16 @@
           "pos": "n",
           "ipa_uk": "/ˈwɪndəʊ/",
           "ipa_us": "/ˈwɪndoʊ/",
-          "audio_uk": "audio/uk/window.mp3",
-          "audio_us": "audio/us/window.mp3",
           "meaning": "cửa sổ",
           "example": "This is a window.",
           "example_vi": "Đây là cửa sổ."
+        }
+      ],
+      "letter_sound": "W/w /w/",
+      "patterns": [
+        {
+          "pattern": "How many ___ can you see? – I can see ___.",
+          "meaning": "Bạn nhìn thấy bao nhiêu ___? – Mình nhìn thấy ___."
         }
       ]
     }

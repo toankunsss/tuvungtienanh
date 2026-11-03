@@ -10,9 +10,13 @@
       "title_vi": "Xin chào",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-1-hello.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-1-hello.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-1-hello.jsp"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -20,8 +24,6 @@
           "pos": "exclam",
           "ipa_uk": "/həˈləʊ/",
           "ipa_us": "/həˈloʊ/",
-          "audio_uk": "audio/uk/hello.mp3",
-          "audio_us": "audio/us/hello.mp3",
           "meaning": "xin chào",
           "example": "Hello, I'm Mary.",
           "example_vi": "Xin chào, mình là Mary."
@@ -31,9 +33,7 @@
           "pos": "exclam",
           "ipa_uk": "/haɪ/",
           "ipa_us": "/haɪ/",
-          "audio_uk": "audio/uk/hi.mp3",
-          "audio_us": "audio/us/hi.mp3",
-          "meaning": "chào (thân mật)",
+          "meaning": "chào",
           "example": "Hi, Ben. I'm Mai.",
           "example_vi": "Chào Ben. Mình là Mai."
         },
@@ -42,8 +42,6 @@
           "pos": "exclam",
           "ipa_uk": "/ˌɡʊdˈbaɪ/",
           "ipa_us": "/ˌɡʊdˈbaɪ/",
-          "audio_uk": "audio/uk/goodbye.mp3",
-          "audio_us": "audio/us/goodbye.mp3",
           "meaning": "tạm biệt",
           "example": "Goodbye, Lucy.",
           "example_vi": "Tạm biệt Lucy."
@@ -53,9 +51,7 @@
           "pos": "exclam",
           "ipa_uk": "/baɪ/",
           "ipa_us": "/baɪ/",
-          "audio_uk": "audio/uk/bye.mp3",
-          "audio_us": "audio/us/bye.mp3",
-          "meaning": "tạm biệt (thân mật)",
+          "meaning": "tạm biệt",
           "example": "Bye, Mai.",
           "example_vi": "Tạm biệt Mai."
         },
@@ -64,8 +60,6 @@
           "pos": "phr",
           "ipa_uk": "/ˌhaʊ ˈɑː juː/",
           "ipa_us": "/ˌhaʊ ˈɑːr juː/",
-          "audio_uk": "audio/uk/how-are-you.mp3",
-          "audio_us": "audio/us/how-are-you.mp3",
           "meaning": "bạn có khỏe không?",
           "example": "How are you, Nam?",
           "example_vi": "Bạn có khỏe không, Nam?"
@@ -75,9 +69,7 @@
           "pos": "adj",
           "ipa_uk": "/faɪn/",
           "ipa_us": "/faɪn/",
-          "audio_uk": "audio/uk/fine.mp3",
-          "audio_us": "audio/us/fine.mp3",
-          "meaning": "khỏe, ổn",
+          "meaning": "khỏe",
           "example": "I'm fine, thank you.",
           "example_vi": "Mình khỏe, cảm ơn bạn."
         },
@@ -86,22 +78,9 @@
           "pos": "phr",
           "ipa_uk": "/ˈθæŋk juː/",
           "ipa_us": "/ˈθæŋk juː/",
-          "audio_uk": "audio/uk/thank-you.mp3",
-          "audio_us": "audio/us/thank-you.mp3",
           "meaning": "cảm ơn",
           "example": "Fine, thank you.",
           "example_vi": "Mình khỏe, cảm ơn bạn."
-        },
-        {
-          "word": "I'm",
-          "pos": "phr",
-          "ipa_uk": "/aɪm/",
-          "ipa_us": "/aɪm/",
-          "audio_uk": "audio/uk/i-m.mp3",
-          "audio_us": "audio/us/i-m.mp3",
-          "meaning": "tôi là, mình là",
-          "example": "I'm Ben.",
-          "example_vi": "Mình là Ben."
         }
       ]
     },
@@ -111,10 +90,13 @@
       "title_vi": "Tên của chúng mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-2-our-names.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-2-our-names.jsp",
-        "https://hoatieu.vn/de-cuong-on-tap-hoc-ki-1-tieng-anh-3-global-success-243119",
-        "https://thpt-hoangvanthu.ninhbinh.edu.vn/wp-content/uploads/2026/04/f56d1878-29a4-4b43-9e92-7cb568d4a3ce.pdf"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -122,8 +104,6 @@
           "pos": "n",
           "ipa_uk": "/neɪm/",
           "ipa_us": "/neɪm/",
-          "audio_uk": "audio/uk/name.mp3",
-          "audio_us": "audio/us/name.mp3",
           "meaning": "tên",
           "example": "What's your name?",
           "example_vi": "Bạn tên là gì?"
@@ -133,52 +113,24 @@
           "pos": "phr",
           "ipa_uk": "/ˌwɒts jɔː ˈneɪm/",
           "ipa_us": "/ˌwʌts jɔːr ˈneɪm/",
-          "audio_uk": "audio/uk/what-s-your-name.mp3",
-          "audio_us": "audio/us/what-s-your-name.mp3",
-          "meaning": "bạn tên là gì?",
+          "meaning": "tên bạn là gì?",
           "example": "What's your name? – My name's Linh.",
           "example_vi": "Bạn tên là gì? – Mình tên là Linh."
         },
         {
-          "word": "my name's",
+          "word": "my name's ...",
           "pos": "phr",
           "ipa_uk": "/maɪ ˈneɪmz/",
-          "ipa_us": "/maɪ ˈneɪmz/",
-          "audio_uk": "audio/uk/my-name-s.mp3",
-          "audio_us": "audio/us/my-name-s.mp3",
-          "meaning": "tên mình là",
-          "example": "My name's Bill.",
-          "example_vi": "Mình tên là Bill."
-        },
-        {
-          "word": "his",
-          "pos": "det",
-          "ipa_uk": "/hɪz/",
-          "ipa_us": "/hɪz/",
-          "audio_uk": "audio/uk/his.mp3",
-          "audio_us": "audio/us/his.mp3",
-          "meaning": "của anh ấy, của bạn ấy (nam)",
-          "example": "His name is Ben.",
-          "example_vi": "Bạn ấy tên là Ben."
-        },
-        {
-          "word": "her",
-          "pos": "det",
-          "ipa_uk": "/hɜː(r)/",
-          "ipa_us": "/hɝː/",
-          "audio_uk": "audio/uk/her.mp3",
-          "audio_us": "audio/us/her.mp3",
-          "meaning": "của chị ấy, của bạn ấy (nữ)",
-          "example": "Her name is Mary.",
-          "example_vi": "Bạn ấy tên là Mary."
+          "ipa_us": "/maɪ ˈneɪmz .../",
+          "meaning": "tên mình là ...",
+          "example": "My name's Mary.",
+          "example_vi": "Tên mình là Mary."
         },
         {
           "word": "how old are you?",
           "pos": "phr",
           "ipa_uk": "/ˌhaʊ ˈəʊld ɑː juː/",
           "ipa_us": "/ˌhaʊ ˈoʊld ɑːr juː/",
-          "audio_uk": "audio/uk/how-old-are-you.mp3",
-          "audio_us": "audio/us/how-old-are-you.mp3",
           "meaning": "bạn bao nhiêu tuổi?",
           "example": "How old are you? – I'm eight.",
           "example_vi": "Bạn bao nhiêu tuổi? – Mình tám tuổi."
@@ -188,121 +140,9 @@
           "pos": "phr",
           "ipa_uk": "/ˈjɪəz əʊld/",
           "ipa_us": "/ˈjɪrz oʊld/",
-          "audio_uk": "audio/uk/years-old.mp3",
-          "audio_us": "audio/us/years-old.mp3",
-          "meaning": "... tuổi",
+          "meaning": "tuổi",
           "example": "I'm eight years old.",
           "example_vi": "Mình tám tuổi."
-        },
-        {
-          "word": "one",
-          "pos": "num",
-          "ipa_uk": "/wʌn/",
-          "ipa_us": "/wʌn/",
-          "audio_uk": "audio/uk/one.mp3",
-          "audio_us": "audio/us/one.mp3",
-          "meaning": "một",
-          "example": "One, two, three.",
-          "example_vi": "Một, hai, ba."
-        },
-        {
-          "word": "two",
-          "pos": "num",
-          "ipa_uk": "/tuː/",
-          "ipa_us": "/tuː/",
-          "audio_uk": "audio/uk/two.mp3",
-          "audio_us": "audio/us/two.mp3",
-          "meaning": "hai",
-          "example": "My brother is two years old.",
-          "example_vi": "Em trai mình hai tuổi."
-        },
-        {
-          "word": "three",
-          "pos": "num",
-          "ipa_uk": "/θriː/",
-          "ipa_us": "/θriː/",
-          "audio_uk": "audio/uk/three.mp3",
-          "audio_us": "audio/us/three.mp3",
-          "meaning": "ba",
-          "example": "My sister is three years old.",
-          "example_vi": "Em gái mình ba tuổi."
-        },
-        {
-          "word": "four",
-          "pos": "num",
-          "ipa_uk": "/fɔː(r)/",
-          "ipa_us": "/fɔːr/",
-          "audio_uk": "audio/uk/four.mp3",
-          "audio_us": "audio/us/four.mp3",
-          "meaning": "bốn",
-          "example": "Tom is four years old.",
-          "example_vi": "Tom bốn tuổi."
-        },
-        {
-          "word": "five",
-          "pos": "num",
-          "ipa_uk": "/faɪv/",
-          "ipa_us": "/faɪv/",
-          "audio_uk": "audio/uk/five.mp3",
-          "audio_us": "audio/us/five.mp3",
-          "meaning": "năm",
-          "example": "I can count to five.",
-          "example_vi": "Mình có thể đếm đến năm."
-        },
-        {
-          "word": "six",
-          "pos": "num",
-          "ipa_uk": "/sɪks/",
-          "ipa_us": "/sɪks/",
-          "audio_uk": "audio/uk/six.mp3",
-          "audio_us": "audio/us/six.mp3",
-          "meaning": "sáu",
-          "example": "Lucy is six years old.",
-          "example_vi": "Lucy sáu tuổi."
-        },
-        {
-          "word": "seven",
-          "pos": "num",
-          "ipa_uk": "/ˈsevn/",
-          "ipa_us": "/ˈsevən/",
-          "audio_uk": "audio/uk/seven.mp3",
-          "audio_us": "audio/us/seven.mp3",
-          "meaning": "bảy",
-          "example": "I'm seven years old.",
-          "example_vi": "Mình bảy tuổi."
-        },
-        {
-          "word": "eight",
-          "pos": "num",
-          "ipa_uk": "/eɪt/",
-          "ipa_us": "/eɪt/",
-          "audio_uk": "audio/uk/eight.mp3",
-          "audio_us": "audio/us/eight.mp3",
-          "meaning": "tám",
-          "example": "I'm eight years old.",
-          "example_vi": "Mình tám tuổi."
-        },
-        {
-          "word": "nine",
-          "pos": "num",
-          "ipa_uk": "/naɪn/",
-          "ipa_us": "/naɪn/",
-          "audio_uk": "audio/uk/nine.mp3",
-          "audio_us": "audio/us/nine.mp3",
-          "meaning": "chín",
-          "example": "I'm nine years old.",
-          "example_vi": "Mình chín tuổi."
-        },
-        {
-          "word": "ten",
-          "pos": "num",
-          "ipa_uk": "/ten/",
-          "ipa_us": "/ten/",
-          "audio_uk": "audio/uk/ten.mp3",
-          "audio_us": "audio/us/ten.mp3",
-          "meaning": "mười",
-          "example": "I'm ten years old.",
-          "example_vi": "Mình mười tuổi."
         }
       ]
     },
@@ -312,9 +152,13 @@
       "title_vi": "Bạn bè của chúng mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-3-our-friends.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-3-our-friends.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-3-our-friends.jsp"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -322,8 +166,6 @@
           "pos": "n",
           "ipa_uk": "/frend/",
           "ipa_us": "/frend/",
-          "audio_uk": "audio/uk/friend.mp3",
-          "audio_us": "audio/us/friend.mp3",
           "meaning": "bạn, bạn bè",
           "example": "This is my friend.",
           "example_vi": "Đây là bạn của mình."
@@ -333,9 +175,7 @@
           "pos": "pron",
           "ipa_uk": "/ðɪs/",
           "ipa_us": "/ðɪs/",
-          "audio_uk": "audio/uk/this.mp3",
-          "audio_us": "audio/us/this.mp3",
-          "meaning": "đây, cái này, người này",
+          "meaning": "đây, cái này",
           "example": "This is Mary.",
           "example_vi": "Đây là Mary."
         },
@@ -344,55 +184,45 @@
           "pos": "pron",
           "ipa_uk": "/ðæt/",
           "ipa_us": "/ðæt/",
-          "audio_uk": "audio/uk/that.mp3",
-          "audio_us": "audio/us/that.mp3",
-          "meaning": "kia, cái kia, người kia",
+          "meaning": "đó, kia",
           "example": "That is my friend.",
           "example_vi": "Kia là bạn của mình."
         },
         {
-          "word": "is this ...?",
-          "pos": "phr",
-          "ipa_uk": "/ɪz ˈðɪs/",
-          "ipa_us": "/ɪz ˈðɪs .../",
-          "audio_uk": "audio/uk/is-this.mp3",
-          "audio_us": "audio/us/is-this.mp3",
-          "meaning": "đây có phải là ... không?",
-          "example": "Is this Lucy?",
-          "example_vi": "Đây có phải là Lucy không?"
+          "word": "Mr",
+          "pos": "n",
+          "ipa_uk": "/ˈmɪstə(r)/",
+          "ipa_us": "/ˈmɪstɚ/",
+          "meaning": "ông, thầy (dùng trước tên nam)",
+          "example": "This is Mr Long.",
+          "example_vi": "Đây là thầy Long."
         },
         {
-          "word": "is that ...?",
-          "pos": "phr",
-          "ipa_uk": "/ɪz ˈðæt/",
-          "ipa_us": "/ɪz ˈðæt .../",
-          "audio_uk": "audio/uk/is-that.mp3",
-          "audio_us": "audio/us/is-that.mp3",
-          "meaning": "kia có phải là ... không?",
-          "example": "Is that Minh?",
-          "example_vi": "Kia có phải là Minh không?"
+          "word": "Ms",
+          "pos": "n",
+          "ipa_uk": "/mɪz/",
+          "ipa_us": "/mɪz/",
+          "meaning": "cô, bà (dùng trước tên nữ)",
+          "example": "Is that Ms Hoa?",
+          "example_vi": "Kia có phải cô Hoa không?"
         },
         {
-          "word": "yes, it is",
-          "pos": "phr",
-          "ipa_uk": "/ˌjes ɪt ˈɪz/",
-          "ipa_us": "/ˌjes ɪt ˈɪz/",
-          "audio_uk": "audio/uk/yes-it-is.mp3",
-          "audio_us": "audio/us/yes-it-is.mp3",
-          "meaning": "vâng, đúng vậy",
-          "example": "Is that Minh? – Yes, it is.",
-          "example_vi": "Kia có phải là Minh không? – Vâng, đúng vậy."
+          "word": "yes",
+          "pos": "exclam",
+          "ipa_uk": "/jes/",
+          "ipa_us": "/jes/",
+          "meaning": "vâng, đúng",
+          "example": "Yes, it is.",
+          "example_vi": "Vâng, đúng vậy."
         },
         {
-          "word": "no, it isn't",
-          "pos": "phr",
-          "ipa_uk": "/ˌnəʊ ɪt ˈɪznt/",
-          "ipa_us": "/ˌnoʊ ɪt ˈɪzənt/",
-          "audio_uk": "audio/uk/no-it-isn-t.mp3",
-          "audio_us": "audio/us/no-it-isn-t.mp3",
-          "meaning": "không, không phải",
-          "example": "Is that Ben? – No, it isn't.",
-          "example_vi": "Kia có phải là Ben không? – Không, không phải."
+          "word": "no",
+          "pos": "exclam",
+          "ipa_uk": "/nəʊ/",
+          "ipa_us": "/noʊ/",
+          "meaning": "không",
+          "example": "No, it isn't.",
+          "example_vi": "Không, không phải."
         }
       ]
     },
@@ -402,52 +232,20 @@
       "title_vi": "Cơ thể của chúng mình",
       "status": "sourced",
       "sources": [
-        "https://storage-vnportal.vnpt.vn/qnm-ubnd/6407/TAILIEUCUALAI/E3 Unit 4 lesson 1.pdf",
-        "https://vietjack.com/tieng-anh-3-kn/unit-4-lesson-1-lop-3.jsp",
-        "https://vietjack.com/giao-an-tieng-anh-3/unit-4-lesson-1-lop-3-kntt.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-4-our-bodies.jsp"
+        "Giáo án anh 3 Global U4 (Lesson 1–2 vocabulary) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
-        {
-          "word": "body",
-          "pos": "n",
-          "ipa_uk": "/ˈbɒdi/",
-          "ipa_us": "/ˈbɑːdi/",
-          "audio_uk": "audio/uk/body.mp3",
-          "audio_us": "audio/us/body.mp3",
-          "meaning": "cơ thể",
-          "example": "This is my body.",
-          "example_vi": "Đây là cơ thể của mình."
-        },
-        {
-          "word": "face",
-          "pos": "n",
-          "ipa_uk": "/feɪs/",
-          "ipa_us": "/feɪs/",
-          "audio_uk": "audio/uk/face.mp3",
-          "audio_us": "audio/us/face.mp3",
-          "meaning": "khuôn mặt",
-          "example": "It's a face.",
-          "example_vi": "Đó là khuôn mặt."
-        },
-        {
-          "word": "hand",
-          "pos": "n",
-          "ipa_uk": "/hænd/",
-          "ipa_us": "/hænd/",
-          "audio_uk": "audio/uk/hand.mp3",
-          "audio_us": "audio/us/hand.mp3",
-          "meaning": "bàn tay",
-          "example": "Touch your hand.",
-          "example_vi": "Hãy chạm vào bàn tay của em."
-        },
         {
           "word": "ear",
           "pos": "n",
           "ipa_uk": "/ɪə(r)/",
           "ipa_us": "/ɪr/",
-          "audio_uk": "audio/uk/ear.mp3",
-          "audio_us": "audio/us/ear.mp3",
           "meaning": "tai",
           "example": "It's an ear.",
           "example_vi": "Đó là cái tai."
@@ -457,30 +255,51 @@
           "pos": "n",
           "ipa_uk": "/aɪ/",
           "ipa_us": "/aɪ/",
-          "audio_uk": "audio/uk/eye.mp3",
-          "audio_us": "audio/us/eye.mp3",
           "meaning": "mắt",
           "example": "It's an eye.",
           "example_vi": "Đó là con mắt."
+        },
+        {
+          "word": "face",
+          "pos": "n",
+          "ipa_uk": "/feɪs/",
+          "ipa_us": "/feɪs/",
+          "meaning": "khuôn mặt",
+          "example": "It's a face.",
+          "example_vi": "Đó là khuôn mặt."
+        },
+        {
+          "word": "hand",
+          "pos": "n",
+          "ipa_uk": "/hænd/",
+          "ipa_us": "/hænd/",
+          "meaning": "bàn tay",
+          "example": "Touch your hand.",
+          "example_vi": "Hãy chạm vào bàn tay của em."
         },
         {
           "word": "nose",
           "pos": "n",
           "ipa_uk": "/nəʊz/",
           "ipa_us": "/noʊz/",
-          "audio_uk": "audio/uk/nose.mp3",
-          "audio_us": "audio/us/nose.mp3",
           "meaning": "mũi",
           "example": "It's a nose.",
           "example_vi": "Đó là cái mũi."
+        },
+        {
+          "word": "hair",
+          "pos": "n",
+          "ipa_uk": "/heə(r)/",
+          "ipa_us": "/her/",
+          "meaning": "tóc",
+          "example": "Touch your hair!",
+          "example_vi": "Hãy chạm vào tóc của bạn!"
         },
         {
           "word": "mouth",
           "pos": "n",
           "ipa_uk": "/maʊθ/",
           "ipa_us": "/maʊθ/",
-          "audio_uk": "audio/uk/mouth.mp3",
-          "audio_us": "audio/us/mouth.mp3",
           "meaning": "miệng",
           "example": "It's a mouth.",
           "example_vi": "Đó là cái miệng."
@@ -490,8 +309,6 @@
           "pos": "v",
           "ipa_uk": "/ˈəʊpən/",
           "ipa_us": "/ˈoʊpən/",
-          "audio_uk": "audio/uk/open.mp3",
-          "audio_us": "audio/us/open.mp3",
           "meaning": "mở",
           "example": "Open your mouth.",
           "example_vi": "Hãy mở miệng ra."
@@ -501,22 +318,9 @@
           "pos": "v",
           "ipa_uk": "/tʌtʃ/",
           "ipa_us": "/tʌtʃ/",
-          "audio_uk": "audio/uk/touch.mp3",
-          "audio_us": "audio/us/touch.mp3",
-          "meaning": "chạm vào, sờ vào",
+          "meaning": "chạm, sờ",
           "example": "Touch your nose.",
           "example_vi": "Hãy chạm vào mũi của em."
-        },
-        {
-          "word": "what's this?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒts ˈðɪs/",
-          "ipa_us": "/ˌwʌts ˈðɪs/",
-          "audio_uk": "audio/uk/what-s-this.mp3",
-          "audio_us": "audio/us/what-s-this.mp3",
-          "meaning": "đây là cái gì?",
-          "example": "What's this? – It's a hand.",
-          "example_vi": "Đây là cái gì? – Đó là bàn tay."
         }
       ]
     },
@@ -526,10 +330,13 @@
       "title_vi": "Sở thích của mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-5-my-hobbies.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-5-our-bobbies.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-5-my-hobbies.jsp",
-        "https://loigiaihay.com/tieng-anh-lop-3-unit-5-lesson-1-trang-34-global-success-a108075.html"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -537,8 +344,6 @@
           "pos": "n",
           "ipa_uk": "/ˈhɒbi/",
           "ipa_us": "/ˈhɑːbi/",
-          "audio_uk": "audio/uk/hobby.mp3",
-          "audio_us": "audio/us/hobby.mp3",
           "meaning": "sở thích",
           "example": "What's your hobby?",
           "example_vi": "Sở thích của bạn là gì?"
@@ -548,8 +353,6 @@
           "pos": "n",
           "ipa_uk": "/ˈdɑːnsɪŋ/",
           "ipa_us": "/ˈdænsɪŋ/",
-          "audio_uk": "audio/uk/dancing.mp3",
-          "audio_us": "audio/us/dancing.mp3",
           "meaning": "nhảy múa",
           "example": "My hobby is dancing.",
           "example_vi": "Sở thích của mình là nhảy múa."
@@ -559,8 +362,6 @@
           "pos": "n",
           "ipa_uk": "/ˈdrɔːɪŋ/",
           "ipa_us": "/ˈdrɑːɪŋ/",
-          "audio_uk": "audio/uk/drawing.mp3",
-          "audio_us": "audio/us/drawing.mp3",
           "meaning": "vẽ (bằng bút chì)",
           "example": "I like drawing.",
           "example_vi": "Mình thích vẽ."
@@ -570,9 +371,7 @@
           "pos": "n",
           "ipa_uk": "/ˈpeɪntɪŋ/",
           "ipa_us": "/ˈpeɪntɪŋ/",
-          "audio_uk": "audio/uk/painting.mp3",
-          "audio_us": "audio/us/painting.mp3",
-          "meaning": "vẽ tranh, tô màu",
+          "meaning": "vẽ tranh (tô màu)",
           "example": "It's painting.",
           "example_vi": "Đó là vẽ tranh."
         },
@@ -581,77 +380,45 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪŋɪŋ/",
           "ipa_us": "/ˈsɪŋɪŋ/",
-          "audio_uk": "audio/uk/singing.mp3",
-          "audio_us": "audio/us/singing.mp3",
           "meaning": "ca hát",
           "example": "My hobby is singing.",
           "example_vi": "Sở thích của mình là ca hát."
-        },
-        {
-          "word": "swimming",
-          "pos": "n",
-          "ipa_uk": "/ˈswɪmɪŋ/",
-          "ipa_us": "/ˈswɪmɪŋ/",
-          "audio_uk": "audio/uk/swimming.mp3",
-          "audio_us": "audio/us/swimming.mp3",
-          "meaning": "bơi lội",
-          "example": "I like swimming.",
-          "example_vi": "Mình thích bơi lội."
-        },
-        {
-          "word": "running",
-          "pos": "n",
-          "ipa_uk": "/ˈrʌnɪŋ/",
-          "ipa_us": "/ˈrʌnɪŋ/",
-          "audio_uk": "audio/uk/running.mp3",
-          "audio_us": "audio/us/running.mp3",
-          "meaning": "chạy bộ",
-          "example": "It's running.",
-          "example_vi": "Đó là chạy bộ."
         },
         {
           "word": "cooking",
           "pos": "n",
           "ipa_uk": "/ˈkʊkɪŋ/",
           "ipa_us": "/ˈkʊkɪŋ/",
-          "audio_uk": "audio/uk/cooking.mp3",
-          "audio_us": "audio/us/cooking.mp3",
           "meaning": "nấu ăn",
           "example": "My hobby is cooking.",
           "example_vi": "Sở thích của mình là nấu ăn."
+        },
+        {
+          "word": "running",
+          "pos": "n",
+          "ipa_uk": "/ˈrʌnɪŋ/",
+          "ipa_us": "/ˈrʌnɪŋ/",
+          "meaning": "chạy bộ",
+          "example": "It's running.",
+          "example_vi": "Đó là chạy bộ."
+        },
+        {
+          "word": "swimming",
+          "pos": "n",
+          "ipa_uk": "/ˈswɪmɪŋ/",
+          "ipa_us": "/ˈswɪmɪŋ/",
+          "meaning": "bơi lội",
+          "example": "I like swimming.",
+          "example_vi": "Mình thích bơi lội."
         },
         {
           "word": "walking",
           "pos": "n",
           "ipa_uk": "/ˈwɔːkɪŋ/",
           "ipa_us": "/ˈwɑːkɪŋ/",
-          "audio_uk": "audio/uk/walking.mp3",
-          "audio_us": "audio/us/walking.mp3",
           "meaning": "đi bộ",
           "example": "I like walking.",
           "example_vi": "Mình thích đi bộ."
-        },
-        {
-          "word": "what's your hobby?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒts jɔː ˈhɒbi/",
-          "ipa_us": "/ˌwʌts jɔːr ˈhɑːbi/",
-          "audio_uk": "audio/uk/what-s-your-hobby.mp3",
-          "audio_us": "audio/us/what-s-your-hobby.mp3",
-          "meaning": "sở thích của bạn là gì?",
-          "example": "What's your hobby? – It's swimming.",
-          "example_vi": "Sở thích của bạn là gì? – Đó là bơi lội."
-        },
-        {
-          "word": "like",
-          "pos": "v",
-          "ipa_uk": "/laɪk/",
-          "ipa_us": "/laɪk/",
-          "audio_uk": "audio/uk/like.mp3",
-          "audio_us": "audio/us/like.mp3",
-          "meaning": "thích",
-          "example": "I like drawing.",
-          "example_vi": "Mình thích vẽ."
         }
       ]
     },
@@ -661,10 +428,13 @@
       "title_vi": "Trường của chúng mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-6-our-school.jsp",
-        "https://loigiaihay.com/tieng-anh-lop-3-unit-6-lesson-1-trang-44-global-success-a108080.html",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-6-our-school.jsp",
-        "https://zim.vn/bai-tap-bo-tro-tieng-anh-3-global-success"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -672,8 +442,6 @@
           "pos": "n",
           "ipa_uk": "/skuːl/",
           "ipa_us": "/skuːl/",
-          "audio_uk": "audio/uk/school.mp3",
-          "audio_us": "audio/us/school.mp3",
           "meaning": "trường học",
           "example": "Is this our school?",
           "example_vi": "Đây có phải là trường của chúng mình không?"
@@ -683,77 +451,63 @@
           "pos": "n",
           "ipa_uk": "/ˈklɑːsruːm/",
           "ipa_us": "/ˈklæsruːm/",
-          "audio_uk": "audio/uk/classroom.mp3",
-          "audio_us": "audio/us/classroom.mp3",
-          "meaning": "lớp học, phòng học",
+          "meaning": "lớp học",
           "example": "This is our classroom.",
           "example_vi": "Đây là lớp học của chúng mình."
-        },
-        {
-          "word": "library",
-          "pos": "n",
-          "ipa_uk": "/ˈlaɪbrəri/",
-          "ipa_us": "/ˈlaɪbreriː/",
-          "audio_uk": "audio/uk/library.mp3",
-          "audio_us": "audio/us/library.mp3",
-          "meaning": "thư viện",
-          "example": "Is this our library?",
-          "example_vi": "Đây có phải là thư viện của chúng mình không?"
-        },
-        {
-          "word": "playground",
-          "pos": "n",
-          "ipa_uk": "/ˈpleɪɡraʊnd/",
-          "ipa_us": "/ˈpleɪɡraʊnd/",
-          "audio_uk": "audio/uk/playground.mp3",
-          "audio_us": "audio/us/playground.mp3",
-          "meaning": "sân chơi",
-          "example": "That's our playground.",
-          "example_vi": "Kia là sân chơi của chúng mình."
         },
         {
           "word": "computer room",
           "pos": "n",
           "ipa_uk": "/kəmˈpjuːtə ruːm/",
           "ipa_us": "/kəmˈpjuːtɚ ruːm/",
-          "audio_uk": "audio/uk/computer-room.mp3",
-          "audio_us": "audio/us/computer-room.mp3",
           "meaning": "phòng máy tính",
           "example": "Let's go to the computer room.",
           "example_vi": "Chúng mình cùng đến phòng máy tính nào."
         },
         {
-          "word": "music room",
+          "word": "library",
           "pos": "n",
-          "ipa_uk": "/ˈmjuːzɪk ruːm/",
-          "ipa_us": "/ˈmjuːzɪk ruːm/",
-          "audio_uk": "audio/uk/music-room.mp3",
-          "audio_us": "audio/us/music-room.mp3",
-          "meaning": "phòng âm nhạc",
-          "example": "This is the music room.",
-          "example_vi": "Đây là phòng âm nhạc."
+          "ipa_uk": "/ˈlaɪbrəri/",
+          "ipa_us": "/ˈlaɪbreriː/",
+          "meaning": "thư viện",
+          "example": "Is this our library?",
+          "example_vi": "Đây có phải là thư viện của chúng mình không?"
         },
         {
           "word": "art room",
           "pos": "n",
           "ipa_uk": "/ˈɑːt ruːm/",
           "ipa_us": "/ˈɑːrt ruːm/",
-          "audio_uk": "audio/uk/art-room.mp3",
-          "audio_us": "audio/us/art-room.mp3",
-          "meaning": "phòng mỹ thuật",
+          "meaning": "phòng mĩ thuật",
           "example": "Is that the art room?",
           "example_vi": "Kia có phải là phòng mỹ thuật không?"
         },
         {
-          "word": "our",
-          "pos": "det",
-          "ipa_uk": "/ˈaʊə(r)/",
-          "ipa_us": "/ˈaʊɚ/",
-          "audio_uk": "audio/uk/our.mp3",
-          "audio_us": "audio/us/our.mp3",
-          "meaning": "của chúng mình",
-          "example": "This is our school.",
-          "example_vi": "Đây là trường của chúng mình."
+          "word": "gym",
+          "pos": "n",
+          "ipa_uk": "/dʒɪm/",
+          "ipa_us": "/dʒɪm/",
+          "meaning": "phòng thể dục",
+          "example": "Let's go to the gym.",
+          "example_vi": "Chúng ta hãy đến phòng thể dục."
+        },
+        {
+          "word": "music room",
+          "pos": "n",
+          "ipa_uk": "/ˈmjuːzɪk ruːm/",
+          "ipa_us": "/ˈmjuːzɪk ruːm/",
+          "meaning": "phòng âm nhạc",
+          "example": "This is the music room.",
+          "example_vi": "Đây là phòng âm nhạc."
+        },
+        {
+          "word": "playground",
+          "pos": "n",
+          "ipa_uk": "/ˈpleɪɡraʊnd/",
+          "ipa_us": "/ˈpleɪɡraʊnd/",
+          "meaning": "sân chơi",
+          "example": "That's our playground.",
+          "example_vi": "Kia là sân chơi của chúng mình."
         }
       ]
     },
@@ -763,10 +517,13 @@
       "title_vi": "Hiệu lệnh trong lớp học",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-7-lesson-1-lop-3.jsp",
-        "https://loigiaihay.com/tieng-anh-lop-3-unit-7-lesson-2-trang-52-global-success-a108084.html",
-        "https://vietjack.com/giao-an-tieng-anh-3/unit-7-lesson-2-lop-3-kntt.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-7-classroom-instructions.jsp"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -774,8 +531,6 @@
           "pos": "phr v",
           "ipa_uk": "/ˌstænd ˈʌp/",
           "ipa_us": "/ˌstænd ˈʌp/",
-          "audio_uk": "audio/uk/stand-up.mp3",
-          "audio_us": "audio/us/stand-up.mp3",
           "meaning": "đứng lên",
           "example": "Stand up, please!",
           "example_vi": "Các em đứng lên nào!"
@@ -785,52 +540,15 @@
           "pos": "phr v",
           "ipa_uk": "/ˌsɪt ˈdaʊn/",
           "ipa_us": "/ˌsɪt ˈdaʊn/",
-          "audio_uk": "audio/uk/sit-down.mp3",
-          "audio_us": "audio/us/sit-down.mp3",
           "meaning": "ngồi xuống",
           "example": "Sit down, please!",
           "example_vi": "Các em ngồi xuống nào!"
-        },
-        {
-          "word": "open your book",
-          "pos": "phr",
-          "ipa_uk": "/ˌəʊpən jɔː ˈbʊk/",
-          "ipa_us": "/ˌoʊpən jɔːr ˈbʊk/",
-          "audio_uk": "audio/uk/open-your-book.mp3",
-          "audio_us": "audio/us/open-your-book.mp3",
-          "meaning": "mở sách ra",
-          "example": "Open your book, please!",
-          "example_vi": "Các em mở sách ra nào!"
-        },
-        {
-          "word": "close your book",
-          "pos": "phr",
-          "ipa_uk": "/ˌkləʊz jɔː ˈbʊk/",
-          "ipa_us": "/ˌkloʊz jɔːr ˈbʊk/",
-          "audio_uk": "audio/uk/close-your-book.mp3",
-          "audio_us": "audio/us/close-your-book.mp3",
-          "meaning": "gấp sách lại",
-          "example": "Close your book, please!",
-          "example_vi": "Các em gấp sách lại nào!"
-        },
-        {
-          "word": "be quiet",
-          "pos": "phr",
-          "ipa_uk": "/ˌbi ˈkwaɪət/",
-          "ipa_us": "/ˌbiː ˈkwaɪət/",
-          "audio_uk": "audio/uk/be-quiet.mp3",
-          "audio_us": "audio/us/be-quiet.mp3",
-          "meaning": "giữ trật tự",
-          "example": "Be quiet, please!",
-          "example_vi": "Các em giữ trật tự nào!"
         },
         {
           "word": "come in",
           "pos": "phr v",
           "ipa_uk": "/ˌkʌm ˈɪn/",
           "ipa_us": "/ˌkʌm ˈɪn/",
-          "audio_uk": "audio/uk/come-in.mp3",
-          "audio_us": "audio/us/come-in.mp3",
           "meaning": "đi vào",
           "example": "May I come in?",
           "example_vi": "Em có thể vào lớp được không ạ?"
@@ -840,31 +558,43 @@
           "pos": "phr v",
           "ipa_uk": "/ˌɡəʊ ˈaʊt/",
           "ipa_us": "/ˌɡoʊ ˈaʊt/",
-          "audio_uk": "audio/uk/go-out.mp3",
-          "audio_us": "audio/us/go-out.mp3",
           "meaning": "đi ra ngoài",
           "example": "May I go out?",
           "example_vi": "Em có thể ra ngoài được không ạ?"
+        },
+        {
+          "word": "open your book",
+          "pos": "phr",
+          "ipa_uk": "/ˌəʊpən jɔː ˈbʊk/",
+          "ipa_us": "/ˌoʊpən jɔːr ˈbʊk/",
+          "meaning": "mở sách ra",
+          "example": "Open your book, please!",
+          "example_vi": "Các em mở sách ra nào!"
+        },
+        {
+          "word": "close your book",
+          "pos": "phr",
+          "ipa_uk": "/ˌkləʊz jɔː ˈbʊk/",
+          "ipa_us": "/ˌkloʊz jɔːr ˈbʊk/",
+          "meaning": "gấp sách lại",
+          "example": "Close your book, please!",
+          "example_vi": "Các em gấp sách lại nào!"
         },
         {
           "word": "speak",
           "pos": "v",
           "ipa_uk": "/spiːk/",
           "ipa_us": "/spiːk/",
-          "audio_uk": "audio/uk/speak.mp3",
-          "audio_us": "audio/us/speak.mp3",
           "meaning": "nói",
           "example": "May I speak Vietnamese?",
           "example_vi": "Em có thể nói tiếng Việt được không ạ?"
         },
         {
           "word": "please",
-          "pos": "adv",
+          "pos": "exclam",
           "ipa_uk": "/pliːz/",
           "ipa_us": "/pliːz/",
-          "audio_uk": "audio/uk/please.mp3",
-          "audio_us": "audio/us/please.mp3",
-          "meaning": "làm ơn, xin vui lòng",
+          "meaning": "làm ơn, xin mời",
           "example": "Sit down, please.",
           "example_vi": "Mời các em ngồi xuống."
         },
@@ -873,33 +603,9 @@
           "pos": "phr",
           "ipa_uk": "/ˈmeɪ aɪ/",
           "ipa_us": "/ˈmeɪ aɪ .../",
-          "audio_uk": "audio/uk/may-i.mp3",
-          "audio_us": "audio/us/may-i.mp3",
-          "meaning": "em có thể ... không ạ?",
+          "meaning": "em có thể ... được không?",
           "example": "May I open the book?",
           "example_vi": "Em có thể mở sách ra được không ạ?"
-        },
-        {
-          "word": "yes, you can",
-          "pos": "phr",
-          "ipa_uk": "/ˌjes juː ˈkæn/",
-          "ipa_us": "/ˌjes juː ˈkæn/",
-          "audio_uk": "audio/uk/yes-you-can.mp3",
-          "audio_us": "audio/us/yes-you-can.mp3",
-          "meaning": "được, em có thể",
-          "example": "May I come in? – Yes, you can.",
-          "example_vi": "Em có thể vào lớp được không ạ? – Được, em vào đi."
-        },
-        {
-          "word": "no, you can't",
-          "pos": "phr",
-          "ipa_uk": "/ˌnəʊ juː ˈkɑːnt/",
-          "ipa_us": "/ˌnoʊ juː ˈkænt/",
-          "audio_uk": "audio/uk/no-you-can-t.mp3",
-          "audio_us": "audio/us/no-you-can-t.mp3",
-          "meaning": "không, em không thể",
-          "example": "May I go out? – No, you can't.",
-          "example_vi": "Em có thể ra ngoài được không ạ? – Không, em không được ra ngoài."
         }
       ]
     },
@@ -909,9 +615,13 @@
       "title_vi": "Đồ dùng học tập của mình",
       "status": "sourced",
       "sources": [
-        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-8-my-school-things-global-success-co-dap-an-a130588.html",
-        "https://vietjack.com/tieng-anh-3-kn/unit-8-my-school-things.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-8-my-school-things.jsp"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -919,88 +629,72 @@
           "pos": "n",
           "ipa_uk": "/bʊk/",
           "ipa_us": "/bʊk/",
-          "audio_uk": "audio/uk/book.mp3",
-          "audio_us": "audio/us/book.mp3",
           "meaning": "quyển sách",
           "example": "I have a book.",
           "example_vi": "Mình có một quyển sách."
-        },
-        {
-          "word": "notebook",
-          "pos": "n",
-          "ipa_uk": "/ˈnəʊtbʊk/",
-          "ipa_us": "/ˈnoʊtbʊk/",
-          "audio_uk": "audio/uk/notebook.mp3",
-          "audio_us": "audio/us/notebook.mp3",
-          "meaning": "quyển vở",
-          "example": "I have a notebook.",
-          "example_vi": "Mình có một quyển vở."
-        },
-        {
-          "word": "pen",
-          "pos": "n",
-          "ipa_uk": "/pen/",
-          "ipa_us": "/pen/",
-          "audio_uk": "audio/uk/pen.mp3",
-          "audio_us": "audio/us/pen.mp3",
-          "meaning": "bút mực",
-          "example": "I have a pen.",
-          "example_vi": "Mình có một cái bút mực."
-        },
-        {
-          "word": "pencil case",
-          "pos": "n",
-          "ipa_uk": "/ˈpensl keɪs/",
-          "ipa_us": "/ˈpensəl keɪs/",
-          "audio_uk": "audio/uk/pencil-case.mp3",
-          "audio_us": "audio/us/pencil-case.mp3",
-          "meaning": "hộp bút",
-          "example": "I have a pencil case.",
-          "example_vi": "Mình có một cái hộp bút."
         },
         {
           "word": "eraser",
           "pos": "n",
           "ipa_uk": "/ɪˈreɪzə(r)/",
           "ipa_us": "/ɪˈreɪsɚ/",
-          "audio_uk": "audio/uk/eraser.mp3",
-          "audio_us": "audio/us/eraser.mp3",
           "meaning": "cục tẩy",
           "example": "I have an eraser.",
           "example_vi": "Mình có một cục tẩy."
+        },
+        {
+          "word": "pen",
+          "pos": "n",
+          "ipa_uk": "/pen/",
+          "ipa_us": "/pen/",
+          "meaning": "cái bút mực",
+          "example": "I have a pen.",
+          "example_vi": "Mình có một cái bút mực."
         },
         {
           "word": "ruler",
           "pos": "n",
           "ipa_uk": "/ˈruːlə(r)/",
           "ipa_us": "/ˈruːlɚ/",
-          "audio_uk": "audio/uk/ruler.mp3",
-          "audio_us": "audio/us/ruler.mp3",
           "meaning": "thước kẻ",
           "example": "This is my ruler.",
           "example_vi": "Đây là thước kẻ của mình."
+        },
+        {
+          "word": "notebook",
+          "pos": "n",
+          "ipa_uk": "/ˈnəʊtbʊk/",
+          "ipa_us": "/ˈnoʊtbʊk/",
+          "meaning": "quyển vở",
+          "example": "I have a notebook.",
+          "example_vi": "Mình có một quyển vở."
+        },
+        {
+          "word": "pencil",
+          "pos": "n",
+          "ipa_uk": "/ˈpensl/",
+          "ipa_us": "/ˈpensəl/",
+          "meaning": "bút chì",
+          "example": "Do you have a pencil?",
+          "example_vi": "Bạn có bút chì không?"
+        },
+        {
+          "word": "pencil case",
+          "pos": "n",
+          "ipa_uk": "/ˈpensl keɪs/",
+          "ipa_us": "/ˈpensəl keɪs/",
+          "meaning": "hộp bút",
+          "example": "I have a pencil case.",
+          "example_vi": "Mình có một cái hộp bút."
         },
         {
           "word": "school bag",
           "pos": "n",
           "ipa_uk": "/ˈskuːl bæɡ/",
           "ipa_us": "/ˈskuːl bæɡ/",
-          "audio_uk": "audio/uk/school-bag.mp3",
-          "audio_us": "audio/us/school-bag.mp3",
           "meaning": "cặp sách",
           "example": "I have a school bag.",
           "example_vi": "Mình có một cái cặp sách."
-        },
-        {
-          "word": "have",
-          "pos": "v",
-          "ipa_uk": "/hæv/",
-          "ipa_us": "/hæv/",
-          "audio_uk": "audio/uk/have.mp3",
-          "audio_us": "audio/us/have.mp3",
-          "meaning": "có",
-          "example": "I have a notebook.",
-          "example_vi": "Mình có một quyển vở."
         }
       ]
     },
@@ -1010,10 +704,13 @@
       "title_vi": "Màu sắc",
       "status": "sourced",
       "sources": [
-        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-9-ngu-phap-global-success-co-dap-an-a130591.html",
-        "https://vietjack.com/tieng-anh-3-kn/unit-9-colours.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-9-colours.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-9-colours.jsp"
+        "Mind map kì 1 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1021,121 +718,81 @@
           "pos": "n",
           "ipa_uk": "/ˈkʌlə(r)/",
           "ipa_us": "/ˈkʌlɚ/",
-          "audio_uk": "audio/uk/colour.mp3",
-          "audio_us": "audio/us/colour.mp3",
           "meaning": "màu sắc",
           "example": "What colour is it?",
           "example_vi": "Nó màu gì?"
-        },
-        {
-          "word": "red",
-          "pos": "adj",
-          "ipa_uk": "/red/",
-          "ipa_us": "/red/",
-          "audio_uk": "audio/uk/red.mp3",
-          "audio_us": "audio/us/red.mp3",
-          "meaning": "màu đỏ",
-          "example": "It's red.",
-          "example_vi": "Nó màu đỏ."
-        },
-        {
-          "word": "blue",
-          "pos": "adj",
-          "ipa_uk": "/bluː/",
-          "ipa_us": "/bluː/",
-          "audio_uk": "audio/uk/blue.mp3",
-          "audio_us": "audio/us/blue.mp3",
-          "meaning": "màu xanh dương",
-          "example": "It's blue.",
-          "example_vi": "Nó màu xanh dương."
-        },
-        {
-          "word": "green",
-          "pos": "adj",
-          "ipa_uk": "/ɡriːn/",
-          "ipa_us": "/ɡriːn/",
-          "audio_uk": "audio/uk/green.mp3",
-          "audio_us": "audio/us/green.mp3",
-          "meaning": "màu xanh lá cây",
-          "example": "It's green.",
-          "example_vi": "Nó màu xanh lá cây."
-        },
-        {
-          "word": "yellow",
-          "pos": "adj",
-          "ipa_uk": "/ˈjeləʊ/",
-          "ipa_us": "/ˈjeloʊ/",
-          "audio_uk": "audio/uk/yellow.mp3",
-          "audio_us": "audio/us/yellow.mp3",
-          "meaning": "màu vàng",
-          "example": "It's yellow.",
-          "example_vi": "Nó màu vàng."
-        },
-        {
-          "word": "white",
-          "pos": "adj",
-          "ipa_uk": "/waɪt/",
-          "ipa_us": "/waɪt/",
-          "audio_uk": "audio/uk/white.mp3",
-          "audio_us": "audio/us/white.mp3",
-          "meaning": "màu trắng",
-          "example": "It's white.",
-          "example_vi": "Nó màu trắng."
         },
         {
           "word": "black",
           "pos": "adj",
           "ipa_uk": "/blæk/",
           "ipa_us": "/blæk/",
-          "audio_uk": "audio/uk/black.mp3",
-          "audio_us": "audio/us/black.mp3",
           "meaning": "màu đen",
           "example": "They're black.",
           "example_vi": "Chúng màu đen."
+        },
+        {
+          "word": "blue",
+          "pos": "adj",
+          "ipa_uk": "/bluː/",
+          "ipa_us": "/bluː/",
+          "meaning": "màu xanh da trời",
+          "example": "It's blue.",
+          "example_vi": "Nó màu xanh dương."
         },
         {
           "word": "brown",
           "pos": "adj",
           "ipa_uk": "/braʊn/",
           "ipa_us": "/braʊn/",
-          "audio_uk": "audio/uk/brown.mp3",
-          "audio_us": "audio/us/brown.mp3",
           "meaning": "màu nâu",
           "example": "It's brown.",
           "example_vi": "Nó màu nâu."
+        },
+        {
+          "word": "green",
+          "pos": "adj",
+          "ipa_uk": "/ɡriːn/",
+          "ipa_us": "/ɡriːn/",
+          "meaning": "màu xanh lá cây",
+          "example": "It's green.",
+          "example_vi": "Nó màu xanh lá cây."
         },
         {
           "word": "orange",
           "pos": "adj",
           "ipa_uk": "/ˈɒrɪndʒ/",
           "ipa_us": "/ˈɔːrɪndʒ/",
-          "audio_uk": "audio/uk/orange.mp3",
-          "audio_us": "audio/us/orange.mp3",
-          "meaning": "màu cam",
+          "meaning": "màu da cam",
           "example": "They're orange.",
           "example_vi": "Chúng màu cam."
         },
         {
-          "word": "what colour is it?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒt ˈkʌlər ɪz ɪt/",
-          "ipa_us": "/ˌwʌt ˈkʌlɚ ɪz ɪt/",
-          "audio_uk": "audio/uk/what-colour-is-it.mp3",
-          "audio_us": "audio/us/what-colour-is-it.mp3",
-          "meaning": "nó màu gì?",
-          "example": "What colour is it? – It's red.",
-          "example_vi": "Nó màu gì? – Nó màu đỏ."
+          "word": "red",
+          "pos": "adj",
+          "ipa_uk": "/red/",
+          "ipa_us": "/red/",
+          "meaning": "màu đỏ",
+          "example": "It's red.",
+          "example_vi": "Nó màu đỏ."
         },
         {
-          "word": "what colour are they?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒt ˈkʌlər ɑː ðeɪ/",
-          "ipa_us": "/ˌwʌt ˈkʌlɚ ɑːr ðeɪ/",
-          "audio_uk": "audio/uk/what-colour-are-they.mp3",
-          "audio_us": "audio/us/what-colour-are-they.mp3",
-          "meaning": "chúng màu gì?",
-          "example": "What colour are they? – They're blue.",
-          "example_vi": "Chúng màu gì? – Chúng màu xanh dương."
+          "word": "white",
+          "pos": "adj",
+          "ipa_uk": "/waɪt/",
+          "ipa_us": "/waɪt/",
+          "meaning": "màu trắng",
+          "example": "It's white.",
+          "example_vi": "Nó màu trắng."
+        },
+        {
+          "word": "yellow",
+          "pos": "adj",
+          "ipa_uk": "/ˈjeləʊ/",
+          "ipa_us": "/ˈjeloʊ/",
+          "meaning": "màu vàng",
+          "example": "It's yellow.",
+          "example_vi": "Nó màu vàng."
         }
       ]
     },
@@ -1145,9 +802,13 @@
       "title_vi": "Hoạt động giờ ra chơi",
       "status": "sourced",
       "sources": [
-        "https://loigiaihay.com/tieng-anh-lop-3-unit-10-lesson-1-trang-68-global-success-a108095.html",
-        "https://loigiaihay.com/trac-nghiem-tieng-anh-3-unit-10-ngu-phap-global-success-co-dap-an-a130593.html",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-10-break-time-activities.jsp"
+        "Giáo án anh 3 Global Unit 10 (Lesson 1–2 vocabulary) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1155,20 +816,7 @@
           "pos": "n",
           "ipa_uk": "/ˈbreɪk taɪm/",
           "ipa_us": "/ˈbreɪk taɪm/",
-          "audio_uk": "audio/uk/break-time.mp3",
-          "audio_us": "audio/us/break-time.mp3",
           "meaning": "giờ ra chơi",
-          "example": "I play chess at break time.",
-          "example_vi": "Mình chơi cờ vua vào giờ ra chơi."
-        },
-        {
-          "word": "play chess",
-          "pos": "phr",
-          "ipa_uk": "/ˌpleɪ ˈtʃes/",
-          "ipa_us": "/ˌpleɪ ˈtʃes/",
-          "audio_uk": "audio/uk/play-chess.mp3",
-          "audio_us": "audio/us/play-chess.mp3",
-          "meaning": "chơi cờ vua",
           "example": "I play chess at break time.",
           "example_vi": "Mình chơi cờ vua vào giờ ra chơi."
         },
@@ -1177,8 +825,6 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈvɒlibɔːl/",
           "ipa_us": "/ˌpleɪ ˈvɑːlibɑːl/",
-          "audio_uk": "audio/uk/play-volleyball.mp3",
-          "audio_us": "audio/us/play-volleyball.mp3",
           "meaning": "chơi bóng chuyền",
           "example": "We play volleyball.",
           "example_vi": "Chúng mình chơi bóng chuyền."
@@ -1188,30 +834,51 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈbæskətbɑːl/",
-          "audio_uk": "audio/uk/play-basketball.mp3",
-          "audio_us": "audio/us/play-basketball.mp3",
           "meaning": "chơi bóng rổ",
           "example": "I play basketball at break time.",
           "example_vi": "Mình chơi bóng rổ vào giờ ra chơi."
+        },
+        {
+          "word": "play chess",
+          "pos": "phr",
+          "ipa_uk": "/ˌpleɪ ˈtʃes/",
+          "ipa_us": "/ˌpleɪ ˈtʃes/",
+          "meaning": "chơi cờ vua",
+          "example": "I play chess at break time.",
+          "example_vi": "Mình chơi cờ vua vào giờ ra chơi."
         },
         {
           "word": "play badminton",
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈbædmɪntən/",
           "ipa_us": "/ˌpleɪ ˈbædmɪntən/",
-          "audio_uk": "audio/uk/play-badminton.mp3",
-          "audio_us": "audio/us/play-badminton.mp3",
           "meaning": "chơi cầu lông",
           "example": "We play badminton.",
           "example_vi": "Chúng mình chơi cầu lông."
+        },
+        {
+          "word": "do word puzzles",
+          "pos": "phr",
+          "ipa_uk": "/ˌduː ˈwɜːd pʌzlz/",
+          "ipa_us": "/ˌduː ˈwɝːd ˌpʌzəlz/",
+          "meaning": "giải ô chữ",
+          "example": "I do word puzzles at break time.",
+          "example_vi": "Mình chơi giải ô chữ vào giờ ra chơi."
+        },
+        {
+          "word": "chat with friends",
+          "pos": "phr",
+          "ipa_uk": "/ˌtʃæt wɪð ˈfrendz/",
+          "ipa_us": "/ˌtʃæt wɪð ˈfrendz/",
+          "meaning": "trò chuyện với bạn bè",
+          "example": "I chat with my friends.",
+          "example_vi": "Mình trò chuyện với các bạn."
         },
         {
           "word": "play football",
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈfʊtbɔːl/",
           "ipa_us": "/ˌpleɪ ˈfʊtbɑːl/",
-          "audio_uk": "audio/uk/play-football.mp3",
-          "audio_us": "audio/us/play-football.mp3",
           "meaning": "chơi bóng đá",
           "example": "I play football at break time.",
           "example_vi": "Mình chơi bóng đá vào giờ ra chơi."
@@ -1221,44 +888,9 @@
           "pos": "phr",
           "ipa_uk": "/ˌpleɪ ˈteɪbl tenɪs/",
           "ipa_us": "/ˌpleɪ ˈteɪbəl ˌtenɪs/",
-          "audio_uk": "audio/uk/play-table-tennis.mp3",
-          "audio_us": "audio/us/play-table-tennis.mp3",
           "meaning": "chơi bóng bàn",
           "example": "We play table tennis.",
           "example_vi": "Chúng mình chơi bóng bàn."
-        },
-        {
-          "word": "chat with friends",
-          "pos": "phr",
-          "ipa_uk": "/ˌtʃæt wɪð ˈfrendz/",
-          "ipa_us": "/ˌtʃæt wɪð ˈfrendz/",
-          "audio_uk": "audio/uk/chat-with-friends.mp3",
-          "audio_us": "audio/us/chat-with-friends.mp3",
-          "meaning": "trò chuyện với bạn bè",
-          "example": "I chat with my friends.",
-          "example_vi": "Mình trò chuyện với các bạn."
-        },
-        {
-          "word": "do word puzzles",
-          "pos": "phr",
-          "ipa_uk": "/ˌduː ˈwɜːd pʌzlz/",
-          "ipa_us": "/ˌduː ˈwɝːd ˌpʌzəlz/",
-          "audio_uk": "audio/uk/do-word-puzzles.mp3",
-          "audio_us": "audio/us/do-word-puzzles.mp3",
-          "meaning": "chơi giải ô chữ",
-          "example": "I do word puzzles at break time.",
-          "example_vi": "Mình chơi giải ô chữ vào giờ ra chơi."
-        },
-        {
-          "word": "what do you do at break time?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒt də juː ˈduː ət ˈbreɪk taɪm/",
-          "ipa_us": "/ˌwʌt duː juː ˈduː æt ˈbreɪk taɪm/",
-          "audio_uk": "audio/uk/what-do-you-do-at-break-time.mp3",
-          "audio_us": "audio/us/what-do-you-do-at-break-time.mp3",
-          "meaning": "bạn làm gì vào giờ ra chơi?",
-          "example": "What do you do at break time? – I play football.",
-          "example_vi": "Bạn làm gì vào giờ ra chơi? – Mình chơi bóng đá."
         }
       ]
     },
@@ -1268,9 +900,13 @@
       "title_vi": "Gia đình của mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-11-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-11-my-family.jsp",
-        "https://hoatieu.vn/de-cuong-on-tap-hoc-ki-2-tieng-anh-3-global-success-230925"
+        "Giáo án anh 3 Global U11 (Lesson 1–2 vocabulary) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1278,41 +914,15 @@
           "pos": "n",
           "ipa_uk": "/ˈfæməli/",
           "ipa_us": "/ˈfæməli/",
-          "audio_uk": "audio/uk/family.mp3",
-          "audio_us": "audio/us/family.mp3",
           "meaning": "gia đình",
           "example": "This is my family.",
           "example_vi": "Đây là gia đình của mình."
-        },
-        {
-          "word": "grandfather",
-          "pos": "n",
-          "ipa_uk": "/ˈɡrænfɑːðə(r)/",
-          "ipa_us": "/ˈɡrænfɑːðɚ/",
-          "audio_uk": "audio/uk/grandfather.mp3",
-          "audio_us": "audio/us/grandfather.mp3",
-          "meaning": "ông",
-          "example": "It's my grandfather.",
-          "example_vi": "Đó là ông của mình."
-        },
-        {
-          "word": "grandmother",
-          "pos": "n",
-          "ipa_uk": "/ˈɡrænmʌðə(r)/",
-          "ipa_us": "/ˈɡrændmʌðɚ/",
-          "audio_uk": "audio/uk/grandmother.mp3",
-          "audio_us": "audio/us/grandmother.mp3",
-          "meaning": "bà",
-          "example": "That's my grandmother.",
-          "example_vi": "Kia là bà của mình."
         },
         {
           "word": "father",
           "pos": "n",
           "ipa_uk": "/ˈfɑːðə(r)/",
           "ipa_us": "/ˈfɑːðɚ/",
-          "audio_uk": "audio/uk/father.mp3",
-          "audio_us": "audio/us/father.mp3",
           "meaning": "bố",
           "example": "Who's that? – It's my father.",
           "example_vi": "Kia là ai? – Đó là bố của mình."
@@ -1322,8 +932,6 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌðə(r)/",
           "ipa_us": "/ˈmʌðɚ/",
-          "audio_uk": "audio/uk/mother.mp3",
-          "audio_us": "audio/us/mother.mp3",
           "meaning": "mẹ",
           "example": "Who's that? – It's my mother.",
           "example_vi": "Kia là ai? – Đó là mẹ của mình."
@@ -1333,8 +941,6 @@
           "pos": "n",
           "ipa_uk": "/ˈbrʌðə(r)/",
           "ipa_us": "/ˈbrʌðɚ/",
-          "audio_uk": "audio/uk/brother.mp3",
-          "audio_us": "audio/us/brother.mp3",
           "meaning": "anh trai, em trai",
           "example": "It's my brother.",
           "example_vi": "Đó là anh trai của mình."
@@ -1344,77 +950,99 @@
           "pos": "n",
           "ipa_uk": "/ˈsɪstə(r)/",
           "ipa_us": "/ˈsɪstɚ/",
-          "audio_uk": "audio/uk/sister.mp3",
-          "audio_us": "audio/us/sister.mp3",
           "meaning": "chị gái, em gái",
           "example": "It's my sister.",
           "example_vi": "Đó là chị gái của mình."
         },
         {
-          "word": "man",
-          "pos": "n",
-          "ipa_uk": "/mæn/",
-          "ipa_us": "/mæn/",
-          "audio_uk": "audio/uk/man.mp3",
-          "audio_us": "audio/us/man.mp3",
-          "meaning": "người đàn ông",
-          "example": "Who's the man?",
-          "example_vi": "Người đàn ông đó là ai?"
+          "word": "eleven",
+          "pos": "num",
+          "ipa_uk": "/ɪˈlevn/",
+          "ipa_us": "/ɪˈlevən/",
+          "meaning": "số 11",
+          "example": "He's eleven years old.",
+          "example_vi": "Anh ấy mười một tuổi."
         },
         {
-          "word": "woman",
-          "pos": "n",
-          "ipa_uk": "/ˈwʊmən/",
-          "ipa_us": "/ˈwʊmən/",
-          "audio_uk": "audio/uk/woman.mp3",
-          "audio_us": "audio/us/woman.mp3",
-          "meaning": "người phụ nữ",
-          "example": "Who's the woman?",
-          "example_vi": "Người phụ nữ đó là ai?"
+          "word": "twelve",
+          "pos": "num",
+          "ipa_uk": "/twelv/",
+          "ipa_us": "/twelv/",
+          "meaning": "số 12",
+          "example": "She's twelve years old.",
+          "example_vi": "Chị ấy mười hai tuổi."
         },
         {
-          "word": "photo",
-          "pos": "n",
-          "ipa_uk": "/ˈfəʊtəʊ/",
-          "ipa_us": "/ˈfoʊtoʊ/",
-          "audio_uk": "audio/uk/photo.mp3",
-          "audio_us": "audio/us/photo.mp3",
-          "meaning": "bức ảnh",
-          "example": "Look at this photo.",
-          "example_vi": "Hãy nhìn bức ảnh này."
+          "word": "thirteen",
+          "pos": "num",
+          "ipa_uk": "/ˌθɜːˈtiːn/",
+          "ipa_us": "/ˌθɝːˈtiːn/",
+          "meaning": "số 13",
+          "example": "My brother is thirteen.",
+          "example_vi": "Anh trai mình mười ba tuổi."
         },
         {
-          "word": "who",
-          "pos": "pron",
-          "ipa_uk": "/huː/",
-          "ipa_us": "/huː/",
-          "audio_uk": "audio/uk/who.mp3",
-          "audio_us": "audio/us/who.mp3",
-          "meaning": "ai",
-          "example": "Who's that?",
-          "example_vi": "Kia là ai?"
+          "word": "fourteen",
+          "pos": "num",
+          "ipa_uk": "/ˌfɔːˈtiːn/",
+          "ipa_us": "/ˌfɔːrˈtiːn/",
+          "meaning": "số 14",
+          "example": "I'm fourteen years old.",
+          "example_vi": "Tôi mười bốn tuổi."
         },
         {
-          "word": "who's that?",
-          "pos": "phr",
-          "ipa_uk": "/ˌhuːz ˈðæt/",
-          "ipa_us": "/ˌhuːz ˈðæt/",
-          "audio_uk": "audio/uk/who-s-that.mp3",
-          "audio_us": "audio/us/who-s-that.mp3",
-          "meaning": "kia là ai?",
-          "example": "Who's that? – It's my brother.",
-          "example_vi": "Kia là ai? – Đó là anh trai của mình."
+          "word": "fifteen",
+          "pos": "num",
+          "ipa_uk": "/ˌfɪfˈtiːn/",
+          "ipa_us": "/fɪfˈtiːn/",
+          "meaning": "số 15",
+          "example": "How old is he? He's fifteen.",
+          "example_vi": "Anh ấy bao nhiêu tuổi? Anh ấy mười lăm tuổi."
+        },
+        {
+          "word": "sixteen",
+          "pos": "num",
+          "ipa_uk": "/ˌsɪksˈtiːn/",
+          "ipa_us": "/sɪkˈstiːn/",
+          "meaning": "số 16",
+          "example": "My sister is sixteen.",
+          "example_vi": "Chị gái mình mười sáu tuổi."
+        },
+        {
+          "word": "seventeen",
+          "pos": "num",
+          "ipa_uk": "/ˌsevnˈtiːn/",
+          "ipa_us": "/ˌsevənˈtiːn/",
+          "meaning": "số 17",
+          "example": "He's seventeen years old.",
+          "example_vi": "Anh ấy mười bảy tuổi."
+        },
+        {
+          "word": "eighteen",
+          "pos": "num",
+          "ipa_uk": "/ˌeɪˈtiːn/",
+          "ipa_us": "/eɪˈtiːn/",
+          "meaning": "số 18",
+          "example": "He's eighteen.",
+          "example_vi": "Anh ấy mười tám tuổi."
         },
         {
           "word": "nineteen",
           "pos": "num",
           "ipa_uk": "/ˌnaɪnˈtiːn/",
           "ipa_us": "/ˌnaɪnˈtiːn/",
-          "audio_uk": "audio/uk/nineteen.mp3",
-          "audio_us": "audio/us/nineteen.mp3",
-          "meaning": "mười chín",
+          "meaning": "số 19",
           "example": "My sister is nineteen.",
           "example_vi": "Chị gái mình mười chín tuổi."
+        },
+        {
+          "word": "twenty",
+          "pos": "num",
+          "ipa_uk": "/ˈtwenti/",
+          "ipa_us": "/ˈtwenti/",
+          "meaning": "số 20",
+          "example": "My brother is twenty.",
+          "example_vi": "Anh trai mình hai mươi tuổi."
         }
       ]
     },
@@ -1424,8 +1052,13 @@
       "title_vi": "Nghề nghiệp",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-12-jobs.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-12-jobs.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1433,66 +1066,81 @@
           "pos": "n",
           "ipa_uk": "/dʒɒb/",
           "ipa_us": "/dʒɑːb/",
-          "audio_uk": "audio/uk/job.mp3",
-          "audio_us": "audio/us/job.mp3",
           "meaning": "nghề nghiệp, công việc",
           "example": "What's his job?",
           "example_vi": "Nghề nghiệp của chú ấy là gì?"
-        },
-        {
-          "word": "doctor",
-          "pos": "n",
-          "ipa_uk": "/ˈdɒktə(r)/",
-          "ipa_us": "/ˈdɑːktɚ/",
-          "audio_uk": "audio/uk/doctor.mp3",
-          "audio_us": "audio/us/doctor.mp3",
-          "meaning": "bác sĩ",
-          "example": "She's a doctor.",
-          "example_vi": "Cô ấy là bác sĩ."
-        },
-        {
-          "word": "nurse",
-          "pos": "n",
-          "ipa_uk": "/nɜːs/",
-          "ipa_us": "/nɝːs/",
-          "audio_uk": "audio/uk/nurse.mp3",
-          "audio_us": "audio/us/nurse.mp3",
-          "meaning": "y tá",
-          "example": "My mother is a nurse.",
-          "example_vi": "Mẹ mình là y tá."
-        },
-        {
-          "word": "farmer",
-          "pos": "n",
-          "ipa_uk": "/ˈfɑːmə(r)/",
-          "ipa_us": "/ˈfɑːrmɚ/",
-          "audio_uk": "audio/uk/farmer.mp3",
-          "audio_us": "audio/us/farmer.mp3",
-          "meaning": "nông dân",
-          "example": "He's a farmer.",
-          "example_vi": "Chú ấy là nông dân."
         },
         {
           "word": "cook",
           "pos": "n",
           "ipa_uk": "/kʊk/",
           "ipa_us": "/kʊk/",
-          "audio_uk": "audio/uk/cook.mp3",
-          "audio_us": "audio/us/cook.mp3",
           "meaning": "đầu bếp",
           "example": "My father is a cook.",
           "example_vi": "Bố mình là đầu bếp."
+        },
+        {
+          "word": "doctor",
+          "pos": "n",
+          "ipa_uk": "/ˈdɒktə(r)/",
+          "ipa_us": "/ˈdɑːktɚ/",
+          "meaning": "bác sĩ",
+          "example": "She's a doctor.",
+          "example_vi": "Cô ấy là bác sĩ."
+        },
+        {
+          "word": "driver",
+          "pos": "n",
+          "ipa_uk": "/ˈdraɪvə(r)/",
+          "ipa_us": "/ˈdraɪvɚ/",
+          "meaning": "tài xế, lái xe",
+          "example": "He's a driver.",
+          "example_vi": "Chú ấy là tài xế."
+        },
+        {
+          "word": "farmer",
+          "pos": "n",
+          "ipa_uk": "/ˈfɑːmə(r)/",
+          "ipa_us": "/ˈfɑːrmɚ/",
+          "meaning": "nông dân",
+          "example": "He's a farmer.",
+          "example_vi": "Chú ấy là nông dân."
+        },
+        {
+          "word": "nurse",
+          "pos": "n",
+          "ipa_uk": "/nɜːs/",
+          "ipa_us": "/nɝːs/",
+          "meaning": "y tá",
+          "example": "My mother is a nurse.",
+          "example_vi": "Mẹ mình là y tá."
         },
         {
           "word": "singer",
           "pos": "n",
           "ipa_uk": "/ˈsɪŋə(r)/",
           "ipa_us": "/ˈsɪŋɚ/",
-          "audio_uk": "audio/uk/singer.mp3",
-          "audio_us": "audio/us/singer.mp3",
           "meaning": "ca sĩ",
           "example": "She's a singer.",
           "example_vi": "Cô ấy là ca sĩ."
+        },
+        {
+          "word": "teacher",
+          "pos": "n",
+          "ipa_uk": "/ˈtiːtʃə(r)/",
+          "ipa_us": "/ˈtiːtʃɚ/",
+          "meaning": "giáo viên",
+          "example": "My mother is a teacher.",
+          "example_vi": "Mẹ mình là giáo viên."
+        },
+        {
+          "word": "worker",
+          "pos": "n",
+          "ipa_uk": "/ˈwɜːkə(r)/",
+          "ipa_us": "/ˈwɝːkɚ/",
+          "meaning": "công nhân",
+          "example": "Is he a worker?",
+          "example_vi": "Chú ấy có phải công nhân không?"
         }
       ]
     },
@@ -1502,10 +1150,13 @@
       "title_vi": "Ngôi nhà của mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-1-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-2-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-13-lesson-3-lop-3.jsp",
-        "https://www.vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-13-grammar.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1513,8 +1164,6 @@
           "pos": "n",
           "ipa_uk": "/haʊs/",
           "ipa_us": "/haʊs/",
-          "audio_uk": "audio/uk/house.mp3",
-          "audio_us": "audio/us/house.mp3",
           "meaning": "ngôi nhà",
           "example": "This is my house.",
           "example_vi": "Đây là ngôi nhà của mình."
@@ -1524,8 +1173,6 @@
           "pos": "n",
           "ipa_uk": "/ˈlɪvɪŋ ruːm/",
           "ipa_us": "/ˈlɪvɪŋ ruːm/",
-          "audio_uk": "audio/uk/living-room.mp3",
-          "audio_us": "audio/us/living-room.mp3",
           "meaning": "phòng khách",
           "example": "Where's the living room?",
           "example_vi": "Phòng khách ở đâu?"
@@ -1535,8 +1182,6 @@
           "pos": "n",
           "ipa_uk": "/ˈkɪtʃɪn/",
           "ipa_us": "/ˈkɪtʃən/",
-          "audio_uk": "audio/uk/kitchen.mp3",
-          "audio_us": "audio/us/kitchen.mp3",
           "meaning": "nhà bếp",
           "example": "The kitchen is there.",
           "example_vi": "Nhà bếp ở đằng kia."
@@ -1546,8 +1191,6 @@
           "pos": "n",
           "ipa_uk": "/ˈbedruːm/",
           "ipa_us": "/ˈbedruːm/",
-          "audio_uk": "audio/uk/bedroom.mp3",
-          "audio_us": "audio/us/bedroom.mp3",
           "meaning": "phòng ngủ",
           "example": "Where's the bedroom? – It's here.",
           "example_vi": "Phòng ngủ ở đâu? – Nó ở đây."
@@ -1557,41 +1200,15 @@
           "pos": "n",
           "ipa_uk": "/ˈbɑːθruːm/",
           "ipa_us": "/ˈbæθruːm/",
-          "audio_uk": "audio/uk/bathroom.mp3",
-          "audio_us": "audio/us/bathroom.mp3",
           "meaning": "phòng tắm",
           "example": "Where's the bathroom?",
           "example_vi": "Phòng tắm ở đâu?"
-        },
-        {
-          "word": "here",
-          "pos": "adv",
-          "ipa_uk": "/hɪə(r)/",
-          "ipa_us": "/hiːr/",
-          "audio_uk": "audio/uk/here.mp3",
-          "audio_us": "audio/us/here.mp3",
-          "meaning": "ở đây",
-          "example": "It's here.",
-          "example_vi": "Nó ở đây."
-        },
-        {
-          "word": "there",
-          "pos": "adv",
-          "ipa_uk": "/ðeə(r)/",
-          "ipa_us": "/ðer/",
-          "audio_uk": "audio/uk/there.mp3",
-          "audio_us": "audio/us/there.mp3",
-          "meaning": "ở đằng kia",
-          "example": "It's there.",
-          "example_vi": "Nó ở đằng kia."
         },
         {
           "word": "table",
           "pos": "n",
           "ipa_uk": "/ˈteɪbl/",
           "ipa_us": "/ˈteɪbəl/",
-          "audio_uk": "audio/uk/table.mp3",
-          "audio_us": "audio/us/table.mp3",
           "meaning": "cái bàn",
           "example": "Where are the tables?",
           "example_vi": "Những cái bàn ở đâu?"
@@ -1601,33 +1218,36 @@
           "pos": "n",
           "ipa_uk": "/tʃeə(r)/",
           "ipa_us": "/tʃer/",
-          "audio_uk": "audio/uk/chair.mp3",
-          "audio_us": "audio/us/chair.mp3",
           "meaning": "cái ghế",
           "example": "The chairs are in the living room.",
           "example_vi": "Những cái ghế ở trong phòng khách."
         },
         {
-          "word": "where's the ...?",
-          "pos": "phr",
-          "ipa_uk": "/ˈweəz ðə/",
-          "ipa_us": "/ˈwerz ðə .../",
-          "audio_uk": "audio/uk/where-s-the.mp3",
-          "audio_us": "audio/us/where-s-the.mp3",
-          "meaning": "... ở đâu?",
-          "example": "Where's the kitchen?",
-          "example_vi": "Nhà bếp ở đâu?"
+          "word": "lamp",
+          "pos": "n",
+          "ipa_uk": "/læmp/",
+          "ipa_us": "/læmp/",
+          "meaning": "cái đèn",
+          "example": "There are two lamps.",
+          "example_vi": "Có hai cái đèn bàn."
         },
         {
-          "word": "where are the ...?",
-          "pos": "phr",
-          "ipa_uk": "/ˈweər ɑː ðə/",
-          "ipa_us": "/ˈwer ɑːr ðə .../",
-          "audio_uk": "audio/uk/where-are-the.mp3",
-          "audio_us": "audio/us/where-are-the.mp3",
-          "meaning": "những ... ở đâu?",
-          "example": "Where are the chairs?",
-          "example_vi": "Những cái ghế ở đâu?"
+          "word": "here",
+          "pos": "adv",
+          "ipa_uk": "/hɪə(r)/",
+          "ipa_us": "/hiːr/",
+          "meaning": "ở đây",
+          "example": "It's here.",
+          "example_vi": "Nó ở đây."
+        },
+        {
+          "word": "there",
+          "pos": "adv",
+          "ipa_uk": "/ðeə(r)/",
+          "ipa_us": "/ðer/",
+          "meaning": "ở đó, ở đằng kia",
+          "example": "It's there.",
+          "example_vi": "Nó ở đằng kia."
         }
       ]
     },
@@ -1637,29 +1257,29 @@
       "title_vi": "Phòng ngủ của mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-1-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-14-lesson-2-lop-3.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-14-my-bedroom.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
-          "word": "bedroom",
+          "word": "room",
           "pos": "n",
-          "ipa_uk": "/ˈbedruːm/",
-          "ipa_us": "/ˈbedruːm/",
-          "audio_uk": "audio/uk/bedroom.mp3",
-          "audio_us": "audio/us/bedroom.mp3",
-          "meaning": "phòng ngủ",
-          "example": "This is my bedroom.",
-          "example_vi": "Đây là phòng ngủ của mình."
+          "ipa_uk": "/ruːm/",
+          "ipa_us": "/ruːm/",
+          "meaning": "căn phòng",
+          "example": "There's a bed in the room.",
+          "example_vi": "Có một cái giường trong phòng."
         },
         {
           "word": "bed",
           "pos": "n",
           "ipa_uk": "/bed/",
           "ipa_us": "/bed/",
-          "audio_uk": "audio/uk/bed.mp3",
-          "audio_us": "audio/us/bed.mp3",
           "meaning": "cái giường",
           "example": "There's a bed in the room.",
           "example_vi": "Có một cái giường trong phòng."
@@ -1669,63 +1289,33 @@
           "pos": "n",
           "ipa_uk": "/desk/",
           "ipa_us": "/desk/",
-          "audio_uk": "audio/uk/desk.mp3",
-          "audio_us": "audio/us/desk.mp3",
           "meaning": "bàn học",
           "example": "There's a desk.",
           "example_vi": "Có một cái bàn học."
-        },
-        {
-          "word": "lamp",
-          "pos": "n",
-          "ipa_uk": "/læmp/",
-          "ipa_us": "/læmp/",
-          "audio_uk": "audio/uk/lamp.mp3",
-          "audio_us": "audio/us/lamp.mp3",
-          "meaning": "đèn bàn",
-          "example": "There are two lamps.",
-          "example_vi": "Có hai cái đèn bàn."
-        },
-        {
-          "word": "window",
-          "pos": "n",
-          "ipa_uk": "/ˈwɪndəʊ/",
-          "ipa_us": "/ˈwɪndoʊ/",
-          "audio_uk": "audio/uk/window.mp3",
-          "audio_us": "audio/us/window.mp3",
-          "meaning": "cửa sổ",
-          "example": "There are two windows.",
-          "example_vi": "Có hai cái cửa sổ."
         },
         {
           "word": "door",
           "pos": "n",
           "ipa_uk": "/dɔː(r)/",
           "ipa_us": "/dɔːr/",
-          "audio_uk": "audio/uk/door.mp3",
-          "audio_us": "audio/us/door.mp3",
           "meaning": "cửa ra vào",
           "example": "The door is big.",
           "example_vi": "Cái cửa ra vào thì to."
         },
         {
-          "word": "chair",
+          "word": "window",
           "pos": "n",
-          "ipa_uk": "/tʃeə(r)/",
-          "ipa_us": "/tʃer/",
-          "audio_uk": "audio/uk/chair.mp3",
-          "audio_us": "audio/us/chair.mp3",
-          "meaning": "cái ghế",
-          "example": "The chairs are new.",
-          "example_vi": "Những cái ghế còn mới."
+          "ipa_uk": "/ˈwɪndəʊ/",
+          "ipa_us": "/ˈwɪndoʊ/",
+          "meaning": "cửa sổ",
+          "example": "There are two windows.",
+          "example_vi": "Có hai cái cửa sổ."
         },
         {
           "word": "big",
           "pos": "adj",
           "ipa_uk": "/bɪɡ/",
           "ipa_us": "/bɪɡ/",
-          "audio_uk": "audio/uk/big.mp3",
-          "audio_us": "audio/us/big.mp3",
           "meaning": "to, lớn",
           "example": "The door is big.",
           "example_vi": "Cái cửa ra vào thì to."
@@ -1735,8 +1325,6 @@
           "pos": "adj",
           "ipa_uk": "/smɔːl/",
           "ipa_us": "/smɑːl/",
-          "audio_uk": "audio/uk/small.mp3",
-          "audio_us": "audio/us/small.mp3",
           "meaning": "nhỏ",
           "example": "The windows are small.",
           "example_vi": "Những cái cửa sổ thì nhỏ."
@@ -1746,8 +1334,6 @@
           "pos": "adj",
           "ipa_uk": "/njuː/",
           "ipa_us": "/nuː/",
-          "audio_uk": "audio/uk/new.mp3",
-          "audio_us": "audio/us/new.mp3",
           "meaning": "mới",
           "example": "The chair is new.",
           "example_vi": "Cái ghế còn mới."
@@ -1757,33 +1343,9 @@
           "pos": "adj",
           "ipa_uk": "/əʊld/",
           "ipa_us": "/oʊld/",
-          "audio_uk": "audio/uk/old.mp3",
-          "audio_us": "audio/us/old.mp3",
           "meaning": "cũ",
           "example": "The desk is old.",
           "example_vi": "Cái bàn học đã cũ."
-        },
-        {
-          "word": "there's",
-          "pos": "phr",
-          "ipa_uk": "/ðeəz/",
-          "ipa_us": "/ðerz/",
-          "audio_uk": "audio/uk/there-s.mp3",
-          "audio_us": "audio/us/there-s.mp3",
-          "meaning": "có (một)",
-          "example": "There's a bed in the room.",
-          "example_vi": "Có một cái giường trong phòng."
-        },
-        {
-          "word": "there are",
-          "pos": "phr",
-          "ipa_uk": "/ðeər ɑː(r)/",
-          "ipa_us": "/ðer ɑːr/",
-          "audio_uk": "audio/uk/there-are.mp3",
-          "audio_us": "audio/us/there-are.mp3",
-          "meaning": "có (nhiều)",
-          "example": "There are two windows.",
-          "example_vi": "Có hai cái cửa sổ."
         }
       ]
     },
@@ -1793,29 +1355,20 @@
       "title_vi": "Bên bàn ăn",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-1-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-15-lesson-2-lop-3.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-15-at-the-dining-table.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
-        {
-          "word": "dining table",
-          "pos": "n",
-          "ipa_uk": "/ˈdaɪnɪŋ teɪbl/",
-          "ipa_us": "/ˈdaɪnɪŋ ˌteɪbəl/",
-          "audio_uk": "audio/uk/dining-table.mp3",
-          "audio_us": "audio/us/dining-table.mp3",
-          "meaning": "bàn ăn",
-          "example": "The food is on the dining table.",
-          "example_vi": "Thức ăn ở trên bàn ăn."
-        },
         {
           "word": "beans",
           "pos": "n",
           "ipa_uk": "/biːnz/",
           "ipa_us": "/biːnz/",
-          "audio_uk": "audio/uk/beans.mp3",
-          "audio_us": "audio/us/beans.mp3",
           "meaning": "đậu",
           "example": "Would you like some beans?",
           "example_vi": "Bạn có muốn ăn một ít đậu không?"
@@ -1825,8 +1378,6 @@
           "pos": "n",
           "ipa_uk": "/bred/",
           "ipa_us": "/bred/",
-          "audio_uk": "audio/uk/bread.mp3",
-          "audio_us": "audio/us/bread.mp3",
           "meaning": "bánh mì",
           "example": "I'd like some bread.",
           "example_vi": "Mình muốn ăn một ít bánh mì."
@@ -1836,8 +1387,6 @@
           "pos": "n",
           "ipa_uk": "/ˈtʃɪkɪn/",
           "ipa_us": "/ˈtʃɪkən/",
-          "audio_uk": "audio/uk/chicken.mp3",
-          "audio_us": "audio/us/chicken.mp3",
           "meaning": "thịt gà",
           "example": "I'd like some chicken, please.",
           "example_vi": "Cho mình xin một ít thịt gà."
@@ -1847,8 +1396,6 @@
           "pos": "n",
           "ipa_uk": "/eɡ/",
           "ipa_us": "/eɡ/",
-          "audio_uk": "audio/uk/egg.mp3",
-          "audio_us": "audio/us/egg.mp3",
           "meaning": "quả trứng",
           "example": "I'd like some eggs, please.",
           "example_vi": "Cho mình xin vài quả trứng."
@@ -1858,8 +1405,6 @@
           "pos": "n",
           "ipa_uk": "/fɪʃ/",
           "ipa_us": "/fɪʃ/",
-          "audio_uk": "audio/uk/fish.mp3",
-          "audio_us": "audio/us/fish.mp3",
           "meaning": "cá",
           "example": "Would you like some fish?",
           "example_vi": "Bạn có muốn ăn một ít cá không?"
@@ -1869,8 +1414,6 @@
           "pos": "n",
           "ipa_uk": "/miːt/",
           "ipa_us": "/miːt/",
-          "audio_uk": "audio/uk/meat.mp3",
-          "audio_us": "audio/us/meat.mp3",
           "meaning": "thịt",
           "example": "Would you like some meat?",
           "example_vi": "Bạn có muốn ăn một ít thịt không?"
@@ -1880,88 +1423,36 @@
           "pos": "n",
           "ipa_uk": "/raɪs/",
           "ipa_us": "/raɪs/",
-          "audio_uk": "audio/uk/rice.mp3",
-          "audio_us": "audio/us/rice.mp3",
-          "meaning": "cơm, gạo",
+          "meaning": "cơm",
           "example": "I'd like some rice.",
           "example_vi": "Mình muốn ăn một ít cơm."
-        },
-        {
-          "word": "milk",
-          "pos": "n",
-          "ipa_uk": "/mɪlk/",
-          "ipa_us": "/mɪlk/",
-          "audio_uk": "audio/uk/milk.mp3",
-          "audio_us": "audio/us/milk.mp3",
-          "meaning": "sữa",
-          "example": "Would you like some milk?",
-          "example_vi": "Bạn có muốn uống một ít sữa không?"
         },
         {
           "word": "juice",
           "pos": "n",
           "ipa_uk": "/dʒuːs/",
           "ipa_us": "/dʒuːs/",
-          "audio_uk": "audio/uk/juice.mp3",
-          "audio_us": "audio/us/juice.mp3",
           "meaning": "nước ép",
           "example": "Would you like some juice?",
           "example_vi": "Bạn có muốn uống một ít nước ép không?"
+        },
+        {
+          "word": "milk",
+          "pos": "n",
+          "ipa_uk": "/mɪlk/",
+          "ipa_us": "/mɪlk/",
+          "meaning": "sữa",
+          "example": "Would you like some milk?",
+          "example_vi": "Bạn có muốn uống một ít sữa không?"
         },
         {
           "word": "water",
           "pos": "n",
           "ipa_uk": "/ˈwɔːtə(r)/",
           "ipa_us": "/ˈwɑːtɚ/",
-          "audio_uk": "audio/uk/water.mp3",
-          "audio_us": "audio/us/water.mp3",
           "meaning": "nước",
           "example": "I'd like some water.",
           "example_vi": "Mình muốn uống một ít nước."
-        },
-        {
-          "word": "would you like some ...?",
-          "pos": "phr",
-          "ipa_uk": "/wʊd juː ˈlaɪk səm/",
-          "ipa_us": "/wʊd juː ˈlaɪk səm .../",
-          "audio_uk": "audio/uk/would-you-like-some.mp3",
-          "audio_us": "audio/us/would-you-like-some.mp3",
-          "meaning": "bạn có muốn dùng một ít ... không?",
-          "example": "Would you like some juice? – Yes, please.",
-          "example_vi": "Bạn có muốn uống một ít nước ép không? – Vâng, cho mình xin."
-        },
-        {
-          "word": "yes, please",
-          "pos": "phr",
-          "ipa_uk": "/ˌjes ˈpliːz/",
-          "ipa_us": "/ˌjes ˈpliːz/",
-          "audio_uk": "audio/uk/yes-please.mp3",
-          "audio_us": "audio/us/yes-please.mp3",
-          "meaning": "vâng, cho mình xin",
-          "example": "Would you like some beans? – Yes, please.",
-          "example_vi": "Bạn có muốn ăn một ít đậu không? – Vâng, cho mình xin."
-        },
-        {
-          "word": "no, thanks",
-          "pos": "phr",
-          "ipa_uk": "/ˌnəʊ ˈθæŋks/",
-          "ipa_us": "/ˌnoʊ ˈθæŋks/",
-          "audio_uk": "audio/uk/no-thanks.mp3",
-          "audio_us": "audio/us/no-thanks.mp3",
-          "meaning": "không, cảm ơn",
-          "example": "Would you like some fish? – No, thanks.",
-          "example_vi": "Bạn có muốn ăn một ít cá không? – Không, cảm ơn bạn."
-        },
-        {
-          "word": "what would you like to eat?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒt wʊd juː ˈlaɪk tə ˈiːt/",
-          "ipa_us": "/ˌwʌt wʊd juː ˈlaɪk tə ˈiːt/",
-          "audio_uk": "audio/uk/what-would-you-like-to-eat.mp3",
-          "audio_us": "audio/us/what-would-you-like-to-eat.mp3",
-          "meaning": "bạn muốn ăn gì?",
-          "example": "What would you like to eat? – I'd like some eggs.",
-          "example_vi": "Bạn muốn ăn gì? – Mình muốn ăn một ít trứng."
         }
       ]
     },
@@ -1971,9 +1462,13 @@
       "title_vi": "Thú cưng của mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-16-my-pets.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-16-my-pets.jsp",
-        "https://loigiaihay.com/tieng-anh-lop-3-unit-16-lesson-3-trang-44-global-success-a108186.html"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -1981,121 +1476,81 @@
           "pos": "n",
           "ipa_uk": "/pet/",
           "ipa_us": "/pet/",
-          "audio_uk": "audio/uk/pet.mp3",
-          "audio_us": "audio/us/pet.mp3",
           "meaning": "thú cưng",
           "example": "How many pets do you have?",
           "example_vi": "Bạn có bao nhiêu thú cưng?"
-        },
-        {
-          "word": "dog",
-          "pos": "n",
-          "ipa_uk": "/dɒɡ/",
-          "ipa_us": "/dɑːɡ/",
-          "audio_uk": "audio/uk/dog.mp3",
-          "audio_us": "audio/us/dog.mp3",
-          "meaning": "con chó",
-          "example": "I have two dogs.",
-          "example_vi": "Mình có hai con chó."
-        },
-        {
-          "word": "cat",
-          "pos": "n",
-          "ipa_uk": "/kæt/",
-          "ipa_us": "/kæt/",
-          "audio_uk": "audio/uk/cat.mp3",
-          "audio_us": "audio/us/cat.mp3",
-          "meaning": "con mèo",
-          "example": "I have a cat.",
-          "example_vi": "Mình có một con mèo."
         },
         {
           "word": "bird",
           "pos": "n",
           "ipa_uk": "/bɜːd/",
           "ipa_us": "/bɝːd/",
-          "audio_uk": "audio/uk/bird.mp3",
-          "audio_us": "audio/us/bird.mp3",
           "meaning": "con chim",
           "example": "I have some birds.",
           "example_vi": "Mình có vài con chim."
         },
         {
-          "word": "rabbit",
+          "word": "cat",
           "pos": "n",
-          "ipa_uk": "/ˈræbɪt/",
-          "ipa_us": "/ˈræbɪt/",
-          "audio_uk": "audio/uk/rabbit.mp3",
-          "audio_us": "audio/us/rabbit.mp3",
-          "meaning": "con thỏ",
-          "example": "I have three rabbits.",
-          "example_vi": "Mình có ba con thỏ."
+          "ipa_uk": "/kæt/",
+          "ipa_us": "/kæt/",
+          "meaning": "con mèo",
+          "example": "I have a cat.",
+          "example_vi": "Mình có một con mèo."
         },
         {
-          "word": "parrot",
+          "word": "dog",
           "pos": "n",
-          "ipa_uk": "/ˈpærət/",
-          "ipa_us": "/ˈperət/",
-          "audio_uk": "audio/uk/parrot.mp3",
-          "audio_us": "audio/us/parrot.mp3",
-          "meaning": "con vẹt",
-          "example": "How many parrots do you have?",
-          "example_vi": "Bạn có bao nhiêu con vẹt?"
+          "ipa_uk": "/dɒɡ/",
+          "ipa_us": "/dɑːɡ/",
+          "meaning": "con chó",
+          "example": "I have two dogs.",
+          "example_vi": "Mình có hai con chó."
         },
         {
           "word": "goldfish",
           "pos": "n",
           "ipa_uk": "/ˈɡəʊldfɪʃ/",
           "ipa_us": "/ˈɡoʊldfɪʃ/",
-          "audio_uk": "audio/uk/goldfish.mp3",
-          "audio_us": "audio/us/goldfish.mp3",
           "meaning": "cá vàng",
           "example": "I have two goldfish.",
           "example_vi": "Mình có hai con cá vàng."
         },
         {
-          "word": "turtle",
+          "word": "parrot",
           "pos": "n",
-          "ipa_uk": "/ˈtɜːtl/",
-          "ipa_us": "/ˈtɝːtəl/",
-          "audio_uk": "audio/uk/turtle.mp3",
-          "audio_us": "audio/us/turtle.mp3",
-          "meaning": "con rùa",
-          "example": "I have a turtle.",
-          "example_vi": "Mình có một con rùa."
+          "ipa_uk": "/ˈpærət/",
+          "ipa_us": "/ˈperət/",
+          "meaning": "con vẹt",
+          "example": "How many parrots do you have?",
+          "example_vi": "Bạn có bao nhiêu con vẹt?"
         },
         {
-          "word": "many",
-          "pos": "det",
-          "ipa_uk": "/ˈmeni/",
-          "ipa_us": "/ˈmeni/",
-          "audio_uk": "audio/uk/many.mp3",
-          "audio_us": "audio/us/many.mp3",
-          "meaning": "nhiều",
-          "example": "I have many birds.",
-          "example_vi": "Mình có nhiều chim."
+          "word": "rabbit",
+          "pos": "n",
+          "ipa_uk": "/ˈræbɪt/",
+          "ipa_us": "/ˈræbɪt/",
+          "meaning": "con thỏ",
+          "example": "I have three rabbits.",
+          "example_vi": "Mình có ba con thỏ."
         },
         {
           "word": "some",
           "pos": "det",
           "ipa_uk": "/sʌm/",
           "ipa_us": "/sʌm/",
-          "audio_uk": "audio/uk/some.mp3",
-          "audio_us": "audio/us/some.mp3",
           "meaning": "một vài, một ít",
           "example": "I have some parrots.",
           "example_vi": "Mình có vài con vẹt."
         },
         {
-          "word": "how many ... do you have?",
-          "pos": "phr",
-          "ipa_uk": "/ˌhaʊ ˈmeni ... də juː ˈhæv/",
-          "ipa_us": "/ˌhaʊ ˈmeni ... duː juː ˈhæv/",
-          "audio_uk": "audio/uk/how-many-do-you-have.mp3",
-          "audio_us": "audio/us/how-many-do-you-have.mp3",
-          "meaning": "bạn có bao nhiêu ...?",
-          "example": "How many dogs do you have?",
-          "example_vi": "Bạn có bao nhiêu con chó?"
+          "word": "many",
+          "pos": "det",
+          "ipa_uk": "/ˈmeni/",
+          "ipa_us": "/ˈmeni/",
+          "meaning": "nhiều",
+          "example": "I have many birds.",
+          "example_vi": "Mình có nhiều chim."
         }
       ]
     },
@@ -2105,9 +1560,13 @@
       "title_vi": "Đồ chơi của chúng mình",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-17-our-toys.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-17-lesson-1-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-17-lesson-2-lop-3.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -2115,85 +1574,42 @@
           "pos": "n",
           "ipa_uk": "/tɔɪ/",
           "ipa_us": "/tɔɪ/",
-          "audio_uk": "audio/uk/toy.mp3",
-          "audio_us": "audio/us/toy.mp3",
           "meaning": "đồ chơi",
           "example": "These are our toys.",
           "example_vi": "Đây là đồ chơi của chúng mình."
         },
         {
-          "word": "doll",
+          "word": "bus",
           "pos": "n",
-          "ipa_uk": "/dɒl/",
-          "ipa_us": "/dɑːl/",
-          "audio_uk": "audio/uk/doll.mp3",
-          "audio_us": "audio/us/doll.mp3",
-          "meaning": "búp bê",
-          "example": "She has a doll.",
-          "example_vi": "Bạn ấy có một con búp bê."
-        },
-        {
-          "word": "teddy bear",
-          "pos": "n",
-          "ipa_uk": "/ˈtedi beə(r)/",
-          "ipa_us": "/ˈtedi ber/",
-          "audio_uk": "audio/uk/teddy-bear.mp3",
-          "audio_us": "audio/us/teddy-bear.mp3",
-          "meaning": "gấu bông",
-          "example": "He has a teddy bear.",
-          "example_vi": "Bạn ấy có một chú gấu bông."
-        },
-        {
-          "word": "robot",
-          "pos": "n",
-          "ipa_uk": "/ˈrəʊbɒt/",
-          "ipa_us": "/ˈroʊbɑːt/",
-          "audio_uk": "audio/uk/robot.mp3",
-          "audio_us": "audio/us/robot.mp3",
-          "meaning": "người máy, rô-bốt",
-          "example": "I have a robot.",
-          "example_vi": "Mình có một con rô-bốt."
-        },
-        {
-          "word": "ball",
-          "pos": "n",
-          "ipa_uk": "/bɔːl/",
-          "ipa_us": "/bɑːl/",
-          "audio_uk": "audio/uk/ball.mp3",
-          "audio_us": "audio/us/ball.mp3",
-          "meaning": "quả bóng",
-          "example": "He has two balls.",
-          "example_vi": "Bạn ấy có hai quả bóng."
-        },
-        {
-          "word": "kite",
-          "pos": "n",
-          "ipa_uk": "/kaɪt/",
-          "ipa_us": "/kaɪt/",
-          "audio_uk": "audio/uk/kite.mp3",
-          "audio_us": "audio/us/kite.mp3",
-          "meaning": "con diều",
-          "example": "She has a kite.",
-          "example_vi": "Bạn ấy có một con diều."
+          "ipa_uk": "/bʌs/",
+          "ipa_us": "/bʌs/",
+          "meaning": "xe buýt",
+          "example": "She has a bus.",
+          "example_vi": "Bạn ấy có một chiếc xe buýt."
         },
         {
           "word": "car",
           "pos": "n",
           "ipa_uk": "/kɑː(r)/",
           "ipa_us": "/kɑːr/",
-          "audio_uk": "audio/uk/car.mp3",
-          "audio_us": "audio/us/car.mp3",
           "meaning": "ô tô",
           "example": "He has a car.",
           "example_vi": "Bạn ấy có một chiếc ô tô."
+        },
+        {
+          "word": "kite",
+          "pos": "n",
+          "ipa_uk": "/kaɪt/",
+          "ipa_us": "/kaɪt/",
+          "meaning": "con diều",
+          "example": "She has a kite.",
+          "example_vi": "Bạn ấy có một con diều."
         },
         {
           "word": "plane",
           "pos": "n",
           "ipa_uk": "/pleɪn/",
           "ipa_us": "/pleɪn/",
-          "audio_uk": "audio/uk/plane.mp3",
-          "audio_us": "audio/us/plane.mp3",
           "meaning": "máy bay",
           "example": "He has three planes.",
           "example_vi": "Bạn ấy có ba chiếc máy bay."
@@ -2203,19 +1619,24 @@
           "pos": "n",
           "ipa_uk": "/ʃɪp/",
           "ipa_us": "/ʃɪp/",
-          "audio_uk": "audio/uk/ship.mp3",
-          "audio_us": "audio/us/ship.mp3",
-          "meaning": "tàu thủy",
+          "meaning": "con tàu thủy",
           "example": "They have two ships.",
           "example_vi": "Các bạn ấy có hai con tàu thủy."
+        },
+        {
+          "word": "teddy bear",
+          "pos": "n",
+          "ipa_uk": "/ˈtedi beə(r)/",
+          "ipa_us": "/ˈtedi ber/",
+          "meaning": "gấu bông",
+          "example": "He has a teddy bear.",
+          "example_vi": "Bạn ấy có một chú gấu bông."
         },
         {
           "word": "train",
           "pos": "n",
           "ipa_uk": "/treɪn/",
           "ipa_us": "/treɪn/",
-          "audio_uk": "audio/uk/train.mp3",
-          "audio_us": "audio/us/train.mp3",
           "meaning": "tàu hỏa",
           "example": "They have four trains.",
           "example_vi": "Các bạn ấy có bốn đoàn tàu hỏa."
@@ -2225,8 +1646,6 @@
           "pos": "n",
           "ipa_uk": "/trʌk/",
           "ipa_us": "/trʌk/",
-          "audio_uk": "audio/uk/truck.mp3",
-          "audio_us": "audio/us/truck.mp3",
           "meaning": "xe tải",
           "example": "They have five trucks.",
           "example_vi": "Các bạn ấy có năm chiếc xe tải."
@@ -2239,120 +1658,86 @@
       "title_vi": "Chơi và làm",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-18-playing-and-doing.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-18-lesson-2-lop-3.jsp",
-        "https://vietjack.com/sbt-tieng-anh-3-kn/unit-18-playing-and-doing.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
-          "word": "what are you doing?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒt ɑː juː ˈduːɪŋ/",
-          "ipa_us": "/ˌwʌt ɑːr juː ˈduːɪŋ/",
-          "audio_uk": "audio/uk/what-are-you-doing.mp3",
-          "audio_us": "audio/us/what-are-you-doing.mp3",
-          "meaning": "bạn đang làm gì?",
-          "example": "What are you doing? – I'm reading.",
-          "example_vi": "Bạn đang làm gì? – Mình đang đọc sách."
+          "word": "dancing",
+          "pos": "v",
+          "ipa_uk": "/ˈdɑːnsɪŋ/",
+          "ipa_us": "/ˈdænsɪŋ/",
+          "meaning": "đang nhảy múa",
+          "example": "I'm dancing.",
+          "example_vi": "Mình đang nhảy múa."
         },
         {
-          "word": "play basketball",
-          "pos": "phr",
-          "ipa_uk": "/ˌpleɪ ˈbɑːskɪtbɔːl/",
-          "ipa_us": "/ˌpleɪ ˈbæskətbɑːl/",
-          "audio_uk": "audio/uk/play-basketball.mp3",
-          "audio_us": "audio/us/play-basketball.mp3",
-          "meaning": "chơi bóng rổ",
-          "example": "I'm playing basketball.",
-          "example_vi": "Mình đang chơi bóng rổ."
+          "word": "singing",
+          "pos": "v",
+          "ipa_uk": "/ˈsɪŋɪŋ/",
+          "ipa_us": "/ˈsɪŋɪŋ/",
+          "meaning": "đang hát",
+          "example": "I'm singing.",
+          "example_vi": "Mình đang hát."
         },
         {
-          "word": "draw a picture",
+          "word": "reading",
+          "pos": "v",
+          "ipa_uk": "/ˈriːdɪŋ/",
+          "ipa_us": "/ˈriːdɪŋ/",
+          "meaning": "đang đọc",
+          "example": "I'm reading.",
+          "example_vi": "Mình đang đọc sách."
+        },
+        {
+          "word": "writing",
+          "pos": "v",
+          "ipa_uk": "/ˈraɪtɪŋ/",
+          "ipa_us": "/ˈraɪtɪŋ/",
+          "meaning": "đang viết",
+          "example": "What are you doing? I'm writing.",
+          "example_vi": "Bạn đang làm gì? Mình đang viết."
+        },
+        {
+          "word": "drawing a picture",
           "pos": "phr",
-          "ipa_uk": "/ˌdrɔː ə ˈpɪktʃə(r)/",
-          "ipa_us": "/ˌdrɑː ə ˈpɪktʃɚ/",
-          "audio_uk": "audio/uk/draw-a-picture.mp3",
-          "audio_us": "audio/us/draw-a-picture.mp3",
-          "meaning": "vẽ tranh",
+          "ipa_uk": "/ˌdrɔːɪŋ ə ˈpɪktʃə(r)/",
+          "ipa_us": "/ˌdrɑːɪŋ ə ˈpɪktʃɚ/",
+          "meaning": "đang vẽ tranh",
           "example": "I'm drawing a picture.",
           "example_vi": "Mình đang vẽ tranh."
         },
         {
-          "word": "watch TV",
+          "word": "listening to music",
           "pos": "phr",
-          "ipa_uk": "/ˌwɒtʃ ˌtiː ˈviː/",
-          "ipa_us": "/ˌwɑːtʃ ˌtiː ˈviː/",
-          "audio_uk": "audio/uk/watch-tv.mp3",
-          "audio_us": "audio/us/watch-tv.mp3",
-          "meaning": "xem ti vi",
-          "example": "I'm watching TV.",
-          "example_vi": "Mình đang xem ti vi."
-        },
-        {
-          "word": "listen to music",
-          "pos": "phr",
-          "ipa_uk": "/ˌlɪsn tə ˈmjuːzɪk/",
-          "ipa_us": "/ˌlɪsən tə ˈmjuːzɪk/",
-          "audio_uk": "audio/uk/listen-to-music.mp3",
-          "audio_us": "audio/us/listen-to-music.mp3",
-          "meaning": "nghe nhạc",
+          "ipa_uk": "/ˌlɪsənɪŋ tə ˈmjuːzɪk/",
+          "ipa_us": "/ˌlɪsənɪŋ tə ˈmjuːzɪk/",
+          "meaning": "đang nghe nhạc",
           "example": "I'm listening to music.",
           "example_vi": "Mình đang nghe nhạc."
         },
         {
-          "word": "dance",
-          "pos": "v",
-          "ipa_uk": "/dɑːns/",
-          "ipa_us": "/dæns/",
-          "audio_uk": "audio/uk/dance.mp3",
-          "audio_us": "audio/us/dance.mp3",
-          "meaning": "nhảy, múa",
-          "example": "She's dancing.",
-          "example_vi": "Bạn ấy đang nhảy múa."
+          "word": "playing basketball",
+          "pos": "phr",
+          "ipa_uk": "/ˌpleɪɪŋ ˈbɑːskɪtbɔːl/",
+          "ipa_us": "/ˌpleɪɪŋ ˈbæskətbɑːl/",
+          "meaning": "đang chơi bóng rổ",
+          "example": "I'm playing basketball.",
+          "example_vi": "Mình đang chơi bóng rổ."
         },
         {
-          "word": "read",
-          "pos": "v",
-          "ipa_uk": "/riːd/",
-          "ipa_us": "/riːd/",
-          "audio_uk": "audio/uk/read.mp3",
-          "audio_us": "audio/us/read.mp3",
-          "meaning": "đọc",
-          "example": "He's reading.",
-          "example_vi": "Bạn ấy đang đọc sách."
-        },
-        {
-          "word": "sing",
-          "pos": "v",
-          "ipa_uk": "/sɪŋ/",
-          "ipa_us": "/sɪŋ/",
-          "audio_uk": "audio/uk/sing.mp3",
-          "audio_us": "audio/us/sing.mp3",
-          "meaning": "hát",
-          "example": "They're singing.",
-          "example_vi": "Các bạn ấy đang hát."
-        },
-        {
-          "word": "write",
-          "pos": "v",
-          "ipa_uk": "/raɪt/",
-          "ipa_us": "/raɪt/",
-          "audio_uk": "audio/uk/write.mp3",
-          "audio_us": "audio/us/write.mp3",
-          "meaning": "viết",
-          "example": "I'm writing.",
-          "example_vi": "Mình đang viết."
-        },
-        {
-          "word": "music room",
-          "pos": "n",
-          "ipa_uk": "/ˈmjuːzɪk ruːm/",
-          "ipa_us": "/ˈmjuːzɪk ruːm/",
-          "audio_uk": "audio/uk/music-room.mp3",
-          "audio_us": "audio/us/music-room.mp3",
-          "meaning": "phòng âm nhạc",
-          "example": "I'm in the music room.",
-          "example_vi": "Mình đang ở phòng âm nhạc."
+          "word": "watching TV",
+          "pos": "phr",
+          "ipa_uk": "/ˌwɒtʃɪŋ ˌtiː ˈviː/",
+          "ipa_us": "/ˈwɑːtʃɪŋ ˌtiːˈviː/",
+          "meaning": "đang xem ti vi",
+          "example": "I'm watching TV.",
+          "example_vi": "Mình đang xem ti vi."
         }
       ]
     },
@@ -2362,131 +1747,86 @@
       "title_vi": "Hoạt động ngoài trời",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/tu-vung-unit-19-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-19-lesson-2-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/trac-nghiem-unit-19-outdoor-activities.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
-          "word": "outdoor activity",
-          "pos": "n",
-          "ipa_uk": "/ˌaʊtdɔːr ækˈtɪvəti/",
-          "ipa_us": "/ˌaʊtdɔːr ækˈtɪvəti/",
-          "audio_uk": "audio/uk/outdoor-activity.mp3",
-          "audio_us": "audio/us/outdoor-activity.mp3",
-          "meaning": "hoạt động ngoài trời",
-          "example": "I like outdoor activities.",
-          "example_vi": "Mình thích các hoạt động ngoài trời."
-        },
-        {
-          "word": "cycle",
+          "word": "cycling",
           "pos": "v",
-          "ipa_uk": "/ˈsaɪkl/",
-          "ipa_us": "/ˈsaɪkəl/",
-          "audio_uk": "audio/uk/cycle.mp3",
-          "audio_us": "audio/us/cycle.mp3",
-          "meaning": "đạp xe",
-          "example": "She's cycling.",
+          "ipa_uk": "/ˈsaɪklɪŋ/",
+          "ipa_us": "/ˈsaɪklɪŋ/",
+          "meaning": "đang đạp xe",
+          "example": "He's cycling.",
           "example_vi": "Bạn ấy đang đạp xe."
         },
         {
-          "word": "fly a kite",
+          "word": "flying a kite",
           "pos": "phr",
-          "ipa_uk": "/ˌflaɪ ə ˈkaɪt/",
-          "ipa_us": "/ˌflaɪ ə ˈkaɪt/",
-          "audio_uk": "audio/uk/fly-a-kite.mp3",
-          "audio_us": "audio/us/fly-a-kite.mp3",
-          "meaning": "thả diều",
-          "example": "He's flying a kite.",
+          "ipa_uk": "/ˌflaɪɪŋ ə ˈkaɪt/",
+          "ipa_us": "/ˌflaɪɪŋ ə ˈkaɪt/",
+          "meaning": "đang thả diều",
+          "example": "She's flying a kite.",
           "example_vi": "Bạn ấy đang thả diều."
         },
         {
-          "word": "skate",
+          "word": "painting",
           "pos": "v",
-          "ipa_uk": "/skeɪt/",
-          "ipa_us": "/skeɪt/",
-          "audio_uk": "audio/uk/skate.mp3",
-          "audio_us": "audio/us/skate.mp3",
-          "meaning": "trượt pa-tanh",
-          "example": "He's skating.",
-          "example_vi": "Bạn ấy đang trượt pa-tanh."
+          "ipa_uk": "/ˈpeɪntɪŋ/",
+          "ipa_us": "/ˈpeɪntɪŋ/",
+          "meaning": "đang vẽ tranh (tô màu)",
+          "example": "She's painting.",
+          "example_vi": "Bạn ấy đang vẽ tranh."
         },
         {
-          "word": "skip",
+          "word": "skating",
           "pos": "v",
-          "ipa_uk": "/skɪp/",
-          "ipa_us": "/skɪp/",
-          "audio_uk": "audio/uk/skip.mp3",
-          "audio_us": "audio/us/skip.mp3",
-          "meaning": "nhảy dây",
-          "example": "She's skipping.",
-          "example_vi": "Bạn ấy đang nhảy dây."
+          "ipa_uk": "/ˈskeɪtɪŋ/",
+          "ipa_us": "/ˈskeɪtɪŋ/",
+          "meaning": "đang trượt pa-tanh",
+          "example": "What's he doing? He's skating.",
+          "example_vi": "Bạn ấy đang làm gì? Bạn ấy đang trượt pa-tanh."
         },
         {
-          "word": "walk",
-          "pos": "v",
-          "ipa_uk": "/wɔːk/",
-          "ipa_us": "/wɑːk/",
-          "audio_uk": "audio/uk/walk.mp3",
-          "audio_us": "audio/us/walk.mp3",
-          "meaning": "đi bộ",
-          "example": "They're walking.",
-          "example_vi": "Các bạn ấy đang đi bộ."
+          "word": "playing badminton",
+          "pos": "phr",
+          "ipa_uk": "/ˌpleɪɪŋ ˈbædmɪntən/",
+          "ipa_us": "/ˌpleɪɪŋ ˈbædmɪntən/",
+          "meaning": "đang chơi cầu lông",
+          "example": "He's playing badminton.",
+          "example_vi": "Bạn ấy đang chơi cầu lông."
         },
         {
-          "word": "run",
+          "word": "running",
           "pos": "v",
-          "ipa_uk": "/rʌn/",
-          "ipa_us": "/rʌn/",
-          "audio_uk": "audio/uk/run.mp3",
-          "audio_us": "audio/us/run.mp3",
-          "meaning": "chạy",
+          "ipa_uk": "/ˈrʌnɪŋ/",
+          "ipa_us": "/ˈrʌnɪŋ/",
+          "meaning": "đang chạy",
           "example": "He's running.",
           "example_vi": "Bạn ấy đang chạy."
         },
         {
-          "word": "play football",
-          "pos": "phr",
-          "ipa_uk": "/ˌpleɪ ˈfʊtbɔːl/",
-          "ipa_us": "/ˌpleɪ ˈfʊtbɑːl/",
-          "audio_uk": "audio/uk/play-football.mp3",
-          "audio_us": "audio/us/play-football.mp3",
-          "meaning": "chơi bóng đá",
-          "example": "They're playing football.",
-          "example_vi": "Các bạn ấy đang chơi bóng đá."
+          "word": "skipping",
+          "pos": "v",
+          "ipa_uk": "/ˈskɪpɪŋ/",
+          "ipa_us": "/ˈskɪpɪŋ/",
+          "meaning": "đang nhảy dây",
+          "example": "She's skipping.",
+          "example_vi": "Bạn ấy đang nhảy dây."
         },
         {
-          "word": "play badminton",
-          "pos": "phr",
-          "ipa_uk": "/ˌpleɪ ˈbædmɪntən/",
-          "ipa_us": "/ˌpleɪ ˈbædmɪntən/",
-          "audio_uk": "audio/uk/play-badminton.mp3",
-          "audio_us": "audio/us/play-badminton.mp3",
-          "meaning": "chơi cầu lông",
-          "example": "She's playing badminton.",
-          "example_vi": "Bạn ấy đang chơi cầu lông."
-        },
-        {
-          "word": "what's he doing?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒts hi ˈduːɪŋ/",
-          "ipa_us": "/ˌwʌts hiː ˈduːɪŋ/",
-          "audio_uk": "audio/uk/what-s-he-doing.mp3",
-          "audio_us": "audio/us/what-s-he-doing.mp3",
-          "meaning": "bạn ấy (nam) đang làm gì?",
-          "example": "What's he doing? – He's skating.",
-          "example_vi": "Bạn ấy đang làm gì? – Bạn ấy đang trượt pa-tanh."
-        },
-        {
-          "word": "what's she doing?",
-          "pos": "phr",
-          "ipa_uk": "/ˌwɒts ʃi ˈduːɪŋ/",
-          "ipa_us": "/ˌwʌts ʃiː ˈduːɪŋ/",
-          "audio_uk": "audio/uk/what-s-she-doing.mp3",
-          "audio_us": "audio/us/what-s-she-doing.mp3",
-          "meaning": "bạn ấy (nữ) đang làm gì?",
-          "example": "What's she doing? – She's cycling.",
-          "example_vi": "Bạn ấy đang làm gì? – Bạn ấy đang đạp xe."
+          "word": "walking",
+          "pos": "v",
+          "ipa_uk": "/ˈwɔːkɪŋ/",
+          "ipa_us": "/ˈwɑːkɪŋ/",
+          "meaning": "đang đi bộ",
+          "example": "She's walking in the park.",
+          "example_vi": "Cô ấy đang đi bộ trong công viên."
         }
       ]
     },
@@ -2496,10 +1836,13 @@
       "title_vi": "Ở vườn thú",
       "status": "sourced",
       "sources": [
-        "https://vietjack.com/tieng-anh-3-kn/unit-20-at-the-zoo.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-1-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-2-lop-3.jsp",
-        "https://vietjack.com/tieng-anh-3-kn/unit-20-lesson-3-lop-3.jsp"
+        "Mind map kì 2 lớp 3 (Windy Bui) – SGK fallback",
+        "SGK Mind map kì 1 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1DrOvNulzl86ZYx5VjDWZRLTFm8HNorAR/view",
+        "SGK Mind map kì 2 lớp 3 Global Success.pptx (MINDMAP TỔNG HỢP GLOBAL 3) – https://drive.google.com/file/d/1Nr0CVo1hAf0BoOoAJYYLv0jreoUx9QKq/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U4 moi.docx – https://drive.google.com/file/d/1tbyIJonVXogkACwVXvLHFOnM0Fgz0ZaH/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-UNIT 10.docx – https://drive.google.com/file/d/1dviWOFzM38X4CVmIAbhLiG1yi2esM2FT/view",
+        "SGK Giáo án anh 3 Global 1 cột 22-23-U11.docx – https://drive.google.com/file/d/1VXsBHL1ImsEEtyMGFoMJNrXnvgazLWnd/view",
+        "SGK Global Success 3 Presentation (lock).pdf (unit titles cross-check) – https://drive.google.com/file/d/1iamhQ7R0qONuu8xw_awD6gRv8bKBO6YO/view"
       ],
       "words": [
         {
@@ -2507,30 +1850,24 @@
           "pos": "n",
           "ipa_uk": "/zuː/",
           "ipa_us": "/zuː/",
-          "audio_uk": "audio/uk/zoo.mp3",
-          "audio_us": "audio/us/zoo.mp3",
-          "meaning": "vườn thú",
+          "meaning": "sở thú",
           "example": "We're at the zoo.",
           "example_vi": "Chúng mình đang ở vườn thú."
         },
         {
-          "word": "tiger",
+          "word": "elephant",
           "pos": "n",
-          "ipa_uk": "/ˈtaɪɡə(r)/",
-          "ipa_us": "/ˈtaɪɡɚ/",
-          "audio_uk": "audio/uk/tiger.mp3",
-          "audio_us": "audio/us/tiger.mp3",
-          "meaning": "con hổ",
-          "example": "I can see a tiger.",
-          "example_vi": "Mình nhìn thấy một con hổ."
+          "ipa_uk": "/ˈelɪfənt/",
+          "ipa_us": "/ˈeləfənt/",
+          "meaning": "con voi",
+          "example": "The elephant is counting.",
+          "example_vi": "Con voi đang đếm."
         },
         {
           "word": "horse",
           "pos": "n",
           "ipa_uk": "/hɔːs/",
           "ipa_us": "/hɔːrs/",
-          "audio_uk": "audio/uk/horse.mp3",
-          "audio_us": "audio/us/horse.mp3",
           "meaning": "con ngựa",
           "example": "I can see a horse.",
           "example_vi": "Mình nhìn thấy một con ngựa."
@@ -2540,8 +1877,6 @@
           "pos": "n",
           "ipa_uk": "/ˈmʌŋki/",
           "ipa_us": "/ˈmʌŋki/",
-          "audio_uk": "audio/uk/monkey.mp3",
-          "audio_us": "audio/us/monkey.mp3",
           "meaning": "con khỉ",
           "example": "The monkey is swinging.",
           "example_vi": "Con khỉ đang đu cành."
@@ -2551,77 +1886,54 @@
           "pos": "n",
           "ipa_uk": "/ˈpiːkɒk/",
           "ipa_us": "/ˈpiːkɑːk/",
-          "audio_uk": "audio/uk/peacock.mp3",
-          "audio_us": "audio/us/peacock.mp3",
           "meaning": "con công",
           "example": "I can see a peacock.",
           "example_vi": "Mình nhìn thấy một con công."
         },
         {
-          "word": "elephant",
+          "word": "tiger",
           "pos": "n",
-          "ipa_uk": "/ˈelɪfənt/",
-          "ipa_us": "/ˈeləfənt/",
-          "audio_uk": "audio/uk/elephant.mp3",
-          "audio_us": "audio/us/elephant.mp3",
-          "meaning": "con voi",
-          "example": "The elephant is counting.",
-          "example_vi": "Con voi đang đếm."
+          "ipa_uk": "/ˈtaɪɡə(r)/",
+          "ipa_us": "/ˈtaɪɡɚ/",
+          "meaning": "con hổ",
+          "example": "I can see a tiger.",
+          "example_vi": "Mình nhìn thấy một con hổ."
         },
         {
-          "word": "parrot",
-          "pos": "n",
-          "ipa_uk": "/ˈpærət/",
-          "ipa_us": "/ˈperət/",
-          "audio_uk": "audio/uk/parrot.mp3",
-          "audio_us": "audio/us/parrot.mp3",
-          "meaning": "con vẹt",
-          "example": "The parrot is dancing.",
-          "example_vi": "Con vẹt đang nhảy múa."
-        },
-        {
-          "word": "climb",
+          "word": "climbing",
           "pos": "v",
-          "ipa_uk": "/klaɪm/",
-          "ipa_us": "/klaɪm/",
-          "audio_uk": "audio/uk/climb.mp3",
-          "audio_us": "audio/us/climb.mp3",
-          "meaning": "leo, trèo",
+          "ipa_uk": "/ˈklaɪmɪŋ/",
+          "ipa_us": "/ˈklaɪmɪŋ/",
+          "meaning": "đang leo trèo",
           "example": "The monkey is climbing.",
           "example_vi": "Con khỉ đang leo trèo."
         },
         {
-          "word": "count",
+          "word": "counting",
           "pos": "v",
-          "ipa_uk": "/kaʊnt/",
-          "ipa_us": "/kaʊnt/",
-          "audio_uk": "audio/uk/count.mp3",
-          "audio_us": "audio/us/count.mp3",
-          "meaning": "đếm",
-          "example": "The elephant is counting.",
-          "example_vi": "Con voi đang đếm."
+          "ipa_uk": "/ˈkaʊntɪŋ/",
+          "ipa_us": "/ˈkaʊntɪŋ/",
+          "meaning": "đang đếm",
+          "example": "The monkey is counting.",
+          "example_vi": "Con khỉ đang đếm."
         },
         {
-          "word": "dance",
+          "word": "dancing",
           "pos": "v",
-          "ipa_uk": "/dɑːns/",
-          "ipa_us": "/dæns/",
-          "audio_uk": "audio/uk/dance.mp3",
-          "audio_us": "audio/us/dance.mp3",
-          "meaning": "nhảy múa",
+          "ipa_uk": "/ˈdɑːnsɪŋ/",
+          "ipa_us": "/ˈdænsɪŋ/",
+          "meaning": "đang nhảy múa",
           "example": "The peacock is dancing.",
           "example_vi": "Con công đang nhảy múa."
         },
         {
-          "word": "swing",
+          "word": "swinging",
           "pos": "v",
-          "ipa_uk": "/swɪŋ/",
-          "ipa_us": "/swɪŋ/",
-          "audio_uk": "audio/uk/swing.mp3",
-          "audio_us": "audio/us/swing.mp3",
-          "meaning": "đu, đung đưa",
-          "example": "The monkey is swinging.",
-          "example_vi": "Con khỉ đang đu cành."
+          "ipa_uk": "/ˈswɪŋɪŋ/",
+          "ipa_us": "/ˈswɪŋɪŋ/",
+          "meaning": "đang đu (cây)",
+          "example": "What's the monkey doing? It's swinging.",
+          "example_vi": "Con khỉ đang làm gì? Nó đang đu cây."
         }
       ]
     }

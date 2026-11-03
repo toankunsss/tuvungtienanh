@@ -8,6 +8,22 @@ ROOT = Path(__file__).resolve().parent.parent
 EXPECTED = {1: 16, 2: 16, 3: 20, 4: 20, 5: 20, 6: 12, 7: 12, 8: 12, 9: 12, 10: 10, 11: 10, 12: 10}
 
 
+SOURCE_NOTE = {
+    1: "SBT + SGV Tiếng Anh 1",
+    2: "Tài liệu tập huấn, giáo án, vở luyện từ",
+    3: "Giáo án, mind map",
+    4: "Đề cương ôn tập",
+    5: "Word list theo bài (đối chiếu giáo án)",
+    6: "Glossary SGK + trang bài học SGK",
+    7: "Đối chiếu web (VietJack, VnDoc…)",
+    8: "Bản chép Glossary (Luyện viết từ vựng 8)",
+    9: "Bản chép Glossary (Wordlist TA9)",
+    10: "Đối chiếu web",
+    11: "Bản chép Glossary (Wordlist TA11)",
+    12: "Bản chép Glossary (Wordlist TA12)",
+}
+
+
 def main() -> None:
     grades = {}
     for p in sorted((ROOT / "data").glob("grade-*.json")):
@@ -15,21 +31,21 @@ def main() -> None:
         grades[d["grade"]] = d
 
     lines = [
-        "| Lớp | Số unit | Số từ | Unit đã có nguồn (`sourced`) | Unit chưa xác minh (`unverified`) |",
-        "|---:|---:|---:|---|---|",
+        "| Lớp | Số unit | Số từ | Theo SGK (`official`) | Có nguồn (`sourced`) | Chưa xác minh (`unverified`) | Nguồn chính |",
+        "|---:|---:|---:|---|---|---|---|",
     ]
     total = 0
     for g in range(1, 13):
         if g not in grades:
-            lines.append(f"| {g} | {EXPECTED[g]} | – | _chưa có dữ liệu_ | |")
+            lines.append(f"| {g} | {EXPECTED[g]} | – | _chưa có dữ liệu_ | | | |")
             continue
         units = grades[g]["units"]
         n = sum(len(u["words"]) for u in units)
         total += n
-        ok = [u["unit"] for u in units if u["status"] == "sourced"]
-        bad = [u["unit"] for u in units if u["status"] != "sourced"]
-        lines.append(f"| {g} | {len(units)} | {n} | {fmt(ok)} | {fmt(bad)} |")
-    lines.append(f"| **Tổng** | | **{total}** | | |")
+        by = {st: [u["unit"] for u in units if u["status"] == st] for st in ("official", "sourced", "unverified")}
+        lines.append(f"| {g} | {len(units)} | {n} | {fmt(by['official'])} | {fmt(by['sourced'])} | "
+                     f"{fmt(by['unverified'])} | {SOURCE_NOTE.get(g, '')} |")
+    lines.append(f"| **Tổng** | | **{total}** | | | | |")
 
     detail = []
     for g in sorted(grades):
@@ -38,7 +54,7 @@ def main() -> None:
         detail.append("| Unit | Tên unit | Nghĩa | Số từ | Trạng thái |")
         detail.append("|---:|---|---|---:|---|")
         for u in d["units"]:
-            st = "✅ sourced" if u["status"] == "sourced" else "⚠️ unverified"
+            st = {"official": "📗 official", "sourced": "✅ sourced"}.get(u["status"], "⚠️ unverified")
             detail.append(f"| {u['unit']} | {u['title']} | {u['title_vi']} | {len(u['words'])} | {st} |")
         detail.append("\n</details>\n")
 
